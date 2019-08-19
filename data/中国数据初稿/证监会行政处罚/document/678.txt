@@ -1,0 +1,223 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（深物业）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-02514</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年04月06日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（深物业）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2010）12号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（深物业）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2010）12号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-INDENT: 30.3pt; LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>号</FONT></SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>　</FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：深圳市物业发展（集团）股份有限公司（以下简称深物业），住所：广东省深圳市人民南路国贸大厦<SPAN style="FONT-SIZE: 10.5pt">39</SPAN>层、<SPAN style="FONT-SIZE: 10.5pt">42</SPAN>层。法定代表人：陈玉刚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对深物业违反证券法律法规案进行了立案调查、审理，并向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利。当事人提出了陈述、申辩意见。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，深物业存在以下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、实施利用个人账户申购新股并卖出获利的违法行为，共获利人民币<SPAN style="FONT-SIZE: 10.5pt">250,849.80</SPAN>元</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）长江证券深圳后海海岸城证券营业部<SPAN style="FONT-SIZE: 10.5pt">48002199</SPAN>账户开立于<SPAN style="FONT-SIZE: 10.5pt">1998</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日，在<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月期间下挂个人股东账户<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>个（深圳股东账户<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>个，上海股东账户<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>个）。该账户自开户以来至调查日的主要交易事项为申购新股并卖出获利，共买卖股票<SPAN style="FONT-SIZE: 10.5pt">84</SPAN>只，买入行为绝大部分发生在<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年以前，<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日申购买入股票南京港<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>股后，没有其他买入股票的记录。该账户通过下挂个人股东账户从事股票买卖活动共获利<SPAN style="FONT-SIZE: 10.5pt">4,377.49</SPAN>元，账户资金来源是由深物业在平安证券的资金账户转入，资金去向是转出至深物业在同一营业部的另一资金账户（账号<SPAN style="FONT-SIZE: 10.5pt">48002650</SPAN>）。在<SPAN style="FONT-SIZE: 10.5pt"> 2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月的账户清理过程中，相关非实名制证券账户在卖出证券后被撤销指定，并解除了与该资金账户的关联关系。</FONT></SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）长江证券深圳后海海岸城证券营业部<SPAN style="FONT-SIZE: 10.5pt">48002650</SPAN>账户开立于<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日，于<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月期间下挂个人股东账户<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>个（深圳股东账户<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>个、上海股东账户<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>个）。该账户自开户以来至调查日的主要交易事项为申购新股并卖出获利，共买卖股票<SPAN style="FONT-SIZE: 10.5pt">49</SPAN>只，买入行为全部发生在<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年以前。该账户通过下挂个人股东账户从事股票买卖活动共获利<SPAN style="FONT-SIZE: 10.5pt">246,472.31</SPAN>元，其资金主要是通过深物业银行账户转存入账，资金去向主要是通过银行转取入深物业银行账户。在<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月的账户清理过程中，相关非实名制证券账户在卖出证券后被撤销指定，并解除了与该资金账户的关联关系。</FONT></SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、违规借用其他法人账户买入<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>股股票，其间共获利港币<SPAN style="FONT-SIZE: 10.5pt">8,544,744.97</SPAN>元</FONT></SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>平安证券深圳八卦三路证券营业部<SPAN style="FONT-SIZE: 10.5pt">FT00038024</SPAN>账户开立于<SPAN style="FONT-SIZE: 10.5pt">1993</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日，账户资金来源及去向均为深物业自有账户，主要交易情况是利用营业部提供的中国平安保险（香港）公司的<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>股证券账户<SPAN style="FONT-SIZE: 10.5pt">2000203574</SPAN>于<SPAN style="FONT-SIZE: 10.5pt">1994</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月买入深万科<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>、深金田<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>、深深宝<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>、深赤湾<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>、深招港<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>、莱英达<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>、闽灿坤<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>、深深房<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>等<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>只股票，此后该账户没有股票买入记录（仅有红股转入记录）。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月，深物业陆续卖出上述全部股票（含红股），上述交易均由证券营业部按深物业相关指令进行柜台委托。该账户已于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日销户，其间共获利港币<SPAN style="FONT-SIZE: 10.5pt">8,544,744.97</SPAN>元。根据中国证券登记结算公司上海分公司及深圳分公司的查询记录，深物业不具有开立<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>股股东账户的资格，也未开立过<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>股股东账户。</FONT></SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">上述事实有财务账册、交易明细记录、公司内部管理文件、当事人询问笔录等证据</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">证明。</SPAN></FONT></FONT></FONT></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>深物业利用个人账户从事证券交易违反了<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《证券法》（以下简称原《证券法》）第七十四条和《证券法》第八十条的规定。深物业利用其他法人账户从事<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>股交易的行为违反了《国务院关于股份有限公司境内上市外资股的规定》（国务院令第<SPAN style="FONT-SIZE: 10.5pt">189</SPAN>号）第四条、《深圳市人民币特种股票管理暂行办法》（中国人民银行、深圳市人民政府<SPAN style="FONT-SIZE: 10.5pt">1991</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>日颁布）第二条以及《证券法》第八十条的规定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人在其陈述、申辩材料中提出，借用其他法人账户和使用个人账户买卖股票确实违法，但并非恶意所为，影响轻微；违法买入<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>股发生在《证券法》实施之前，而且深圳外管局已经罚款<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>万元；公司发现违规之后积极配合调查并主动纠错；系公司历史上治理不严所致，对现在的投资者不公平。恳请给予减轻、免除处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经我会复核，关于当事人所述违法行为并非恶意、主动纠错、配合调查等申辩理由，我会已经将其作为认定、量罚的事实、情节予以考虑。关于国家外汇管理局深圳分局已经对其违规买卖<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>股中外汇使用违法事项罚款<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>万元，经我会复核，<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日，国家外汇管理局深圳分局认定其行为构成“非法使用外汇”的违法行为，据此给予处罚。考虑到这一情况，对本案中当事人违规买卖股票行为不再处以罚款。</FONT></SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百九十条、《证券法》第二百零八条和《股票发行与交易管理暂行条例》（国务院令第<SPAN style="FONT-SIZE: 10.5pt">112</SPAN>号）第七十四条的规定，我会决定：</FONT></SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>没收深物业利用个人账户买卖证券的违法所得人民币<SPAN style="FONT-SIZE: 10.5pt">250,849.80</SPAN>元，利用其他法人账户违规买卖<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>股的违法所得港币<SPAN style="FONT-SIZE: 10.5pt">8,544,744.97</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将违法所得汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　　　 中国证券监督管理委员会</FONT></SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二○一○年四月六日</SPAN></FONT></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100608_181255_ext.json

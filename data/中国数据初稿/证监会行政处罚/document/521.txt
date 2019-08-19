@@ -1,0 +1,268 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书(陈新)</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2013年02月19日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书(陈新)</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2013〕8号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书(陈新)";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2013〕8号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1386663587093'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1386663587093 P {
+	LINE-HEIGHT: 1.5; MARGIN-TOP: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1386663587093 TD {
+	LINE-HEIGHT: 1.5; MARGIN-TOP: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1386663587093 DIV {
+	LINE-HEIGHT: 1.5; MARGIN-TOP: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1386663587093 LI {
+	LINE-HEIGHT: 1.5; MARGIN-TOP: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1386663587093 {
+	LINE-HEIGHT: 1.5; MARGIN-TOP: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：陈新，男，<FONT face="Times New Roman">1963</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=方正仿宋简体>日生，时任成功信息产业（集团）股份有限公司（经重大资产重组后更名为荣安地产股份有限公司，以下简称甬成功，股票代码</FONT><FONT face="Times New Roman">000517</FONT><FONT face=方正仿宋简体>）董事长，住址：广东省深圳市福田区嘉州豪园</FONT><FONT face="Times New Roman">A3</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据<FONT face="Times New Roman">1999</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）有关规定，我会</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依法对</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功信息披露</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">违法行为进行了立案调查、审理，并向当事人</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈新</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。应当事人陈新的申请，我会举行了听证会，听取了其陈述和申辩。本案</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈新</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">存在以下信息披露违法行为：</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功在<FONT face="Times New Roman">1999</FONT><FONT face=方正仿宋简体>年</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">至</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2004<FONT face=方正仿宋简体>年，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">在陈新的控制下，</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">通过编造虚假的经济业务事项和资料，虚构销售收入、虚构投资收益、虚列成本和少计费用等方式进行会计核算，导致公开披露的<FONT face="Times New Roman">1999</FONT><FONT face=方正仿宋简体>年</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">至</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2004<FONT face=方正仿宋简体>年年度报告财务数据存在重大虚假记载。同时，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">未及时披露对外担保</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">事项，在</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2004<FONT face=方正仿宋简体>年中期报告中遗漏有关借款的重大信息。具体如下：</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">1999</FONT><FONT face=方正黑体简体>年年度报告虚假记载</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">1999</FONT><FONT face=方正仿宋简体>年年度报告虚构销售收入</FONT><FONT face="Times New Roman">2</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">419.24<FONT face=方正仿宋简体>万元，占当年收入</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">50.53%<FONT face=方正仿宋简体>；虚构投资收益</FONT><FONT face="Times New Roman">248.00</FONT><FONT face=方正仿宋简体>万元，占当年投资收益</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">39.34%<FONT face=方正仿宋简体>；虚构合并利润总额</FONT><FONT face="Times New Roman">1</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">397.31<FONT face=方正仿宋简体>万元，占当年合并利润总额的</FONT><FONT face="Times New Roman">45.20%</FONT><FONT face=方正仿宋简体>。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2000</FONT><FONT face=方正黑体简体>年年度报告虚假记载</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2000</FONT><FONT face=方正仿宋简体>年年度报告虚构销售收入</FONT><FONT face="Times New Roman">13</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">297.02<FONT face=方正仿宋简体>万元，占当年收入</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">65.29%<FONT face=方正仿宋简体>；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚构合</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">并利润总额<FONT face="Times New Roman">6</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">031.62<FONT face=方正仿宋简体>万元，占当年合并利润总额的</FONT><FONT face="Times New Roman">97.03%</FONT><FONT face=方正仿宋简体>。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2001</FONT><FONT face=方正黑体简体>年年度报告虚假记载</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2001</FONT><FONT face=方正仿宋简体>年年度报告</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚构</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">销售收入<FONT face="Times New Roman">33</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">316.07<FONT face=方正仿宋简体>万元，占当年收入</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">67.33%<FONT face=方正仿宋简体>；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚构</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">合并利润总额<FONT face="Times New Roman">8</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">117.01<FONT face=方正仿宋简体>万元，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">为</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当年合并利润总额的<FONT face="Times New Roman">136.31%</FONT><FONT face=方正仿宋简体>。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">四、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2002</FONT><FONT face=方正黑体简体>年年度报告虚假记载</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2002</FONT><FONT face=方正仿宋简体>年年度报告</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚构</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">销售收入<FONT face="Times New Roman">12</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">236.09<FONT face=方正仿宋简体>万元，占当年收入</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">22.12%<FONT face=方正仿宋简体>；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">少记</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">财务费用<FONT face="Times New Roman">123.62</FONT><FONT face=方正仿宋简体>万元，占当年财务费用</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">10.79%<FONT face=方正仿宋简体>；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚构</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">合并利润总额<FONT face="Times New Roman">3</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">530.97<FONT face=方正仿宋简体>万元，占当年合并利润总额的</FONT><FONT face="Times New Roman">89.02%</FONT><FONT face=方正仿宋简体>。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">五、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2003</FONT><FONT face=方正黑体简体>年年度报告虚假记载</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2003</FONT><FONT face=方正仿宋简体>年年度报告</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚构</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">销售收入<FONT face="Times New Roman">277.77</FONT><FONT face=方正仿宋简体>万元，占当年收入</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">0.50%<FONT face=方正仿宋简体>；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚构</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">投资收益<FONT face="Times New Roman">250.64</FONT><FONT face=方正仿宋简体>万元，占当年投资收益</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">13.84%<FONT face=方正仿宋简体>；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">少记</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">财务费用<FONT face="Times New Roman">1</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">025.58<FONT face=方正仿宋简体>万元，占当年财务费用</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">71.55%<FONT face=方正仿宋简体>；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚构</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">合并利润总额<FONT face="Times New Roman">1</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">250.69<FONT face=方正仿宋简体>万元，占当年合并利润总额的</FONT><FONT face="Times New Roman">58.56%</FONT><FONT face=方正仿宋简体>。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">六、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2004</FONT><FONT face=方正黑体简体>年年度报告虚假记载</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年年度报告</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚构</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">投资收益<FONT face="Times New Roman">906.92</FONT><FONT face=方正仿宋简体>万元，当年投资收益</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">实际发生</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">亏损；</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">少记</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">财务费用<FONT face="Times New Roman">128.49</FONT><FONT face=方正仿宋简体>万元，占当年财务费用</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">11.89%<FONT face=方正仿宋简体>；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">少记</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其他应收款<FONT face="Times New Roman">8</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">890<FONT face=方正仿宋简体>万元</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">；虚构</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">合并利润总额<FONT face="Times New Roman">1</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">134.63<FONT face=方正仿宋简体>万元，甬成功当年</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">实际为</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">亏损。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">七、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">未</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">及时披露重大担保事项</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">深圳市成功通信技术有限公司（以下简称深圳成功）于<FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月、</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月份为深圳新明星发展有限公司向光大银行深圳福田支行借入</FONT><FONT face="Times New Roman">12</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">000<FONT face=方正仿宋简体>万元提供担保，甬成功</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">未</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">及时披露该</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">重大对外担保</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">事项。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">八、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功<FONT face="Times New Roman">2004</FONT><FONT face=方正黑体简体>年中期报告有关借款事项重大遗漏</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2004<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月、</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>月、</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>月深圳成功向中国光大银行深圳福田支行借款</FONT><FONT face="Times New Roman">2</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">500<FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">5</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">000<FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">900</FONT><FONT face=方正仿宋简体>万元和</FONT><FONT face="Times New Roman">1</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">,</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">600<FONT face=方正仿宋简体>万元，累计</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">达到</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">1</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">亿</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">元。甬成功<FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年半年度报告没有按规定披露上述借款事项。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">违法</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">事实，有相关定期报告、相关公司会计凭证、原始单据、相关协议、相关董事会决议、相关工商登记资料、相关银行凭证、相关人员谈话笔录等</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">证据证明</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，足以认定。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，甬成功上述行为构成了</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">原</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">《证券法》第一百七十七条第一款所述</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">发行人未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">遗漏”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的行为。我会认定</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">时任甬成功</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">董事长陈新是甬成功<FONT face="Times New Roman">1999</FONT><FONT face=方正仿宋简体>年年度报告至</FONT><FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年年度报告虚假记载、</FONT><FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年未及时披露对外担保事项以及</FONT><FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年中期报告中遗漏有关借款的重大信息违法事项直接负责的主管人员</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。同时，我会认定陈新通过控制甬成功的大股东深圳市新海投资控股有限公司（以下简称深圳新海），实际操纵了深圳成功的财务造假，并且对甬成功其他董事和中介机构刻意隐瞒，导致审计失败和信息披露违法。在实际控制人、大股东滥用控股股东控制地位，操纵、指使上市公司子公司财务造假的情况下，上市公司的独立人格未能发挥有效作用，未能发现和阻止公司信息披露违法事项的发生。因此，我会对上市公司甬成功不再给予处罚。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">甬成功原实际控制人陈新委托律师在听证会上提出的主要申辩意见如下：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">第一、《行政处罚和市场禁入事先告知书》认定陈新通过实际控制的深圳新海操纵了深圳成功的财务造假并导致甬成功信息披露违法的证据不足。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">第二、陈新为甬成功的重组作出了贡献，属于主动消除或者减轻违法行为危害后果的行为，应当依法从轻或者减轻处罚。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">第三、对陈新进行行政处罚已经超过法定处罚时效。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会复核认为：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">第一、甬成功主要虚假财务活动都通过深圳成功来实施，深圳成功的管理层均系陈新和深圳新海安排的管理人员，陈新对其实施控制；陈新提供的《证明材料》中明确表明“公司的经营和财务方面主要由集团公司、我、财务总监和子公司总经理、财务经理负责”。同时，宁波市江东区人民检察院的《不起诉决定书》中明确指出：“被不起诉人陈新承包的北京市华远集团公司名下的深圳市新海工贸发展有限公司（后更名为深圳市新海投资控股有限公司）”以及“在被不起诉人陈新的指示、默许下，甬成功实施了《中华人民共和国刑法》第一百六十条第二款规定的罪行”，“但犯罪情节轻微，……可以免除刑罚”，即证明在陈新对深圳新海通过承包的方式实施实际控制权，并在其指使下，甬成功制作和对外提供了虚假财务报告。因此，认定陈新通过深圳新海操纵了甬成功的财务造假事实清楚，证据确凿充分。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">第二、甬成功重组为荣安地产与当事人陈新操纵甬成功财务造假之间没有关联，不能认定为主动消除违法行为后果，尤其是甬成功财务造假后进行再融资，造成的投资者损失巨大。因此，不能据此对陈新从轻或者减轻处罚。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">第三、甬成功信息披露违法发生于<FONT face="Times New Roman">1999</FONT><FONT face=方正仿宋简体>年年度报至</FONT><FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年年度报告发布期间，我会于</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月立案。案件调查审理期间，陈新涉嫌欺诈发行罪被移交司法机关，而该刑事案件牵涉本案行政处罚所要认定的违法事实，本案中止审理。宁波市江东区人们检察院作出不予起诉决定后，我会恢复审理本案。因此，我会对陈新的违法行为是在发生之日起两年内发现的，对陈新进行行政处罚符合《行政处罚法》规定的时效。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条规定，我会决定</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">：</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">对陈新给予警告，并</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">处以<FONT face="Times New Roman">3</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">0<FONT face=方正仿宋简体>万元罚款。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人应自收到本处罚决定书之日起</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">15</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<FONT face="Times New Roman">7111010189800000162</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">书</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">之日起<FONT face="Times New Roman">60</FONT><FONT face=方正仿宋简体>日内向中国证券监督管理委员会</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">申请</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">行政复议，也可以在收到本处罚决定</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">书</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">之日起<FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: bold; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会　　　　　</SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2013</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">19</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日　　　　</SPAN></P><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20131210_239685_ext.json

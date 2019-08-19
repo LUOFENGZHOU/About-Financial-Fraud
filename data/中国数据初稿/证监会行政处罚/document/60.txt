@@ -1,0 +1,228 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（廖山焱）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2017年05月31日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（廖山焱）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2017〕58号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（廖山焱）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2017〕58号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔2017〕58号</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：廖山焱</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，男，</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1963年1月出生，住址：湖南省常德市澧县。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《期货交易管理条例》（2013年修订）的有关规定，我会依法对廖山焱操纵期货交易价格行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据以及当事人依法享有的权利。当事人提出陈述、申辩意见，但未申请听证，我会已复核。本案现已调查、审理终结。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">明</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">廖山焱存在以下违法事实：</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">涉案账户情况</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">11</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">25</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">日至1</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2月23</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">日（以下简称操纵期间）</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">廖山焱实际控制并利用廖某山、廖山焱、</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">李某生</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">李某凡</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">黄某顺</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">吴某华</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">李某、罗某鹏、颜某等</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9个自然人名下期货</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户（以下简称涉案账户组）交易“普麦</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1601</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">”期货合约。根据涉案</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组资金划转记录、廖山焱及相关人员询问笔录，“廖某山”“廖山焱”“李某凡”期货账户的资金来源为廖某山，“李某生”“李某”“黄某顺”“吴某华”“罗某鹏”“颜某”期货账户资金来源为名义账户人本人。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">廖山焱操纵“普麦1601”合约的情况</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）廖山焱利用持仓优势，通过连续买卖影响“普麦1601”合约价格</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify; punctuation-trim: leading"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年11月9日至11月24日，涉案账户组持有“普麦1601”合约17手，买持仓量占单边市场总持仓量的比例为68%，持仓优势明显。11月25日至12月23日，通过连续买入，涉案账户组持仓量逐日放大到317手，买持仓量占单边市场总持仓量比例不断提高，最低为73.08%，最高达到99.68%，其中买持仓量占比超过90%的有13个交易日。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">11月25日至12月23日的21个交易日里，全市场有20个交易日成交“普麦1601”合约，涉案账户组在其中的19个交易日成交了“普麦1601”合约，涉案账户组买成交量占单边市场总成交量的比例最小为76.54%，最大为100%，其中买成交量占比为100%的有13个交易日。其中，12月10日至14日的三个交易日，全市场合计买成交量20手，廖山焱操作涉案账户组合计买成交19手，占该合约买成交量的95%，最终将“普麦1601”合约结算价从2,477元/吨拉抬至2,598元/吨，拉升4.88%。此期间内，中等普通小麦现货价格平稳，始终维持在2,400元/吨；12月22日，全市场买成交量225手，廖山焱操作涉案账户组合计买成交量218手，较上一交易日8手增幅2,625%，占该合约当天买成交量的96.89%，收市后涉案账户组合计持多仓310手，占该合约单边持仓量的99.68%。涉案账户组利用持仓优势的连续买卖，致使“普麦1601”合约从开盘价2,615元/吨大幅拉抬至收盘价2,719元/吨，上涨3.98%（涨跌停板4%）。当日，普麦现货价格（中等普通小麦郑州出库价）平稳，较上一交易日无变化，仍维持在2,400元/吨。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">廖山焱在涉案账户组之间自买自卖，影响期货</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">合约</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">交易价</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">格</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">和交易量</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年11月25日至12月23日，涉案账户组之间共有9个交易日存在自买自卖的行为，共成功对倒222手“普麦1601”合约（双边），对倒成交量占当日整个市场成交量的最小值为10.67%，最高值达到72.84%，占期间合约总成交量的比例为25.64%。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其中，12月23日，为制造其预期的价格，确保当日日终的结算价格不偏离其目标，廖山焱在涉案账户组之间对倒“普麦1601”合约118手（双边），占整个市场成交量72.84%，其中集合竞价阶段，涉案账户组之间同时申报同价但反向的交易委托，对敲出了当天的开盘价格2,690元/吨。虽然当天该合约出现第1个下跌单边市，跌幅4.02%，收盘价2,582元/吨，但由于涉案账户组的大量对倒，根据郑州商品交易所结算价计算规则（当日结算价为该合约当日成交价格按照成交量的加权平均价），当天“普麦1601”合约的结算价（</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2,659</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">元）较12月22日结算价（2,687元）仅下跌1%，涉案账户组在“普麦1601”合约几乎跌停之下只需追加少量的保证金就可以避免被强制平仓。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵期间内</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“普麦1601”合约结算价从2,361元/吨上涨至</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2,659</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">元/吨，涨幅</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">12.62</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">%；同期</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，普麦现货价</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">格</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">仅上涨2.5%，与“普麦1601</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">合约类似的“强麦1601</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">合约仅上涨4.98%。“普麦1601</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">合约走势明显背离普麦现货价及“强麦1601</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">合约价格走势。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">截至</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年12月31日结算</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，涉案账户组</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">累计亏损约</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">478万</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">元</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实，有廖山焱等人涉案账户资料、</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">银行账户资料</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">、期货</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">交易资料</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">询问笔录</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">等证据证明，足以认定。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">廖山焱的上述行为违反了</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">《</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">期货交易管理条例</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">》第</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">三</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">条</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">及第四十条</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">关于禁止操纵期货交易价格</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">的规定，构成《期货交易管理条例》第七十一条第一款第（一）项、第（三）项所述操</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">纵期货交易价格的</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">行为。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">廖山焱申辩认为，其一，其操作期货并帮人操作没有任何违法。其二，账户组最高持仓只有</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">317手，持仓比例高是正常，没有任何持仓优势，因而不存在操纵价格。其三，其购买</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">普麦</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1601”合约的原因是普麦价格相对强麦价格严重偏低，故主客观上不存在将空方拉爆的目的和行为。其四，账户组之间的对倒数量较少，且是空方逼迫下的被动操作，对敲目的是为了恢复正常价格，没有给价格造成不良影响。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经复核，我会认为，其一，当事人实际控制并使用</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">廖某山”</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">廖山焱”等9个账户交易“普麦1601”合约时，没有按照郑州商品交易所关于实际控制关系账户的管理规定，主动申报账户组的实际控制关系，存在刻意规避监管的故意。其二，调查期间，当事人明确表示早期主动拉抬的目的是逼使价格向其有利的方向变化，即拉高收盘价，在收市后造成空方浮亏；后期大量对倒的目的是为了规避损失，避免因无力追加保证金被交易所强平。其三，持仓优势是一个相对概念，不同品种的不同合约的持仓量不直接具有可比性。操纵期间，当事人账户组交易该合约买成交量占单边市场总成交量始终在76.54%以上，特别是12月10日至14日占比高达95%，12月22日占比高达99.68%，并将上述合约价格分别拉升4.88%和3.98%，影响了交易价格。其四，账户组对倒成交量占当日整个市场成交量最低值为10.67%，最高值达72.84%，对倒期间，“普麦1601”合约涨幅高达12.62%，而</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">普麦现货价</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">格</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">仅上涨2.5%，“强麦1601</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">合约仅上涨4.98%。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">因此，当事人申辩理由不能成立。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人违法行为的事实、性质、情节与社会危害程度，</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">《期货交易管理条例》（2013年修订）第七十一条第一款的规定，我会决定：对廖山焱处以60万元罚款。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; BACKGROUND: rgb(255,255,255); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)">上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起6个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2017年5月31日</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20170609_318081_ext.json

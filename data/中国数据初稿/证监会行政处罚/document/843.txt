@@ -1,0 +1,272 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（湘火炬及聂新勇、刘海南等相关人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2006-01726</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>行政处罚委</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2006年11月28日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（湘火炬及聂新勇、刘海南等相关人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>证监罚字[2006]32号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>年度报告 配股 股权 董事</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（湘火炬及聂新勇、刘海南等相关人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">证监罚字[2006]32号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1244106361734'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1244106361734 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244106361734 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244106361734 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244106361734 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244106361734 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><FONT face=黑体>证监罚字[2006]32号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=17><SPAN class=15 style="FONT-SIZE: 10pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人</FONT></SPAN></FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>：湘火炬汽车（集团）股份有限公司，现任法定代表人谭旭光。注册地址：湖南省株洲市河西黄河南路1号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人：聂新勇，男，51岁，现任湘火炬汽车集团股份有限公司董事、总裁，时任湘火炬汽车集团股份有限公司董事长。住址：上海市浦东新区张杨路158号2503室。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人：刘海南，男，58岁，现任湘火炬汽车集团股份有限公司副董事长。住址：湖南省株洲市东区田心三冲火炬二村3栋604号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人：余长江，男，43岁，现任湘火炬汽车集团股份有限公司董事、副总裁。住址：北京市海淀区西木樱宿舍4栋15号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人：周志军，男，38岁，时任湘火炬汽车集团股份有限公司董事，现已离任。住址：湖南省株洲市东区火炬二村14栋303号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>湘火炬汽车（集团）股份有限公司（以下简称湘火炬）证券违法案，我会于2004年6月立案调查，现已调查审理完毕，并依法向各当事人进行了事先告知，于2006年7月26日召开听证会，听取了当事人的陈述申辩。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><FONT face=黑体>
+<P class=15><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，湘火炬信息披露存在如下违法行为：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><!--{PS..0}--></FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><FONT face=黑体>一、湘火炬1997年、1998年、1999年年度报告披露虚假财务信息。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>（一）1997年年度报告披露虚假利润20,697,292.24元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>湘火炬1997年年度报告披露税后利润为23,259,770.10元。经查，1997年11月至12月，湘火炬通过虚开增值税专用发票和普通发票虚构了对北京红方汽车贸易中心（以下简称红方中心）的销售收入16,508,547.01元，虚构了对株洲开发区深蓝工贸有限公司（以下简称深蓝公司）的销售收入16,184,188.03元，共计虚构销售收入32,692,735.04元，扣除相应的成本及税金，虚构税后利润20,697,292.24元，占该年年度财务报告披露的税后利润的88.98%；扣除虚构利润，1997年实际税后利润为2,562,477.86元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>（二）1998年年度报告披露虚假利润5,820,143.10元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>湘火炬1998年年度报告披露税后利润为67,360,072.91元。经查，1998年6月，湘火炬通过虚开增值税专用发票和普通发票虚构了对红方中心的销售收入6,901,709.40元，虚构了对深蓝公司的销售收入3,175,213.68元，共计虚构销售收入10,076,923.08元，扣除相应的成本及税金，虚构税后利润5,820,143.10元，占该年年度报告披露的税后利润的8.64%。扣除虚构利润，1998年实际税后利润为61,539,929.81元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>（三）1999年年度报告披露虚假利润17,936,746.51元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1<FONT face=宋体>．1999年，湘火炬下属控股子公司火炬汽配进出口有限责任公司（以下简称火炬进出口公司）从其出口委托方南京泉峰公司指定的浙江华丰电动工具有限公司等9家单位购进货物共计8,446,880元（含税价格），并将货物出口到香港泉峰公司，但火炬进出口公司未将采购成本入账，从而少计主营业务成本，虚增税后净利润7,179,848元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2<FONT face=宋体>．1999年11月，湘火炬收购香港鸿本实业有限公司、香港鸿源贸易公司和STEVE&nbsp;W.WANG（王纬）全资拥有的美国MAT&nbsp;AUTOMOTIVE.INC.和MIDWEST&nbsp;AIR.TECHNOLOGIES.INC两家境外公司及其在中国的天津鸿本机械制造有限公司（以下简称天津鸿本）等九家境内公司（以下将上述公司统称为“MAT系列公司”）75%的股权，确定1999年11月1日为股权购买日，并将MAT系列公司会计报表并入湘火炬1999年度合并报表，湘火炬由此增加税后利润1,190万元，取得投资收益1,220.49万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，国家计委批复湘火炬收购境外MAT两家公司股权的项目建议书和可行性研究报告的时间分别为2000年3月30日（计外资[2000]356号）和2000年9月18日（计外资[2000]1454号），其后分别取得国家外汇管理局的批文（汇复[2000]327号）和外经贸部的批文（[2000]外经贸发展海函字第2937号），并于2000年12月1日取得中华人民共和国境外企业批准证书；湘火炬收购MAT国内九家公司75%的股权均系在2000年3月15日至27日才取得当地外经贸部门的相关批文。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>按照财政部《关于执行具体会计准则和〈股份有限公司会计制度〉有关会计问题解答》[财会字(1998)66号]和《关于股份有限公司有关会计问题解答》[财会字(1998)16号]文件的规定，MAT系列公司1999年年度会计报表不能并入湘火炬当年合并报表。由于湘火炬违反规定将MAT系列公司会计报表并入合并报表，使湘火炬1999年虚增投资收益11,733,043.77元（会计分录中实际抵销金额），扣除摊销的股权投资差额976,145.26元，虚增利润10,756,898.51元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>湘火炬在1999年度财务报告中所披露的利润为57,113,052.10元。以上两项共计虚增利润17,936,746.51元，占当年利润的31.41%。扣除虚构利润，1999年实际利润为39,176,305.59元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>对上述信息披露虚假承担直接责任的主管人员是签发上述年报的公司原董事长（根据《行政处罚法》第二十九条的规定已过行政处罚追诉时效，将另行处理），有关董事在相关董事会决议上签字，审议通过了上述报告，使上述含有虚假记载的文件得以公开披露，并公开承诺上述文件不存在虚假陈述，严重误导投资者，是对此应当负责的其他直接责任人员，其中根据《行政处罚法》第二十九条的规定因连续担任董事职务、尚在行政处罚追诉时效内的董事有聂新勇、刘海南和余长江。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><FONT face=黑体>二、湘火炬在2000年报送我会的配股申报材料和公开披露的配股说明书中含有虚假信息。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>湘火炬在2000年报送我会的配股申报材料和公开披露的配股说明书中披露：1997年、1998年和1999年的净资产收益率分别为11.03%、21.84%和16.11%，达到了1999年我会发布的《关于上市公司配股工作有关问题的通知》中所规定的要求。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，1997年、1998年和1999年湘火炬实际利润分别为2,562,477.86元、61,539,929.81元和39,176,305.59元，实际净资产只有190,119,604.53元、281,928,386.61元和309,9&nbsp;57,394.70元，因此实际净资产收益率分别为：1.35%、21.83%、12.64&nbsp;%。1997年实际净资产收益率已达不到《关于上市公司配股工作有关问题的通知》第一条“任何一年的净资产收益率不得低于6％”的规定的要求。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>对此承担直接责任的人员有在审议《2000年配股预案》董事会决议上签字的董事，其中根据《中华人民共和国行政处罚法》第二十九条的规定因连续担任董事职务、尚在行政处罚追诉时效内的董事有聂新勇、刘海南、余长江。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><FONT face=黑体>三、虚假披露配股募集资金的使用情况</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>湘火炬2003年年度报告中披露，截至2003年5月公司募集配股资金55,980万元已使用完毕，其中天津鸿本增资项目投入2,369.93万元、大连鸿源机械制造有限公司（以下简称大连鸿源）增资项目投入4,350万元、MAT股权收购项目投入14,000万元和活塞销技改项目投入1,954.415万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，湘火炬实际转为对天津鸿本的投资为1,825.85万元，比披露的金额少544.08万元；实际转为对大连鸿源的投资为3,840万元，比披露的金额少510万元；实际投入MAT的股权收购款为13,445.71万元，比披露的金额少554.29万元；将用于购买办公设备的款项117万元列入活塞销技改项目投资款，该支出不属于《配股说明书》中承诺的募集资金投入内容。以上款项合计为1725.37万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>对此承担直接责任的主管人员是公司时任董事长聂新勇，董事刘海南、余长江、周志军在相关董事会决议上签字，审议通过了上述报告，使上述含有虚假记载的文件得以公开披露，并公开承诺上述文件不存在虚假陈述，严重误导投资者，是对此应当负责的其他直接责任人员。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><FONT face=黑体>四、未按规定披露重大担保事项</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>湘火炬控股子公司火炬汽车电器有限公司（以下简称火炬电器）于2003年6月27日、8月28日为湘火炬控股股东关联方上海西域实业投资公司（以下简称上海西域）、东方网络传输科技有限公司（以下简称东方网络）的1.1亿元贷款提供了质押担保（目前已承担连带责任11051.41万元）。此笔担保公司一直未对外披露。对此负责的人员为董事长聂新勇。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><FONT face=黑体>五、未按规定将控股子公司设立的子公司纳入合并报表范围，少计投资亏损。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2003<FONT face=宋体>年，湘火炬年报披露其控股子公司北京汇科盈高新技术有限公司（以下简称汇科盈）设立的上海盈达信汽车电子有限公司（以下简称盈达信）尚处筹建阶段，本期未纳入合并报表范围。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，湘火炬控股80%的子公司汇科盈持有盈达信48%的股权。依据盈达信2003年的会计报表，该公司当年亏损1,051,010.73元。汇科盈未采用权益法核算，也未按照财政部财会字（1995）11号《合并会计报表暂行规定》的规定编制合并会计报表，从而少计投资亏损504,485.15元，导致湘火炬2003年年报少计投资亏损403,588.12元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>对该行为直接负责的主管人员为时任董事长聂新勇，其他直接责任人员为董事刘海南、余长江、周志军。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实，有公司公开披露的文件、有关董事会决议、当事人谈话笔录、相关合同协议、公司财务资料等证据证明。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>湘火炬上述行为违反了原《中华人民共和国证券法》（以下简称原《证券法》）第十三条“发行人向国务院证券监督管理机构或者国务院授权的部门提交的证券发行申请文件，必须真实、准确、完整”的规定、第五十九条“公司公告的股票或者公司债券的发行和上市文件，必须真实、准确、完整，不得有虚假记载、误导性陈述或者重大遗漏”、第六十二条第一款“发生可能对上市公司股票交易价格产生较大影响、而投资者尚未得知的重大事件时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所提交临时报告，并予公告，说明事件的实质”第三款“公司订立重要合同，而该合同可能对公司的资产、负债、权益和经营成果产生重要影响”的规定，构成原《证券法》第一百七十七条所述“依照本法规定，经核准上市交易的证券，其发行人未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大遗漏的”行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>根据原《证券法》第一百七十七条关于“对发行人处以三十万元以上六十万元以下的罚款”、“对直接负责的主管人员和其他直接责任人员给予警告，并处以三万元以上三十万元以下的罚款”的罚则规定，并结合湘火炬违法行为性质、情节以及责任人员责任大小，经研究决定：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>一，对湘火炬处以60万元罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>二，对聂新勇处以警告、10万元罚款，对刘海南、余长江处以警告、5万元罚款，对周志军处以警告、3万元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信实业银行总行营业部、账号7111010189800000162，由该行直接上缴国库），并将付款凭证的复印件送中国证券监督管理委员会法律部审理执行处备案。如对本处罚决定不服，可在收到本处罚决定之日起60日内向中国证券监督管理委员会提出行政复议；也可以在收到本处罚决定之日起3个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 63pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN></P>
+<P class=17 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 63pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>二○○六年十一月二十八日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..1}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20080418_14239_ext.json

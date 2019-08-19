@@ -1,0 +1,249 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（中科证券张钢等4名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-01388</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年03月20日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（中科证券张钢等4名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2009]8号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>证券 营业部 挪用 证券法</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（中科证券张钢等4名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2009]8号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1248510185906'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1248510185906 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248510185906 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248510185906 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248510185906 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248510185906 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT face=黑体><SPAN>[2009]</SPAN><SPAN>8</SPAN>号</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">当事人：张钢，男，<SPAN style="FONT-SIZE: 10.5pt">1950</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月出生，时任中国科技证券有限责任公司（以下简称中科证券）法定代表人、董事长、总裁，住址：北京市亚运村新新家园<SPAN style="FONT-SIZE: 10.5pt">B8-3</SPAN>楼<SPAN style="FONT-SIZE: 10.5pt">602A</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">王邦志，男，<SPAN style="FONT-SIZE: 10.5pt">1965</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月出生，时任中科证券副总裁，住址：北京市亚运村新新家园<SPAN style="FONT-SIZE: 10.5pt">B5-4</SPAN>楼<SPAN style="FONT-SIZE: 10.5pt">302A</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">吴洪伟，男，<SPAN style="FONT-SIZE: 10.5pt">1968</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月出生，时任中科证券重庆营业部总经理（以下简称重庆营业部），住址：重庆市上清寺路<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>号太平洋广场<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>座六楼。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">罗剑渝，男，<SPAN style="FONT-SIZE: 10.5pt">1973</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月出生，时任中科证券重庆营业部副总经理，住址：重庆市渝中区五一路<SPAN style="FONT-SIZE: 10.5pt">96</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">22-2</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">依据原《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对中科证券违反证券法律法规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，并应当事人的要求举行了听证会。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">经查明，中科证券及其重庆营业部存在以下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">一、中科证券违法行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">（一）挪用客户交易结算资金。中科证券在成立前已经存在挪用客户交易结算资金的违法行为，在成立时通过临时拆借资金将挪用的客户交易结算资金填平，在成立后又通过报送虚假财务报表加以掩盖。中科证券挪用的主要方式是将大量资金从其清算中心客户交易结算资金账户中划出，并在清算中心“内部银行”科目核算。在<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日期间，中科证券挪用客户交易结算资金累计<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>笔，共计<SPAN style="FONT-SIZE: 10.5pt">6,319,808,833</SPAN>元。截至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LETTER-SPACING: 1pt">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LETTER-SPACING: 1pt">被托管清算日，客户交易结算资金缺口数为<SPAN style="FONT-SIZE: 10.5pt">1,321,282,372.78</SPAN>元。</SPAN></FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">（二）挪用客户债券。截至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，中科证券挪用个人正常经纪类账户持有债券折合标准券金额共计<SPAN style="FONT-SIZE: 10.5pt">36,936,120</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">（三）承诺保底收益的违规委托理财。截至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，中科证券及其相关营业部在开展委托理财业务中违规承诺保底收益，共计<SPAN style="FONT-SIZE: 10.5pt">109</SPAN>笔，涉及金额<SPAN style="FONT-SIZE: 10.5pt">999,178,000</SPAN>元，累计支付承诺保底收益<SPAN style="FONT-SIZE: 10.5pt">64,431,133.45</SPAN>元。其中，已结清<SPAN style="FONT-SIZE: 10.5pt">84</SPAN>笔，涉及金额<SPAN style="FONT-SIZE: 10.5pt">603,251,000</SPAN>元，支付收益<SPAN style="FONT-SIZE: 10.5pt">33,155,417.45</SPAN>元；未结清<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>笔，涉及金额<SPAN style="FONT-SIZE: 10.5pt">395,927,000</SPAN>元，支付收益<SPAN style="FONT-SIZE: 10.5pt">31,276,716</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">二、重庆营业部融资交易。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 18.6pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">（一）为解决融配资资金来源问题，自<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年以来，重庆营业部与王文芝、张自立等<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>个自然人，重庆富勤管理策划有限责任公司、重庆野生动物管理世界有限公司等<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个法人签订金额共计<SPAN style="FONT-SIZE: 10.5pt">41,790,000</SPAN>元、保底利率分别为<SPAN style="FONT-SIZE: 10.5pt">8%</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">9%</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">7%</SPAN>以及<SPAN style="FONT-SIZE: 10.5pt">10%</SPAN>的委托理财协议。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 28pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">（二）自<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年开始，重庆营业部通过融入资金或国债的方式为客户提供融资从事证券交易业务。在此期间，重庆营业部分别与郭瑞刚、高友元等人签订了共<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>笔总额达<SPAN style="FONT-SIZE: 10.5pt">112,150,000</SPAN>元的融资业务，收益<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>，<SPAN style="FONT-SIZE: 10.5pt">484</SPAN>，<SPAN style="FONT-SIZE: 10.5pt">538</SPAN>元，亏损本金<SPAN style="FONT-SIZE: 10.5pt">29,730,718.05</SPAN>元、利息<SPAN style="FONT-SIZE: 10.5pt">9,988,200</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">上述违法事实，有相应的银行对账单、银行存款余额调节表、财务凭证、客户保证金银行存款账户当地派出机构报备账户、相关电脑交易流水记录、客户结算资金存款账户清单、中科证券清算部财务报表数据、银行日记账、交易保证金明细表以及有关挪用资金的内部呈批件、划款凭证等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">时任中科证券董事长、总裁张钢是对中科证券前述违法行为直接负责的主管人员；时任中科证券副总裁王邦志是对中科证券前述违法行为负责的其他直接责任人员。时任重庆营业部总经理吴洪伟、副总经理罗剑渝是对该营业部为客户提供融资交易行为直接负责的主管人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">张钢、王邦志在听证及陈述申辨材料中提出了申辩意见。经审理，张钢、王邦志虽然对中科证券违法行为的历史形成负有责任，但在问题被我会发现后，没有新增违法行为，并且能够协助控制风险，认真反映情况，积极整改，配合案件调查。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">中科证券挪用客户交易结算资金的行为，违反了原《证券法》第七十三条和第一百三十二条的规定，构成了原《证券法》第一百九十三条规定的“挪用客户账户上的资金”的行为；中科证券挪用客户债券的行为，违反了新《证券法》第七十九条和第一百三十九条的规定，构成了新《证券法》第二百一十一条规定的“挪用客户的资金或者证券”的行为；中科证券承诺保底收益的违规理财行为，违反了原《证券法》第一百四十三条的规定，构成了原《证券法》第一百九十四条规定的“对客户买卖证券的收益或者赔偿证券买卖的损失作出承诺”的行为；重庆营业部融资交易的行为，违反了原《证券法》第一百四十一条的规定，构成了原《证券法》第一百八十六条规定的“为客户融资买入证券”的行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百九十三条、第一百九十四条、第一百八十六条、新《证券法》第二百一十一条，以及《中华人民共和国行政处罚法》第二十七条的规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 28pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">一、鉴于中科证券已经被我会撤销证券业务许可，进入破产程序，我会不再给予责令关闭的行政处罚；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">二、对张钢、王邦志分别给予警告，撤销任职资格或者证券从业资格，并各处以<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">三、对吴洪伟、罗剑渝分别给予警告，并各处以<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>万元的罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"></SPAN>&nbsp;</P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%" align=right><FONT style="FONT-SIZE: 10.5pt">&nbsp;</FONT><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">中国证券监督管理委员会</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%" align=right><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二○○九年三月二十日</SPAN></FONT><SPAN> </SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20090614_107655_ext.json

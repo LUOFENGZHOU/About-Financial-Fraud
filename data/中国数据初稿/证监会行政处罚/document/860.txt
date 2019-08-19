@@ -1,0 +1,274 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（王国端、徐铁峰、陈同兴、梁垣英、蔡拾贰）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2006-00715</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>行政处罚委</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2006年06月15日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（王国端、徐铁峰、陈同兴、梁垣英、蔡拾贰）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>证监罚字[2006]15号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>广东省 董事 担保 董事长</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（王国端、徐铁峰、陈同兴、梁垣英、蔡拾贰）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">证监罚字[2006]15号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1244184918859'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1244184918859 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244184918859 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244184918859 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244184918859 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244184918859 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>证监罚字[2006]15号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=17><SPAN class=15 style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人</FONT></SPAN></FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>：王国端，男，55岁，广东科龙电器股份有限公司原董事长；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>徐铁峰，男，50岁，住址：广东省顺德市大良镇东苑新村后街11号，广东科龙电器股份有限公司原董事长；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陈同兴，男，43岁，住址：广东省顺德市容桂镇广安街11号，广东科龙电器股份有限公司原董事；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>梁垣英，男，55岁，住址：广东省顺德市容桂镇广安四街8号，广东科龙电器股份有限公司原董事；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>蔡拾贰，男，58岁，住址：广东省顺德市容桂镇顺和街四巷2号，广东科龙电器股份有限公司原董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>广东科龙电器股份有限公司（以下简称科龙公司）2000年、2001年信息披露及中介机构违法案，我会现已调查完毕，并依法向各当事人履行了事先告知程序，并于2006年3月23日召开了听证会。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>
+<P class=15><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，科龙公司2000年、2001年信息披露存在如下违法行为：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><!--{PS..0}--></FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>一、未披露与容声集团的资金往来事项</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙公司及其子公司广东科龙冰箱有限公司（以下简称科龙冰箱）及广东科龙空调器有限公司（以下简称科龙空调）与广东科龙（容声）集团有限公司（原科龙公司第一大股东，以下简称容声集团）在2000年度及2001年度存在如下资金往来的关联交易事项：2000年度资金往来单笔3000万元以上的共42笔，累计256988万元，2001年度46笔，累计466029万元。科龙公司对上述事项未依法以临时公告方式披露，亦未在2000年中报、2000年年报、2001年中报中披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>王国端自1999年6月26日至2001年6月18日任公司董事长、自1998年11月至2000年6月任公司总裁，徐铁峰自2001年6月18日至2001年12月23日任公司董事长、自2000年7月至2002年1月任公司总裁，王国端和徐铁峰是对上述违法行为负有直接责任的主管人员和直接责任人员；公司董事陈同兴、梁垣英、蔡拾贰参加了审议公司2000年中报的董事会并签字同意，公司董事陈同兴、梁垣英、蔡拾贰参加了审议2000年年报的董事会并签字同意，公司董事李振华、蔡拾贰参加审议2001年中报的董事会并签字同意，使公司存在重大遗漏的文件公开披露，上述董事是对公司2000年中报、2000年年报和2001年中报遗漏重大关联交易事项的其他直接责任人员。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实，有科龙公司2000年度财务明细账和有关记账凭证及原始凭证，2001年度财务明细账和有关记账凭证及原始凭证、科龙公司关于资金往来及财务档案资料管理的证明材料、科龙公司没有历史明细账账簿的证据、关于科龙公司与容声集团的资金往来说明及材料、认定容声集团与科龙冰箱、科龙空调为关联方的说明、科龙公司与容声集团没有三分开的证明材料、公司审议2000年中报、2000年年报和2001年中报的董事会会议记录和公司公开披露的有关文件等证据佐证。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>二、未按规定披露容声集团代科龙公司归还银行贷款事项。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2000<FONT face=宋体>年4月，容声集团代科龙公司偿还科龙公司向广东省中行的借款1亿元。对上述事项，科龙公司未及时披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对上述违规行为负有直接责任的主管人员是当时科龙公司董事长兼总裁王国端。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实有科龙公司对此事实承认的材料、有关记账凭证和付款凭证，科龙公司与广东省中行借款合同及公证书等证据佐证。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>三、未按规定披露为容声集团进行担保及担保责任履行事项。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙空调分别于2001年5月31日、6月12日及6月28日与中国农业银行容桂支行签定三份最高额保证合同,为容声集团提供最高额分别为3000万、1亿、1亿元人民币贷款担保，总共为容声集团提供最高额2.3亿元人民币贷款担保。2001年12月3日科龙空调收到广东省佛山市中级人民法院传票及应诉通知书，通知其佛山中院决定受理中国农业银行顺德市容桂支行起诉科龙空调。2001年12月4日佛山中院查封了科龙空调全部生产设备。2001年12月18日至12月31日，科龙公司代科龙空调实际履行担保责任，向银行偿还本息2.11亿元人民币，其中本金2.1亿元、利息100万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙公司对上述事项未以临时公告方式披露，亦未在2001年中报中披露该担保事项。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对未及时公告负有直接责任的主管人员包括原董事长兼总裁王国端、徐铁峰；对2001年中报未披露有关事项负有直接责任的主管人员是担任科龙公司原董事长王国端、徐铁峰；公司董事李振华、蔡拾贰参加了审议2001年中报的董事会并签字同意，使公司存在重大遗漏的文件得以公开披露，是其他直接责任人员。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实有法院传票、应诉通知书、法院查封（扣押）财产清单及相应的民事裁定书、银行诉容声集团、科龙公司的民事诉状及增加诉讼请求申请书、有关记账凭证及付款凭证、科龙公司代付利息的证明材料、科龙公司关于担保事项的证明材料、科龙集团关于担保的说明材料等证据佐证。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>四、未按规定披露代容声集团支付广东三洋科龙冷柜有限公司货款事项。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙公司根据容声集团的委托书，于2001年9月至2001年11月代容声集团承担并支付其所欠广东三洋科龙冷柜有限公司（中外合资企业，科龙公司占有其44%的股权）之货款10,137.02万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙公司对上述事项未以临时公告方式披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对上述违规行为负有直接责任的主管人员为当时科龙公司董事长兼总裁徐铁峰。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实有委托付款书及有关付款凭证、记账凭证、科龙公司关于此问题的说明材料等证据佐证。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>五、未按规定披露收取容声集团资金占用利息事项。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>因容声集团占用科龙公司的资金，容声集团于2001年11月30日、2001年12月14日分别出具承诺函，承诺承担2000年和2001年占用科龙公司资金的利息共计5043.22万元，其中2000年576.35万元,2001年4466.87万元。资金占用利息计算方法为：根据容声集团所占科龙公司资金月末平均余额按年利率5.85%计提。有关资金利息已于2001年8月至12月入账，但在进行2001年年报审计时予以冲销。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙公司对上述事项未以临时公告方式披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对上述违规行为负有直接责任的主管人员为当时科龙公司董事长兼总裁徐铁峰。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实有容声集团承诺函、有关会计凭证、科龙公司对上述事实的证明材料等证据佐证。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>六、未按规定披露其控股子公司与容声集团签订《推广费用摊销协议》事项。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙公司控股子公司科龙冰箱及科龙空调与容声集团于2000年12月5日签定了《推广费用摊销协议书》。该协议书约定：鉴于“科龙”、“容声”商标所有权人为容声集团，根据科龙公司与容声集团1996年签订的协议，科龙公司无偿使用上述商标，科龙空调、科龙冰箱推广上述商标为容声集团带来利益，容声集团愿意承担部分推广费用，共计3.2824亿元，其中1999年9,324万元、2000年2.35亿元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙公司对上述事项未以临时公告方式披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对上述违规行为负有直接责任的主管人员是当时科龙公司董事长王国端；科龙公司总裁徐铁峰主持公司日常经营管理工作，未向董事会提议审议上述重大事项，是其他直接责任人员。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实有《推广费用摊销协议书》、公司对上述事实的证明材料、公司财务资料等证据佐证。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>七、未按规定披露应收容声集团往来款转为应收格林柯尔往来款事项。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2001<FONT face=宋体>年11月19日，科龙公司与顺德市格林柯尔企业发展有限公司及容声集团三方签订《债务转移确认书》，确认由顺德市格林柯尔企业发展有限公司代容声集团归还所欠科龙公司的5.6亿元人民币债务。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙公司对上述事项未以临时公告方式披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对上述违规行为负有直接责任的主管人员为当时科龙公司董事长兼总裁徐铁峰。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>科龙公司上述行为违反了原《中华人民共和国证券法》（以下简称原《证券法》）第六十条“股票或者公司债券上市交易的公司，应当在每一会计年度的上半年结束之日起二个月内，向国务院证券监督管理机构和证券交易所提交记载以下内容的中期报告，并予公告”第（五）项“国务院证券监督管理机构规定的其他事项”、第六十一条“股票或者公司债券上市交易的公司，应当在每一会计年度结束之日起四个月内，向国务院证券监督管理机构和证券交易所提交记载以下内容的年度报告，并予公告”第（五）项“国务院证券监督管理机构规定的其他事项”、第六十二条“发生可能对上市公司股票交易价格产生较大影响、而投资者尚未得知的重大事件时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所提交临时报告，并予公告，说明事件的实质”、我会《公开发行证券公司信息披露的内容与格式准则第二号〈年度报告的内容与格式〉》中关于关联交易事项披露的规定，财政部《企业会计准则―关联方关系及其交易的披露》中关于关联交易事项披露的规定，构成原《证券法》第一百七十七条第一款所述“未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大遗漏的”行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>据此，根据原《证券法》第一百七十七条第一款的规定，经研究决定：对王国端、徐铁峰分别处以警告、罚款10万元，对陈同兴、梁垣英、蔡拾贰分别处以警告、罚款3万元。科龙公司及李振华已另案处理。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信实业银行总行营业部、账号7111010189800000162，由该行直接上缴国库），并将付款凭证的复印件送中国证券监督管理委员会法律部审理执行处备案。如对本处罚决定不服，可在收到本处罚决定之日起60日内向中国证券监督管理委员会提出行政复议；也可以在收到本处罚决定之日起3个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 63pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN></P>
+<P class=17 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 63pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>二○○</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>六年六月十五日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..1}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20080418_14213_ext.json

@@ -1,0 +1,252 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（浙江宋都控股有限公司）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-06985</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年08月22日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（浙江宋都控股有限公司）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕39号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（浙江宋都控股有限公司）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕39号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1353292621734'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1353292621734 P {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1353292621734 TD {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1353292621734 DIV {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1353292621734 LI {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1353292621734 {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+--**/</style>
+<DIV style="LAYOUT-GRID:  28.7pt none" class=Section0>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 29pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔2012〕39</SPAN><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">号</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">事人：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">浙江宋都控股有限公司（以下简称浙江宋都），住所：浙江省杭州市江干区杭海路227号，法定代表人俞建午。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">《</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中华人民共和国证券法</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">》（以下简称《证券法》）</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的有关规定，我会对</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">浙江宋都非法利用他人账户从事证券交易一案</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人的要求，我会举行了听证会，听取了当事人及其代理人的陈述、申辩。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，浙江宋都存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、涉案账户的开立情况</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 30.75pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">浙江宋都成立于2006年12月，俞建午是公司唯一的股东。2008年4月，“浙江宋都”账户在浙商证券杭州杭大路营业部开立。2011年3月，上述账户撤销指定交易并在宏源证券杭州温州路营业部重新开立。王某是俞建午的母亲。2010年8月，“王某”账户在财通证券杭州解放路营业部开立。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 30.75pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、涉案账户的资金划转及交易情况</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“王某”账户自开户至2011年4月7日，累计转入29,600.1万元至证券账户用于股票交易，累计从外部转入“王某”账户对应的三方存管银行账户共计27,996.91万元，其中20,850万元来自浙江宋都，7,500万元来自杭州樽地投资管理有限公司，2,646.91万元来自俞建午；累计从证券账户转出24,803.1万元，累计向外部转出21,904万元，其中向浙江宋都转出11,574万元，向桐庐源和贸易有限公司转出500万元，向俞建午及其亲属转出4,346万元，向许某转出7,484万元。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“王某”账户自开户至2011年3月31日，通过网上下单的方式共作出4,503笔委托，同期“浙江宋都”账户通过网上下单的方式共作出2,725笔委托。经比对，“王某”账户委托下单使用的电脑MAC记录的91.89%与“浙江宋都”账户下单使用的电脑MAC记录相同。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据上海证券交易所统计，“王某”账户在2010年10月21日至2011年9月7日期间交易多只股票，累计亏损13,789,229.28元。根据深圳证券交易所统计，“王某”账户在2010年10月21日至2011年9月7日期间交易多只股票，累计盈利4,886,927.57元。综上，“王某”账户在2010年10月21日至2011年9月7日期间交易股票累计亏损8,902,301.71元。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以上事实，有涉案账户股票交易记录、涉案人员询问笔录、资金往来凭证等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: bold; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">浙江宋都利用“王某”账户买卖股票的行为，违反了《证券法》第八十条有关禁止法人非法利用他人账户从事证券交易的规定，构成了《证券法》第二百零八条所述违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">浙江宋都及其代理人主要提出了以下申辩意见：其一，浙江宋都是俞建午一人的独资公司，公司有一定的资金留存。2010年，王某及其家人决定通过借款进行打新股等证券交易。由于家庭原因，每次借款时，均先由公司将资金借给个人，然后再由该第三人转账到“王某”账户，具体操办都是公司财务负责人下指令并由有关员工办理，借款均如实记入公司财务账册，证券交易盈亏由王某及其家人自负。其二，因王某及其家人电脑操作不熟，王某及其家人委托王某的亲属曹某进行具体的股票操作，曹某不是浙江宋都员工，因是王某的晚辈亲属，经常去公司，并且经常会在公司操作电脑。其三，浙江宋都拥有合法的证券账户，且证券交易金额一直不小，无须借用他人的证券账户交易股票。其四，俞建午与王某系亲属之间的借款关系，公司既不干预王某的交易事项，也不承担其交易盈亏，不构成法人非法利用他人账户从事证券交易行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经复核，“王某”账户交易股票资金的主要来源和去向都是浙江宋都，“王某”账户与同期“浙江宋都”账户在交易股票的操作上高度重合，“王某”账户的交易是在浙江宋都的办公地点完成的，“王某”账户的实际操作人曹某曾在浙江宋都投资发展部任交易员；根据涉案账户股票交易记录，“王某”账户与同期“浙江宋都”账户多次使用相同电脑进行下单操作，且两个账户之间下单时间相隔较短，可以判定系一人操作。现场调查也发现，浙江宋都投资发展部用于证券交易的电脑设有登录密码，若非浙江宋都的交易员，应当无法使用电脑。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 20.475pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，虽然浙江宋都是俞建午一人投资设立的公司，但浙江宋都拥有独立的法人人格和完整的财产权利；本案中，办理向“王某”账户转款手续的是浙江宋都相关人员，相关行为应当视为浙江宋都的行为。浙江宋都有关俞建午私人向王某提供借款的说法没有充分证据证明，不予采信；浙江宋都有关自身有证券账户、无须使用他人账户从事证券交易的辩解与本案违法事实认定之间没有直接联系，不予采纳。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">基于上述事实与理由，全面衡量本案证据，我会认为，浙江宋都利用“王某”账户从事证券交易的事实清楚，足以认定。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p19><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零八条的规定，我会决定：责令浙江宋都改正，并处以30万元罚款。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起3个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。&nbsp;</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt"></FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt"></FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt"></FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt"></FONT></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0 align=center><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0 align=center><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　　　　　　 　 中国证券监督管理委员会　</SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0 align=center><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN></FONT></FONT><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012</SPAN><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">8月22</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></FONT></FONT></P>
+<P style="LINE-HEIGHT: 16pt; MARGIN-TOP: 0pt; TEXT-INDENT: 5.18pt; MARGIN-BOTTOM: 0pt; MARGIN-RIGHT: 5.775pt" class=p0><SPAN style="Z-INDEX: 1; POSITION: absolute; MARGIN-TOP: 842px; WIDTH: 209px; HEIGHT: 87px; MARGIN-LEFT: 373px; LEFT: 0px"><FONT style="FONT-SIZE: 10.5pt"></FONT></SPAN></P><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 14pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20121119_217025_ext.json

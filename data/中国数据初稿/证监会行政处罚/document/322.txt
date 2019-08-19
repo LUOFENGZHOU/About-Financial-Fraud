@@ -1,0 +1,260 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（魏德善）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2015年08月18日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（魏德善）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2015〕29号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（魏德善）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2015〕29号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2015</FONT><FONT face=宋体>〕</FONT><FONT face="Times New Roman">29</FONT><FONT face=宋体>号</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：魏德善，男，<FONT face="Times New Roman">1984</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月出生，住址：江苏省海安县。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对魏德善内幕交易“齐星铁塔”行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人提出了陈述、申辩意见，应当事人的要求我会举行了听证会，听取了当事人的陈述和申辩。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，魏德善</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、内幕信息的形成、传递与公开过程</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">山东齐星铁塔科技股份有限公司（以下简称齐星铁塔或公司）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">主营以输电塔和通讯塔为主的各类铁塔产品的研发、设计、生产和销售，注册、办公地址为山东省滨州市。齐星集团有限公司（简称齐星集团）持有公司总股本的<FONT face="Times New Roman">21.97%</FONT><FONT face=宋体>，赵某水为齐星铁塔和齐星集团的实际控制人。齐星铁塔曾于</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=宋体>日发布提示性公告称拟筹划非公开发行股份事项，增发资金用于立体停车库项目，</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>日公告该事项获证监会审核批准，</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>日公司完成定向增发认购，</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=宋体>日发布了《非公开发行股票发行情况暨上市公告书》。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">汉红股权投资基金管理有限公司（以下简称汉红公司）是一家从事股权投资的私募投资机构，总裁刘某（甲）、执行董事沈某、合伙人刘某（乙）。<FONT face="Times New Roman">2011</FONT><FONT face=宋体>年，汉红公司收购</FONT><FONT face="Times New Roman">Stonewall&nbsp;Resources</FONT><FONT face=宋体>（</FONT><FONT face="Times New Roman">Proprietary</FONT><FONT face=宋体>）</FONT><FONT face="Times New Roman">Limited</FONT><FONT face=宋体>（以下简称</FONT><FONT face="Times New Roman">SWJ</FONT><FONT face=宋体>资源），并于</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月在澳大利亚证券交易所上市，</FONT><FONT face="Times New Roman">SWJ</FONT><FONT face=宋体>资源持有</FONT><FONT face="Times New Roman">Stonewall&nbsp;Mining&nbsp;</FONT><FONT face=宋体>（</FONT><FONT face="Times New Roman">Proprietary</FONT><FONT face=宋体>）</FONT><FONT face="Times New Roman">Limited</FONT><FONT face=宋体>（以下简称</FONT><FONT face="Times New Roman">SWJ</FONT><FONT face=宋体>矿业）</FONT><FONT face="Times New Roman">100%</FONT><FONT face=宋体>股权。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">2012<FONT face=宋体>年上半年开始，汉红公司着手出售</FONT><FONT face="Times New Roman">SWJ</FONT><FONT face=宋体>矿业，先后联系了多家上市公司均未达成出售协议。成某、商某与刘某（乙）相识，帮助汉红公司联系</FONT><FONT face="Times New Roman">SWJ</FONT><FONT face=宋体>矿业购买方。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>日，齐星集团副总裁韩某毅与商某通电话，表示齐星集团对矿业资产有收购意向，商某向韩某毅介绍了南非金矿资产情况。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日，赵某水与齐星铁塔总经理吕某明、董秘耿某开会，表示准备以上市公司为主体进行南非金矿资产收购。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>日，赵某水与成某、商某就南非金矿收购事项会谈，吕某明、耿某参与会谈。成某介绍了南非</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>家金矿公司资产和储量情况（除</FONT><FONT face="Times New Roman">SWJ</FONT><FONT face=宋体>矿业外，汉红公司作为中间人还可以推荐其他两家矿业公司），并提出以</FONT><FONT face="Times New Roman">15</FONT><FONT face=宋体>亿至</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>亿元价格卖给齐星铁塔。赵某水介绍了齐星铁塔和齐星集团的情况。双方谈到可以通过定向增发等融资方式解决资金不足问题。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=宋体>日，赵某水与成某、商某会谈，吕某明、韩某毅、耿某参与会谈。双方同意通过非公开增发收购</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>家金矿公司。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日，“齐星铁塔”股价于下午开始异动，耿某与吕某明碰头后，决定向深圳证券交易所申请重大事项停牌。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">26</FONT><FONT face=宋体>日，齐星铁塔发布重大事项停牌公告，</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=宋体>日公告称拟再次筹划非公开发行股份事项。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>日，刘某（甲）、赵某水会面，最终达成合作协议。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>日，齐星铁塔披露《</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年度非公开发行股票预案》，公司本次非公开发行募集资金总额为</FONT><FONT face="Times New Roman">241,280</FONT><FONT face=宋体>万元，占</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年经审计净资产的</FONT><FONT face="Times New Roman">354.46%</FONT><FONT face=宋体>，扣除相关发行费用后的募集资金净额将全部用于购买南非金矿项目、金矿扩产建设项目以及补充流动资金。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: -0.1pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、魏德善内幕交易的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">魏德善系东源（天津）股权投资基金管理有限公司（以下简称东源基金）副总经理。魏德善实际控制和使用于某燕、徐某伟、高某茹、刘某波等<FONT face="Times New Roman">4</FONT><FONT face=宋体>个账户在</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日累计买入“齐星铁塔”</FONT><FONT face="Times New Roman">77,300</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">819,266</FONT><FONT face=宋体>元，</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>日“齐星铁塔”复牌后分别于</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>日陆续全部卖出，获利</FONT><FONT face="Times New Roman">238,746</FONT><FONT face=宋体>元，具体情况如下。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）账户交易情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;<FONT face=宋体>于某燕账户：</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>日买入“齐星铁塔”</FONT><FONT face="Times New Roman">20,600</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">203,322</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">9.87</FONT><FONT face=宋体>元；</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>日累计卖出</FONT><FONT face="Times New Roman">20,600</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">208,300</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.11</FONT><FONT face=宋体>元；</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日累计买入“齐星铁塔”</FONT><FONT face="Times New Roman">54,000</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">555,153</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.28</FONT><FONT face=宋体>元，累计卖出</FONT><FONT face="Times New Roman">31,700</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">321,006</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.13</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其中，<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日累计买入</FONT><FONT face="Times New Roman">22,300</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">233,772</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.48</FONT><FONT face=宋体>元；</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">17</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">22,300</FONT><FONT face=宋体>股全部卖出，成交金额</FONT><FONT face="Times New Roman">296,590</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">13.30</FONT><FONT face=宋体>元；扣除交易税费，盈利</FONT><FONT face="Times New Roman">62,818</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;<FONT face=宋体>高某茹账户：</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>日，累计买入“齐星铁塔”</FONT><FONT face="Times New Roman">185,200</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">1,827,104</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">9.87</FONT><FONT face=宋体>元，累计卖出</FONT><FONT face="Times New Roman">106,700</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">1,070,509</FONT><FONT face=宋体>元</FONT><FONT face="Times New Roman">,</FONT><FONT face=宋体>成交均价</FONT><FONT face="Times New Roman">10.03</FONT><FONT face=宋体>元。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日，累计买入</FONT><FONT face="Times New Roman">127,805</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">1,328,292</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.39</FONT><FONT face=宋体>元，累计卖出</FONT><FONT face="Times New Roman">185,805</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">1,869,964</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.06</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其中，<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日累计买入</FONT><FONT face="Times New Roman">20,500</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">217,267</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.60</FONT><FONT face=宋体>元；</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">20,500</FONT><FONT face=宋体>股全部卖出，成交金额</FONT><FONT face="Times New Roman">295,170</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">13.30</FONT><FONT face=宋体>元；扣除交易税费，盈利</FONT><FONT face="Times New Roman">77,903</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;<FONT face=宋体>刘某波账户：</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>日累计买入“齐星铁塔”</FONT><FONT face="Times New Roman">94,100</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">940,856</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.00</FONT><FONT face=宋体>元，累计卖出</FONT><FONT face="Times New Roman">21,693</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">217,634</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.03</FONT><FONT face=宋体>元。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日累计买入</FONT><FONT face="Times New Roman">89,200</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">918,877</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.30</FONT><FONT face=宋体>元，累计卖出</FONT><FONT face="Times New Roman">141,607</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">1,424,907</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.06</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其中，<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日累计买入</FONT><FONT face="Times New Roman">20,000</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">213,700</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.69</FONT><FONT face=宋体>元；</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">14</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">20,000</FONT><FONT face=宋体>股全部卖出，成交金额</FONT><FONT face="Times New Roman">273,089</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">13.65</FONT><FONT face=宋体>元；扣除交易税费，盈利</FONT><FONT face="Times New Roman">59,389</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">4.&nbsp;<FONT face=宋体>徐某伟账户：</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>日累计买入“齐星铁塔”</FONT><FONT face="Times New Roman">46,400</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">457,684</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">9.86</FONT><FONT face=宋体>元，累计卖出</FONT><FONT face="Times New Roman">46,400</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">468,492</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.10</FONT><FONT face=宋体>元。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日累计买入</FONT><FONT face="Times New Roman">44,690</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">460,952</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.31</FONT><FONT face=宋体>元，累计卖出</FONT><FONT face="Times New Roman">30,190</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">303,408</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.05</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其中，<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日累计买入</FONT><FONT face="Times New Roman">14,500</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">154,527</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">10.66</FONT><FONT face=宋体>元；</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">17</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">14,500</FONT><FONT face=宋体>股全部卖出，成交金额</FONT><FONT face="Times New Roman">193,163</FONT><FONT face=宋体>元，成交均价</FONT><FONT face="Times New Roman">13.32</FONT><FONT face=宋体>元；扣除交易税费，盈利</FONT><FONT face="Times New Roman">38,636</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）账户资金划转情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">于某燕账户资金来源于本人工资收入或存现，高某茹账户资金来源为本人，刘某波、徐某伟账户在调查期间不存在大额银证转账交易。调查未发现魏德善与上述<FONT face="Times New Roman">4</FONT><FONT face=宋体>个银行账户间存在资金划转情况。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）账户实际操作人情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">魏德善为于某燕、徐某伟、高某茹、刘某波等<FONT face="Times New Roman">4</FONT><FONT face=宋体>个账户的实际控制人，</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>账户交易电脑为魏德善办公室电脑，下单手机为魏德善手机号码。于某燕为魏德善配偶，其个人证券账户为魏德善控制，资金为魏德善本人所有。徐某伟为魏德善高中同学，委托魏德善代为操作其个人证券账户，资金为徐某伟本人所有。高某茹为中信建投证券某营业部前总经理陈某配偶，刘某波为陈某朋友，陈某委托魏德善代为操作高某茹和刘某波证券账户，资金为高某茹和刘某波所有。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（四）账户交易特征</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">于某燕账户<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>日全仓买入“齐星铁塔”，至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">21</FONT><FONT face=宋体>日全部抛出之前一直波段操作，其间于</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>日买入过</FONT><FONT face="Times New Roman">6.95</FONT><FONT face=宋体>万元“龙溪股份”，</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>日全部卖出。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日全仓买入“齐星铁塔”。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">高某茹账户<FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">26</FONT><FONT face=宋体>日买入</FONT><FONT face="Times New Roman">8.56</FONT><FONT face=宋体>万股“齐星铁塔”，同时持有</FONT><FONT face="Times New Roman">10.9</FONT><FONT face=宋体>万股“方大炭素”。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">21</FONT><FONT face=宋体>日卖出全部“齐星铁塔”，在此之前一直波段操作两只股票。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日买入</FONT><FONT face="Times New Roman">2.05</FONT><FONT face=宋体>万股“齐星铁塔”，约占仓位的</FONT><FONT face="Times New Roman">25.06%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">刘某波账户<FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日主要波段操作“齐星铁塔”、“龙溪股份”和“方大炭素”等</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>只股票。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日和</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日卖出全部“方大炭素”。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日买入</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>万股“齐星铁塔”，约占仓位的</FONT><FONT face="Times New Roman">49.70%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">徐某伟账户<FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日波段操作“齐星铁塔”，</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日全仓买入</FONT><FONT face="Times New Roman">1.45</FONT><FONT face=宋体>万股“齐星铁塔”。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（五）内幕信息的传递途径</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">作为股权投资基金管理公司，东源基金将给获批定向增发的上市公司发认购意向函。<FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>日齐星铁塔公告首次定向增发获批后，东源基金给齐星铁塔发的意向函中，联络人即为该公司副总经理魏德善。耿某根据意向函的联络方式，于</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>日与魏德善开始联系，询问东源基金是否有意参与立体停车库的增发项目，并在第二次增发即购买南非金矿的增发公告后，联系过东源基金魏德善询问是否有意参与，根据齐星铁塔相关公告，东源基金并未参与上述两次增发项目。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">电话记录显示，<FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">23</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>日，魏德善与耿某之间</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>天有通话，通话次数达</FONT><FONT face="Times New Roman">35</FONT><FONT face=宋体>次，</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=宋体>日有一次通话。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">魏德善曾于<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">16:33</FONT><FONT face=宋体>致电耿某，通话时长</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>分</FONT><FONT face="Times New Roman">26</FONT><FONT face=宋体>秒；</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">9:45</FONT><FONT face=宋体>魏德善致电耿某，两人通话</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>分</FONT><FONT face="Times New Roman">44</FONT><FONT face=宋体>秒之后，魏德善随即操作其控制的于某燕、徐某伟、高某茹、刘某波等</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>个帐户买入“齐星铁塔”。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">魏德善曾在陈某办公室操作下单，陈某称魏德善告诉他“公司要买一个南非金矿，他们公司准备参与定向增发，因此他在今年<FONT face="Times New Roman">3</FONT><FONT face=宋体>月买入这只股票，我也帮忙操作过这只股票”。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实，有相关公告、涉案人员询问笔录和账户交易记录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，本案涉及的事项，是上市公司齐星铁塔拟非公开发行股票募集资金，用于购买非关联方持有的南非金矿项目、金矿扩产建设项目以及补充流动资金；非公开发行募集资金总额为<FONT face="Times New Roman">241,280</FONT><FONT face=宋体>万元，占公司</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年经审计净资产的</FONT><FONT face="Times New Roman">354.46%</FONT><FONT face=宋体>。从法律规定看，该事项既属于《证券法》第六十七条第二款第二项所述公司“重大的购置财产的决定”，也属于《证券法》第七十五条第二款第二项所述公司“增资的计划”，同时，也属于《证券法》第六十七条第二款第一项所述公司“经营范围的重大变化”。从该事项启动当时的证券市场环境与我国上市公司近年的实践看，这一事项往往对上市股票的交易价格与投资者判断产生重大影响。从涉案事项的进展过程看，至迟不晚于</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=宋体>日，相关信息已经具备重要性从而构成内幕信息。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，魏德善在<FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日，操作于某燕、高某茹、刘某波、徐某伟账户累计买入“齐星铁塔”</FONT><FONT face="Times New Roman">77,300</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">819,266</FONT><FONT face=宋体>元，</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>日“齐星铁塔”复牌后分别于</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>日陆续全部卖出，最终获利</FONT><FONT face="Times New Roman">238,746</FONT><FONT face=宋体>元，构成内幕交易。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第一，从涉案人员之间的固有关系、惯常联系看，东源基金为齐星铁塔<FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>日完成的前次定向增发的意向认购方，魏德善作为该公司副总经理，与耿某</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>日开始联系。魏德善接受调查询问时称，他接触齐星铁塔及其董秘耿某是在</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年春节之后，因齐星铁塔前次增发事宜，耿某打电话到他公司询问是否有意向投资，后因投资通道未搞好的原因没有参与成功。在此过程中他与耿某联系较多，</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月中旬之后联系就很少，有联系也是因为想保持长期合作及想让耿某介绍山东的定向增发的上市公司。电话记录显示，</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">23</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>日，魏德善与耿某之间</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>天有通话，通话次数达</FONT><FONT face="Times New Roman">35</FONT><FONT face=宋体>次，</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=宋体>日有一次通话。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第二，从交易时点与内幕信息形成时间及涉案人员之间电话联系的吻合度看，在涉案事项进展期间，<FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日赵某水与齐星铁塔总经理吕某明、董秘耿某开会，表示准备以上市公司为主体进行南非金矿资产收购之后，魏德善曾于</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">16:33</FONT><FONT face=宋体>致电耿某，通话时长</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>分</FONT><FONT face="Times New Roman">26</FONT><FONT face=宋体>秒；</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">9:45</FONT><FONT face=宋体>魏德善致电耿某，两人通话</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>分</FONT><FONT face="Times New Roman">44</FONT><FONT face=宋体>秒之后，魏德善随即操作其控制的于某燕、徐某伟、高某茹、刘某波等</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>个帐户买入“齐星铁塔”股票。齐星铁塔</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>日完成定向增发认购，</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=宋体>日发布了《非公开发行股票发行情况暨上市公告书》。由此判断，二人</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>日、</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日的通话，应非就齐星铁塔该次增发认购事项进行磋商。因此，魏德善的交易时点与内幕信息形成时间及涉案人员之间电话联系高度吻合。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第三，从交易模式看，于某燕、徐某伟帐户<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日的交易为全仓买入，比较异常。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第四，从其他涉案人员的旁证看，委托魏德善管理其配偶账户的陈某接受调查询问时称，魏德善曾在陈某办公室操作下单，魏德善“说过齐星铁塔要搞汽车立体停车场，解决路上交通的问题……还说过该公司要买一个南非金矿，他们公司准备参与定向增发，因此他在今年<FONT face="Times New Roman">3</FONT><FONT face=宋体>月买入这只股票”。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">魏德善在听证及申辩意见中提出，他高度配合案件调查，在调查过程中主动交代买卖“齐星铁塔”股票。他与耿某认识一个多月，交情并不深，且各有职业操守，耿某不可能告诉他内幕信息。他与耿某通话较多主要是因为齐星铁塔第一次定向增发事宜。<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日前一直交易“齐星铁塔”，因为看好齐星铁塔立体停车库项目。徐某伟与于某燕账户资金量小，所以交易习惯是全仓买入、卖出。陈某的说辞不足以作为证据，陈某没有说魏德善告诉他买入“齐星铁塔”的理由包括南非金矿收购项目的时间是在涉案内幕信息公开之前还是公开之后。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，魏德善交易时点与和耿某联络时点及内幕信息进展情况高度吻合。涉案账户中与魏德善关系较近的人员的账户全仓买入“齐星铁塔”，关系较远的没有全仓买入，特别是其配偶账户收益与其密切相关，该账户全仓买入说明魏德善对内幕信息有一定确认。魏德善</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">没有为其买卖“齐星铁塔”提供充分的、有说服力的解释，也没有充分说明其与耿某的通话时间与交易时间高度吻合的原因。魏德善的申辩意见不足以推翻内幕交易的认定。魏德善配合调查的情节我会在审理时已予以考虑。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：没收魏德善违法所得<FONT face="Times New Roman">238,746</FONT><FONT face=宋体>元，并处以</FONT><FONT face="Times New Roman">238,746</FONT><FONT face=宋体>元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=宋体>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=宋体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=宋体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015<FONT face=宋体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=宋体>日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20150922_284230_ext.json

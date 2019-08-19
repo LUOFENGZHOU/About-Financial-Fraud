@@ -1,0 +1,259 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（彩虹精化、陈永弟、李化春等6名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-05492</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年05月24日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（彩虹精化、陈永弟、李化春等6名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕20号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（彩虹精化、陈永弟、李化春等6名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕20号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1346915844687'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1346915844687 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1346915844687 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1346915844687 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1346915844687 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1346915844687 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+
+--**/</style>
+<P align=center><SPAN style="LINE-HEIGHT: 150%">〔<SPAN>2012</SPAN>〕<SPAN>20</SPAN>号</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人：深圳市彩虹精细化工股份有限公司（以下简称彩虹精化），住所：广东省深圳市宝安区石岩镇上屋彩虹工业城，法定代表人陈永弟。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">陈永弟，男，<SPAN>1964</SPAN>年<SPAN>8</SPAN>月出生，<SPAN>2010</SPAN>年<SPAN>1</SPAN>月<SPAN>19</SPAN>日至今任彩虹精化董事长、总经理，<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>27</SPAN>日至今兼任深圳市彩虹绿世界生物降解材料有限公司（彩虹精化子公司，以下简称彩虹绿世界）董事长、总经理，住址：广东省深圳市福田区新洲南路金地海景花园<SPAN>7</SPAN>栋。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">李化春，男，<SPAN>1956</SPAN>年<SPAN>8</SPAN>月出生，<SPAN>2010</SPAN>年<SPAN>1</SPAN>月<SPAN>19</SPAN>日至今任彩虹精化董事、董事会秘书兼财务总监，住址：内蒙古自治区赤峰市松山区小桥路北计生巷房产楼<SPAN>1</SPAN>单元。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">郭健，男，<SPAN>1965</SPAN>年<SPAN>9</SPAN>月出生，<SPAN>2010</SPAN>年<SPAN>1</SPAN>月<SPAN>19</SPAN>日至今任彩虹精化监事会主席，<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>27</SPAN>日至今兼任彩虹绿世界董事，住址：广东省深圳市福田区香梅北特发小区<SPAN>1</SPAN>栋。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">王明章，男，<SPAN>1962</SPAN>年<SPAN>8</SPAN>月出生，<SPAN>2010</SPAN>年<SPAN>1</SPAN>月<SPAN>19</SPAN>日至今任彩虹精化监事，住址：湖南省湘潭市雨湖区南阳村南苑湘大南青<SPAN>310</SPAN>号。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">刘科，男，<SPAN>1965</SPAN>年<SPAN>4</SPAN>月出生，<SPAN>2010</SPAN>年<SPAN>1</SPAN>月<SPAN>19</SPAN>日至今任彩虹精化副总经理，<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>27</SPAN>日至今兼任彩虹绿世界董事、经理，住址：贵州省铜仁市新华南路<SPAN>2</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对彩虹精化信息披露违法违规案进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，彩虹精化存在以下违法事实：</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、未及时披露可能给其带来巨额利润的合同事项</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2010</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>11</SPAN>月<SPAN>23</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，深圳绿世界生物降解材料有限公司（以下简称深圳绿世界）与彩虹精化签订《关于深圳市彩虹绿世界生物降解材料有限公司之合作经营协议书》（以下简称《合作经营协议书》）及相关备忘录，约定共同出资成立彩虹绿世界。深圳绿世界与彩虹绿世界还口头约定：深圳绿世界保证彩虹绿世界销售净利润不低于<SPAN>10%</SPAN>。深圳绿世界于<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>12</SPAN>日与嘉星国际有限责任公司（以下简称嘉星国际）签订了两份《产品销售协议》，销售金额共计<SPAN>192,000</SPAN>万元。彩虹精化于<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>16</SPAN>日派刘科和王明章参加了深圳绿世界召开的市场与生产计划会，会上着重介绍了<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>12</SPAN>日所签订的合同。<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>17</SPAN>日，刘科将会议上提供的《绿世界目标市场与客户》幻灯片通过秘书金某某传递给陈永弟，并将会议内容介绍给郭健。<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>20</SPAN>日或<SPAN>21</SPAN>日，刘科将幻灯片也发给郭健并向陈永弟汇报会议内容。据此，彩虹精化知悉深圳绿世界与嘉星国际于<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>12</SPAN>日签订合同一事。根据深圳绿世界与彩虹精化事先签订的《合作经营协议书》以及双方口头约定的“深圳绿世界保证彩虹绿世界销售净利润率不低于<SPAN>10%</SPAN>”，前述《产品销售协议》可能给彩虹绿世界创造净利润<SPAN>13,010</SPAN>万元，给彩虹精化间接创造净利润<SPAN>7,155.50</SPAN>万元，这一金额是彩虹精化<SPAN>2009</SPAN>年度经审计净利润<SPAN>3,891.28</SPAN>万元的<SPAN>1.84</SPAN>倍。上述事项可能带来彩虹精化净利润的成倍增长。彩虹精化未及时披露<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>12</SPAN>日深圳绿世界与嘉星国际签订两份《产品销售协议》可能给彩虹绿世界创造巨额利润，进而给彩虹精化间接创造巨额利润这一重大事件。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、未及时披露其子公司彩虹绿世界与深圳绿世界商谈变更合同主体事项</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>2</SPAN>月<SPAN>18</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">至<SPAN>23</SPAN>日，彩虹绿世界与深圳绿世界就合同销售主体变更事宜进行商谈。<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>18</SPAN>日，深圳绿世界与彩虹绿世界召开会议，会上提出变更合同主体一事，陈永弟、刘科等人参会。<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>21</SPAN>日，陈永弟告诉李化春<SPAN>18</SPAN>日会议的内容，并要求李化春上报深圳证券交易所（以下简称深交所）并询问是否需要停牌。<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>18</SPAN>日至<SPAN>22</SPAN>日，彩虹精化股票价格发生异常波动，<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>23</SPAN>日彩虹精化发布《股票交易异常波动公告》，称公司不存在应披露而未披露信息，故未披露彩虹绿世界正在筹划上述重大事项。<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>24</SPAN>日，彩虹精化因拟披露重大事项，向深交所提交了停牌申请，由深交所在其网站发布《关于彩虹精化股票临时停牌的公告》，公司股票于该日开市起临时停牌。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述违法事实，有相关人员询问笔录、相关会议记录、相关会议材料和彩虹精化公告等证据证明，足以认定。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">彩虹精化未及时披露深圳绿世界与嘉星国际签订总金额共计<SPAN>192,000</SPAN>万元的《产品销售协议》可能给公司生产经营带来重大影响的事件，违反了《证券法》第六十七条的规定，构成《证券法》第一百九十三条所述上市公司“未按照规定披露信息”的行为；彩虹精化<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>23</SPAN>日披露的《股票交易异常波动公告》内容与事实不符，违反了《证券法》第六十三条、第六十七条的规定，构成《证券法》第一百九十三条所述上市公司“所披露的信息有虚假记载”的行为。彩虹精化在调查期间配合较好，补充披露了有关信息，存在应当依法从轻或者减轻行政处罚的情形。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">彩虹精化董事长陈永弟是彩虹精化上述两项违法行为直接负责的主管人员。陈永弟通过刘科知晓深圳绿世界与嘉星国际签订《产品销售协议》并安排生产，但未督促彩虹精化公告该信息；陈永弟主导彩虹绿世界与深圳绿世界商谈合同销售主体变更事项，并审批了彩虹精化<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>23</SPAN>日披露的《股票交易异常波动公告》，但未指出该公告所称公司不存在应披露而未披露信息的内容与其子公司彩虹绿世界正在筹划对外直接签订销售合同的事实不符。陈永弟在调查期间配合较好。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">彩虹精化董事兼董事会秘书李化春是彩虹精化上述所披露信息有虚假记载行为的其他直接责任人员。李化春通过陈永弟知晓彩虹绿世界与深圳绿世界商谈合同销售主体变更事项，并审核了彩虹精化<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>23</SPAN>日的《股票交易异常波动公告》，但未指出该公告所称公司不存在应披露而未披露信息的内容与其子公司彩虹绿世界正在筹划对外直接签订销售合同的事实不符。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">彩虹精化监事郭健是彩虹精化上述两项违法行为的其他直接责任人员。郭健通过刘科知晓深圳绿世界与嘉星国际签订《产品销售协议》并安排生产，但未督促彩虹精化公告该信息；郭健通过陈永弟知晓彩虹绿世界与深圳绿世界商谈合同销售主体变更事项，但未督促彩虹精化公告该信息，也未指出<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>23</SPAN>日的《股票交易异常波动公告》的不当之处并督促公司更正。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">彩虹精化监事王明章是彩虹精化上述两项违法行为的其他直接责任人员。王明章参加了深圳绿世界<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>16</SPAN>日召开的市场与生产计划会，知晓深圳绿世界与嘉星国际签订《产品销售协议》并安排生产，但未督促彩虹精化公告该信息；王明章通过深圳绿世界市场部负责人陈某知晓彩虹绿世界与深圳绿世界商谈合同销售主体变更事项，但未督促彩虹精化公告该信息，也未指出<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>23</SPAN>日的《股票交易异常波动公告》的不当之处并督促公司更正。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">彩虹精化副总经理刘科是彩虹精化上述两项违法行为的其他直接责任人员。刘科在调查期间配合较好。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条以及《中华人民共和国行政处罚法》第二十七条的规定，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、对彩虹精化给予警告，并处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、对陈永弟给予警告，并处以<SPAN>20</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、对李化春给予警告，并处以<SPAN>10</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">四、对郭健、王明章给予警告，并分别处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">五、对刘科给予警告，并处以<SPAN>3</SPAN>万元罚款。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><SPAN>　　　　　　　　　　　　　　 </SPAN><SPAN>　　　　　　　　　　&nbsp;</SPAN><SPAN>　　　　　　　　　　　&nbsp; </SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><SPAN>　　&nbsp; </SPAN><SPAN>　　　</SPAN><SPAN>　&nbsp;</SPAN>&nbsp;<SPAN>　&nbsp;</SPAN><SPAN>　</SPAN>　<SPAN>　　　　　　　　　　　　&nbsp;</SPAN></SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">二○一二年五月二十四日</SPAN></P>
+<P style="LINE-HEIGHT: 16pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 16pt">&nbsp;</P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20120906_214531_ext.json

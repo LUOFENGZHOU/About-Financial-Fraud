@@ -1,0 +1,242 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（北京赛迪传媒投资股份有限公司、周江军、董立冬等10名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2015年09月17日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（北京赛迪传媒投资股份有限公司、周江军、董立冬等10名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2015〕32号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（北京赛迪传媒投资股份有限公司、周江军、董立冬等10名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2015〕32号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2015</FONT><FONT face=宋体>〕</FONT><FONT face="Times New Roman">32</FONT><FONT face=宋体>号</FONT></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN>&nbsp;</P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：北京赛迪传媒投资股份有限公司</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">已更名为南华生物医药股份有限公司，以下简称赛迪传媒），住所：湖南省长沙市天心区城南西路，时任法定代表人周江军。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">周江军，男，<FONT face="Times New Roman">1978</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月出生，时任</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">赛迪传媒董事长，住址：湖南省</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">长沙市天心区</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">董立冬，男，<FONT face="Times New Roman">1959</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月出生，时任赛迪传媒</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">总经理，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">住址：北京市海淀区</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">姜玉，男，<FONT face="Times New Roman">1957</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月出生，时任赛迪传媒</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">副董事长，住址：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">北京市朝阳区</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">黄志刚，男，<FONT face="Times New Roman">1966</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月出生，时任赛迪传媒</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">董事</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，住址：湖南省长沙市天心区</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">陆小平，男，<FONT face="Times New Roman">1963</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月出生，时任赛迪传媒</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">董事，住址：湖南省长沙市天心区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">韩志博，女，<FONT face="Times New Roman">1966</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月出生，时任赛迪传媒董事、副总经理，</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">住址：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">北京市西城区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">刘芳，女，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1975<FONT face=宋体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月出生，时任赛迪传媒</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">董事，住址：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">河北省沧州市新华区</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">刘毅，男，<FONT face="Times New Roman">1968</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月出生，时任赛迪传媒</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">财务总监，住址：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">北京市朝阳区</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">瞿佳，女，<FONT face="Times New Roman">1964</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月出生，时任赛迪传媒副总经理、</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">董事会秘书</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">住址：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">北京市西城区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对赛迪传媒信息披露违法行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。赛迪传媒信息披露违法案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，赛迪传媒存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、赛迪传媒未按照规定披露信息</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2007<FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月，经原铁道部授权，赛迪传媒主办刊物《和谐之旅》杂志获准在动车组列车上免费摆放。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年度，由《和谐之旅》产生的业务收入占赛迪传媒经审计主营业务收入的</FONT><FONT face="Times New Roman">29.65%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012<FONT face=宋体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=宋体>日，受全国</FONT><FONT face="Times New Roman">18</FONT><FONT face=宋体>个铁路局（</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">旅客列车产权局）委托，中国广告协会铁路分会（以下简称铁广协）发布《全国铁路旅客列车杂志摆放权联合招商公告》（以下简称《招商公告》），对全国铁路旅客列车车厢专用读物即杂志广告媒体的摆放权（以下简称摆放权）进行全国统一招标</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。<FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=宋体>日，赛迪传媒知悉上述摆放权招标事项。</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>日、</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日，铁广协召开推介会，明确提出参与招标并中标是杂志在动车组列车上摆放的必备前提条件，赛迪传媒派人参会并知悉该事项。赛迪传媒按期递交投标文件但未交纳保证金。</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=宋体>日，此次招标因交纳保证金企业家数不足而流标，后延期至</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>日开标。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012<FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=宋体>日，原铁道部发函废止部分宣传品在动车组列车上发行，但未写明废止发行的宣传品中是否包括《和谐之旅》。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">17</FONT><FONT face=宋体>日，赛迪传媒决定退出参与摆放权招标，并安排铁道媒体业务善后事宜；</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=宋体>日，赛迪传媒首次公开披露铁广协招标事项及其影响；</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>日，铁广协确定中标企业，赛迪传媒未能中标；</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">21</FONT><FONT face=宋体>日，赛迪传媒披露关于退出参与摆放权招标的公告。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，<FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=宋体>日《招商公告》发布，摆放权由免费上车方式变更为全国统一招标方式，使赛迪传媒生产经营的外部条件发生重大变化。此时《和谐之旅》原授权文件虽未被明文废止，但存在不参与招标就不能在列车上继续摆放的可能性，且无论中标与否，该事件都将对赛迪传媒铁道媒体业务产生重大影响，属于可能对上市公司股票交易价格产生较大影响的重大事件，赛迪传媒应当报送临时报告并予公告，但赛迪传媒直至决定退出参与招标后才披露上述事项。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上违法事实，有中国铁路总公司办公厅和铁广协提供的相关资料、铁路旅客列车杂志摆放权联合招商资料、赛迪传媒对深圳证券交易所问询函的回复文件、赛迪传媒相关会议资料、相关人员询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">赛迪传媒的上述行为违反了《证券法》第六十七条第二款第（六）项的规定，构成《证券法》第一百九十三条第一款所述“未按照规定披露信息”的情形。对赛迪传媒的上述违法行为，直接负责的主管人员为赛迪传媒时任董事长周江军、总经理董立冬、董事会秘书瞿佳</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">赛迪传媒<FONT face="Times New Roman">2012</FONT><FONT face=宋体>年年度报告未按规定披露信息且存在虚假记载</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012<FONT face=宋体>年年度报告批准报出当日，赛迪传媒董事会决定退出参与摆放权招标并安排善后事宜，其铁道媒体业务停顿已基本确定。但在</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年年度报告中，赛迪传媒仍仅披露因摆放权的统一招标导致“铁道媒体业务未来发展面临较大的不确定性”，而未披露董事会已决定退出参与招标的事实，其所披露的信息与事实不符。同时，该年度报告还存在</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">未充分披露退出参与</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">摆放权招</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">标事项对商誉资产的影响、未计提商誉减值的理由及判断依据等内容。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">赛迪传媒<FONT face="Times New Roman">2012</FONT><FONT face=宋体>年年度报告对摆放权招标事项及其影响的披露不准确、不完整。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">赛迪传媒追溯调整前的<FONT face="Times New Roman">2012</FONT><FONT face=宋体>年年度报告披露，赛迪传媒</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年末商誉</FONT><FONT face="Times New Roman">9,434.59</FONT><FONT face=宋体>万元、无形资产</FONT><FONT face="Times New Roman">8,636.41</FONT><FONT face=宋体>万元，</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年度实现净利润</FONT><FONT face="Times New Roman">114.93</FONT><FONT face=宋体>万元。在对</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年末商誉减值测试时，赛迪传媒未考虑退出参与摆放权招标事项对未来收入及盈利状况的影响，未对商誉计提减值，致使其</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年年度报告存在虚假记载。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">28<FONT face=宋体>日，</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">赛迪传媒</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">重新对商誉减值测试并追溯调整了<FONT face="Times New Roman">2012</FONT><FONT face=宋体>年年度报告</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">调减商誉</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9,434.59<FONT face=宋体>万元，</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">调减无形资产</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5,798.63<FONT face=宋体>万元</FONT><FONT face="Times New Roman">,</FONT><FONT face=宋体>共计</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">调减资产</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">15,233.22<FONT face=宋体>万元，调减资产额占当期披露</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">资产额</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">的<FONT face="Times New Roman">200.28%</FONT><FONT face=宋体>。由于</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">调减资产，赛迪传媒相应调增资产减值损失</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">15,233.22<FONT face=宋体>万元，其净利润由盈利</FONT><FONT face="Times New Roman">114.93</FONT><FONT face=宋体>万元调减为亏损</FONT><FONT face="Times New Roman">15,118.29</FONT><FONT face=宋体>万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上违法事实，有赛迪传媒相关会议资料、赛迪传媒对深圳证券交易所问询函的回复文件、利安达会计师事务所出具的赛迪传媒审计报告（<FONT face="Times New Roman">2012</FONT><FONT face=宋体>年度）以及赛迪传媒会计差错更正专项说明、相关人员询问笔录等证据证明，足以认定。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">赛迪传媒的上述行为违反了《证券法》第六十三条关于上市公司依法披露的信息必须真实、准确、完整，不得有虚假记载的规定，构成《证券法》第一百九十三条第一款所述“所披露的信息有虚假记载”的情形。对赛迪传媒的上述违法行为，直接负责的主管人员为时任董事长周江军、总经理董立冬、财务总监刘毅，其他直接责任人员为时任董事姜玉、黄志刚、陆小平、韩志博、刘芳，董事会秘书瞿佳。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、对赛迪传媒给予警告，并处以<FONT face="Times New Roman">40</FONT><FONT face=宋体>万元罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、对周江军、董立冬给予警告，并分别处以<FONT face="Times New Roman">10</FONT><FONT face=宋体>万元罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">三、对姜玉、黄志刚、陆小平、韩志博、刘芳、刘毅、瞿佳给予警告，并分别处以<FONT face="Times New Roman">5</FONT><FONT face=宋体>万元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=宋体>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=宋体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=宋体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN>&nbsp;</P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 中国证监会</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;2015年9月17日</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN>&nbsp;</P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</o:p></SPAN></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20151023_285444_ext.json

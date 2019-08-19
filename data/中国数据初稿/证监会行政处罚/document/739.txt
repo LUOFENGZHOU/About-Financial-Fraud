@@ -1,0 +1,247 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（华南期货、姜雪、张海涛）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-01958</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年04月16日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（华南期货、姜雪、张海涛）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2009]12号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>期货 期货交易所 账户 保证金</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（华南期货、姜雪、张海涛）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2009]12号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1248510423156'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1248510423156 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248510423156 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248510423156 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248510423156 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248510423156 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+
+--**/</style>
+<P class=Custom_UnionStyle align=center><SPAN><FONT face=黑体><FONT style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt">[2009]</SPAN><SPAN style="FONT-SIZE: 12pt">12</SPAN>号</FONT></FONT></SPAN></P>
+<P class=Custom_UnionStyle>&nbsp;</P>
+<P class=Custom_UnionStyle><SPAN>当事人：华南期货经纪有限公司（以下简称华南期货），住所：广东省广州市天河区体育西路<SPAN>111</SPAN>号，法定代表人姜雪。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>姜雪，女，<SPAN>1966</SPAN>年<SPAN>9</SPAN>月出生，时任华南期货董事长，住址：广东省深圳市福田区福强路云顶翠峰<SPAN>3</SPAN>弄<SPAN>13D</SPAN>。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>张海涛，男，<SPAN>1969</SPAN>年<SPAN>2</SPAN>月出生，时任华南期货总经理，住址：广东省广州市体育西路西雅苑天英阁<SPAN>1205</SPAN>室。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>日前，华南期货挪用客户保证金一案已由我会调查、审理完毕。我会依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人华南期货进行了陈述和申辩，应当事人姜雪、张海涛的要求举行了听证会，听取了姜雪及其代理人、张海涛的陈述和申辩。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>经查明，华南期货存在以下挪用客户保证金的行为：</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2005</SPAN><SPAN>年<SPAN>1</SPAN>月<SPAN>11</SPAN>日</SPAN><SPAN>，华南期货通过网上银行从中国工商银行广州市第一支行保证金账户（账号<SPAN>3602000109000090759</SPAN>）划款<SPAN>400</SPAN>万元至中国建设银行广州天河支行自有资金账户（账号<SPAN>44001581301050304233</SPAN>，以下简称<SPAN>4233</SPAN>账户）。次日，华南期货将该<SPAN>400</SPAN>万元从<SPAN>4233</SPAN>账户划至深圳市林木贸易有限公司（以下简称深圳林木公司）在深圳市商业银行深圳湾支行的账户。华南期货在划款之时，并无可供划转的<SPAN>400</SPAN>万元自有资金，上述行为构成了挪用客户保证金。之后，华南期货又多次在保证金存在缺口的情况下从保证金账户向外划款。直至<SPAN>2005</SPAN>年<SPAN>10</SPAN>月，在监管部门的监管压力下，华南期货的保证金缺口问题才得以解决。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述事实，有相关情况说明、授权书、交易所对账单、银行存款明细账、银行对账单、结算资料及当事人询问笔录等证据在案证明，足以认定。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>华南期货的上述行为，违反了《期货交易管理暂行条例》（以下简称《期货暂行条例》）第三十六条“期货经纪公司向客户收取的保证金，属于客户所有；期货经纪公司除按照中国证监会的规定为客户向期货交易所交存保证金、进行交易结算外，严禁挪作他用”的规定，构成了《期货暂行条例》第六十条所述“挪用客户保证金”的行为。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>对华南期货上述挪用客户保证金的违法行为，时任华南期货董事长姜雪和总经理张海涛是直接负责的主管人员。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>华南期货和姜雪在申辩材料中称：（一）<SPAN>2005</SPAN>年<SPAN>1</SPAN>月<SPAN>11</SPAN>日华南期货的<SPAN>400</SPAN>万元划款属于上海期货交易所、大连商品交易所、郑州商品交易所等三家期货交易所给深圳林木公司的交易手续费返还，不属于挪用客户保证金；（二）<SPAN>2005</SPAN>年<SPAN>1</SPAN>月<SPAN>11</SPAN>日华南期货可从保证金账户划出资金余额为<SPAN>5,093,541.27</SPAN>元，没有超过当时公司可从保证金账户划出资金余额，该笔划款不属于挪用客户保证金。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>经查，（一）深圳林木公司<SPAN>2004</SPAN>年实际支付手续费<SPAN>1,946,193</SPAN>元，截至<SPAN>2005</SPAN>年<SPAN>1</SPAN>月<SPAN>10</SPAN>日，深圳林木公司已收到手续费返还<SPAN>1,035,646</SPAN>元，保证金余额只有<SPAN>315,326</SPAN>元，不可能再有<SPAN>400</SPAN>万元的手续费返还。三家期货交易所的统计显示，<SPAN>2004</SPAN>年<SPAN>1</SPAN>月至<SPAN>2005</SPAN>年<SPAN>1</SPAN>月<SPAN>10</SPAN>日，三家期货交易所共向华南期货返还手续费<SPAN>2,126,710.94</SPAN>元。因此，当事人称<SPAN>400</SPAN>万元划款属于期货交易所给深圳林木公司的交易手续费返还没有事实依据；（二）华南期货报送的监管报表显示，截至<SPAN>2004</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日，华南期货在保证金账户中的自有资金为<SPAN>877,961.14</SPAN>元。但根据三家期货交易所关于期货公司必须以自有资金在交易所交存<SPAN>50</SPAN>万元最低结算准备金的规定，扣除必须交存三家期货交易所的<SPAN>150</SPAN>万元最低结算准备金，华南期货实际可划转的自有资金为<SPAN>-622,038.86</SPAN>元。加上<SPAN>2005</SPAN>年<SPAN>1</SPAN>月<SPAN>1</SPAN>日至<SPAN>10</SPAN>日期货交易所返还的手续费<SPAN>28,127.70</SPAN>元，<SPAN>2005</SPAN>年<SPAN>1</SPAN>月<SPAN>11</SPAN>日华南期货可从保证金账户中划转金额为<SPAN>-593,911.16</SPAN>元。因此，华南期货所谓没有超出当时公司可从保证金账户划出资金余额的申辩理由不能成立。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>张海涛在申辩材料中称：对华南期货<SPAN>2005</SPAN>年<SPAN>1</SPAN>月<SPAN>11</SPAN>日的<SPAN>400</SPAN>万元划款，不知当时是什么人、为什么划转，并称将尽快向有关人员了解当时的实际情况及划款用途后予以说明。张海涛后又称虽然没有找到调款指令单，但经了解，该笔划款应属于手续费收入的划转。基于前述查明的情况，张海涛的申辩理由也不能成立。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《期货暂行条例》第六十条的规定，我会决定：</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>一、对华南期货给予警告，并处以<SPAN>10</SPAN>万元的罚款；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>二、对姜雪给予警告，并处以<SPAN>5</SPAN>万元的罚款；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>三、对张海涛给予警告，并处以<SPAN>3</SPAN>万元的罚款。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P class=Custom_UnionStyle align=right><SPAN>中国证券监督管理委员会</SPAN><SPAN></SPAN><SPAN><SPAN>&nbsp;</SPAN></SPAN></P>
+<P class=Custom_UnionStyle align=right><SPAN><SPAN></SPAN></SPAN><SPAN>二○○九年四月十六日</SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20090520_104799_ext.json

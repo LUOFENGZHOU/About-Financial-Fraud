@@ -1,0 +1,235 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（柳宏）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2013年12月11日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（柳宏）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2013〕73号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（柳宏）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2013〕73号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">73</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：柳宏，男，<FONT face="Times New Roman">1955</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>月出生，北京好友谊缘投资咨询有限公司法人代表，住址：北京市西城区月坛北街。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对柳宏操纵市场案进行了立案调查、审理，并依法向当事人柳宏履行了告知程序。应柳宏的要求，我会举行了听证会，听取了柳宏的陈述和申辩。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，柳宏存在如下违法事实：</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏<FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=方正仿宋简体>日操作</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">等<FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>个账户（以下简称</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户组）交易北京捷成世纪科技股份有限公司（以下简称捷成股份）股票的行为构成操纵市场。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“柳宏”账户组具有较大资金优势和持股优势。</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户组在<FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>日期间，</FONT><FONT face="Times New Roman">75%</FONT><FONT face=方正仿宋简体>的交易日（</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>天）买入</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">成交占该股票的比例超过<FONT face="Times New Roman">10%</FONT><FONT face=方正仿宋简体>，单日最大资金投入量达到</FONT><FONT face="Times New Roman">761.67</FONT><FONT face=方正仿宋简体>万，该日买入成交占比达到</FONT><FONT face="Times New Roman">44.45%</FONT><FONT face=方正仿宋简体>；该账户组持股</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">占比由<FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日收盘后的</FONT><FONT face="Times New Roman">7.91%</FONT><FONT face=方正仿宋简体>增加至</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>日的</FONT><FONT face="Times New Roman">12.85%</FONT><FONT face=方正仿宋简体>；其中</FONT><FONT face="Times New Roman">66%</FONT><FONT face=方正仿宋简体>的交易日（</FONT><FONT face="Times New Roman">16</FONT><FONT face=方正仿宋简体>天）持流通股比例超过</FONT><FONT face="Times New Roman">10%</FONT><FONT face=方正仿宋简体>。上述事实证明，当时柳宏能够对</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的交易进行操纵。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、“柳宏”账户组的交易中存在连续大额买卖和大量对倒，人为推高价格、影响交易量的行为</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正楷体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（一）以买入为主的交易阶段</SPAN><SPAN style="FONT-FAMILY: '方正楷体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>日共</FONT><FONT face="Times New Roman">24</FONT><FONT face=方正仿宋简体>个交易日中，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户组以买入</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">为主，累计买入约<FONT face="Times New Roman">247.26</FONT><FONT face=方正仿宋简体>万股，成交金额</FONT><FONT face="Times New Roman">7854.68</FONT><FONT face=方正仿宋简体>万元，占市场同期买入量的</FONT><FONT face="Times New Roman">21.19</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">%</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">；<FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>日，单日买入量占该股市场交易量最大达到</FONT><FONT face="Times New Roman">55.99</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">%</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，净买入约<FONT face="Times New Roman">138.27</FONT><FONT face=方正仿宋简体>万股。柳宏当时申报买入价格往往较大幅度高于当时的市场成交价格，其推高意图明显。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>日共</FONT><FONT face="Times New Roman">24</FONT><FONT face=方正仿宋简体>个交易日中，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户组共有<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>个交易日存在对倒交易。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户组日对倒量占同日</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">市场总成交量的比例在<FONT face="Times New Roman">5%</FONT><FONT face=方正仿宋简体>以上的，占总对倒天数的</FONT><FONT face="Times New Roman">53.33%</FONT><FONT face=方正仿宋简体>：其中，日对倒量占同日市场总成交量的比例在</FONT><FONT face="Times New Roman">5%—10%</FONT><FONT face=方正仿宋简体>的，占总对倒天数的</FONT><FONT face="Times New Roman">40%</FONT><FONT face=方正仿宋简体>；日对倒量占同日市场总成交量的比例在</FONT><FONT face="Times New Roman">10%</FONT><FONT face=方正仿宋简体>以上的，占总对倒天数的</FONT><FONT face="Times New Roman">13.33%</FONT><FONT face=方正仿宋简体>。大量的对倒形成虚假交易量，造成买卖活跃的假象，引诱他人买卖。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正楷体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（二）</SPAN><SPAN style="FONT-FAMILY: '方正楷体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以卖出为主的交易阶段</SPAN><SPAN style="FONT-FAMILY: '方正楷体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">自<FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=方正仿宋简体>日共</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>个交易日中，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户组以卖出</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">为主，累计卖出约<FONT face="Times New Roman">287.48</FONT><FONT face=方正仿宋简体>万股，占市场同期卖出量的</FONT><FONT face="Times New Roman">55.04%</FONT><FONT face=方正仿宋简体>，其中后</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>个交易日单日卖出量占市场交易量分别达</FONT><FONT face="Times New Roman">33.36%</FONT><FONT face=方正仿宋简体>、</FONT><FONT face="Times New Roman">61.45%</FONT><FONT face=方正仿宋简体>、</FONT><FONT face="Times New Roman">68.70%</FONT><FONT face=方正仿宋简体>。持股占流通股比例由</FONT><FONT face="Times New Roman">12.69%</FONT><FONT face=方正仿宋简体>减少至</FONT><FONT face="Times New Roman">3.02%</FONT><FONT face=方正仿宋简体>，持股占总股本比例由</FONT><FONT face="Times New Roman">3.21%</FONT><FONT face=方正仿宋简体>减少至</FONT><FONT face="Times New Roman">0.76%</FONT><FONT face=方正仿宋简体>。大量减持行为证明，推高价格意在卖出。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户组存在对倒交易。该日对倒量占同日账户组交易量的比例为<FONT face="Times New Roman">56.26%</FONT><FONT face=方正仿宋简体>，该日对倒量占同期市场总成交量的比例为</FONT><FONT face="Times New Roman">4.56%</FONT><FONT face=方正仿宋简体>。这证明当事人对倒掩护卖出。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、“柳宏”账户组的交易行为影响了捷成股份交易量和股票价格，致使同期“捷成股份”股票涨幅与大盘涨幅、同板块涨幅背离明显</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">自<FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>日，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户组大量连续买入</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">股票，致使股价从<FONT face="Times New Roman">28</FONT><FONT face=方正仿宋简体>元上涨至</FONT><FONT face="Times New Roman">35.98</FONT><FONT face=方正仿宋简体>元，涨幅为</FONT><FONT face="Times New Roman">28.5</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">%</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。在此阶段，同期行业指数（<FONT face="Times New Roman">399170</FONT><FONT face=方正仿宋简体>）涨幅为</FONT><FONT face="Times New Roman">4.79%</FONT><FONT face=方正仿宋简体>，深圳成指数（</FONT><FONT face="Times New Roman">399001</FONT><FONT face=方正仿宋简体>）涨幅为</FONT><FONT face="Times New Roman">6.2%</FONT><FONT face=方正仿宋简体>。</FONT><FONT face="Times New Roman">“</FONT><FONT face=方正仿宋简体>捷成股份</FONT><FONT face="Times New Roman">”</FONT><FONT face=方正仿宋简体>股票价格涨幅与同行业指数偏离度达</FONT><FONT face="Times New Roman">23.71%</FONT><FONT face=方正仿宋简体>，与深圳成指偏离度达</FONT><FONT face="Times New Roman">22.3%</FONT><FONT face=方正仿宋简体>。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">自<FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=方正仿宋简体>日，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户组大量卖出</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">股票，致使股价从<FONT face="Times New Roman">35.6</FONT><FONT face=方正仿宋简体>元降低至</FONT><FONT face="Times New Roman">32.72</FONT><FONT face=方正仿宋简体>元，跌幅为</FONT><FONT face="Times New Roman">8.09%</FONT><FONT face=方正仿宋简体>。在此阶段，同期行业指数涨幅为</FONT><FONT face="Times New Roman">0.5%</FONT><FONT face=方正仿宋简体>，深圳成指涨幅为</FONT><FONT face="Times New Roman">0.6%</FONT><FONT face=方正仿宋简体>。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">股票价格跌幅与同行业指数偏离度达<FONT face="Times New Roman">8.59%</FONT><FONT face=方正仿宋简体>，与深圳成指偏离度达</FONT><FONT face="Times New Roman">8.69%</FONT><FONT face=方正仿宋简体>。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人柳宏控制并使用</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">等<FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>个账户操纵</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">股票，利用较大的资金优势、持股优势连续进行买卖，接近<FONT face="Times New Roman">2/3</FONT><FONT face=方正仿宋简体>的交易日存在对倒行为。柳宏操纵市场的意图明显，其行为严重影响了股票价格与交易量，导致同期</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">股票涨幅与大盘涨幅、同板块涨幅显著背离。柳宏的上述行为违反了《证券法》第七十七条的规定，构成《证券法》第二百零三条所述操纵证券市场的情形。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述违法事实，有相关人员询问笔录、相关交易记录等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 27.75pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">柳宏在听证会上提出：第一，<FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>个涉案账户中有</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>个账户不由自己操作；第二，其主观上没有操纵市场的故意，交易特征上也体现不出操纵市场的故意；第三，其积极配合调查，希望能够减轻处罚。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 27.75pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，根据现有证据，柳宏具有操纵市场的主观故意，其陈述申辩意见不成立。但柳宏积极配合调查，操纵市场的主观恶性较小、认错态度较好，且交易</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">捷成股份</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">股票亏损严重。柳宏的上述情形，属于《行政处罚法》第二十七条规定的应当依法从轻、减轻行政处罚的情形，对此我会已经在量罚时予以考虑。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零三条的规定，我会决定：对柳宏处以<FONT face="Times New Roman">150</FONT><FONT face=方正仿宋简体>万元罚款。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=方正仿宋简体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=方正仿宋简体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会　&nbsp; </SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2013<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>日</FONT></SPAN></P><!--{PS..0}--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20140124_243102_ext.json

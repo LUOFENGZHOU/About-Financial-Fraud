@@ -1,0 +1,224 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（中勤万信及陈明生、李艳敏）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2007-05255</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2007年09月24日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（中勤万信及陈明生、李艳敏）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>证监罚字[2007]27号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（中勤万信及陈明生、李艳敏）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">证监罚字[2007]27号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 29pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　&nbsp; <SPAN style="FONT-SIZE: 10.5pt; COLOR: black">证监罚字<SPAN style="FONT-SIZE: 10.5pt">[2007]27</SPAN>号</SPAN></FONT></FONT></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 29pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：中勤万信会计师事务所有限公司（以下简称“中勤万信”），住所：北京西直门外大街<SPAN style="FONT-SIZE: 10.5pt">110</SPAN>号中糖大厦<SPAN style="FONT-SIZE: 10.5pt">11F</SPAN>。法定代表人：张金才。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>陈明生，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年出生，中勤万信注册会计师，住址：北京市西城区三里河南三巷<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>李艳敏，女，<SPAN style="FONT-SIZE: 10.5pt">1978</SPAN>年出生，中勤万信注册会计师，住址：呼和浩特市新城区内蒙古物资学校集体户。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，闽越花雕股份有限公司（以下简称闽越花雕）通过少提坏账准备、虚构交易、少计利息等方式，在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年度报告中虚假记载利润<SPAN style="FONT-SIZE: 10.5pt">48,277,258.86</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>中勤万信会计师事务所有限公司（以下简称中勤万信）在执行闽越花雕<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年财务报告的审计业务时，对部分审计项目没有保持应有的职业谨慎，导致对会计报表存在的重大错误、漏报未能提请闽越花雕进行调整或发表恰当的审计意见。具体为：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、对闽越花雕对拟置换出去的应收款项坏账准备的计提方法由原来的账龄分析法改为按个别认定法计提造成的会计估计变更未按有关会计准则规定在附注中进行披露事项，中勤万信没有保持应有的合理的谨慎，未能提请闽越花雕进行调整或发表恰当的审计意见；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、在审核上海福联国际贸易有限公司（以下简称上海福贸）其他应收款账龄时，没有保持应有的合理的谨慎，对公司会计报表存在的错误未能揭示出来；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、在审核闽越花雕<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年应计贷款利息支出时，未保持应有的合理的谨慎，对公司错误地按未逾期贷款利率计提利息未能予以揭示。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>以上事实有中勤万信出具的闽越花雕<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年审计报告，有关书面说明，审计业务约定书，闽越花雕及有关企业的有关财务账页、凭证，有关审计工作底稿，闽越花雕<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报，调查人员与有关人员谈话的笔录等证据证明。证据确实充分，足以认定。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>中勤万信的上述行为，违反了《股票发行与交易管理暂行条例》（以下简称《股票条例》）第三十五条的规定，构成了《股票条例》第七十三条所述的“出具的文件有虚假、严重误导性内容或者有重大遗漏”的行为。对上述行为负有直接责任的人员为在闽越花雕<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年审计报告中签字的注册会计师陈明生、李艳敏。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>中勤万信、陈明生、李艳敏在陈述申辩中提出：<SPAN style="FONT-SIZE: 10.5pt">1.</SPAN>对第一项所涉及的会计制度理解有偏差；<SPAN style="FONT-SIZE: 10.5pt">2.</SPAN>第二项上海福贸其他应收款采用的是个别认定法而不是账龄分析法计提坏账准备，虽然公司对其账龄划分有误，但不影响坏账准备计提金额；<SPAN style="FONT-SIZE: 10.5pt">3.</SPAN>对第三项银行存款按正常利率与逾期利率进行测算后两者相差金额较小，因此未建议公司调整。经审理，陈述申辩意见第<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>点不构成免责理由。对于第<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>点申辩意见，我会认为，上海福贸是闽越花雕的并表子公司，闽越花雕置换给上海福贸的<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>年账龄以上的其他应收款并表后仍为闽越花雕的债权，中勤万信同时给闽越花雕和上海福贸进行审计，但对上海福贸从其控股公司闽越花雕置换进来的其他应收款账龄未保持合理的谨慎，未对账龄不合理的改变予以揭示，违反了审计准则的有关规定。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据《股票条例》第七十三条的规定，我会决定：对中勤万信、陈明生、李艳敏分别给予警告。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 28.5pt; LINE-HEIGHT: 31pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人如果对本处罚决定不服，可在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会提出行政复议，也可以在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 31pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 8cm; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　　　　 中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 28pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">　&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">二○○七年九月二十四日</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 6.2pt; LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100304_177907_ext.json

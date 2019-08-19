@@ -1,0 +1,242 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书(联合证券有限责任公司、黎海祥、李迅冬)</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2013年04月10日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书(联合证券有限责任公司、黎海祥、李迅冬)</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2013〕24号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书(联合证券有限责任公司、黎海祥、李迅冬)";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2013〕24号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">24</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券有限责任公司（以下简称联合证券）</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">云南绿大地生物科技股份有限公司（以下简称绿大地）发行上市的保荐机构。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0.84pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">黎海祥，男，<FONT face="Times New Roman">1963</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>日出生，联合证券保荐代表人，绿大地招股说明书及上市保荐书签字保荐代表人，住址：广东省深圳市福田区。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">李迅冬，男，<FONT face="Times New Roman">1972</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>日出生，联合证券保荐代表人，绿大地招股说明书及上市保荐书签字保荐代表人，住址：广东省深圳市罗湖区。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券在绿大地欺诈发行上市时未勤勉尽责的行为</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人联合证券未</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">提出陈述、申辩意见，也未要求听证；</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">黎海祥在法定期限内</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">未</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">提出陈述、申辩意见，也未要求听证；</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">李迅冬提出了陈述、申辩</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">意见，未要求听证。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券在绿大地欺诈发行上市时未勤勉尽责，未发现绿大地在招股说明书中编造虚假资产、虚假业务收入。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">违法事实如下：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券对绿大地招股说明书进行了核查。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">司法机关认定，绿大地在招股说明书中编造虚假资产、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚假业务收入。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">绿大地编造虚假资产、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚假业务收入的金额巨大，性质严重。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">由于未对土地使用权完整地进行核实，联合证券未发现绿大地在招股说明书中编造虚假资产</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2004<FONT face=方正仿宋简体>年，绿大地受让云南省曲靖市马龙县旧县镇旧县村</FONT><FONT face="Times New Roman">960</FONT><FONT face=方正仿宋简体>亩荒山使用权。绿大地招股说明书显示，上述荒山使用权原值</FONT><FONT face="Times New Roman">9,552,000</FONT><FONT face=方正仿宋简体>元。绿大地提供的合同书显示，绿大地支付上述荒山使用权受让款</FONT><FONT face="Times New Roman">9,552,000</FONT><FONT face=方正仿宋简体>元。云南省曲靖市马龙县旧县镇旧县村村委会提供的合同书显示，绿大地支付上述荒山使用权受让款</FONT><FONT face="Times New Roman">400,000</FONT><FONT face=方正仿宋简体>元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2005<FONT face=方正仿宋简体>年，绿大地受让云南省曲靖市马龙县马鸣乡马鸣村</FONT><FONT face="Times New Roman">3,500</FONT><FONT face=方正仿宋简体>亩荒山使用权。绿大地招股说明书显示，上述荒山使用权原值</FONT><FONT face="Times New Roman">3,360,000</FONT><FONT face=方正仿宋简体>元。绿大地提供的合同显示，绿大地支付上述荒山使用权受让款</FONT><FONT face="Times New Roman">3,360,000</FONT><FONT face=方正仿宋简体>元。上述荒山使用权转让方证明，绿大地支付实际支付上述荒山使用权受让款</FONT><FONT face="Times New Roman">825,000</FONT><FONT face=方正仿宋简体>元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券的保荐代表人未去当地土地管理部门核实绿大地受让上述荒山土地使用权的情况</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">由于未对土地使用权完整地进行核实，联合证券未发现绿大地在招股说明书中编造虚假资产。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、由于未对有关关联关系足够关注，联合证券未发现绿大地在招股说明书中编造虚假资产、</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚假业务收入</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">司法机关认定，为促使绿大地发行股票并上市，绿大地相关人员注册了一批由绿大地实际控制或者掌握银行账户的关联公司，并利用相关银行账户操控资金流转，采用伪造合同、发票、工商登记、资料等手段，达到少付多列、将款项支付给其控制的公司、虚构交易业务、虚增资产、虚增收入等。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券保荐底稿显示：绿大地分别于<FONT face="Times New Roman">2002</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>日与昆明自由空间园艺有限责任公司签订《全面营销战略合作协议》、《全面营销战略合作协议补充协议（</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>）》、《关于全面营销战略合作协议的补充协议》，徐丹宁代表昆明自由空间园艺有限责任公司签字。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券保荐底稿显示：<FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">14</FONT><FONT face=方正仿宋简体>日，时任绿大地</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">董事会秘书徐云葵在填写上市公司高级管理人员声明及承诺书中说明徐丹宁为其妹妹。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查，昆明自由空间园艺有限责任公司成立于<FONT face="Times New Roman">2002</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">由于未对有关关联关系足够关注，联合证券未发现绿大地在招股说明书中编造虚假资产、虚假业务收入。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、由于未对绿大地提供的销售客户和供应商的工商信息完整地进行核实，联合证券未发现绿大地在招股说明书中编造虚假资产、虚假业务收入</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">绿大地招股说明书披露的销售客户和供应商昆明自由空间园艺有限责任公司、昆明鑫景园艺工程有限公司、昆明祥佑旅游开发有限公司、昆明五华花卉经贸公司、昆明滇文卉园艺有限公司、昆明天绿园艺有限公司的部分工商信息与实际情况不一致，联合证券未对绿大地提供的上述销售客户和供应商的工商信息完整地进行核实。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">由于未对绿大地提供的上述销售客户和供应商的工商信息完整的进行核实，联合证券未发现绿大地在招股说明书中编造虚假资产、虚假业务收入。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券的保荐工作不符合中国证监会《首次公开发行股票并上市管理办法》第五十五条关于保荐人及其保荐代表人应当对招股说明书的真实性、准确性、完整性进行核查的规定。联合证券未按规定编制、保存相关工作底稿，联合证券的上述做法不符合中国证监会《保荐人尽职调查工作准则》第七条关于工作底稿应当真实、准确、完整地反映尽职调查工作的规定。联合证券的上述行为违反了《证券法》第十一条关于</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">保荐人应当遵守业务规则和行业规范，诚实守信，勤勉尽责，对发行人的申请文件和信息披露资料进行审慎核查</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的规定。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">对上述违法行为</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">直接负责的主管人员</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">为在招股说明书上签字的保荐代表人黎海祥、李迅冬。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以上违法事实，有</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">司法机关认定文件</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">、招股说明书、相关工作底稿、相关人员谈话笔录等证据证明，</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">足以认定</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">李迅冬在陈述、申辩</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">意见中提出，</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">保荐代表人对绿大地相关土地使用权进行了核查，对绿大地有关关联关系进行了核查，保荐代表人对绿大地客户和供应商工商信息的核查未违反相关法律法规。根据相关事实和证据，</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，由于未对土地使用权完整地进行核实，联合证券未发现绿大地在招股说明书中编造虚假资产；由于未对有关关联关系足够关注，联合证券未发现绿大地在招股说明书中编造虚假资产、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">虚假业务收入；由于未对绿大地提供的销售客户和供应商的工商信息完整地进行核实，联合证券未发现绿大地在招股说明书中编造虚假资产、虚假业务收入。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">因此，我会对于</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券在绿大地欺诈发行上市时未勤勉尽责，未发现绿大地在招股说明书中编造虚假资产、虚假业务收入</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的认定事实清楚、证据充分。综上所述，我会对</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">李迅冬</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的申辩意见不予采纳。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">《证券法》</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">第一百九十二条</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的规定，我会决定：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">没收</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">联合证券</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">业务收入</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">1200<FONT face=方正仿宋简体>万</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">元</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，并处以</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">1200<FONT face=方正仿宋简体>万</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">元</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">罚款。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">鉴于联合证券已于<FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年与其大股东华泰证券股份有限公司进行了业务整合，已更名为华泰联合证券有限责任公司，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述罚没款由</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">华泰联合证券有限责任公司支付。由于</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">云南省公安厅经济犯罪侦查总队扣押了联合证券的<FONT face="Times New Roman">1200</FONT><FONT face=方正仿宋简体>万</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">元</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">收入</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，中国证监会在执行时扣除</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">云南省公安厅经济犯罪侦查总队扣押的款项，如果云南省公安厅经济犯罪侦查总队发还上述款项，中国证监会将予以追缴</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、对</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">黎海祥、李迅冬给予警告，并分别处以<FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>万元罚款，撤销黎海祥、李迅冬保荐代表人资格和证券从业资格。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=方正仿宋简体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=方正仿宋简体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: bold; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2013</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">4</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">10</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 15pt; mso-spacerun: 'yes'">　　　&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 15pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20130726_231830_ext.json

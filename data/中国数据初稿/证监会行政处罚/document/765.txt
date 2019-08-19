@@ -1,0 +1,258 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（河北证券武铁锁等8名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-04463</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年07月31日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（河北证券武铁锁等8名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]38号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>证券 结算 挪用 营业部</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（河北证券武铁锁等8名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]38号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1247119992515'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1247119992515 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119992515 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119992515 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119992515 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119992515 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=17 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>[2008]38号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=16><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN class=15 style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt">当事人：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt">武铁锁，男，1953年6月出生，时任河北证券有限责任公司（以下简称河北证券）董事长，住址：河北省石家庄市新华区北合街2号2栋1单元103号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>谢春民，男，1953年2月出生，时任河北证券副总经理，住址：河北省石家庄市新华区合作路389号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>唐乾山，男，1964年10月出生，时任河北证券财务中心主任，住址：湖南省桃江县松木塘镇建设路冶炼村28栋。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>王树江，男，1963年10月出生，时任河北证券唐山新华西道营业部总经理，住址：河北省唐山市唐山路北区天元花园。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>李彦彬，男，1955年4月出生，时任河北证券总裁助理兼上海营业部总经理，住址：河北省秦皇岛市海港区迎秋里31栋2单元402室。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>王志刚，男，1958年2月出生，时任河北证券保定向阳南路营业部总经理，住址：河北省保定市南市区南关大街银行宿舍4单元401号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>周天雷，男，1966年4月出生，时任河北证券青岛福州南路营业部总经理，住址：河北省唐山市路北区河苗里4楼6门202号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>刘东辉，男，1967年3月出生，时任河北证券北京首体南路营业部总经理，住址：河北省石家庄市桥东区休门街13号11栋2单元201。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据原《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对河北证券违反证券法律法规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，并应当事人的要求举行了听证会。本案现已调查、审理终结。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，河北证券及其营业部存在以下违法事实：</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>一、河北证券挪用客户交易结算资金</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>自2002年1月14日至2005年12月31日，河北证券累计挪用客户交易结算资金570,458,763.15元。其中：河北证券直接挪用客户交易结算资金291,559,130.11元，2002年以前历史遗留占用客户交易结算资金99,700,000.00元，涉嫌个人犯罪挪用93,000,000.00元，透支占用86,199,633.04元。截至2006年1月13日，河北证券客户交易结算资金缺口数为3.47亿元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>二、河北证券保定向阳南路营业部融资交易</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>从1999年10月26日至2005年12月31日，河北证券保定向阳南路营业部存在为客户北京永昊公司证券交易融资的行为，融资金额24,619,623元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>三、河北证券青岛福州南路营业部融资交易、假借他人或个人名义进行自营以及透支挪用客户交易结算资金</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>从2003年2月18日至2003年12月22日，河北证券青岛福州南路营业部存在为客户卢文杞证券交易融资的行为。2003年12月22日，最高融资额达4,662,434.26元。2003年12月23日至2005年1月27日，河北证券青岛福州南路营业部利用杨伟的账户以透支的方式进行自营，存在假借他人或个人名义进行自营的行为。2004年4月16日，最大透支额达7,966,485.37元。截至2005年12月31日，杨伟的账户中透支4,326,515.91元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>四、河北证券北京首体南路营业部融资交易、承诺保底收益、假借他人或个人名义进行自营，以及透支挪用客户交易结算资金</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（一）营业部通过相关账户为客户证券交易提供资金。2000年2月15日至2005年12月31日，河北证券北京首体南路营业部存在为客户证券交易融资的行为。截至2005年12月31日，共向14名客户提供融资，金额40,688,814.22元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（二）承诺保底收益问题。从1998年7月31日至2004年8月4日，河北证券北京首体南路营业部共5次与北京博尔节能技术开发有限责任公司签订国债投资合作协议，约定金额2次8,000,000.00元、约定年回报率9.6%；3次10,000,000.00元、约定年回报率7.6%，存在承诺收益的行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（三）假借他人或个人名义进行自营的问题。河北证券北京首体南路营业部自2002年7月4日、2002年7月10日、2002年8月5日起分别在三个资金账户下挂个人股东账户进行自营，存在假借他人或个人名义进行自营的行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>截至2005年12月31日，河北证券北京首体南路营业部华船账户等共计透支占用客户交易结算资金23,847,314.34元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述违法事实，有相应的资金划拨申请表、客户交易结算资金账户资料、担保合同、存款账户资料等证据证明，足以认定。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>时任董事长武铁锁是河北证券挪用客户交易结算资金等违法行为直接负责的主管人员；时任副总经理谢春民、时任财务中心主任唐乾山、时任河北证券唐山新华西道营业部总经理王树江、时任总裁助理兼河北证券上海营业部总经理李彦彬参与了河北证券挪用客户交易结算资金的违法行为，是其他责任人员；时任河北证券廊坊新华路证券营业部总经理孙宏光挪用客户资金，是对营业部挪用客户资金直接负责的主管人员；时任河北证券保定向阳南路营业部总经理王志刚是对营业部融资交易直接负责的主管人员；时任河北证券青岛福州南路营业部总经理周天雷是对营业部融资交易、透支挪用客户交易结算资金直接负责的主管人员；时任河北证券北京首体南路营业部总经理刘东辉是对营业部融资交易、承诺保底收益、假借他人或个人名义进行自营以及透支挪用客户交易结算资金直接负责的主管人员。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>谢春民、李彦彬、刘东辉在听证及申辩材料中提出减轻或免予行政处罚理由。王树江提交申辩材料。经审理，我会认为，谢春民确有一定消除和减轻河北证券违法行为危害后果的行为，应承担一定违法责任，但责任较轻；王树江、李彦彬所提申辩理由不成立；刘东辉确有事后积极减轻违法行为危害后果的事实，依法予以采纳，但不足以免除其行政违法责任。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>河北证券及其营业部的前述违法行为，违反了原《证券法》第一百三十二条、第一百四十一条以及第一百四十三条的规定，构成了原《证券法》第一百八十六条所述“证券公司违反本法规定，……为客户融资买入证券”、第一百九十一条所述“综合类证券公司违反本法规定，假借他人名义或者以个人名义从事自营业务”、第一百九十三条所述“证券公司、证券登记结算机构及其从业人员，……挪用客户账户上的资金”、第一百九十四条所述“证券公司经办经纪业务，……对客户买卖证券的收益或者赔偿证券买卖的损失作出承诺”的行为。根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百八十六条、第一百九十一条、第一百九十三条、第一百九十四条以及《行政处罚法》第二十七条等规定，我会决定：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>一、鉴于河北证券已撤销，我会不再对河北证券给予责令关闭的处罚；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二、吊销武铁锁、谢春民、唐乾山、王树江、李彦彬的从业资格证书；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>三、对王志刚给予警告，并处以5万元的罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>四、对周天雷、刘东辉分别给予警告，并各处以3万元的罚款，同时分别吊销从业资格证书。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起3个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 42pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 42pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二○○八年七月三十一日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20081212_36306_ext.json

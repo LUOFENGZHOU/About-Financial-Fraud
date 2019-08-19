@@ -1,0 +1,258 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（方向光电及穆昕、刘汝泉等相关人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2006-00135</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>行政处罚委</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2006年02月10日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（方向光电及穆昕、刘汝泉等相关人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>证监罚字[2006]4号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>董事 年度报告 证券法 担保</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（方向光电及穆昕、刘汝泉等相关人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">证监罚字[2006]4号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1242968582968'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1242968582968 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1242968582968 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1242968582968 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1242968582968 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1242968582968 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=17 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>证监罚字[2006]4号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P><SPAN class=15 style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>
+<P class=0><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人</FONT></SPAN>：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>四川方向光电股份有限公司（以下简称方向光电），住所四川省内江市东兴区碑木镇，法定代表人刘汝泉。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>穆昕，男，1962年出生，方向光电时任董事长，住址辽宁省沈阳市铁西区爱工南街20号272。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>刘汝泉，男，1962年出生，方向光电时任董事，住址辽宁省沈阳市黄姑区太白路2－2号251。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陈争，女，1961年出生，方向光电时任董事，四川省内江市碑木镇四川内燃机厂2幢38号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>曹邦俊，男，1944年出生，方向光电时任董事，住址四川省内江市东兴区碑木镇四川内燃机厂22幢10号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>张玉明，男，1965年出生，方向光电时任董事，广东省深圳市福田区莲花新村7栋302。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陈建中，男，1957年出生，方向光电时任董事，上海市建平路123弄1号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>左晓仕，男，1970年出生，方向光电时任独立董事，北京市朝阳区北苑路北辰绿色家园8－2－702。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>李葛卫，男，1967年出生，方向光电时任独立董事，住址甘肃省永靖县刘家峡镇化工路35号2－2。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>吴坚民，男，1963年出生，方向光电时任独立董事，住址辽宁省沈阳市黄姑区燕山三巷14号221。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>方向光电违反证券法律法规行为一案现已调查、审理终结，我会依法向当事人告知了作出行政处罚的事实、理由及依据。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>经查明，方向光电存在以下违法行为：</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>一、未按规定披露对外担保信息</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2003<FONT face=宋体>年4月21日至2005年4月21日期间，方向光电及其控股子公司对外提供贷款担保81笔，担保合同总金额为240,118.5万元（其中有9笔金额为42,875万元的担保合同发生在2003年4月21日之前，但在2003年4月21日以后仍有担保责任的，也纳入了统计范围），在这81笔担保合同下实际发生的借款有208笔，借款金额为186,742.92万元，其中有15笔借款事项按规定进行了披露（借款金额为14228万元），其余193笔借款事项中，在2003年半年度报告中少披露26笔，金额28,571.61万元，在2003年年度报告中少披露52笔，金额53,736.12万元，在2004年半年度报告中少披露60笔，金额71,250.51万元，在2004年年度报告中少披露40笔，金额46,048.30万元，且未按规定履行临时公告义务的关联方担保39笔（借款金额45,911.6万元）。担保方式包括保证担保、抵押担保和质押担保，在担保项下发生的借款方式包括贷款、承兑汇票、信用证、进出口押汇、国际保理、出口卖方信贷、贸易敞口融资、打包贷款等多种方式。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>二、未按规定披露关联方资金占用情况</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>方向光电在2003年和2004年半年报、年报中未按规定披露其与关联方资金往来及关联方资金占用情况，具体情况如下：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（一）2003年占用资金及披露情况</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2003<FONT face=宋体>年方向光电累计向关联方划款71,027.80万元（其中单笔金额100万以上划款27笔计70,260.57万元），年末关联方占用方向光电资金账面余额169.07万元。2003年方向光电半年度报告披露的关联方占用方向光电资金发生额比调查发现的实际金额少34,538.41万元，余额少13,607.74万元；2003年方向光电年度报告披露的关联方占用方向光电资金发生额比调查发现的实际金额少48,021.68万元，余额多355.83万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（二）2004年占用资金及披露情况</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2004<FONT face=宋体>年方向光电累计向关联方划款17,488.68万元（其中单笔金额100万以上划款26笔计9,909.83万元），年末关联方占用方向光电资金账面余额374.47万元。2004年方向光电半年度报告披露的关联方占用方向光电资金发生额比调查发现的实际金额少计7,906.65万元，余额少计2,329.53万元；2004年方向光电年度报告披露的关联方占用方向光电资金发生额比调查发现的实际金额少计3,330.33万元，余额少计100.00万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2003<FONT face=宋体>年4月21日至2005年4月21日期间，方向光电也未在临时公告中披露过上述关联方资金往来。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>方向光电未按规定披露信息的责任人员为在2003年和2004年半年报、年报上签字的时任董事穆昕、刘汝泉、陈争、曹邦俊、张玉明、陈建中、左晓仕、李葛卫、吴坚民。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>方向光电的行为违反了原《中华人民共和国证券法》（以下简称原《证券法》）第五十九条所述“公司公告的股票或公司债券的发行和上市文件，必须真实、准确、完整，不得有虚假记载，误导性陈述或者重大遗漏”、第六十条关于中期报告、第六十一条关于年度报告、第六十二条所述“发生可能对上市公司股票交易价格产生较大影响，而投资者尚未得知的重大事件时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所提交临时报告，并予以公告，说明事件的实质”的规定，构成了原《证券法》第一百七十七条所述“未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大遗漏的”行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实，有有关合同、董事会决议、董事的谈话笔录及我会在相关公司和机构调取的证据材料等证据在案佐证。证据确实、充分，足以认定。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>依照方向光电的违法行为及有关当事人的违法事实和情节，根据原《证券法》第一百七十七条的规定，本会决定如下：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>一、对方向光电处以40万元的罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二、对穆昕给予警告，并处以10万元的罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>三、对刘汝泉、陈争分别给予警告，并处以3万元的罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>四、对曹邦俊、张玉明、陈建中、左晓仕、李葛卫、吴坚民分别给予警告。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信实业银行总行营业部，帐号7111010189800000162，由该行直接上缴国库），并将付款凭证的复印件送中国证券监督管理委员会法律部审理执行处备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起60日内向中国证券监督管理委员会提出行政复议，也可以在收到本处罚决定之日起3个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 31.5pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 42pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二○○六年二月十日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20080418_14315_ext.json

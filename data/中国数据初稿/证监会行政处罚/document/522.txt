@@ -1,0 +1,259 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（紫光古汉集团股份有限公司、郭元林、刘箭等8名责任人）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2013年02月19日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（紫光古汉集团股份有限公司、郭元林、刘箭等8名责任人）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2013〕9号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（紫光古汉集团股份有限公司、郭元林、刘箭等8名责任人）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2013〕9号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p19><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉集团股份有限公司（以下简称紫光古汉），住所：湖南省衡阳市蒸湘区白云路<FONT face="Times New Roman">42</FONT><FONT face=方正仿宋简体>号，法定代表人李义。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">郭元林，男，<FONT face="Times New Roman">1963</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月出生，</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月至</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月任紫光古汉董事长，住址：北京市海淀区清华园荷清苑。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">刘箭，男，<FONT face="Times New Roman">1963</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月出生，</FONT><FONT face="Times New Roman">2002</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月至</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月曾任紫光古汉副总经理、总经理、董事，</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月至</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>月任湖南紫光古汉南岳制药有限公司（以下简称南岳制药）董事长；</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>月至</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月任湖南紫光古汉药业有限公司（以下简称湖南紫光药业）董事长，</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>月至调查截止日任湖南紫光药业董事，住址：北京市海淀区西三旗花园二里。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">李筱竑，女，<FONT face="Times New Roman">1963</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>月出生，</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月至</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月任紫光古汉财务总监，住址：湖南省益阳市赫山区长坡路。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">兰学军，男，<FONT face="Times New Roman">1966</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月出生，</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>月至调查截止日任紫光古汉副总经理，住址：湖南省衡阳市海逸楼。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">刘炳成，男，<FONT face="Times New Roman">1962</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>月出生，</FONT><FONT face="Times New Roman">2000</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月至调查截止日任紫光古汉董事，</FONT><FONT face="Times New Roman">2002</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>月至调查截止日任紫光古汉副总经理，</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月至调查截止日任紫光古汉集团衡阳中药有限公司（以下简称衡阳中药公司）董事、总经理，</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月至调查截止日任南岳制药董事，住址：湖南省衡阳市珠晖区东风南路。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">曾巍巍，男，<FONT face="Times New Roman">1952</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>月出生，</FONT><FONT face="Times New Roman">2002</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>月至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月任紫光古汉副董事长、党委书记，</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月至调查截止日任紫光古汉党委书记，住址：湖南省衡阳市雁峰区雁城路。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">朱开悉，男，<FONT face="Times New Roman">1964</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>月出生，</FONT><FONT face="Times New Roman">2002</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>月至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月任紫光古汉独立董事，住址：湖南省长沙市岳麓区欣胜园。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据<FONT face="Times New Roman">1999</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）以及</FONT><FONT face="Times New Roman">2006</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日起施行的《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会对紫光古汉信息披露违法违规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人郭元林、李筱竑、刘炳成、朱开悉、查扬、邹大伟、陈国民提交了陈述申辩材料；应当事人朱开悉等人的要求，我会举行了听证会，听取了朱开悉等人的陈述和申辩。本案现已调查、审理终结。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，紫光古汉存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、<FONT face="Times New Roman">2005</FONT><FONT face=方正黑体简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正黑体简体>年年度报告会计信息存在虚假记载</FONT></SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（一）<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年虚增主营业务收入</FONT><FONT face="Times New Roman">36,694,689.82</FONT><FONT face=方正仿宋简体>元，虚增主营业务成本</FONT><FONT face="Times New Roman">6,752,513.52</FONT><FONT face=方正仿宋简体>元，虚减营业费用</FONT><FONT face="Times New Roman">756</FONT><FONT face=方正仿宋简体>万元，从而虚增利润</FONT><FONT face="Times New Roman">37,502,176.30</FONT><FONT face=方正仿宋简体>元。其中，向北京康达家科技发展有限公司（以下简称北京康达家）虚开普通发票</FONT><FONT face="Times New Roman">16,547,111.11</FONT><FONT face=方正仿宋简体>元；向湖南紫光药业虚开普通发票</FONT><FONT face="Times New Roman">13,760,341.88</FONT><FONT face=方正仿宋简体>元，虚增主营业务成本</FONT><FONT face="Times New Roman">5,209,157.42</FONT><FONT face=方正仿宋简体>元；向某部队单位虚开普通发票</FONT><FONT face="Times New Roman">6,387,236.93</FONT><FONT face=方正仿宋简体>元，虚增主营业务成本</FONT><FONT face="Times New Roman">1,543,356.10</FONT><FONT face=方正仿宋简体>元；对湖南紫光药业</FONT><FONT face="Times New Roman">756</FONT><FONT face=方正仿宋简体>万元返利未计入</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年营业费用。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2005<FONT face=方正仿宋简体>年紫光古汉对外公开披露年度报告中净利润为</FONT><FONT face="Times New Roman">429</FONT><FONT face=方正仿宋简体>万元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（二）<FONT face="Times New Roman">2006</FONT><FONT face=方正仿宋简体>年虚增主营业务收入</FONT><FONT face="Times New Roman">11,222,832.54</FONT><FONT face=方正仿宋简体>元，虚增主营业务成本</FONT><FONT face="Times New Roman">4,459,039.80</FONT><FONT face=方正仿宋简体>元，从而虚增利润</FONT><FONT face="Times New Roman">6,763,792.68</FONT><FONT face=方正仿宋简体>元。其中，向湖南紫光药业虚开发票，从而虚增主营业务收入</FONT><FONT face="Times New Roman">12,255,986.32</FONT><FONT face=方正仿宋简体>元，虚增主营业务成本</FONT><FONT face="Times New Roman">4,459,039.80</FONT><FONT face=方正仿宋简体>元；向湖南紫光药业低于结算价开票解决</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年返利以及高开部分发票等。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2006<FONT face=方正仿宋简体>年紫光古汉对外公开披露年度报告中净利润为</FONT><FONT face="Times New Roman">464.18</FONT><FONT face=方正仿宋简体>万元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（三）<FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年虚增主营业务收入</FONT><FONT face="Times New Roman">5,335,384.62</FONT><FONT face=方正仿宋简体>元，虚减财务费用</FONT><FONT face="Times New Roman">880,024.00</FONT><FONT face=方正仿宋简体>元，从而虚增利润</FONT><FONT face="Times New Roman">6,215,408.62</FONT><FONT face=方正仿宋简体>元；</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年紫光古汉下属子公司衡阳中药公司存在账外发货事项，当年账外发货金额为</FONT><FONT face="Times New Roman">18,979,413.00</FONT><FONT face=方正仿宋简体>元（含税），衡阳中药公司向职工借款</FONT><FONT face="Times New Roman">7,826,001.00</FONT><FONT face=方正仿宋简体>元未在报表中反映。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2007<FONT face=方正仿宋简体>年紫光古汉对外公开披露年度报告中净利润为</FONT><FONT face="Times New Roman">2081.74</FONT><FONT face=方正仿宋简体>万元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（四）<FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年虚减财务费用</FONT><FONT face="Times New Roman">1,156,933.00</FONT><FONT face=方正仿宋简体>元，从而虚增利润</FONT><FONT face="Times New Roman">1,156,933.00</FONT><FONT face=方正仿宋简体>元；</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年紫光古汉从郑州谙拓公司拆借</FONT><FONT face="Times New Roman">1200</FONT><FONT face=方正仿宋简体>万元未在报表中反映，</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年衡阳中药公司存在账外发货事项，当年账外发货金额为</FONT><FONT face="Times New Roman">12,934,742.00</FONT><FONT face=方正仿宋简体>元（含税）。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2008<FONT face=方正仿宋简体>年紫光古汉对外公开披露年度报告中净利润为</FONT><FONT face="Times New Roman">2037.45</FONT><FONT face=方正仿宋简体>万元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、未如实披露《合资协议之补充协议》签订并实际执行相关情况</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2005<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月，在未经董事会授权的情况下，紫光古汉与湖南景达生物工程有限公司（以下简称景达生物）签订了《合资协议之补充协议》，紫光古汉承接了南岳制药</FONT><FONT face="Times New Roman">84,796,606.08</FONT><FONT face=方正仿宋简体>元的不良资产和</FONT><FONT face="Times New Roman">84,796,606.08</FONT><FONT face=方正仿宋简体>元负债。</FONT><FONT face="Times New Roman">2006</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年，紫光古汉通过代南岳制药偿还债务的方式隐性执行了该协议，但未及时披露，也未在</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年年度报告中披露该协议及其实际执行情况。</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年，为隐瞒该协议实际执行的事实，紫光古汉通过与衡阳弘湘国有资产经营有限责任公司（以下简称衡阳弘湘）签订虚假土地出让金代付协议、安排南岳制药与衡阳弘湘签订虚假资产剥离协议等方式冲销了执行协议形成的应收南岳制药往来款余额。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉上述信息披露违法违规行为具体责任人员情况如下：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉时任董事长郭元林签字通过了紫光古汉<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年年度报告，为</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年紫光古汉会计信息存在虚假记载行为直接负责的主管人员；同时，郭元林为《合资协议之补充协议》的签署、实际执行情况未如实披露行为直接负责的主管人员。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉时任董事、总经理刘箭签字通过了紫光古汉<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年年度报告，其对</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2006</FONT><FONT face=方正仿宋简体>年紫光古汉向湖南紫光药业虚开发票的事项知情，对</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年紫光古汉向湖南紫光药业低开和高开发票调节利润的事项知情，为掩盖高开发票</FONT><FONT face="Times New Roman">14,339,504.00</FONT><FONT face=方正仿宋简体>元未发货等事项，其安排了下属子公司衡阳中药公司向湖南紫光药业账外发货；</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年紫光古汉向北京康达家虚开普通发票</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; LETTER-SPACING: 1pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2007<FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年存在借款未在报表中反映等会计信息虚假事项均发生在刘箭任总经理期内，其应当对此知情；另外，刘箭代表紫光古汉与景达生物签订了《合资协议之补充协议》，对该协议的签署以及实际执行知情，为了隐瞒该协议实际执行的事实，其通过安排紫光古汉与衡阳弘湘签订虚假土地出让金代付协议、南岳制药与衡阳弘湘签订虚假资产剥离协议等方式冲销了执行协议形成的应收南岳制药往来款余额。刘箭为</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年紫光古汉会计信息存在虚假记载行为直接负责的主管人员，为《合资协议之补充协议》未如实披露行为直接负责的主管人员。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉原财务总监李筱竑签字通过了紫光古汉<FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年年度报告，在</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年财务报表上签字，对</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年账外发货等会计信息虚假事项知情，为</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年紫光古汉会计信息存在虚假记载行为直接负责的主管人员。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉副总经理兰学军签字通过了紫光古汉<FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年年度报告，其对</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月紫光古汉向郑州谙拓公司借款未在报表中反映的事情知情，其对紫光古汉隐瞒《合资协议之补充协议》实际执行的事实知情，为</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年紫光古汉会计信息存在虚假记载行为直接负责的主管人员，为《合资协议之补充协议》未如实披露行为其他直接责任人员。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉董事、副总经理刘炳成签字通过了紫光古汉<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年年度报告，参加了</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月公司讨论对湖南紫光药业账外发货的会议，对</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年会计信息虚假知情，为</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年紫光古汉会计信息存在虚假记载行为其他直接责任人员。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉原副董事长曾巍巍签字通过了紫光古汉<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年年度报告，参加了</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月公司讨论对湖南紫光药业账外发货的会议，对</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年会计信息虚假知情，为</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年紫光古汉会计信息存在虚假记载行为其他直接责任人员。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉原独立董事朱开悉签字通过了紫光古汉<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年年度报告，为</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年紫光古汉会计信息存在虚假记载行为其他直接责任人员。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述违法事实及责任人员认定，有相关人员询问笔录、公司出具的说明、相关会议纪要、公司财务会计报表、年报等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">郭元林在其申辩材料中提出：其一，工作勤勉尽责、诚实守信，无主观不当，对<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年度财务造假细节不知悉；其二，积极配合调查，有效纠正错误；其三，任职期间经营状况得到改善，紫光古汉的问题属于历史遗留问题，即使存在不当，也不应当由本人和经营班子负全部责任；其四，决策依据是经营班子汇报和审计事务所的审计报告；其五，《合资协议之补充协议》相关事项，的确存在信息披露不严的瑕疵，但是相关资产和债务安排是与有关方面商定的拯救盘活南岳制药资产方案的组成部分，不存在侵害股东利益之情形，应当由经营班子承担责任，本人不应当承担责任。请求酌情减免处罚。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，郭元林于<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年期间任紫光古汉董事长，应当全面了解并掌握公司的财务状况、经营管理情况。紫光古汉</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年的净利润分别为：</FONT><FONT face="Times New Roman">429</FONT><FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">464.18</FONT><FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">2081.74</FONT><FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">2037.45</FONT><FONT face=方正仿宋简体>万元。</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年与</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年相比，净利润增加了近</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>倍，作为董事会负责人，应当有所觉察，并对相关会计情况有所关注</FONT><FONT face="Times New Roman">,</FONT><FONT face=方正仿宋简体>不应当仅凭借会计师事务所出具的审计报告判断。郭元林并没有履行董事应当勤勉尽责的义务。其申辩理由不成立。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">李筱竑在其申辩材料中提出：其于<FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>日起任紫光古汉财务总监，</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年之前从未在紫光古汉任职，而紫光古汉账外发货情况始于</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年，操作办法由其他部门制定，不是财务部门制定，且未在账上反应，其对虚假记载不知情。请求免于处罚。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，李筱竑并非没有责任。理由如下：第一，虽然李筱竑从<FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月才开始任紫光古汉财务总监，没有亲自参与财务造假活动，但是签字通过了紫光古汉</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年年度报告，身为财务总监有责任在上任后对公司近年的财务状况进行了解；第二，作为专业财务人员，不同于非专业人士，凭借其专业判断，应当对</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年年度报告财务上存在的问题有所察觉，因此，其“刚到任，不知情”的抗辩不成立。但是，紫光古汉主要违法行为发生于</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年，此后的信息披露虚假是先前违法行为的继续，而李筱竑</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月才开始任职，并非违法行为的直接参与者。对于李筱竑提出的此申辩意见，我会予以采纳。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">刘炳成在其申辩材料中提出：其一，其在年度报告上签字是基于对会计师事务所的专业素质的信任；其二，其不是会计专业，对公司财务和重大事项判断上存在业务不熟的情况；其三，其分管安全生产，且公司财务对子公司进行垂直管理，对会计造假未参与也不知情，无法一一核实；其四，案发后其积极配合调查，对公司管理层进行纠错整改。请求减轻处罚。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，刘炳成对信息披露违法行为负有责任。理由如下：第一，刘炳成签字通过了紫光古汉<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年年度报告，经历了公司财务造假的全过程，以分管安全生产、未参与造假为由，对长达</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>年的财务造假毫无察觉、均不知悉的申辩不成立；第二，刘炳成参加了</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月公司讨论对湖南紫光药业账外发货的会议，对</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年会计信息虚假知情；第三，未发现刘炳成在调查期间积极配合调查的证据；第四，对刘炳成的处罚建议与其责任及职务相匹配，轻于对董事长及总经理的处罚；对于刘炳成提出减轻处罚的请求，我会在量罚时已经考虑。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">在听证过程中，朱开悉提出如下申辩意见：其一，诚实守信勤勉尽责，根据会计师事务所专业审计结果签字；其二，对于管理层隐瞒、财务部门造假无法知晓；其三，公司刻意隐瞒，即使逐笔审阅财务记录，自己单独聘请事务所进行审计，理论上也发现不了公司刻意造假行为；其四，在董事会会议上不断强调公司经营及信息披露的严肃性及公司决策的规范性，有董事会会议记录为证。请求免于处罚。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，朱开悉是湖南大学商学院教授，具有良好的会计专业背景，<FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年一直在任，经历了紫光古汉财务造假的大部分时间跨度，并在</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年紫光古汉造假最严重的年度报告上签字。朱开悉对公司的具体经营情况可能不清楚，但是作为专业人士对公司的财务造假应当予以关注。听证会上，朱开悉并未提出勤勉尽责的证据。值得注意的是，紫光古汉</FONT><FONT face="Times New Roman">2005</FONT><FONT face=方正仿宋简体>年年度报告中审计意见存在保留段，朱开悉作为专业人士应当予以关注，但未足够关注。因此，朱开悉的申辩理由不成立。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">紫光古汉信息披露违法违规行为持续时间较长，虚假记载及不实披露情节严重，性质恶劣，破坏了证券市场“三公”原则，依法应当予以行政处罚。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条、《证券法》第一百九十三条以及《中华人民共和国行政处罚法》第二十七条的规定，我会决定：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">责令紫光古汉改正，给予警告，并处以<FONT face="Times New Roman">50</FONT><FONT face=方正仿宋简体>万元罚款；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">对郭元林、刘箭给予警告，并分别处以<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>万元罚款；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">对李筱竑、兰学军、刘炳成给予警告，并分别处以<FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>万元罚款；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">四、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">对曾巍巍、朱开悉给予警告。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">15</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">7111010189800000162</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">60</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定书之日起</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">3</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: bold; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2013</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">19</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 15pt; mso-spacerun: 'yes'">　　　&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 15pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20130606_229096_ext.json

@@ -1,0 +1,267 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（海龙科技、任银光等10名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-00032</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年01月02日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（海龙科技、任银光等10名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]1号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>担保 董事长 独立董事 董事</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（海龙科技、任银光等10名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]1号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1247118520640'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1247118520640 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247118520640 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247118520640 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247118520640 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247118520640 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=17 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">[2008]1<FONT face=黑体>号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P><SPAN class=15 style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=15><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人：</FONT></SPAN></FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>兰州海龙新材料科技股份有限公司（以下简称海龙科技，股票代码600516），住所：兰州市红古区海石湾2号街坊354号，法定代表人任银光。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>任银光，男，1962年9月出生。住址：嘉峪关市胜利路胜利街区12号楼2单元7号。时任海龙科技董事长、法定代表人。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>谢信跃，男，1951年1月出生。住址：兰州市红古区海石湾7号街坊65号。时任海龙科技董事长。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>杨立新，男，1951年1月出生。住址：兰州市红古区海石湾3号街坊32号。时任海龙科技董事、副董事长。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>何世荣，男，1957年11月出生。住址：兰州市红古区海石湾7号街坊48号。时任海龙科技董事、总经理。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>邓广星，男，1957年12月出生。住址：兰州市红古区海石湾2号街坊271号。时任海龙科技董事、董事会秘书。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>张耀宗，男，1954年6月出生。住址：兰州市红古区海石湾3号街坊11号。时任海龙科技董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>王军，男，1962年1月出生。住址：兰州市红古区海石湾镇复兴路35号402。时任海龙科技董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>宋华，女，1964年3月出生。住址：兰州市城关区南昌路323号。时任海龙科技独立董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>田中禾，男，1962年9月出生。住址：兰州市城关区定西路94号。时任海龙科技独立董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>翁雪鹤，男，1957年11月出生。住址：北京市丰台区普安北里6楼1302号。时任海龙科技独立董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>依据原《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对2004年和2005年未按照有关规定及时履行临时公告义务，海龙科技2004年和2005年中期报告存在重大遗漏行为立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由和依据及当事人依法享有的权利，当事人王军、翁雪鹤进行了陈述和申辩。本案现已调查、审理终结。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>现查明：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>一、2005年，海龙科技通过开出银行承兑汇票、商业承兑汇票、银行存款质押等形式，为大股东兰州炭素集团有限责任公司（以下简称兰炭集团）提供资金，金额29,573万元，均达到了应披露关联交易的标准，海龙科技在上述事项发生时未按照规定进行临时公告。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>未对上述事项进行临时公告直接负责的主管人员为海龙科技时任董事长谢信跃、任银光，时任副董事长杨立新；其他直接责任人员为时任董事何世荣、张耀宗、邓广星。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>海龙科技在2005年年度报告中披露了上述事项。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二、上述事实中，以下3项大股东占用资金发生在2005年上半年，海龙科技在2005年中期报告未按规定披露：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（一）2004年11月9日，海龙科技向兰州市商业银行科技支行（以下简称兰商行科技支行）申请办理了2笔银行承兑汇票，金额5,000万元，收款人均为兰炭集团。海龙科技于2005年6月23日转入兰商行科技支行5,000万元偿付该汇票款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（二）2004年9月30日，海龙科技开出1,000万元商业承兑汇票，收款人为兰炭集团。兰炭集团于2004年9月30日办理汇票贴现。海龙科技于2005年3月30日偿付了1,000万元汇票款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（三）2004年10月10日，海龙科技开出金额为4,000万元的商业承兑汇票，收款人均为兰炭集团。兰炭集团于2004年10月10日办理汇票贴现。海龙科技于2005年4月11日支付了汇票款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对上述事项未在定期报告中披露直接负责的主管人员为海龙科技时任董事长任银光、时任副董事长杨立新，其他直接责任人员为时任董事张耀宗、何世荣、邓广星，时任独立董事田中禾、宋华、翁雪鹤。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>海龙科技在2005年年度报告中披露了上述事项。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>三、2004年，海龙科技对外担保25,997万元及美元130万元，为大股东兰炭集团等关联方担保4,000万元；上述事项达到了应披露关联交易的标准，海龙科技未进行临时公告。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对上述事项未进行临时公告直接负责的主管人员为海龙科技时任董事长谢信跃、时任副董事长杨立新；其他直接责任人员为时任董事何世荣、张耀宗、邓广星、王军，时任独立董事宋华。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>海龙科技在2004年年度报告中披露了上述事项。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>四、上述事实中，以下6项担保发生在2004年上半年，海龙科技在2004年中期报告未按规定披露：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（一）2004年1月16日，海龙科技与中国农业银行安宁区支行签署了保证合同，为甘肃万轩铝业发展有限公司1,000万元的个人住房贷款提供全额连带担保。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（二）2004年2月20日，海龙科技与中国农业银行安宁区支行签署了保证合同，为甘肃万轩铝业发展有限公司997万元个人住房贷款提供了全额连带担保。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（三）2004年3月23日，海龙科技与中国工商银行甘肃省分行营业部信贷经营中心签署了保证合同，为甘肃万轩铝业发展有限公司700万元贷款提供了全额连带担保，担保期限为2004年3月23日至2005年3月22日。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（四）2004年5月18日，海龙科技与交通银行兰州分行签署了保证合同，为甘肃万轩铝业发展有限公司130万元美元（折合人民币1,066万元）展期贷款提供了全额连带担保，担保期限为2004年1月19日到2005年1月19日，该合同2005年到期后续签。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（五）2004年6月27日，海龙科技为其大股东兰炭集团在兰州商业银行科技支行的3,500万元展期贷款提供银行存款全额质押担保，担保期限自2004年6月27日至2005年6月27日。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（六）2003年6月26日，海龙科技为兰炭集团控股的甘肃海龙房地产有限公司在兰商行科技支行的500万元贷款提供银行存款质押担保，担保期限一年；2004年6月28日，海龙科技、甘肃海龙房地产有限公司和兰商行科技支行签订展期还款协议，仍以500万元银行存款为甘肃海龙房地产有限公司500万元借款提供质押担保。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对上述事项未在定期报告中披露直接负责的主管人员为海龙科技时任董事长谢信跃、时任副董事长杨立新，其他直接责任人员为时任董事张耀宗、何世荣、邓广星、王军。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>海龙科技在2004年年度报告中披露了上述事项。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>以上违法事实和改正情况有2004年中期报告，2004年年度报告，2005年中期报告，2005年年度报告，相关会计记录，相关担保文件，相关董事会决议，相关人员谈话笔录等证据证明。上述行为事实清楚，证据确凿、充分，足以认定。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>海龙科技上述未按照有关规定及时履行临时公告义务和定期报告重大遗漏的行为，违反了《证券法》第六十条、第六十二条的规定。在我会向海龙科技及有关当事人履行告知程序后，当事人王军、翁雪鹤进行了陈述和申辩。王军提出：公司整个经营及一些对于公司发展有重大影响的决策事项按照法律规定都必须由董事会决定，董事不能单独执行业务和作出经营意思表示，中国证监会认定其作为海龙科技董事对海龙科技没有按照法律规定进行相关信息披露和公告负有直接责任缺乏事实基础。我会认为，上市公司的每个董事，都应当根据公司和全体股东的最大利益，忠实、勤勉地履行职责，应当遵守有关法律、法规、中国证监会规定及公司章程的规定，应当保证公开披露的文件内容没有虚假、误导性陈述或重大遗漏。王军作为海龙科技的董事，对其经办事项临时信息披露负有责任，对海龙科技定期报告的真实、完整负有责任。翁雪鹤提出，海龙科技开出银行承兑汇票、商业承兑汇票等问题，事发时其不知道，在审议定期报告知道上述情况时已经晚了，因此，其作为时任独立董事有责任，但责任非常小。我会认为，作为上市公司董事，翁雪鹤对海龙科技定期报告的真实、完整负有责任；在审议定期报告知道上述情况时，翁雪鹤应要求海龙科技对此进行信息披露，但翁雪鹤没有提出相应的意见。经复核，王军、翁雪鹤在申辩意见中提出的事实和理由不成立，我会不予采纳。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>根据《中华人民共和国证券法》第一百七十七条的规定，并考虑海龙科技主动纠正其违法行为的情况，按照《中华人民共和国行政处罚法》第二十七条从轻及减轻处罚的相关规定，我会对海龙科技处以罚款三十万元；分别对海龙科技时任董事长谢信跃，副董事长杨立新处以警告及罚款五万元；分别对海龙科技时任董事长任银光，海龙科技时任董事何世荣、张耀宗、邓广星、王军，独立董事田中禾、宋华、翁雪鹤处以警告。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定之日起60日内向中国证券监督管理委员会提出行政复议申请；也可以在收到本处罚决定之日起3个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 31.5pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 42pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二○○八年一月二日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20080527_24400_ext.json

@@ -1,0 +1,258 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（周继和）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2016年08月16日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（周继和）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2016〕101号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（周继和）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2016〕101号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔2016〕101号</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：周继和，男，1956年2月出生，住址：四川省成都市武侯区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">周继和内幕交易违法案</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">进行了立案调查、审理，并依法向周继和告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。周继和提出了陈述和申辩意见，应当事人要求，我会举行了听证会，听取了周继和及其代理律师的陈述和申辩，并进行了复核。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，周继和存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、内幕信息形成过程及张某业知悉内幕信息的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">山东江泉实业股份有限公司（以下简称江泉实业）是一家上海证券交易所上市公司，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">控股股东为华盛江泉集团有限公司</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（以下简称华盛江泉）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2010年以来，江泉实业一直在寻求卖壳。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">唯美度科技（北京）有限公司（以下简称唯美度科技）自2013年计划借壳上市。2014年1月，唯美度科技执行董事刘某辉委托股东寻找壳资源。2014年3月，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">唯美度科技</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">股东成都汉易天成投资中心合伙人吕某委托川财证券保荐代表人任某升寻找合适的壳公司，任某升又委托张某业帮助寻找。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年4月10日，在张某业的安排和促成下，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">江泉实业委托的保荐代表人</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">叶某赴成都与张某业等人会面，叶某推荐了“总股本5亿元、市值15至17亿元、净资产10亿元、大股东占比约20%”的壳公司，借壳条件为将净资产全部置换出来。会谈中，张某业用手机给部分在场人员看了江泉实业的基本情况。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年4月15日，吕某将唯美度科技相关财务数据通过邮件发给任某升，并委托其起草重组方案。任某升结合张某业所告知的“JQSY”壳资源相关情况草拟《重组简要方案概述》，起草过程中涉及的相关问题均通过张某业沟通传递。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年4月29日，任某升将《重组简要方案概述》通过邮件发送给吕某，并在邮件正文中写道：“就上次我们谈到的山东JQSY这家上市公司的重组，附件中有方案概述及模拟测算”。当日，吕某将邮件转发给了刘某辉。2014年</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5月8日，吕某给</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">刘某辉</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">发送了修改过的《重组重要方案概述》和《财务顾问协议》（该协议丙方为张某业）。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5月13日，吕某、任某升、叶某、刘某辉等人在唯美度科技面谈重组事宜。次日，双方共赴江泉实业考察，并就重组达成初步一致意见。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年6月12日，江泉实业发布《关于公司筹划重大资产重组停牌公告》，称“因华盛江泉集团有限公司拟对本公司进行重大资产重组，……公司股票自2014年6月12日开市起连续停牌不超过30日”。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年6月26日，华盛江泉与唯美度科技签署了《重大资产重组框架协议》，后江泉实业先后于7月11日、8月8日发布《重大资产重组暨延期复牌公告》。9月12日，江泉实业发布《重大资产置换及发行股份购买资产暨关联交易报告书（草案）》，并于当日复牌。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，该重大资产重组事项</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">属于</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">《证券法》</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第六十七条第二款第（八）项规定的重大事件，江泉实业发布</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">《重大资产置换及发行股份购买资产暨关联交易报告书（草案）》前，相关信息属于</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">《证券法》</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第七十五条第二款第（一）项规定的内幕信息。张某业作为中间介绍人参与本次重大资产重组筹划，最迟不晚于2014年4月29日获悉相关信息，是内幕信息知情人。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">周继和内幕交易“江泉实业”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">周继和从张某业处获悉内幕信息</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">周继和系成都某学院教授，是张某业本科时的老师，张某业上学时二人就相识，张某业毕业后二人交往密切，曾合作炒股或探讨选股，并曾有资金往来。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">涉案期间内，周继和与张某业有频繁通讯联系，并从张某业处得知江泉实业有重组预期。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">周继和控制账户交易“江泉实业”及获利情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">涉案期间内，周继和控制“周继和”、“赖某财”、“李某玉”账户买入“江泉实业”，并于</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年5月12日至10月8日期间卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。交易及获利情况如下：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.“周继和”账户交易及获利情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">周继和于1993年8月开立证券账户，2011年11月开立信用账户，均由其本人使用。涉案期间内，“周继和”账户共计买入“江泉实业”3,436,489股，卖出1,056,800股。内幕信息公开后至2014年10月8日期间，周继和卖出该账户内全部“江泉实业”股票，其中包括2014年9月26日买入的199,000股。扣除相关税费后，该账户涉案期间内交易“江泉实业”实际获利10,529,910.65元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.“赖某财”账户交易及获利情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">赖某财是周继和的学生，“赖某财”账户开立于2011年11月，自2013年4月起由周继和控制使用。涉案期间内，周继和控制该账户买入“江泉实业”281,200股，并于</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年9月24日全部卖出，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">扣除相关税费后，该账户涉案期间内交易“江泉实业”实际获利1,240,390.31元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.“李某玉”账户交易及获利情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">李某玉是周继和的朋友，“李某玉”账户开立于1999</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">6</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">月，自</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年4月起由周继和控制使用。涉案期间内，周继和控制该账户买入“江泉实业”218,500股，并于</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年9月24日全部卖出。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">扣除相关税费后，该账户涉案期间内交易“江泉实业”实际获利869,819.07元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述三账户涉案期间内交易“江泉实业”实际获利共计</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">12,640,120.03元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实，有相关人员询问笔录、相关人员和机构出具的情况说明、相关人员通话记录、相关邮件记录、江泉实业本次重大资产重组停牌相关公告、相关人员交易数据和银行资料等证据在案证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，周继和的行为违反了《证券法》第七十三条和第七十六条第（一）款的规定，构成《证券法》第二百零二条所述内幕交易行为，违法所得为</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">12,640,120.03元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">本案《行政处罚事先告知书》送达后，周继和及其代理律师主要提出了如下申辩意见：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第一，张某业不是内幕信息知情人，周继和没有内幕信息来源。其一，张某业既不是中介组织人员，也不是重组各方单位的董事、监事或高级管理人员，不属于《证券法》规定的内幕信息知情人。其二，虽然周继和与张某业系师生且曾有商业合作，但周继和并不相信张某业的话。其三，张某业从未向其泄露内幕信息，虽然张某业确曾向周继和提及江泉实业股票，但说的是江泉实业与另一公司重组失败，建议周继和不要碰该股。其四，涉案期间内，周继和与张某业没有频繁联系，特别是在张某业与任某升频繁通话的4月20-21日、28-29日期间，张某业与周继和没有联系。其五，周继和不认识其他内幕信息知情人。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第二，买入“江泉实业”系因周继和感觉该股较好。一方面，该股盘子小、股价较低，上升空间大。另一方面，江泉实业系乡镇企业控股，已无更大发展空间，重组预期大，股吧等媒体上也有关于江泉实业重组的讨论，且当时市场盛行炒作重组题材的小盘股。周继和主要根据股吧关于江泉实业重组的相关讨论判断决定买入。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第三，交易不具备内幕交易的特征。其一，周继和在涉案期间内有买也有卖，特别是停牌前卖出了部分“江泉实业”股票。其二，周继和并未从其他渠道往其本人账户注入资金用于交易“江泉实业”，其账户里有积累资金1,300万余元，而持有“江泉实业”的最高市值也不超800万元；开始购买“江泉实业”成交金额仅10万余元，而当时账户有闲置资金300万余元，成交资金量不到账户总资金量的1%。其三，大量买入“江泉实业”符合其看好一只股票就愿意重仓的操作风格。其四，周继和买入“江泉实业”的时点与张某业获得内幕信息及买入“江泉实业”的时点不吻合，张某业4月中旬知悉内幕信息并开始买入“江泉实业”，而周继和5月8日才少量买入。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">此外，周继和曾因涉嫌内幕交易犯罪被公安机关立案侦查，后公安机关以证据不足为由对其终止侦查。周继和的代理律师认为，刑事侦查已经认定证据不足，行政机关不宜再行处罚，即使处罚，行政机关对当事人进行大额财产罚没应适用排除合理怀疑的证明标准。同时，代理律师还对我会将公安机关调取的部分资料和制作的笔录作为证据的合法性提出了异议。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">针对张某业不是内幕信息知情人、周继和没有内幕信息来源的陈述和申辩意见，基于下述事实和理由，我会不予采纳：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第一，张某业系内幕信息知情人。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其一，根据《上市公司重大资产重组管理办法》第四十一条相关规定，在重大资产重组过程中，因提供服务知悉股价敏感信息的人员，属于内幕信息知情人。其二，张某业的居间服务得到了重组双方相关人员的认可和证实，且其事实上直接促成了双方接洽，对重组的推进发挥了关键作用。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第二，涉案期间内，周继和确曾与张某业频繁联系，并获知江泉实业有重组预期，且据此买入“江泉实业”。证据显示，张某业与周继和在2015年4月15日至6月6日期间的53天内曾通话35次，特别是周继和买入“江泉实业”前的5月6日，二人曾通话时间较长。关于周继和与张某业没有频繁联系，特别是在张某业与任某升频繁通话的4月20-21日、28-29日期间，张某业与周继和没有任何联系的申辩与事实不符。周继和在接受调查时认可张某业曾告知其江泉实业有重组预期。而张某业亦认可曾告知周继和江泉实业重组的情况。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">针对买入“江泉实业”系因周继和感觉该股较好、交易不具备内幕交易特征的陈述和申辩意见，基于下述事实和理由，我会认为申辩理由不足以排除其交易的异常性，不予采纳：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第一，同时期股吧等媒体上也有大量看空“江泉实业”的讨论，且周继和自称是经验丰富的老股民，但其在涉案期间内不考虑利空信息而重仓买入“江泉实业”，操作方式与其投资经历和经验明显不符。周继和在接受我会调查时称从张某业处获悉江泉实业有重组预期，并称“本着扭转今年投资亏损的想法，我决定买入“江泉实业”。可见，其买入依据并非如申辩所称。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第二，交易行为明显异常。其一，突击转入资金集中买入“江泉实业”。2014年5月6日，周继和三方存管银行账户的资金余额为3,184.82元，当天，周继和向其三方存管银行账户转入150,000元，随后，“周继和”账户于5月8日开始买入“江泉实业”。5月13日，周继和向其三方存管银行账户转入30万元，5月14日至19日，“周继和”账户买入“江泉实业”共180,600股。5月22日，周继和向其三方存管银行账户转入108万元，5月23日至30日，“周继和”账户共买入“江泉实业”892,600股。“李某玉”账户买入“江泉实业”资金占比为99.9%。其二，集中交易“江泉实业”。“周继和”账户在17个交易日中有13个交易日单一交易“江泉实业”，占比76%；“李某玉”账户系单一交易“江泉实业”；“赖某财”账户仅交易“江泉实业”和另一只股票。其三，交易“江泉实业”的时间与内幕信息形成和公开时间及张某业交易“江泉实业”的时间基本一致，如2014年5月14日，重组双方人员在山东会面商谈，当日张某业与任某升、叶某频繁联系并大量买入“江泉实业”，而周继和在5月14日至16日期间亦大量买入“江泉实业”。其四，周继和控制的“赖某财”、“李某玉”账户均亏损卖出另一只股票后将所得资金用于买入“江泉实业”。可见相关交易行为明显异常，辩称的涉案期间内有买也有卖等理由亦不足以排除其交易的异常性。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">针对代理律师关于公安机关已经认定证据不足后行政机关不宜再行处罚、行政机关进行大额财产罚没应适用排除合理怀疑的证明标准的代理意见，我会认为，周继和在涉案期间内交易“江泉实业”，交易行为明显异常，且不能作出充分合理解释，我会认定其行为构成内幕交易违法于法有据，其行为是否被追究刑事责任不影响我会依法对其予以行政处罚。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">针对代理律师关于将公安机关调取的资料和制作的讯问笔录用作本案证据的异议。我会认为，第一，相关证据材料系我会依法取得。第二，相关证据材料所载内容与案件事实密切相关。第三，周继和已在笔录中签字确认所载内容与其陈述相符，并确认其陈述内容属实。鉴于当事人及其代理人均未提交不能将相关证据材料用作本案证据的依据，亦未提交足以推翻现有证据的相反证据，我会对相关意见不予采纳。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，根据《证券法》第二百零二条之规定，我会决定</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">：对周继和</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">没收违法所得12,640,120.03元，并处以12,640,120.03元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起15日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起6个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2016年8月16日　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 28pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 15pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正仿宋简体'; mso-spacerun: 'yes'">　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 15pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正仿宋简体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 12pt"><SPAN style="FONT-SIZE: 16pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正黑体简体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 12pt"><SPAN style="FONT-SIZE: 16pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正黑体简体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 12pt"><SPAN style="FONT-SIZE: 16pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正黑体简体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 12pt"><SPAN style="FONT-SIZE: 16pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正黑体简体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 12pt"><SPAN style="FONT-SIZE: 16pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正黑体简体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20160918_303433_ext.json

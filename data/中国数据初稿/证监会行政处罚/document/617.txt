@@ -1,0 +1,250 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（刘洋）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-03783</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年06月14日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（刘洋）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2011〕24号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（刘洋）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2011〕24号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1310955196140'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1310955196140 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1310955196140 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1310955196140 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1310955196140 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1310955196140 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><SPAN>〔<SPAN>2011</SPAN>〕<SPAN>24</SPAN>号</SPAN></P>
+<P><SPAN>当</SPAN><SPAN>事人：</SPAN><SPAN>刘洋，男，<SPAN>1969</SPAN>年<SPAN>11</SPAN>月<SPAN>4</SPAN>日出生，时任湖南建筑工程集团总公司（以下简称建工集团）总经济师，住址：上海市浦东新区东方路<SPAN>937</SPAN>号。</SPAN></P>
+<P><SPAN>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对刘洋内幕交易行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人提出了陈述、申辩意见，但未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，刘洋存在以下违法事实：</SPAN></P>
+<P><SPAN>一、关于内幕信息的形成过程</SPAN></P>
+<P><SPAN>2009</SPAN><SPAN>年<SPAN>8</SPAN>月<SPAN>21</SPAN>日，建工集团在《关于湖南建工集团借壳上市进而实现整体上市的可行性研究方案》（以下简称《可行性研究方案》）中提出：以<SPAN>ST</SPAN>金果、银河动力、<SPAN>ST</SPAN>中钨为重组对象，其中<SPAN>ST</SPAN>中钨为最优方案。建工集团总经济师刘洋是该重组事项的联系人，负责与湖南省国资委沟通、汇报《可行性研究方案》，刘洋从湖南省国资委获知<SPAN>ST</SPAN>金果和银河动力已被其他企业选为重组对象，只剩下<SPAN>ST</SPAN>中钨作为壳资源。<SPAN>2009</SPAN>年<SPAN>9</SPAN>月，建工集团向湖南省国资委申请以<SPAN>ST</SPAN>中钨作为重组对象。<SPAN>2009</SPAN>年<SPAN>9</SPAN>月<SPAN>29</SPAN>日，湖南省国资委表示同意。同日，<SPAN>ST</SPAN>中钨第一大股东湖南有色金属股份有限公司（以下简称湖南有色）董事长何仁春及<SPAN>ST</SPAN>中钨董事长杨伯华均表示同意。<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>20</SPAN>日，<SPAN>ST</SPAN>中钨发布《重大事项停牌公告》称，湖南有色筹划<SPAN>ST</SPAN>中钨重大重组事项，公司股票自<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>20</SPAN>日开市起停牌。<SPAN>2009</SPAN>年<SPAN>11</SPAN>月<SPAN>16</SPAN>日，<SPAN>ST</SPAN>中钨发布《关于中止筹划重大资产重组事项暨公司证券复牌公告》称，由于本次重大资产重组事项涉及面广，相关各方在某些问题上未能完全达成一致，本次重大资产重组事项尚不具备实施条件。“<SPAN>ST</SPAN>中钨”股票于<SPAN>2009</SPAN>年<SPAN>11</SPAN>月<SPAN>16</SPAN>日复牌。复牌当日，“<SPAN>ST</SPAN>中钨”股票收盘价<SPAN>10.38</SPAN>元，跌幅<SPAN>1.61%</SPAN>。</SPAN></P>
+<P><SPAN>综上，建工集团拟借壳<SPAN>ST</SPAN>中钨属于涉及公司经营、财务或者对公司证券的市场价格有重大影响的尚未公开的信息。<SPAN>2009</SPAN>年<SPAN>9</SPAN>月<SPAN>29</SPAN>日湖南省国资委、湖南有色、<SPAN>ST</SPAN>中钨同意重组事项为内幕信息形成日，至<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>20</SPAN>日<SPAN>ST</SPAN>中钨发布重大资产重组事宜停牌前，为内幕信息敏感期。</SPAN></P>
+<P><SPAN>二、关于刘洋进行内幕交易的相关事实</SPAN></P>
+<P><SPAN>资金账户<SPAN>46<SPAN>×××</SPAN>2058 </SPAN>，户名“谢某某”，<SPAN>2007</SPAN>年<SPAN>7</SPAN>月<SPAN>26</SPAN>日在华泰联合证券长沙韶山北路营业部开立，下挂<SPAN>A39<SPAN>×××</SPAN>3691</SPAN>（沪）和<SPAN>006<SPAN>×××</SPAN>8109</SPAN>（深）两个股东账户。</SPAN></P>
+<P><SPAN>“谢某某”资金账户<SPAN>2009</SPAN>年<SPAN>9</SPAN>月<SPAN>21</SPAN>日账户余额为<SPAN>546.43</SPAN>元，<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>15</SPAN>日，账户转入<SPAN>400</SPAN>万元，转入后金额为<SPAN>4,000,546.43</SPAN>元。“谢某某”股票账户自<SPAN>2007</SPAN>年<SPAN>9</SPAN>月至<SPAN>2009</SPAN>年<SPAN>8</SPAN>月<SPAN>23</SPAN>日从未交易过“<SPAN>ST</SPAN>中钨”股票，<SPAN>2009</SPAN>年<SPAN>8</SPAN>月<SPAN>24</SPAN>日至<SPAN>10</SPAN>月<SPAN>15</SPAN>日，账户有少量“<SPAN>ST</SPAN>中钨”股票短线买卖，余股<SPAN>3,800</SPAN>股。<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>15</SPAN>日至<SPAN>10</SPAN>月<SPAN>19</SPAN>日，刘洋用其办公室台式电脑下单，为“谢某某”账户累计买入“<SPAN>ST</SPAN>中钨”<SPAN>421,100</SPAN>股，成交金额<SPAN>4,181,624.91</SPAN>元；<SPAN>2009</SPAN>年<SPAN>11</SPAN>月<SPAN>18</SPAN>日，卖出上述股票，成交金额<SPAN>4,219,741</SPAN>元，扣除税费<SPAN>15,613.06</SPAN>元，交易盈利为<SPAN>11,212.83</SPAN>元。</SPAN></P>
+<P><SPAN>建工集团总经济师刘洋参与了借壳<SPAN>ST</SPAN>中钨的相关事宜，是内幕信息知情人。刘洋在内幕信息敏感期内，为“谢某某”账户买入“<SPAN>ST</SPAN>中钨”股票，构成内幕交易，违法所得<SPAN>11,212.83</SPAN>元。</SPAN></P>
+<P><SPAN>上述违法事实，有相关人员询问笔录、相关账户交易记录和统计数据等证据证明，足以认定。</SPAN></P>
+<P><SPAN>刘洋利用内幕信息交易“<SPAN>ST</SPAN>中钨”股票的行为违反了《证券法》第七十六条关于“证券交易内幕信息的知情人和非法获取内幕信息的人，在内幕信息公开前，不得买卖该公司证券”的规定，构成了《证券法》第二百零二条所述“证券交易内幕信息的知情人或者非法获取内幕信息的人，在涉及证券发行、交易或者其他对证券的价格有重大影响的信息公开前，买卖该证券”的行为。</SPAN></P>
+<P><SPAN>刘洋在其陈述、申辩材料中提出：在其电脑上交易“<SPAN>ST</SPAN>中钨”股票是谢某某所为，非其本人操作，并且有谢某某承认的笔录，恳请我会免除对其行政处罚。</SPAN></P>
+<P><SPAN>经查，<SPAN>2008</SPAN>年<SPAN>1</SPAN>月<SPAN>9</SPAN>日至<SPAN>12</SPAN>月<SPAN>23</SPAN>日，“谢某某”账户<SPAN>MAC</SPAN>地址与刘洋在原工作单位湖南兴湘国有资产经营有限公司使用的台式电脑<SPAN>MAC</SPAN>地址相同。<SPAN>2008</SPAN>年<SPAN>12</SPAN>月<SPAN>24</SPAN>日至<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>12</SPAN>日，“谢某某”账户无证券交易。<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>13</SPAN>日至<SPAN>10</SPAN>月<SPAN>19</SPAN>日，“谢某某”账户<SPAN>MAC</SPAN>地址与刘洋在建工集团使用的台式电脑<SPAN>MAC</SPAN>地址相同；<SPAN>IP</SPAN>地址与建工集团公网<SPAN>IP</SPAN>地址相同。</SPAN></P>
+<P><SPAN>谢某某在《询问笔录》中声称是自己操作的账户交易，但是当调查人员问到他都交易了那些股票时，谢某某称他交易过“申银万国”、“隆平高科”、“万科”等股票。事实上，“申银万国”未在<SPAN>A</SPAN>股上市，“谢某某”账户也未交易过“隆平高科”、“万科”等股票。谢某某所说明显与事实不符。</SPAN></P>
+<P><SPAN>刘洋在我会前期调查的《询问笔录》中称：“谢某某是我很好的朋友，经常到建工集团，到我办公室，我对他也比较随便，他可以随意进出我办公室。”但在后期调查中又称：“谢某某偶尔会来我办公室找我，但是平时谢某某很少来我办公室。他偶尔会使用我的电脑，但我都不知道他在干什么。”如此前后矛盾，刘洋明显存在隐瞒的故意。</SPAN></P>
+<P><SPAN>综上，我会认定“谢某某”账户的交易实际是由刘洋操作，刘洋是内幕信息知情人，在内幕信息敏感期内为其管理的“谢某某”账户买卖“<SPAN>ST</SPAN>中钨”股票，构成内幕交易。我会对当事人提出的申辩理由不予采信。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：对刘洋给予警告，并处以<SPAN>30</SPAN>万元罚款。</SPAN></P>
+<P><SPAN>当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P align=center>&nbsp;</P>
+<P>&nbsp;</P>
+<P><SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; </SPAN></SPAN><SPAN>中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN>&nbsp;<SPAN>　 </SPAN>&nbsp;<SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN>　　&nbsp;</SPAN><SPAN>　 二○一一年六月十四日</SPAN></P>
+<P>&nbsp;</P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110718_197605_ext.json

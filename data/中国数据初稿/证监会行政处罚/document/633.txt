@@ -1,0 +1,240 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（ST东碳、黄彬）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-02405</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年01月21日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（ST东碳、黄彬）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2011）7号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（ST东碳、黄彬）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2011）7号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1304922742578'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1304922742578 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304922742578 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304922742578 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304922742578 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304922742578 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><SPAN>（<SPAN>2011</SPAN>）<SPAN>7</SPAN>号</SPAN></P>
+<P><SPAN>当事人：东新电碳股份有限公司（以下简称<SPAN>ST</SPAN>东碳），住所：四川省自贡市自流井区东光路桌子山<SPAN>22</SPAN>号，法定代表人：刘平。</SPAN></P>
+<P><SPAN>黄彬，男，<SPAN>1960</SPAN>年<SPAN>7</SPAN>月出生，时任<SPAN>ST</SPAN>东碳董事长、总经理兼董事会秘书，住址：四川省成都市高新区玉林南路<SPAN>118</SPAN>号。</SPAN></P>
+<P><SPAN>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对<SPAN>ST</SPAN>东碳有关当事人违反证券法律法规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，</SPAN><SPAN>ST</SPAN><SPAN>东碳<SPAN>存在如下违法行为：</SPAN></SPAN></P>
+<P><SPAN>2009</SPAN><SPAN>年<SPAN>3</SPAN>月<SPAN>25</SPAN>日</SPAN><SPAN>，<SPAN>ST</SPAN><SPAN>东碳第一大股东</SPAN>四川香凤企业有限公司（以下简称四川香凤）与重组方西安紫薇地产开发有限公司（以下简称西安紫薇）、湖南湘晖资产经营股份有限公司（以下简称湖南湘晖）签订《合作协议书》，协议约定以发行股份认购资产的方式重组<SPAN>ST</SPAN><SPAN>东碳</SPAN>。四川香凤同意<SPAN>ST</SPAN><SPAN>东碳</SPAN>重组，并愿意让渡其控股权。该协议约定，在协议生效之日起<SPAN>5</SPAN>个工作日内且控股权让渡费实际支付并进入四川香凤指定账户后，四川香凤应出具合法的授权文件同意将所持<SPAN>ST</SPAN><SPAN>东碳</SPAN>股份所对应的表决权、提案权、股东大会召集权、董事、监事及高级管理人员提名权、董事会表决权、目标公司经营权等托管给西安紫薇。<SPAN>4</SPAN>月<SPAN>7</SPAN>日，四川香凤在收到<SPAN>3000</SPAN>万股权让渡费后，与重组方签订《东新电碳股份有限公司股份表决权托管协议》（以下简称《托管协议》），并向重组方代表张敏学出具了《授权委托书》，委托张敏学行使四川香凤所持上市公司<SPAN>ST</SPAN>东碳<SPAN>32,714,028</SPAN>股股份（占<SPAN>ST</SPAN>东碳总股本<SPAN>28.58%</SPAN>）相对应的表决权、提案权、股东大会召集权、董事、监事及高级管理人员提名权等。《托管协议》还约定四川香凤应协调<SPAN>ST</SPAN>东碳董事会将其印章移交给张敏学或张敏学指定的人。当日，<SPAN>ST</SPAN>东碳董事长黄彬向上市公司董事会发出通知，称为推进重组，将<SPAN>ST</SPAN>东碳董事会公章在重组期间交于重组方湖南湘晖工作人员罗俊群处。<SPAN>8</SPAN>月<SPAN>27</SPAN>日，四川香凤向重组方西安紫薇、湖南湘晖发出《四川香凤企业有限公司关于终止履行与西安紫薇地产开发有限公司、湖南湘晖资产经营股份有限公司签订之〈合作协议书的函〉》以及《关于尽快解除协议的紧急通知》。<SPAN>10</SPAN>月<SPAN>19</SPAN>日，<SPAN>ST</SPAN>东碳发布“临<SPAN>2009-27</SPAN>号公告”，披露上述股权托管事宜。<SPAN>12</SPAN>月<SPAN>7</SPAN>日，重组方代表向四川香凤回函，同意解除《托管协议》和《授权委托书》。<SPAN>ST</SPAN>东碳于<SPAN>2009</SPAN>年<SPAN>12</SPAN>月<SPAN>10</SPAN>日披露上述解除《托管协议》情况。<SPAN>2009</SPAN>年<SPAN>4</SPAN>月<SPAN>7</SPAN>日至<SPAN>10</SPAN>月<SPAN>18</SPAN>日期间，<SPAN>ST</SPAN>东碳未及时将大股东四川香凤与重组方签订《托管协议》、其股份表决权被托管的事项进行披露，也未在公司<SPAN>2009</SPAN>年中期报告中披露。董事长、总经理兼董事会秘书黄彬是违法行为的责任人员。</SPAN></P>
+<P><SPAN>上述事实，有相关公告、情况说明、董事会决议、<SPAN>2009</SPAN>年半年报等证据证明，足以认定。</SPAN></P>
+<P><SPAN>ST</SPAN><SPAN>东碳未提交临时报告并公告其股权托管的行为违反了《证券法》第六十七条“发生可能对上市公司股票交易价格产生较大影响的重大事件，投资者尚未得知时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所报送临时报告，并予公告，说明事件的起因、目前的状态和可能产生的法律后果。下列情况为前款所称重大事件：……（八）持有公司百分之五以上股份的股东或者实际控制人，其持有股份或者控制公司的情况发生较大变化”以及《上市公司信息披露管理办法》第三十条“发生可能对上市公司证券及其衍生品种交易价格产生较大影响的重大事件，投资者尚未得知时，上市公司应当立即披露，说明事件的起因、目前的状态和可能产生的影响。前款所称重大事件包括：……（八）持有公司<SPAN>5%</SPAN>以上股份的股东或者实际控制人，其持有股份或者控制公司的情况发生较大变化；……（十四）法院裁决禁止控股股东转让其所持股份；任一股东所持公司<SPAN> 5%</SPAN>以上股份被质押、冻结、司法拍卖、托管、设定信托或者被依法限制表决权”的规定，构成了《证券法》第一百九十三条所述的行为。</SPAN></P>
+<P><SPAN>ST</SPAN><SPAN>东碳未在中期报告中披露股权托管的行为违反了《证券法》第六十五条“上市公司和公司债券上市交易的公司，应当在每一会计年度的上半年结束之日起二个月内，向国务院证券监督管理机构和证券交易所报送记载以下内容的中期报告，并予公告：……（五）国务院证券监督管理机构规定的其他事项”以及《上市公司信息披露管理办法》第二十二条“中期报告应当记载以下内容：……（三）公司股票、债券发行及变动情况、股东总数、公司前<SPAN>10</SPAN>大股东持股情况，控股股东及实际控制人发生变化的情况”的规定，构成了《证券法》第一百九十三条所述的行为。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P><SPAN>一、对<SPAN>ST</SPAN>东碳给予警告，并处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>二、对黄彬给予警告，并处以<SPAN>10</SPAN>万元罚款。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P align=left>&nbsp;</P>
+<P>&nbsp;</P>
+<P><SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 </SPAN></SPAN><SPAN>中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN><SPAN>　　&nbsp; </SPAN><SPAN>　</SPAN><SPAN>　　</SPAN><SPAN>　&nbsp;</SPAN>&nbsp;<SPAN>　　　　　　　　　 &nbsp;</SPAN><SPAN>　</SPAN>　</SPAN><SPAN>二○一一年一月二十一日</SPAN></P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110509_195210_ext.json

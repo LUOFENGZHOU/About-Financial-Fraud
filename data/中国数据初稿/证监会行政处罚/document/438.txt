@@ -1,0 +1,223 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（李德胜、丁彦森）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2014年01月27日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（李德胜、丁彦森）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2014〕18号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（李德胜、丁彦森）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2014〕18号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2014</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：李德胜，男，<FONT face="Times New Roman">1973</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月出生，</FONT><FONT face="Times New Roman">1997</FONT><FONT face=方正仿宋简体>年任职于华泰证券天津真理道营业部，</FONT><FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年取得证券投资咨询业务资格，住址：天津市南开区凌庄子道。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">丁彦森，男，<FONT face="Times New Roman">1978</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月出生，</FONT><FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月至</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月任中信建投证券天津红旗南路营业部分析师，</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年取得证券投资咨询业务资格，住址：天津市河西区解放南路。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对李德胜、丁彦森违反证券法律法规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人李德胜、丁彦森未提出陈述申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，李德胜、丁彦森存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2008<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=方正仿宋简体>日，“证券之星”等网站发布署名为华泰证券李德胜的荐股文章</FONT><FONT face="Times New Roman">64</FONT><FONT face=方正仿宋简体>篇。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">31</FONT><FONT face=方正仿宋简体>日，“全景网”等网站发布署名为中信建投证券丁彦森的荐股文章</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>篇。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2007<FONT face=方正仿宋简体>年底，任某请李德胜帮其朋友撰写荐股文章，每月报酬</FONT><FONT face="Times New Roman">5,000</FONT><FONT face=方正仿宋简体>元，李德胜表示同意。但实际李德胜并未给任某等人写过文章，任某只是让其朋友借李德胜的名义发表荐股文章。</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年初，任某告诉李德胜他以李德胜的名义在</FONT><FONT face="Times New Roman">163</FONT><FONT face=方正仿宋简体>网站注册了一个邮箱，任某及其朋友将荐股文章发到该邮箱后再转发到网络媒体。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月，任某向丁彦森表示其朋友余某等人欲借其名义在网站上发表荐股文章，每月支付给丁彦森</FONT><FONT face="Times New Roman">8,000</FONT><FONT face=方正仿宋简体>元，丁彦森表示同意。任某要求丁彦森在</FONT><FONT face="Times New Roman">163</FONT><FONT face=方正仿宋简体>网站注册一个邮箱，该邮箱名称和密码均由任某指定，并在注册后交由任某使用。任某提供给丁彦森在“新浪”等网站发布文章需要的授权书模本和各网站传真号码，丁彦森填好后，连同其身份证和证券分析师执业证书复印件一起传真给上述网站。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，李德胜、丁彦森出租个人业务资格的行为违背了其作为执业人员应负的诚信义务，违反了《证券、期货投资咨询管理暂行办法》（以下简称《暂行办法》）第十九条的规定。李德胜、丁彦森的上述行为对投资者构成欺诈，同时，为他人利用其从业资格从事违法行为提供了便利条件。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据李德胜、丁彦森违法行为的事实、性质、情节与社会危害程度，依据《暂行办法》第三十六条的规定，我会决定：对李德胜、丁彦森分别处以<FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>万元罚款，同时暂停李德胜证券投资咨询业务资格</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>年，暂停丁彦森证券投资咨询业务资格</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>年。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=方正仿宋简体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=方正仿宋简体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会　&nbsp;</SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2014<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=方正仿宋简体>日</FONT></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20140312_245409_ext.json

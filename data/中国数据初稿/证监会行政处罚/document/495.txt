@@ -1,0 +1,240 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（邓永祥）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2013年08月23日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（邓永祥）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2013〕36号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（邓永祥）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2013〕36号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 28pt; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0 align=center><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">36</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 15pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：邓永祥，男，<FONT face="Times New Roman">1971</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>月出生，住址：辽宁省大连市中山区丰汇园。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对邓永祥内幕交易案进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人邓永祥未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，邓永祥存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、内幕信息的形成、传递与公开</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">宁夏大元化工股份有限公司（以下简称大元股份）原第一大股东大连实德投资有限公司（以下简称实德投资），法定代表人徐明。陈某国负责实德投资的工作，具体事务由贾某处理。上海泓泽世纪投资发展有限公司（以下简称泓泽世纪）成立于<FONT face="Times New Roman">2004</FONT><FONT face=方正仿宋简体>年，杨某持股</FONT><FONT face="Times New Roman">94%</FONT><FONT face=方正仿宋简体>。邓永祥于</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月至</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月任泓泽世纪总裁，</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月至调查时任大元股份总经理。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月份之前，邓永祥通过公开信息关注到实德投资一直在减持“大元股份”。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>、</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日左右，经对大元股份的初步了解，邓永祥受杨某委派联系陈某国，得知实德投资有意转让大元股份控股股权。陈某国、贾某分别向徐明汇报邓永祥有意收购大元股份股权，徐明当时并未同意，后邓永祥多次给徐明打电话、发短信沟通收购事宜，徐明短信回复邓永祥说此事由贾某负责，让他直接找贾某。邓永祥和陈某国到上海与杨某见面，陈某国介绍了实德投资的基本情况，当时实德投资持有“大元股份”市值</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>个多亿，杨某觉得太多，而且价格也不能确定，认为受让的股份不要超过</FONT><FONT face="Times New Roman">30%</FONT><FONT face=方正仿宋简体>，商谈时没有表态。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>日左右，邓永祥与贾某在北京进行了第一次会谈，说他代表上海一家公司有意受让实德投资持有的大元股份股权，转让价格以二级市场价格为准，但未透露收购方的具体公司名称，初次洽谈没有达成任何意向。随后，贾某与邓永祥还进行了多次洽谈，陈某国、贾某向徐明汇报邓永祥提出的收购方案比较可行，确定将大元股份股权转让给泓泽世纪。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月中下旬，邓永祥、杨某等与贾某在北京进行洽谈，除转让价格外，其他条件都达成了一致。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=方正仿宋简体>日，贾某与邓永祥在北京就泓泽世纪受让大元股份股权事宜达成一致。陈某国向徐明汇报说商谈的价格很好。邓永祥打电话给杨某，说与实德投资谈差不多了，需要杨某去北京把数量和价格确定下来。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=方正仿宋简体>日，贾某致电大元股份董事会秘书张某梅，咨询股权协议转让的相关法律法规及信息披露相关要求，并通知近期有股权协议转让交易发生。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=方正仿宋简体>日，张某梅当面回复贾某咨询的问题，并与交易所沟通相关事宜。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>日，邓永祥、杨某等与贾某在北京商定泓泽世纪以每股</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>元受让实德投资持有的</FONT><FONT face="Times New Roman">5,080</FONT><FONT face=方正仿宋简体>万股“大元股份”（占大元股份总股本的</FONT><FONT face="Times New Roman">25.4%</FONT><FONT face=方正仿宋简体>）。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">31</FONT><FONT face=方正仿宋简体>日，邓永祥、杨某等与贾某签订了《股份转让协议》。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日，大元股份发布《关于第一大股东股权转让的提示性公告》，称</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">31</FONT><FONT face=方正仿宋简体>日实德投资与泓泽世纪签署《股份转让协议》，将其持有的</FONT><FONT face="Times New Roman">5,080</FONT><FONT face=方正仿宋简体>万股“大元股份”转让给泓泽世纪，转让价格为</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>元</FONT><FONT face="Times New Roman">/</FONT><FONT face=方正仿宋简体>股，总价款</FONT><FONT face="Times New Roman">55,880</FONT><FONT face=方正仿宋简体>万元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>日，泓泽世纪向实德投资先行支付了大元股份股权转让款</FONT><FONT face="Times New Roman">194,056,000</FONT><FONT face=方正仿宋简体>元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日，泓泽世纪完成股权过户手续。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>日，大元股份召开</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年第二次临时股东大会，泓泽世纪正式接管大元股份。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、涉案账户交易情况</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2007<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=方正仿宋简体>日，邓永祥开立股东账户。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>日，该账户累计买入</FONT><FONT face="Times New Roman">60,744</FONT><FONT face=方正仿宋简体>股“大元股份”，卖出</FONT><FONT face="Times New Roman">60,744</FONT><FONT face=方正仿宋简体>股，下单方式为网上委托。其中</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日买入</FONT><FONT face="Times New Roman">5,000</FONT><FONT face=方正仿宋简体>股，</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>日卖出</FONT><FONT face="Times New Roman">3,000</FONT><FONT face=方正仿宋简体>股，</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>日买入</FONT><FONT face="Times New Roman">2,700</FONT><FONT face=方正仿宋简体>股，</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=方正仿宋简体>日卖出</FONT><FONT face="Times New Roman">4,700</FONT><FONT face=方正仿宋简体>股，</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=方正仿宋简体>日买入</FONT><FONT face="Times New Roman">2,200</FONT><FONT face=方正仿宋简体>股，</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日卖出</FONT><FONT face="Times New Roman">2,200</FONT><FONT face=方正仿宋简体>股。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=方正仿宋简体>日买入</FONT><FONT face="Times New Roman">36,044</FONT><FONT face=方正仿宋简体>股，成交金额</FONT><FONT face="Times New Roman">541,999.56</FONT><FONT face=方正仿宋简体>元，</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>日卖出</FONT><FONT face="Times New Roman">37,944</FONT><FONT face=方正仿宋简体>股。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">26</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>日该户仍交易“大元股份”。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=方正仿宋简体>日，邓永祥本人存现</FONT><FONT face="Times New Roman">550,000</FONT><FONT face=方正仿宋简体>元；</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>日，向农行青铜峡市支行广场分理处腾宝账户转出</FONT><FONT face="Times New Roman">500,000</FONT><FONT face=方正仿宋简体>元，邓永祥办理。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据邓永祥的询问笔录，<FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年或</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年邓永祥将该账户借给其弟邓某新使用，</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>月份左右归还，同时邓永祥将账户中的个人资金也基本取出；账户借给邓某新后，资金由邓某新安排，邓永祥没有与该户发生过资金往来，也不清楚该账户交易情况；邓永祥证券账户只有其本人和邓某新使用；</FONT><FONT face="Times New Roman">1994</FONT><FONT face=方正仿宋简体>年邓某新职业中专毕业，</FONT><FONT face="Times New Roman">2006</FONT><FONT face=方正仿宋简体>、</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年在山东、广东、湖南等地打工，</FONT><FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月在广东打工，</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月在湖南老家；</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月之前来过北京一两次，但具体什么时候、住在什么地方、因为什么事来京邓永祥均不知道，邓某新来京期间没有与邓永祥见面。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据北京中奥凯富国际酒店有限公司（以下简称凯富公寓）提供的情况说明、《租赁契约》及涉案账户交易流水，邓永祥<FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">16</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日租住凯富公寓客房，</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=方正仿宋简体>日“邓永祥”账户通过凯富公寓互联网交易“大元股份”。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">调查时，邓某新始终不肯接受调查人员的询问。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据计算，“邓永祥”账户<FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=方正仿宋简体>日买入“大元股份”股票</FONT><FONT face="Times New Roman">36,044</FONT><FONT face=方正仿宋简体>股，亏损</FONT><FONT face="Times New Roman">2,287.81</FONT><FONT face=方正仿宋简体>元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以上违法事实，有相关公告、涉案账户交易记录以及涉案人员询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述行为，违反了《证券法》第七十六条的规定，构成了《证券法》第二百零二条所述的违法行为。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：对邓永祥处以<FONT face="Times New Roman">50</FONT><FONT face=方正仿宋简体>万元罚款。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=方正仿宋简体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=方正仿宋简体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp; </SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2013<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">23</FONT><FONT face=方正仿宋简体>日</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">&nbsp;</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 15pt; mso-spacerun: 'yes'">　　　&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 15pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 12pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; COLOR: rgb(0,0,0); FONT-SIZE: 16pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20131206_239423_ext.json

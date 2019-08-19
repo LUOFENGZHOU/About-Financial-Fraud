@@ -1,0 +1,296 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（银河科技、潘琦等15名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-03591</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年05月25日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（银河科技、潘琦等15名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2011〕19号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（银河科技、潘琦等15名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2011〕19号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1310025247031'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1310025247031 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1310025247031 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1310025247031 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1310025247031 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1310025247031 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><SPAN>〔<SPAN>2011</SPAN>〕<SPAN>19</SPAN>号</SPAN></P>
+<P><SPAN>当</SPAN><SPAN>事人：</SPAN><SPAN>北海银河高科技产业股份有限公司（以下简称银河科技），住所：广西壮族自治区北海市西藏路银河软件科技园专家创业区<SPAN>1</SPAN>号，法定代表人<SPAN><A href="http://finance.sina.com.cn/stock/company/sz/000806/artificial_person.shtml" target=_blank _fcksavedurl="http://finance.sina.com.cn/stock/company/sz/000806/artificial_person.shtml"><SPAN><SPAN><FONT>顾勇彪</FONT></SPAN></SPAN></A></SPAN>。</SPAN></P>
+<P><SPAN>潘琦，男，<SPAN>1963</SPAN>年<SPAN>4</SPAN>月出生，时任银河科技董事长，住址：四川省成都市武侯区新希望路<SPAN>9</SPAN>号。</SPAN></P>
+<P><SPAN>姚国平，男，<SPAN>1965</SPAN>年<SPAN>2</SPAN>月出生，时任银河科技董事、总裁，住址：江苏省盐城市亭湖区剪道巷<SPAN>8-3</SPAN>号。</SPAN></P>
+<P><SPAN>王国生，男，<SPAN>1971</SPAN>年<SPAN>9</SPAN>月出生，时任银河科技副总裁、总裁、董事，住址：江苏省南京市鼓楼区汉口西路<SPAN>1</SPAN>号。</SPAN></P>
+<P><SPAN>龙晓荣，男，<SPAN>1966</SPAN>年<SPAN>10</SPAN>月出生，时任银河科技副总裁、财务总监，住址：广西壮族自治区南宁市青秀区金湖路<SPAN>28</SPAN>号。</SPAN></P>
+<P><SPAN>徐宏军，男，<SPAN>1971</SPAN>年<SPAN>1</SPAN>月出生，时任银河科技董事会秘书、副总裁，住址：广西壮族自治区南宁市青秀区金湖路<SPAN>63-1</SPAN>号。</SPAN></P>
+<P><SPAN>赖永久，男，<SPAN>1945</SPAN>年<SPAN>3</SPAN>月出生，时任银河科技董事，住址：四川省成都市新都镇电子路<SPAN>101</SPAN>号。</SPAN></P>
+<P><SPAN>顾勇彪，男，<SPAN>1952</SPAN>年<SPAN>2</SPAN>月出生，时任银河科技董事、董事长，住址：湖南省长沙市开福区营盘路<SPAN>268</SPAN>号。</SPAN></P>
+<P><SPAN>黄巨芳，男，<SPAN>1962</SPAN>年<SPAN>10</SPAN>月出生，时任银河科技财务总监，住址：贵州省遵义市汇川区上海路<SPAN>120</SPAN>号。</SPAN></P>
+<P><SPAN>林庆农，男，<SPAN>1964</SPAN>年<SPAN>4</SPAN>月出生，时任银河科技副总裁，住址：江苏省南京市鼓楼区金贸花园<SPAN>7</SPAN>栋。</SPAN></P>
+<P><SPAN>邓乐平，男，<SPAN>1949</SPAN>年<SPAN>12</SPAN>月出生，时任银河科技董事，住址：四川省成都市光华村街西南财大教工宿舍。</SPAN></P>
+<P><SPAN>纳鹏杰，男，<SPAN>1965</SPAN>年<SPAN>1</SPAN>月出生，时任银河科技独立董事，住址：云南省昆明市龙泉路<SPAN>237</SPAN>号。</SPAN></P>
+<P><SPAN>刘志彪，男，<SPAN>1959</SPAN>年<SPAN>7</SPAN>月出生，时任银河科技独立董事，住址：江苏省南京市鼓楼区南秀村七号。</SPAN></P>
+<P><SPAN>陈世福，男，<SPAN>1938</SPAN>年<SPAN>10</SPAN>月出生，时任银河科技独立董事，住址：江苏省南京市北京西路二号新村十幢。</SPAN></P>
+<P><SPAN>梅生伟，男，<SPAN>1964</SPAN>年<SPAN>9</SPAN>月出生，时任银河科技独立董事，住址：北京市海淀区蓝旗营楼<SPAN>305</SPAN>号。</SPAN></P>
+<P><SPAN>郭正确，男，<SPAN>1950</SPAN>年<SPAN>7</SPAN>月出生，时任银河科技监事、监事会召集人、银河科技控股子公司四川永星电子有限公司（以下简称永星电子）副董事长，住址：四川省成都市新都镇电子路<SPAN>111</SPAN>号。</SPAN></P>
+<P><SPAN>依据<SPAN>1999</SPAN>年<SPAN>7</SPAN>月<SPAN>1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）和<SPAN>2006</SPAN>年<SPAN>1</SPAN>月<SPAN>1</SPAN>日起施行的《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对银河科技信息披露违法行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人潘琦、姚国平、王国生、龙晓荣、徐宏军、纳鹏杰、刘志彪等提出了书面申辩意见，应当事人潘琦、姚国平、王国生、龙晓荣、徐宏军的要求，我会举行了听证会，听取了当事人的陈述和申辩。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，银河科技存在以下信息披露违法行为：</SPAN></P>
+<P><SPAN>银河科技，<SPAN>1993</SPAN>年<SPAN>4</SPAN>月设立，<SPAN>1998</SPAN>年<SPAN>4</SPAN>月在深圳证券交易所上市，广西银河集团有限公司（以下简称银河集团）为第一大股东，至<SPAN>2006</SPAN>年年中持股比例为<SPAN>15.54%</SPAN>。银河集团的法定代表人是潘琦，股东为潘琦（持股<SPAN>63.64%</SPAN>）、姚国平等人。北海银河科技电气有限责任公司（以下简称银河电气）、北海银河电子有限责任公司（以下简称银河电子）、永星电子均是银河科技持股<SPAN>90%</SPAN>以上的绝对控股子公司。四川都江机械有限责任公司（以下简称都江机械）、四川银河汽车集团有限责任公司（以下简称银河汽车）均为银河科技同受银河集团控制的关联企业。</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P><SPAN>一、银河科技虚增<SPAN>2004</SPAN>年度销售收入<SPAN>17,942.70</SPAN>万元，利润<SPAN>6,931.87</SPAN>万元</SPAN></P>
+<P><SPAN>（一）<SPAN>2004</SPAN>年度，银河科技本部通过制作虚假出库单据、开具虚假销售发票等方式，虚增销售收入<SPAN>1,936.29</SPAN>万元，同时按比例虚增成本<SPAN>746.18</SPAN>万元，虚增利润<SPAN>1,190.11</SPAN>万元。虚增的销售收入和利润分别占银河科技<SPAN>2004</SPAN>年年度报告调整前披露的销售收入<SPAN>118,228.5</SPAN>万元和利润<SPAN>15,337.3</SPAN>万元的<SPAN>1.64%</SPAN>与<SPAN>7.76%</SPAN>。</SPAN></P>
+<P><SPAN>（二）<SPAN>2004</SPAN>年度，银河电气通过制作虚假出库单据、开具虚假销售发票等方式虚增销售收入<SPAN>9,519.62</SPAN>万元，通过制作虚假收料单的方式虚构成本<SPAN>5,135.79</SPAN>万元，从而虚增利润<SPAN>4,383.83</SPAN>万元。虚增的销售收入和利润分别占银河科技<SPAN>2004</SPAN>年年度报告调整前披露的销售收入<SPAN>118,228.5</SPAN>万元和利润<SPAN>15,337.3</SPAN>万元的<SPAN>8.05%</SPAN>和<SPAN>28.58%</SPAN>。</SPAN></P>
+<P><SPAN>（三）<SPAN>2004</SPAN>年度，银河电子通过制作虚假出库单据和产品发运单据等方式虚增销售收入<SPAN>2,882.05</SPAN>万元，通过制作虚假入库单据的方式虚构成本<SPAN>2,291.70</SPAN>万元，从而虚增利润<SPAN>590.35</SPAN>万元。虚增的销售收入和利润分别占银河科技<SPAN>2004</SPAN>年年度报告调整前披露的销售收入<SPAN>118,228.5</SPAN>万元和利润<SPAN>15,337.3</SPAN>万元的<SPAN>2.44%</SPAN>与<SPAN>3.85%</SPAN>。</SPAN></P>
+<P><SPAN>（四）<SPAN>2004</SPAN>年度，永星电子通过制作虚假出库单据、伪造银行进账单等方式虚增销售收入<SPAN>3,604.74</SPAN>万元，虚构成本<SPAN>2,833.16</SPAN>万元，虚增利润<SPAN>767.58</SPAN>万元。虚增的销售收入和利润分别占银河科技<SPAN>2004</SPAN>年年度报告调整前披露的销售收入<SPAN>118,228.5</SPAN>万元和利润<SPAN>15,337.3</SPAN>万元的<SPAN>3.05%</SPAN>和<SPAN>5%</SPAN>。</SPAN></P>
+<P><SPAN>二、银河科技虚增<SPAN>2005</SPAN>年度销售收入<SPAN>3,475.76</SPAN>万元和利润<SPAN>795.16</SPAN>万元</SPAN></P>
+<P><SPAN>2005</SPAN><SPAN>年度，银河电气通过制作虚假出库单据、开具虚假销售发票的方式虚增销售收入<SPAN>3,475.76</SPAN>万元，通过制作虚假采购入库单据、暂估入账挂应付账款的方式虚构成本<SPAN>2,680.60</SPAN>万元，从而虚增利润<SPAN>795.16</SPAN>万元。虚增的销售收入和利润分别占银河科技<SPAN>2005</SPAN>年销售收入<SPAN>102,253.17</SPAN>万元和利润<SPAN>2,068.77</SPAN>万元的<SPAN>3.40%</SPAN>与<SPAN>38.44%</SPAN>。</SPAN></P>
+<P><SPAN>三、银河科技隐瞒关联方资金往来</SPAN></P>
+<P><SPAN>（一）银河科技隐瞒<SPAN>2004</SPAN>年向关联方巨额划款事项。银河科技<SPAN>2004</SPAN>年年度报告披露了北海银河电子商务有限公司（未纳入合并报表范围）与银河科技发生的经营性资金往来<SPAN>998,361.73</SPAN>元，该资金往来已于当年全部归还，没有披露与其他关联方资金往来的事项。调查发现，<SPAN>2004</SPAN>年银河科技还向其他关联方划款累计达<SPAN>5.44</SPAN>亿元，占其<SPAN>2004</SPAN>年度经审计净资产<SPAN>1,360,407,074.66</SPAN>元（未调整）的<SPAN>32.76%</SPAN>。银河科技既未以临时报告形式、也未在定期报告中披露这些关联交易事项。</SPAN></P>
+<P><SPAN>（二）银河科技隐瞒<SPAN>2005</SPAN>年向关联方巨额划款事项。银河科技<SPAN>2005</SPAN>年年度报告披露，向关联方提供资金<SPAN>566,450,485.19</SPAN>元，累计获归还<SPAN>534,435,101.19</SPAN>元，年末余额<SPAN>32,015,384</SPAN>元。累计划款金额占其<SPAN>2005</SPAN>年度经审计净资产<SPAN>1,337,270,467.14</SPAN>元的<SPAN>42%</SPAN>，但是，银河科技未以临时报告形式及时披露这些关联交易事项。同时，未披露向关联方累计划款<SPAN>3.85</SPAN>亿元。</SPAN></P>
+<P><SPAN>四、银河科技隐瞒对外担保事项</SPAN></P>
+<P><SPAN>（一）银河科技未如实披露在<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年为关联方提供银行借款担保<SPAN>4.62</SPAN>亿元，其中，<SPAN>2004</SPAN>年<SPAN>2.67</SPAN>亿元，<SPAN>2005</SPAN>年<SPAN>1.95</SPAN>亿元。</SPAN></P>
+<P><SPAN>（二）银河科技未如实披露在<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年为非关联方提供银行借款担保<SPAN>1.9</SPAN>亿元，其中，<SPAN>2004</SPAN>年<SPAN>7,500</SPAN>万元，<SPAN>2005</SPAN>年<SPAN>1.15</SPAN>亿元。</SPAN></P>
+<P><SPAN>五、银河科技隐瞒银行贷款事项</SPAN></P>
+<P><SPAN>2004</SPAN><SPAN>年，永星电子在光大银行成都玉双路支行发生一笔金额为<SPAN>9000</SPAN>万元的临时流动资金信用贷款，贷款合同签署人赖永久。该笔贷款转入永星电子账户后没有在财务报表中反映，到账后全部存于账上，未实际使用，<SPAN>2004</SPAN>年<SPAN>4</SPAN>月<SPAN>28</SPAN>日银行提前扣收归还。银河科技未在<SPAN>2004</SPAN>年年度报告中披露这一贷款事项。</SPAN></P>
+<P><SPAN>六、银河科技未及时披露因重大违法违规行为被财政部广西专员办检查和被地方政府处罚的情况</SPAN></P>
+<P><SPAN>2005</SPAN><SPAN>年<SPAN>2</SPAN>月<SPAN>7</SPAN>日</SPAN><SPAN>，依据财政部广西专员办对银河科技<SPAN>2002</SPAN>年、<SPAN>2003</SPAN>年会计信息质量检查出的问题，北海市人民政府对银河科技虚增销售收入<SPAN>263,173,783.17</SPAN>元、隐瞒银行借款<SPAN>2.7</SPAN>亿元和截至<SPAN>2003</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日银河集团占用银河科技资金<SPAN>39,310.06</SPAN>万元等违规行为进行了行政处罚，对银河科技罚款<SPAN>10</SPAN>万元，对潘琦、龙晓荣和欧付忠各罚款<SPAN>5</SPAN>万元，取消龙晓荣和欧付忠的会计师职称资格。银河科技未及时披露该信息。直到<SPAN>2006</SPAN>年初，由于媒体的报道，银河科技才披露了财政部广西专员办对银河科技<SPAN>2002</SPAN>年、<SPAN>2003</SPAN>年会计信息质量检查查出问题并被北海市人民政府处罚的情况。</SPAN></P>
+<P><SPAN>经过调查与审理，我会认定，本案是系统性、团体化的上市公司信息披露违法大案。银河科技为了骗取发行可转换债券的资格，贪短利而忘大义，有策划、有组织地通过制作虚假出库单据、开具虚假销售发票并按比例虚构成本的方式，连续多年实施大规模的虚构营业收入、虚构成本、虚构利润活动。虚增<SPAN>2004</SPAN>年度销售收入<SPAN>17,942.70</SPAN>万元，虚构成本<SPAN>11,006.83</SPAN>万元，虚增利润<SPAN>6,931.87</SPAN>万元，虚增的销售收入、利润分别占<SPAN>2004</SPAN>年年度报告调整前披露销售收入、利润的<SPAN>15.2%</SPAN>与<SPAN>45.2%</SPAN>；虚增<SPAN>2005</SPAN>年度销售收入<SPAN>3,475.76</SPAN>万元，虚构成本<SPAN>2,680.60</SPAN>万元，虚增利润<SPAN>795.16</SPAN>万元，虚增的销售收入、利润分别占<SPAN>2005</SPAN>年年度报告销售收入、利润的<SPAN>40%</SPAN>和<SPAN>38.44%</SPAN>。同时，银河科技隐瞒<SPAN>2004</SPAN>年向关联方划款<SPAN>5.44</SPAN>亿元，未及时披露<SPAN>2005</SPAN>年向关联方划款<SPAN>566,450,485.19</SPAN>元，未披露<SPAN>2005</SPAN>年向关联方划款<SPAN>3.85</SPAN>亿元；隐瞒<SPAN>2004</SPAN>年对外担保<SPAN>3.42</SPAN>亿元（其中为关联方提供担保<SPAN>2.67</SPAN>亿元），隐瞒<SPAN>2005</SPAN>年对外担保<SPAN>3.1</SPAN>亿元（其中为关联方提供担保<SPAN>1.95</SPAN>亿元）；隐瞒<SPAN>2004</SPAN>年银行贷款<SPAN>9,000</SPAN>万元。此外，银河科技还存在不及时披露受到地方政府处罚的事项。银河科技的上述行为，既包括定期报告披露违法，也包括临时报告披露违法，持续时间长，涉及事项多，涉案数额巨大，集上市公司信息披露违法之大成，情节特别严重，市场影响非常恶劣，应当依法予以从重处罚。</SPAN></P>
+<P><SPAN>我会还进一步查明了银河科技有关董事、监事、高级管理人员的涉案情况，根据这些人员在上市公司中的地位、职责，参与、知悉涉案事项的程度，在信息披露违法中所起的作用等因素，做出以下认定：</SPAN></P>
+<P><SPAN>时任银河集团董事长、银河科技董事长、银河科技实际控制人潘琦，授意、指挥银河科技有关人员实施了<SPAN>2004</SPAN>年虚构财务指标的行为，知悉<SPAN>2005</SPAN>年有关人员虚构财务指标的事项但未进行制止、纠正，并以董事长身份在<SPAN>2004</SPAN>年年度报告上签字确认，以董事身份在<SPAN>2005</SPAN>年年度报告上签字确认；<SPAN>2004</SPAN>年口头授权下属审批<SPAN>37</SPAN>次合计向关联方划款<SPAN>5.44</SPAN>亿元，<SPAN>2005</SPAN>年口头授权下属审批<SPAN>153</SPAN>次合计向关联方划款<SPAN>9.52</SPAN>亿元，<SPAN>2004</SPAN>年在对外担保合同上签字<SPAN>7</SPAN>次合计担保金额<SPAN>2</SPAN>亿元，口头授权其他高管签字提供对外担保<SPAN>1.42</SPAN>亿元，<SPAN>2005</SPAN>年在对外担保合同上签字<SPAN>5</SPAN>次合计担保金额<SPAN>9,000</SPAN>万元，口头授权其他高管签字提供对外担保<SPAN>2.55</SPAN>亿元，然而，却蓄意隐瞒或者未督促公司按规定披露这些关联方资金往来与对外担保事项；决策不披露被财政部广西专员办检查和被北海市人民政府处罚的事项。综合这些情况，认定潘琦是银河科技一系列信息披露严重违法行为的主谋、主使和主要参与者，系负有最主要责任的直接负责的主管人员，应当予以严惩。</SPAN></P>
+<P><SPAN>时任银河科技董事、总经理姚国平，批准并组织实施了银河科技虚增<SPAN>2004</SPAN>年度财务指标的行为，并以董事身份在银河科技<SPAN>2004</SPAN>年年度报告上签字确认；签字实施了<SPAN>2004</SPAN>年到<SPAN>2005</SPAN>年初银河科技与关联方的多笔资金往来和为关联公司提供担保事项，却蓄意隐瞒或者未督促公司披露；参与决策不披露被财政部广西专员办检查和被北海市人民政府处罚的事项。<SPAN>2005</SPAN>年辞去银河科技总经理后，对银河科技虚增<SPAN>2005</SPAN>年财务指标、隐瞒与关联方资金往来、隐瞒对外担保的事项知情，但未督促公司披露，并以董事身份在银河科技<SPAN>2005</SPAN>年年度报告上签字确认。综合这些情况，认定姚国平是银河科技一系列信息披露严重违法行为的决策者、组织者、参与者，系负有重要责任的直接负责的主管人员，应当予以从重处罚。</SPAN></P>
+<P><SPAN>时任银河科技董事、常务副总裁、总裁王国生，对银河科技虚增<SPAN>2004</SPAN>年财务指标的情况知情，组织实施了虚增<SPAN>2005</SPAN>年度财务指标的行为；对银河科技<SPAN>2004</SPAN>年发生的与关联方资金往来未披露、对外担保未披露等情况知情，<SPAN>2005</SPAN>年审批同意银河科技与关联方发生资金往来<SPAN>46</SPAN>次合计向关联方划款<SPAN>9.52</SPAN>亿元，审批同意银河科技对外担保<SPAN>3.1</SPAN>亿元，却蓄意隐瞒或者未督促公司如实披露上述事项；参与决策不披露被财政部广西专员办检查和被北海市人民政府处罚的事项；在银河科技审议<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年年度报告董事会上，对拟公布年度报告中存在虚增收入和利润、未如实披露重大信息的情况未提出异议，并在银河科技<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年年度报告上签字确认。综合这些情况，认定王国生是银河科技一系列信息披露严重违法行为的决策者、组织者、参与者，系负有重要责任的直接负责的主管人员，应当予以从重处罚。</SPAN></P>
+<P><SPAN>时任银河科技副总裁、财务总监龙晓荣，分管公司财务方面的工作，对董事长潘琦和总裁姚国平负责；<SPAN>2004</SPAN>年，根据潘琦和姚国平的决策，组织银河科技本部、银河电气、银河电子和永星电子虚增销售收入<SPAN>17,942.70</SPAN>万元，虚列成本<SPAN>11,006.83</SPAN>万元，虚增利润<SPAN>6,931.87</SPAN>万元，在银河科技<SPAN>2004</SPAN>年<SPAN>1</SPAN>—<SPAN>3</SPAN>季度报表上签字；经报潘琦、姚国平同意，审核批准银河科技向关联方划款<SPAN>5.44</SPAN>亿元、对外担保<SPAN>2.75</SPAN>亿元，未督促公司如实披露。综合上述情况，认定龙晓荣是银河科技一系列信息披露严重违法行为的主要组织者、参与者，系直接负责的主管人员，应当予以从重处罚。</SPAN></P>
+<P><SPAN>时任银河科技副总裁、常务副总裁兼董事会秘书徐宏军，在银河科技发布<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年年度报告前，对银河科技虚增<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年财务指标、银河科技与关联方资金往来、对外担保等情况知情，但是参与隐瞒相关事项或者未督促、安排公司履行临时报告和定期报告信息披露义务；参与决策不披露被财政部广西专员办检查和被北海市人民政府处罚的事项。综合这些情况，认定徐宏军是银河科技一系列信息披露严重违法行为的决策者、参与者，系直接负责的主管人员，应当予以从重处罚。</SPAN></P>
+<P><SPAN>时任银河科技董事、副总裁、永星电子董事长、银河电子董事长赖永久，根据潘琦、姚国平的决策，部署永星电子虚增<SPAN>2004</SPAN>年度销售收入<SPAN>3,604.74</SPAN>万元，虚增利润<SPAN>767.58</SPAN>万元；对银河科技本部、银河电气、银河电子虚增<SPAN>2004</SPAN>年度财务指标事前知情，未提出异议；对银河电气虚增<SPAN>2005</SPAN>年度财务指标事前不知情，出具<SPAN>2005</SPAN>年年度报告前知情，未提出异议；经潘琦同意，审批永星电子<SPAN>2004</SPAN>年累计向银河汽车等关联公司划款<SPAN>9,000</SPAN>万元，<SPAN>2005</SPAN>年累计划款金额<SPAN>650</SPAN>万元；审批同意永星电子、银河电子<SPAN>2004</SPAN>年对外担保合计金额<SPAN>6,700</SPAN>万元，<SPAN>2005</SPAN>年对外担保合计金额<SPAN>7,000</SPAN>万元；决策同意办理永星电子在成都光大银行<SPAN>9,000</SPAN>万元临时贷款，未报告银河科技管理层；对银河科技其他的关联方资金往来、对外担保等情况事前知情，但未提出异议；对于银河科技被财政部广西专员办检查和北海市人民政府处罚的事项，在事发后、出具年度报告前知情；在审议<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年年度报告董事会上，对拟公布年度报告中存在虚增收入和利润、未如实披露重大信息的情况，未提出异议，表决通过银河科技<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年年度报告。综合这些情况，认定赖永久是银河科技一系列信息披露严重违法行为的决策者、组织者、参与者，系直接负责的主管人员，应当予以从重处罚。</SPAN></P>
+<P><SPAN>时任银河科技董事、董事长顾勇彪，以董事身份在银河科技<SPAN>2004</SPAN>年年度报告上签字，以董事长身份在银河科技<SPAN>2005</SPAN>年年度报告上签字；未参与银河科技虚增<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年销售收入和利润的活动，但是知道银河科技调整<SPAN>2005</SPAN>年财务指标的情况；对银河科技未如实披露<SPAN>2004</SPAN>年和<SPAN>2005</SPAN>年关联方资金往来、对外担保、永星电子向成都光大银行贷款、被财政部广西专员办检查和被北海市人民政府处罚的事项等情况不知情。综合这些情况，认定顾勇彪是银河科技一系列信息披露严重违法行为的其他直接责任人员，依法给予相应的处罚。</SPAN></P>
+<P><SPAN>时任银河集团财务部副总经理、银河科技资金部副总经理（部门负责人）、银河科技财务总监黄巨芳，在银河科技<SPAN>2005</SPAN>年<SPAN>1</SPAN>—<SPAN>3</SPAN>季度的季报上签字；<SPAN>2004</SPAN>年，根据龙晓荣的指令，组织实施银河科技向关联方划款<SPAN>5.44</SPAN>亿元，<SPAN>2005</SPAN>年，根据王国生的指令，审批同意银河科技向关联方划款<SPAN>9.52</SPAN>亿元，未如实要求银河科技披露；<SPAN>2005</SPAN>年，根据王国生的批示，审批办理银河科技对外担保合计<SPAN>9,400</SPAN>万元，组织办理银河科技对外担保合计<SPAN>2.16</SPAN>亿元，合计<SPAN>3.1</SPAN>亿元，未要求银河科技如实披露。综合这些情况，认定黄巨芳是银河科技有关信息披露违法行为的直接负责的主管人员，依法给予相应的处罚。</SPAN></P>
+<P><SPAN>时任银河科技副总裁、银河电气董事长林庆农，参与银河电气虚增<SPAN>2004</SPAN>年度销售收入和利润活动；参与实施<SPAN>2005</SPAN>年银河电气为银河集团在中国银行北海分行提供<SPAN>3000</SPAN>万元违规担保，参与银河电气<SPAN>2004</SPAN>年至<SPAN>2005</SPAN>年间为非关联方提供银行借款担保<SPAN>1.9</SPAN>亿元，其中，<SPAN>2004</SPAN>年<SPAN>7,500</SPAN>万元，<SPAN>2005</SPAN>年<SPAN>1.15</SPAN>亿元，未要求银河科技如实披露上述事项；对银河科技虚增<SPAN>2005</SPAN>年销售收入和<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年隐瞒其他重大事项的情况不知情；未对银河科技<SPAN>2004</SPAN>年年度报告以及其他违法违规行为发表不同意见。综合上述情况，认定林庆农是银河科技有关信息披露违法行为的直接负责的主管人员，依法给予相应的处罚。</SPAN></P>
+<P><SPAN>时任银河科技董事邓乐平，<SPAN>2004</SPAN>年以来没有亲自出席银河科技董事会；对银河科技虚增<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年财务指标，隐瞒重大事项的情况不知情；在审议<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年年度报告董事会上，委托其他董事行使职权，表决通过银河科技<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年年度报告。综合这些情况，认定邓乐平未对银河科技信息披露行为实施必要的、有效的监督，是银河科技一系列信息披露严重违法行为的其他直接责任人员，依法给予相应的处罚。</SPAN></P>
+<P><SPAN>时任银河科技独立董事纳鹏杰、刘志彪、陈世福、梅生伟对银河科技虚增财务指标和隐瞒重大事项的情况不知情，在任职期间的全部董事会会议决议上签字，未对<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年年度报告以及其他违法违规行为发表不同意见。现有证据未显示这<SPAN>4</SPAN>名独立董事曾经对银河科技信息披露行为实施必要的、有效的监督。综合这些情况，认定纳鹏杰、刘志彪、陈世福、梅生伟是银河科技一系列信息披露严重违法行为的其他直接责任人员，依法给予相应的处罚。</SPAN></P>
+<P><SPAN>时任银河科技监事、监事会召集人、永星电子副董事长郭正确，对永星电子与都江机械、银河汽车等的关联关系知情，对<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年永星电子为银河汽车提供的担保知情，但未要求银河科技履行信息披露义务；对银河科技虚增财务指标和隐瞒其他重大事项的情况不知情；在全部监事会会议记录上签字，未对<SPAN>2004</SPAN>年、<SPAN>2005</SPAN>年年度报告以及其他违法违规行为发表不同意见。综合这些情况，认定郭正确是银河科技一系列信息披露严重违法行为的其他直接责任人员，依法给予相应的处罚。</SPAN></P>
+<P><SPAN>当事人提出的公司已经积极整改和主动纠正违法行为、未给公司及广大股民造成重大损失、积极配合调查工作等情节，我会已经予以考虑。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条、《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P><SPAN>一、对银河科技给予警告，并处以<SPAN>50</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>二、对潘琦、姚国平、王国生、龙晓荣、徐宏军、赖永久给予警告，并分别处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>三、对顾勇彪、黄巨芳、林庆农给予警告，并分别处以<SPAN>20</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>四、对邓乐平给予警告，并处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>五、对纳鹏杰、刘志彪、陈世福、梅生伟给予警告，并分别处以<SPAN>3</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>六、对郭正确给予警告。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P align=center>&nbsp;</P>
+<P align=center>&nbsp;</P>
+<P>&nbsp;</P>
+<P><SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 </SPAN></SPAN><SPAN>中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN>&nbsp;<SPAN>　 </SPAN>&nbsp;<SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN>　　&nbsp;</SPAN><SPAN>　 二○一一年五月二十五日</SPAN></P>
+<P align=center>&nbsp;</P>
+<P align=center>&nbsp;</P>
+<P align=center>&nbsp;</P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110707_197225_ext.json

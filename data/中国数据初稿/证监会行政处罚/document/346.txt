@@ -1,0 +1,228 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（白洋）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2015年03月17日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（白洋）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2015〕5号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（白洋）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2015〕5号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2015</FONT><FONT face=宋体>〕</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>号</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：白洋，男，<FONT face="Times New Roman">1981</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月出生，住址：北京市海淀区阜成路</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,255); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,255); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对白洋内幕交易行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，白洋存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、内幕信息的形成过程</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">深圳成霖洁具股份有限公司（以下</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">简称成霖股份，<FONT face="Times New Roman">2014</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月更名为深圳市宝鹰建设控股集团股份有限公司）</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">为深圳证券交易所上市公司，<FONT face="Times New Roman">2011</FONT><FONT face=宋体>年、</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年连续亏损，</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月股票名称变更为“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>成霖”，公司面临暂停上市及退市风险。</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月，成霖股份控股股东</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">G</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">lobe</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">&nbsp;U</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">nion</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">&nbsp;I</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">ndustrial<FONT face=宋体>（</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">BVI</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">）</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">C</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">orp.<FONT face=宋体>（以下称台湾成霖）</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">与</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">First</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">China&nbsp;Capital&nbsp;Partners&nbsp;Inc.</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（以下称蓝涛亚洲）签订《财务顾问契约书》，约定由蓝涛亚洲办理出售台湾成霖持有的成霖股份股权的顾问工作，启动成霖股份重大资产重组事项。蓝涛亚洲指定其子公司上海蓝涛投资咨询有限公司（以下简称上海蓝涛）负责引进战略投资者及方案策划等具体事项，金某磊具体承办。台湾成霖全权委托戴某鑑负责寻找重组对象及参与谈判。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月初，上海蓝涛与厦门高能投资咨询公司（以下简称高能投资）签署保密协议，开始讨论以富贵鸟矿业股份有限公司（以下简称富贵鸟矿业）为对象的重组架构及相关内容。同期，上海蓝涛与国金证券股份有限公司（以下简称国金证券）签署保密协议，国金证券提供了包括深圳市宝鹰建设集团股份有限公司（以下简称宝鹰股份）在内的</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>家有条件重组的公司资料。台湾成霖初步确定以富贵鸟矿业为重组的主要考虑对象。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013<FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月初至</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月中旬期间，上海蓝涛和高能投资经过多次沟通完成前期背景介绍、方案沟通等技术性工作。金某磊于</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>日通知戴某鑑，富贵鸟矿业拟于</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日与台湾成霖会面并签署框架意向协议。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日下午，因富贵鸟矿业不同意重组交易条件，会面各方未谈起重组事项。</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月下旬至</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月中旬期间，金某磊与高能投资就完善交易方案持续沟通。</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日高能投资通知金某磊，重组洽商必须延后或取消，至此成霖股份与富贵鸟矿业的重组洽商即告终止。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">同期，国金证券以宝鹰股份作为重组对象制作了重组方案，并多次向金某磊询问成霖股份重组意愿以及是否能继续合作，金某磊未给出确定答复，并表示正在与其他重组方洽谈。<FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日，成霖股份与富贵鸟矿业重组谈判终止后，当日晚间戴某鑑通知金某磊与国金证券联系商讨重组事宜。</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=宋体>日，金某磊通知国金证券可以继续推进成霖股份与宝鹰股份的重组。</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日宝鹰股份表示接受成霖股份重组条件。</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=宋体>日双方初次会面并进行了商谈，达成了合作意向，签署了包含重组谅解备忘录内容在内的会议纪要。当日，成霖股份发布重大事项停牌公告，称公司正在筹划重大事项，公司股票自</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日上午开市起停牌。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">台湾成霖与富贵鸟矿业、宝鹰股份商洽重大资产重组事项属于《证券法》第七十五条第二款第（七）项规定的“上市公司收购的有关方案”及第六十七条第二款第（二）项规定的“公司的重大投资行为和重大的购置财产的决定”，依照《证券法》第七十五条规定构成内幕信息，其形成时间不晚于<FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>日。金某磊参与与各方面的商洽、沟通等，</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">为内幕信息知情人。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、白洋构成内幕交易行为</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">白洋妻子李某丹的账户（资金账户<FONT face="Times New Roman">0023</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">××××</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">4186<FONT face=宋体>）于</FONT><FONT face="Times New Roman">2009</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日开立于东兴证券北京北四环中路营业部，白洋操作使用</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">该</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户自<FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">15</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">23</FONT><FONT face=宋体>日集中买入“</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">ST<FONT face=宋体>成霖”</FONT><FONT face="Times New Roman">210,600</FONT><FONT face=宋体>股，成交金额</FONT><FONT face="Times New Roman">61.12</FONT><FONT face=宋体>万元，</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">26</FONT><FONT face=宋体>日全部卖出，获利</FONT><FONT face="Times New Roman">261,669.23</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">白洋系金某磊在加拿大留学时的同学及来往密切的朋友，内幕信息敏感期内，两人联系密切、通话频繁。<FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日（周五）晚间，二人进行了通话，</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">15</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">23</FONT><FONT face=宋体>日白洋开始集中买入“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>成霖”，资金来自</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">23</FONT><FONT face=宋体>日亏损卖出几乎全部“国通管业”所得，此外近一年无其他深市股票交易记录。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实，有成霖股份公告、李某丹账户交易数据、相关人员询问笔录、通讯记录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，白洋在内幕信息敏感期内与内幕信息知情人联络、接触，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其证券交易活动与内幕信息高度吻合，且其不能对此作出合理解释，其行为</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">违反了《证券法》第七十三条、第七十六条的规定，构成《证券法》第二百零二条所述内幕交易行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第二百零二条</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">的规定，我会决定：没收白洋违法所得<FONT face="Times New Roman">261,669.23</FONT><FONT face=宋体>元，</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">并处以</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">261,669.23<FONT face=宋体>元</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">的罚款</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=宋体>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=宋体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=宋体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015<FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">17</FONT><FONT face=宋体>日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 6pt"><SPAN style="FONT-SIZE: 15pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正仿宋简体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 6pt"><SPAN style="FONT-SIZE: 15pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正仿宋简体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 6pt"><SPAN style="FONT-SIZE: 15pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正仿宋简体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20150814_282847_ext.json

@@ -1,0 +1,451 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（聚友网络、陈健等10名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-08479</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年02月11日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（聚友网络、陈健等10名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2010〕8号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（聚友网络、陈健等10名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2010〕8号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1304494095781'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1304494095781 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304494095781 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304494095781 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304494095781 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304494095781 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%">〔<SPAN>2010</SPAN>〕<SPAN>8</SPAN>号</SPAN>&nbsp;</P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人：成都聚友网络股份有限公司（以下简称聚友网络），住所：四川省成都市上升街<SPAN>72</SPAN>号，法定代表人陈健。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">陈健，男，<SPAN>1962</SPAN>年<SPAN>11</SPAN>月出生，时任聚友网络董事长，住址：四川省成都市金牛区观音阁前街<SPAN>2</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">程竹，男，<SPAN>1970</SPAN>年<SPAN>8</SPAN>月出生，时任聚友网络董事、总经理，住址：四川省成都市青羊区长顺上街<SPAN>116</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">赵贵平，男，<SPAN>1957</SPAN>年<SPAN>3</SPAN>月出生，时任聚友网络董事、财务总监，住址：四川省成都市武侯区玉林横街<SPAN>19</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">钟健，男，<SPAN>1964</SPAN>年<SPAN>8</SPAN>月出生，时任聚友网络董事，住址：四川省成都市青羊区石人南路<SPAN>36</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">张聪，男，<SPAN>1963</SPAN>年<SPAN>4</SPAN>月出生，时任聚友网络董事，住址：四川省成都市高新区三瓦窑新街<SPAN>278</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">邢晓峰，男，<SPAN>1961</SPAN>年<SPAN>8</SPAN>月出生，时任聚友网络董事，住址：四川省成都市九思巷<SPAN>5</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">钟康成，男，<SPAN>1937</SPAN>年<SPAN>12</SPAN>月出生，时任聚友网络独立董事，住址：四川省成都市青羊区鼓楼洞街<SPAN>7</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">麦建光，男，<SPAN>1961</SPAN>年<SPAN>7</SPAN>月出生，时任聚友网络独立董事，住址不详。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">朱永明，男，<SPAN>1939</SPAN>年<SPAN>7</SPAN>月出生，时任聚友网络独立董事，住址：四川省成都市青羊区南灯巷<SPAN>1</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">朱华慈，男，<SPAN>1967</SPAN>年<SPAN>7</SPAN>月出生，时任聚友网络董事、总经理，住址：广东省深圳市福田区碧海云天<SPAN>10</SPAN>栋。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据<SPAN>1999</SPAN>年<SPAN>7</SPAN>月<SPAN>1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）的有关规定，我会对聚友网络违反证券法律法规行为进行了立案调查、审理，依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，并应当事人聚友网络、陈健的要求举行了听证会，听取了当事人的陈述和申辩意见。当事人邢晓峰、钟康成、麦建光、朱永明、朱华慈提交了陈述、申辩材料。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查，聚友网络存在如下违法行为：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、虚假披露视讯业务收入</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154054824><SPAN style="LINE-HEIGHT: 150%">聚友网络<SPAN>2001</SPAN>年至<SPAN>2004</SPAN>年虚构酒店视讯业务现金收入共计<SPAN>62,675,010.41</SPAN>元，<SPAN>2004</SPAN>年以虚挂应收账款的方式虚构视讯业务收入<SPAN>15,645,924.55</SPAN>元，即<SPAN>2001</SPAN>年至<SPAN>2004</SPAN>年聚友网络虚构酒店视讯业务收入共计<SPAN>78,320,934.96</SPAN>元，其中<SPAN>2001</SPAN>年<SPAN>6,148,677.34</SPAN>元，<SPAN>2002</SPAN>年<SPAN>23,853,569.73</SPAN>元，<SPAN>2003</SPAN>年<SPAN>21,483,987.27</SPAN>元，<SPAN>2004</SPAN>年<SPAN>26,834,700.62</SPAN>元。虚构酒店视讯业务现金收入具体情况如下：</SPAN></A></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">1</SPAN></SPAN><A class=" FCK__AnchorC" name=_Ref154227095><SPAN><SPAN style="LINE-HEIGHT: 150%">．海南金海岸罗顿大酒店。</SPAN></SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>68,400.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>271,350.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>243,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>147,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">2</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．海南金银岛大酒店。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>182,862.90</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>129,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">3</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．海口宝华海景大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>61,200.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>247,500.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>225,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>129,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 25.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%; LETTER-SPACING: 1pt">4</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%; LETTER-SPACING: 1pt">．海口泰华酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">57,357.00</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>237,600.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>81,459.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>129,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">5</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．黄金海景大酒店。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>46,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">6</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．<SPAN style="LETTER-SPACING: 1pt">深圳凯利宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款</SPAN><SPAN>76,450.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>287,100.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>288,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>129,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">7</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳金碧酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>68,400.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>277,200.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>315,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>137,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">8</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．<SPAN style="LETTER-SPACING: 1pt">深圳新都酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款</SPAN><SPAN>74,340.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>277,200.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>288,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>128,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">9</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳格兰云天大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>66,010.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>306,900.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>261,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>129,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">10</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳南方联合大酒店。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>129,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">11</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳京鹏宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>53,100.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>287,100.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>261,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>137,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">12</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳凯利莱酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>61,200.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>277,200.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>288,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>137,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">13</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳三九旅游酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>65,100.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>274,128.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>229,500.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>117,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">14</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳东湖宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>41,400.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>287,010.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>261,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>128,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">15</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳兴华宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>60,300.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>287,100.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>306,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>129,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">16</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳粤海酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>71,600.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>277,350.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>229,500.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>116,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">17</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．深圳迪富宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>61,380.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>316,800.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>279,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>137,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">18</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．珠海国际会议中心大酒店。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>111,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">19</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．东莞银城酒店。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>189,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">20</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广信江湾新城大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>54,000.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>229,700.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>189,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">21</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广州景星酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>51,300.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>217,800.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>108,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">22</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广州市广州宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>53,100.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>39,600.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">23</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．珠海粤海酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>49,710.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>257,400.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>261,000.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>109,000.00</SPAN>元</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">24</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．江门银晶酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>63,000.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>257,400.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>210,587.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>98,964.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">25</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广州市番禺中国旅行社。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>29,700.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>217,800.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>216,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">26</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广州华夏大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>51,750.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>19,800.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">27</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广州大厦。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>58,500.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>247,500.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>216,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">28</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广州远洋宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>51,300.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>237,600.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>189,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">29</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广州湖天宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>56,700.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>24,032.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">30</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．东莞新都会酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>61,200.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>237,600.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>216,000.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">31</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．成都京川宾馆。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>88,013.30</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>285,760.50</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">32</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．四川省蜀运实业投资有限公司。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>31,783.99</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>284,885.60</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>109,989.70</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">33</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．都江堰灵岩山庄。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>25,555.70</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>295,437.35</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>44,480.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">34</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．<SPAN style="LETTER-SPACING: 1pt">绿洲大酒店。聚友网络<SPAN>2004</SPAN>年以现金方式收款</SPAN><SPAN>245,134.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">35</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．成都市罗曼大酒店。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>50,488.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">36</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．四川蜀都大厦有限责任公司。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>52,141.95</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>264,121.80</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>234,361.70</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>274,237.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">37</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．成都天友国际酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>20,364.99</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>240,753.90</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>232,593.70</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>244,300.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">38</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．绵阳绵州酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>46,710.21</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">39</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．绵阳王子大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>43,781.56</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">40</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．成都西藏饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>85,900.76</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>197,130.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>241,982.90</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>265,262.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">41</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．都江堰金叶宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>48,098.98</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>282,188.65</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>259,367.50</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>288,822.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">42</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．成都九龙宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>51,269.28</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>273,654.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>195,504.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>274,502.30</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">43</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．成都加州花园酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>57,664.77</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>248,608.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>234,321.80</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>265,754.50</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">44</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．新疆科信有限责任公司。聚友网络<SPAN>2002</SPAN>年以现金方式收款<SPAN>143,720.90</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>86,164.90</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">45</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．乌鲁木齐大陆桥酒店。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>95,101.20</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">46</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．乌鲁木齐独山子大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>25,581.62</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>288,659.50</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>92,212.90</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">47</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．新疆翼龙大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>67,222.38</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>263,678.40</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>85,921.30</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">48</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．重庆和平大酒店有限公司。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>20,281.12</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">49</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．重庆重百大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>25,822.54</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>265,504.80</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>261,136.60</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>306,769.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">50</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．重庆雾都宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>88,562.65</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>266,814.20</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>107,627.70</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">51</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．重庆饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>70,695.18</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>291,079.50</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>287,073.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>312,396.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">52</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．昆明佳华广场酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>24,558.90</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">53</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．云南国际商务酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>24,073.50</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>301,722.60</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>253,322.10</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>314,511.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">54</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．昆明金龙饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>21,545.31</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">55</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．云南红河宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>17,414.22</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">56</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．昆明翠湖宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>47,656.54</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>280,490.60</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>293,980.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>278,820.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">57</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．福建晋江南苑酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>25,388.04</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>121,049.23</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>117,028.83</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>65,677.29</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">58</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．厦门闽南大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>35,531.51</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>159,989.02</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>154,674.21</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>86,804.24</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">59</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．厦门航空金雁酒店。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>30,744.68</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">60</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广西南宁邕江宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>78,965.50</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>257,568.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>232,646.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>100,764.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">61</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．南宁明园饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>20,526.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>168,166.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>198,142.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>107,762.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">62</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．南宁明园新都酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>7,667.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>182,527.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>206,470.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>95,777.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">63</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．南宁银河大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>66,943.20</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>209,287.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>212,142.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>99,348.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">64</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．桂林伏波山大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>78,433.60</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>179,957.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>216,745.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>71,675.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">65</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．柳州天龙大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>71,381.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>169,166.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>214,198.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>103,883.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">66</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．柳州泽丰大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>63,577.30</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>172,012.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>208,027.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>106,412.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">67</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．柳州华锡大厦物业管理公司。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>20,324.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">68</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．玉林国脉宾馆。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>84,983.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>104,024.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">69</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广西玉林振林宾馆。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>33,618.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>103,975.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">70</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广西南宁翔云大酒店。聚友网络<SPAN>2002</SPAN>年以现金方式收款<SPAN>161,005.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>205,651.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>103,180.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">71</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广西南宁饭店。聚友网络<SPAN>2002</SPAN>年以现金方式收款<SPAN>50,875.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>219,204.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>95,814.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">72</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广西沃顿国际大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>79,397.07</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>220,961.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>210,948.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>91,860.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">73</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．大连国际博览中心。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>33,595.89</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>146,502.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>162,135.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>47,956.50</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">74</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．大连渤海明珠酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>48,534.40</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>178,595.46</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>161,058.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>46,712.60</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">75</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．大连日月潭大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>64,857.36</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>195,731.58</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>172,007.10</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>44,944.20</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">76</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．东方大厦有限公司。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>30,839.52</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>147,512.81</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>161,181.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>49,510.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">77</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．大连丰源酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>21,821.82</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>106,144.74</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>144,713.70</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>54,977.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">78</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．大连香洲大饭店。聚友网络<SPAN>2002</SPAN>年以现金方式收款<SPAN>37,013.40</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>179,666.10</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>56,607.30</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">79</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．大连银帆宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>85,582.38</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>165,037.75</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>164,934.90</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>49,024.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">80</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．长春华侨饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>48,914.21</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>172,407.90</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>160,362.90</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>51,939.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">81</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．延边白山大厦实业有限公司。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>107,331.86</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>238,682.97</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>186,517.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>48,151.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">82</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．延边民航翔宇大酒店。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>51,857.10</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>37,253.70</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">83</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．延边大宇饭店。聚友网络<SPAN>2002</SPAN>年以现金方式收款<SPAN>183,958.28</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">84</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．吉林夏威夷大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>10,219.09</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">85</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．河北国际大厦酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>27,580.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>157,270.70</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>173,328.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>54,856.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">86</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．河北宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>27,200.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>163,874.33</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>176,581.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>57,803.60</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">87</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．衡水阳光大酒店。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>46,470.60</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">88</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．河北中京集团股份有限公司。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>17,600.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>170,816.20</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>156,414.60</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">89</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．石家庄国宾大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>47,560.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>159,049.52</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>171,432.30</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>56,615.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">90</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．河北白楼宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>28,860.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>195,173.36</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>170,773.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>44,717.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">91</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．山西大酒店。<SPAN>2002</SPAN>年以现金方式收款<SPAN>187,908.29</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>185,978.10</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>37,238.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">92</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．太原三晋国际饭店。聚友网络<SPAN>2002</SPAN>年以现金方式收款<SPAN>183,319.17</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>183,859.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>37,343.76</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">93</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．北京新世纪饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>123,109.10</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>373,334.44</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>210,357.56</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>45,384.30</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">94</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．北京台湾饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>177,134.99</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>20,352.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>109,483.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>69,215.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">95</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．北京世纪金源大饭店。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>244,629.50</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>106,286.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">96</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．北京越秀大饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>122,369.68</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>419,781.66</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>219,084.30</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>68,122.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">97</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．赛特饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>249,113.99</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>539,210.03</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>225,246.60</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>84,160.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">98</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．北京德宝饭店。聚友网络<SPAN>2002</SPAN>年以现金方式收款<SPAN>27,792.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>227,345.40</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>69,953.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><A class=" FCK__AnchorC" name=_Ref154054781><SPAN style="LINE-HEIGHT: 150%">99</SPAN></A></SPAN><SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．江西饭店</SPAN></SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>63,373.94</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>208,539.30</SPAN>元；<SPAN>2003</SPAN>以现金方式收款<SPAN>173,589.30</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">100</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．湖北安华大厦有限公司。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>59,356.80</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>97,584.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">101</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．武汉国际会议中心有限公司。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>77,105.76</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>224,091.80</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>229,187.36</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>87,329.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">102</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．襄樊铁路大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>80,823.35</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>206,588.10</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>179,906.40</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>99,414.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">103</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．宜昌桃花岭饭店。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>91,066.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">104</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．黄石金花酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>59,006.55</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>260,340.02</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>232,262.24</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>79,358.24</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">105</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．武汉帅府饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>67,026.76</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>249,547.60</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>182,827.62</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>88,789.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">106</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．湖北泰华大厦宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>63,870.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>189,538.20</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>94,824.40</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>90,157.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">107</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．湖北饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>27,370.20</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>197,885.10</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">108</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．广州军区中南花园招待所。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>50,536.20</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>180,577.70</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">109</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．湖南金德酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>24,017.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>167,948.10</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>227,126.70</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>94,228.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">110</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．洙洲金龙大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>36,318.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>154,589.74</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>100,435.50</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>96,218.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">111</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．通程国际大酒店。聚友网络<SPAN>2002</SPAN>年以现金方式收款<SPAN>36,248.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">112</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．湖南芙蓉华天大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>21,020.80</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>175,503.10</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>40,404.60</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">113</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．河南长城饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>54,806.46</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>244,028.50</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>222,397.65</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>105,652.20</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">114</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．河南豫财宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>79,727.05</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>233,455.40</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>219,830.75</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>94,218.60</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">115</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．河南龙源大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>61,934.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>227,930.70</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>203,180.19</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>101,186.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">116</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．郑州铁路金阳光大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>55,333.59</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>253,353.20</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>241,680.60</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>21,119.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">117</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．常州和平假日大饭店。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>9,375.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">118</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．吴江宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>45,449.10</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>147,839.80</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN> 119,818.70</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>56,007.10</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">119</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．江苏省会议中心。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>86,804.20</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>325,491.60</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>266,777.30</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>42,324.20</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">120</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．苏州苏苑酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>46,215.20</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>154,872.00</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>106,919.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>51,299.20</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">121</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．无锡黄金海岸大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>47,145.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>154,208.40</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>111,357.96</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>52,286.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">122</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．无锡物产大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>51,310.70</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>175,321.20</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>157,895.30</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>70,777.10</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">123</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．无锡锦江大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>70,414.90</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>231,413.40</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>163,181.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>80,508.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">124</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．<SPAN style="LETTER-SPACING: 1pt">宜兴大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款</SPAN><SPAN>10,917.90</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>135,871.20</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>137,506.10</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>52,438.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">125</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．宜兴市华亭国际酒店。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>12,358.70</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>30,710.30</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">126</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．苏州南林饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>53,925.10</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>198,152.40</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>186,946.70</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>77,136.24</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">127</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．苏州新城花园酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>38,090.60</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>157,572.20</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>130,466.80</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>58,730.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">128</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．苏州胥城大厦。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>52,481.60</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>214,598.10</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>170,727.80</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>83,143.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">129</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．苏州饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>70,203.50</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>235,638.90</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>198,391.70</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>51,623.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">130</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．南京白鹭宾馆。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>59,055.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>202,749.30</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>136,518.80</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>70,830.20</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">131</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．南京新纪元大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>40,830.40</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>134,118.80</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>112,878.00</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>52,355.30</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">132</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．江苏万源酒店。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>14,350.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>42,035.30</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">133</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．<SPAN style="LETTER-SPACING: 1pt">镇江大酒店。聚友网络<SPAN>2002</SPAN>年以现金方式收款</SPAN><SPAN>69,170.40</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>98,510.70</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>33,420.60</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">134</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．江苏山水大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>66,066.40</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>202,288.50</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>166,775.40</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>65,607.60</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">135</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．江苏天京大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>38,472.65</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>115,792.90</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>96,230.50</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>43,883.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">136</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．溧阳天目湖华天度假村。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>36,268.20</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>107,094.40</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>104,279.50</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>43,776.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">137</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．无锡湖滨饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>69,434.50</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>129,422.70</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>174,098.40</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>67,522.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">138</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．济南玉泉森信大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>64,228.26</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>232,714.80</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>238,925.88</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>112,905.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">139</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．山东贵友大酒店。聚友网络<SPAN>2003</SPAN>年以现金方式收款<SPAN>33,253.74</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>33,813.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">140</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．青岛黄海饭店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>34,772.60</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>107,614.20</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>82,467.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">141</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．青岛海天大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>33,041.88</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>174,297.03</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>209,838.80</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>40,217.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">142</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．青岛海情大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>39,127.07</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>177,838.55</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>205,093.26</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>105,577.20</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">143</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．青岛快通大酒店。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>60,240.60</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">144</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．山东丽天大酒店。聚友网络<SPAN>2004</SPAN>年以现金方式收款<SPAN>97,822.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">145</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．山东润华世纪酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>73,725.43</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>225,790.50</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>158,097.60</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>55,508.40</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">146</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．青岛东晖育乐有限公司。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>40,093.12</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>184,348.44</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>208,083.42</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>63,883.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">147</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．青岛麒麟皇冠大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>7,986.00</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>182,420.30</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>186,839.10</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>87,701.12</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">148</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．山东银座泉城大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>63,464.47</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>226,401.40</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>171,683.10</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>66,704.58</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">149</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．济南天龙大酒店。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>79,026.70</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>209,110.70</SPAN>元；<SPAN>2003</SPAN>年以现金方式收款<SPAN>149,478.30</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>3,211.74</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">150</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．济南舜耕山庄。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>51,479.39</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>2,943.00</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><A class=" FCK__AnchorC" name=_Ref154227128><SPAN style="LINE-HEIGHT: 150%">151</SPAN></A></SPAN><SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">．青岛汇泉王朝大饭店</SPAN></SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">。聚友网络<SPAN>2001</SPAN>年以现金方式收款<SPAN>33,238.81</SPAN>元；<SPAN>2002</SPAN>年以现金方式收款<SPAN>148,419.87</SPAN>元；<SPAN>2004</SPAN>年以现金方式收款<SPAN>104,140.80</SPAN>元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">对上述行为，陈健是直接负责的主管人员，在审议<SPAN>2001-2004</SPAN>年年度报告的董事会决议上签字的董事程竹、赵贵平、钟健、邢晓峰、张聪和在<SPAN>2002-2004</SPAN>年年度报告的董事会决议上签字的董事钟康成、麦建光及在<SPAN>2003-2004</SPAN>年年度报告的董事会决议上签字的董事朱永明等人未能勤勉尽职，是其他直接责任人员。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Toc152383498><SPAN style="LINE-HEIGHT: 150%">二、未按规定披露关联方债权债务往来</SPAN></A></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154302675><SPAN style="LINE-HEIGHT: 150%">2002</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>6</SPAN>月至<SPAN>2004</SPAN>年<SPAN>6</SPAN>月期间，聚友网络控股子公司上海聚友宽频网络投资有限公司（以下简称上海宽频）向银行借款<SPAN>12</SPAN>笔共计<SPAN>24,000</SPAN>万元，期间陆续归还借款<SPAN>9,700</SPAN>万元。</SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%">具体如下：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上海宽频<SPAN>2002</SPAN>年<SPAN>9</SPAN>月<SPAN>29</SPAN>日向交通银行上海长宁支行借款<SPAN>2,500</SPAN>万；<SPAN>2002</SPAN>年<SPAN>12</SPAN>月<SPAN>27</SPAN>日向交通银行上海长宁支行借款<SPAN>2,500</SPAN>万。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上海宽频<SPAN>2002</SPAN>年<SPAN>6</SPAN>月<SPAN>10</SPAN>日向工商银行上海闸北支行借款<SPAN>2</SPAN>笔，金额均为<SPAN>1,500</SPAN>万元；<SPAN>2003</SPAN>年<SPAN>1</SPAN>月<SPAN>21</SPAN>日向工商银行上海闸北支行借款<SPAN>2</SPAN>笔，金额均为<SPAN>1,000</SPAN>万元。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上海宽频<SPAN>2003</SPAN>年<SPAN>1</SPAN>月<SPAN>20</SPAN>日向农业银行上海浦东分行借款<SPAN>2,000</SPAN>万元；<SPAN>2004</SPAN>年<SPAN>3</SPAN>月<SPAN>29</SPAN>日向农业银行上海浦东分行借款<SPAN>2,000</SPAN>万元。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上海宽频<SPAN>2003</SPAN>年<SPAN>8</SPAN>月<SPAN>28</SPAN>日向广东发展银行上海分行借款<SPAN>3,000</SPAN>万元；<SPAN>2004</SPAN>年<SPAN>8</SPAN>月<SPAN>27</SPAN>日，上海宽频向广东发展银行上海分行对上述<SPAN>3,000</SPAN>万元贷款进行展期。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上海宽频<SPAN>2002</SPAN>年<SPAN>5</SPAN>月<SPAN>31</SPAN>日向招商银行上海分行中山支行借款<SPAN>3,000</SPAN>万元；上海宽频<SPAN>2002</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日向民生银行上海分行五角场支行借款<SPAN>2,000</SPAN>万元；上海宽频<SPAN>2003</SPAN>年<SPAN>5</SPAN>月<SPAN>30</SPAN>日向深圳发展银行上海分行闵行支行借款<SPAN>2,000</SPAN>万元。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上海宽频对上述银行借款的取得及资金使用情况未纳入正常账务核算，而是设置了账套名为<SPAN>“</SPAN>银行<SPAN>”</SPAN>的账外账对其进行记录。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154546191><SPAN style="LINE-HEIGHT: 150%">上海宽频<SPAN>“</SPAN>银行<SPAN>”</SPAN>账套中的<SPAN>“</SPAN>其他应收款<SPAN>”</SPAN>明细账证实，</SPAN></A><SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">2002</SPAN></SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月<SPAN>1</SPAN>日</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">至<SPAN>2003</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日，上海宽频付给聚友网络控股股东聚友集团有限公司（以下简称聚友集团）<SPAN>60</SPAN>笔款项共计<SPAN>37,932.24</SPAN>万元，收到聚友集团<SPAN>21</SPAN>笔款项共计<SPAN>23,440.22</SPAN>万元，截至<SPAN>2003</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日，对聚友集团的其他应收款余额为<SPAN>15,579.74</SPAN>万元。</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月<SPAN>1</SPAN>日</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">至<SPAN>2004</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日，上海宽频付给聚友集团<SPAN>12</SPAN>笔款项共计<SPAN>4,224.19</SPAN>万元，收到聚友集团划来款项<SPAN>10</SPAN>笔共计<SPAN>6,796.20</SPAN>万元，截至<SPAN>2004</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日，对聚友集团的其他应收款余额为<SPAN>13,007.72</SPAN>万元。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上海宽频账外贷款及对聚友集团债权情况，聚友网络未按规定及时予以披露。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154541804><SPAN><SPAN style="LINE-HEIGHT: 150%">对上述行为，陈健是直接负责的主管人员，程竹、赵贵平、钟健、张聪既在账外贷款的董事会决议上签字，又在审议<SPAN>2004</SPAN>年中期报告的董事会决议上签字，是其他直接责任人员。</SPAN></SPAN></A></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Toc152383499><SPAN style="LINE-HEIGHT: 150%">三、未按规定披露对外担保</SPAN></A></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154229051><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月，聚友网络为上海宽频提供贷款担保<SPAN>1</SPAN>笔，金额为<SPAN>2,500</SPAN>万元，陈健在担保合同上签字。该笔贷款到期后展期至<SPAN>2005</SPAN>年<SPAN>1</SPAN>月<SPAN>10</SPAN>日。聚友网络未及时披露该担保。在董事会决议上签字的董事有：陈健、程竹、赵贵平、张聪、钟健。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154229200><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>4</SPAN>月，聚友网络为聚友传媒投资有限责任公司提供贷款担保<SPAN>1</SPAN>笔，金额<SPAN>5,000</SPAN>万元，程竹在担保合同上签字。聚友网络未在相关定期报告中披露该担保。在董事会决议上签字的董事有：程竹、赵贵平、钟健、张聪。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2004</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>4</SPAN>月，聚友网络为成都倍特发展集团股份有限公司提供贷款最高额担保<SPAN>1</SPAN>笔，金额为<SPAN>2,000</SPAN>万元，程竹在担保合同上签字。聚友网络未及时披露该担保。在董事会决议上签字的董事有：程竹、赵贵平、钟健、张聪。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154229095><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月，聚友网络为成都倍特发展集团股份有限公司提供贷款担保<SPAN>1</SPAN>笔，金额为<SPAN>1,000</SPAN>万元，陈健在担保合同上签字。<SPAN>2005</SPAN>年<SPAN>5</SPAN>月，该笔担保展期至<SPAN>2006</SPAN>年<SPAN>3</SPAN>月。聚友网络未及时披露该担保。在董事会决议上签字的董事有：陈健、程竹、赵贵平、钟健、张聪。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154229241><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>7</SPAN>月，聚友网络为深圳聚友制罐有限公司提供最高额担保<SPAN>1</SPAN>笔，金额为<SPAN>6,000</SPAN>万元，陈健在担保合同上签字。该笔担保合同项下实际发生贷款<SPAN>5,000</SPAN>万元。在董事会决议上签字的董事有：陈健、程竹、赵贵平、钟健、张聪。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2004</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>8</SPAN>月，聚友网络为上海宽频贷款展期提供担保<SPAN>1</SPAN>笔，金额为<SPAN>3,000</SPAN>万元。聚友网络未及时披露该担保。在董事会决议上签字的董事有：陈健、程竹、赵贵平、钟健、张聪。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154388231><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>9</SPAN>月，聚友网络为深圳聚友制罐有限公司提供贷款担保<SPAN>1</SPAN>笔，金额为<SPAN>3,000</SPAN>万元，陈健在保证合同上签字。聚友网络未及时披露该担保。在董事会决议上签字的董事有：陈健、程竹、赵贵平、钟健、张聪。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154388395><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>8</SPAN>月，聚友网络为上海宽频贷款展期提供担保<SPAN>1</SPAN>笔，金额为<SPAN>1,000</SPAN>万元，<SPAN>2004</SPAN>年<SPAN>10</SPAN>月聚友网络为该笔贷款再次展期继续提供担保，担保金额为<SPAN>940</SPAN>万元，陈健在保证合同上签字。聚友网络未及时披露该担保。在董事会决议上签字的董事有：陈健、程竹、赵贵平、钟健、张聪。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154388237><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>12</SPAN>月，聚友网络为深圳市东煜鞋业有限公司提供贷款担保<SPAN>1</SPAN>笔，金额为<SPAN>4,000</SPAN>万元，陈健在保证合同上签字。聚友网络未及时披露该担保。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154229280><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>12</SPAN>月，聚友网络为深圳市聚友视讯网络有限公司提供贷款担保<SPAN>1</SPAN>笔，金额为<SPAN>6,200</SPAN>万元，陈健在保证合同上签字。聚友网络未及时披露该担保。在董事会决议上签字的董事有：陈健、程竹、赵贵平、钟健、张聪。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2005</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月，聚友网络为深圳市聚友网络投资有限公司提供贷款担保<SPAN>1</SPAN>笔，金额为<SPAN>15,000</SPAN>万元，陈健在保证合同上签字。聚友网络未及时披露该担保。在董事会决议上签字的董事有：陈健、程竹、赵贵平、钟健、张聪。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154388483><SPAN style="LINE-HEIGHT: 150%">2005</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月，聚友网络为成都聚友网络发展有限公司提供贷款担保<SPAN>1</SPAN>笔，金额为<SPAN>3,800</SPAN>万元，陈健在保证合同上签字。聚友网络未及时披露该担保。在董事会决议上签字的董事有：陈健、程竹、赵贵平、钟健、张聪。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154388243><SPAN style="LINE-HEIGHT: 150%">2005</SPAN></A><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>6</SPAN>月，聚友网络为聚友传媒投资有限责任公司提供贷款担保<SPAN>1</SPAN>笔，金额<SPAN>4,976</SPAN>万元。聚友网络未及时披露该担保。在董事会决议上签字的董事有：陈健、赵贵平、钟健、朱华慈。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN><SPAN style="LINE-HEIGHT: 150%">2004</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>9</SPAN>月<SPAN>20</SPAN>日</SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">，聚友网络控股子公司上海宽频为上海铁通电信有限公司借款展期提供担保<SPAN>1</SPAN>笔，金额<SPAN>7,000</SPAN>万元，程竹在保证合同上签字。聚友网络未及时披露该担保。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><A class=" FCK__AnchorC" name=_Ref154388563><SPAN style="LINE-HEIGHT: 150%">对上述未按规定披露对外担保的行为，陈健、</SPAN></A><A class=" FCK__AnchorC" name=_Ref154388809><SPAN><SPAN style="LINE-HEIGHT: 150%">程竹</SPAN></SPAN></A><SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">、赵贵平</SPAN></SPAN></SPAN><SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">、钟健</SPAN></SPAN></SPAN><SPAN><SPAN style="LINE-HEIGHT: 150%">、张聪、朱华慈</SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%">是直接负责的责任人员。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述事实，有聚友网络相关报告及说明、相关酒店说明、相关财务凭证、担保贷款合同及董事会决议、相关人员询问笔录等证据证明。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人聚友网络申辩称，公司在违规行为发生后，立即采取了积极的补救措施，未给公司股东造成利益损害，同时请求考虑公司的重组及职工安置等实际情况，希望从轻或减轻处罚。我会认为，聚友网络违法违规行为持续时间较长，数额巨大，情节比较严重，未给股东造成利益损害的辩解与实际不符，同时公司提出的重组和员工安置等问题不能作为从轻、减轻或免责的理由，不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人陈健申辩称，违法违规行为主要是由当时的宏观环境、行业的不成熟、公司内部管理不善等原因造成的，尚未达到给证券市场产生严重破坏的程度，希望从轻或减轻处罚。我会对陈健的部分意见予以采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人邢晓峰、钟康成、麦建光、朱永明申辩称，对违法违规行为不知情，相关年报会计师事务所均出具了标准无保留意见，对公司的重大事项，都充分发表了意见，履行了勤勉尽责的义务，不应承担责任。我会认为，按照《中国人民共和国公司法》、《上市公司治理准则》等相关规定，上市公司的董事应当根据公司和全体股东的最大利益，忠实、勤勉地履行职责，应当遵守有关法律、法规、中国证监会规定及公司章程的规定，应当保证公开披露的文件内容没有虚假、误导性陈述或重大遗漏。上市公司董事应对上市公司定期报告的真实、完整负有责任。上述辩解不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人朱华慈申辩称，其严格履行了勤勉尽责的义务，不应承担责任。我会认为，在通过担保的董事会决议上签字的董事对担保的及时披露具有责任，辩解不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">聚友网络虚构视讯业务收入、未按规定披露关联方债权债务往来和对外担保事项违反了原《证券法》第五十九条、六十条、六十一条、六十二条的规定，构成了原《证券法》第一百七十七条所述<SPAN>“</SPAN>未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大遗漏<SPAN>”</SPAN>的行为。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人的违法事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条的规定，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、对聚友网络处以<SPAN>50</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、对陈健给予警告，并处<SPAN>20</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、对程竹、赵贵平、钟健、张聪分别给予警告，并处<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">四、对邢晓峰、钟康成、麦建光、朱永明、朱华慈分别给予警告，并处<SPAN>3</SPAN>万元罚款。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行<SPAN>:</SPAN>中信银行总行营业部、账号<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将付款凭证的复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">　　　　　　　　　　　　　　　　　　 中国证券监督管理委员会</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><SPAN>　　&nbsp; </SPAN><SPAN>　　　</SPAN><SPAN>　&nbsp;</SPAN><SPAN>　　　　</SPAN><SPAN>　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;</SPAN>　</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">二○一○年二月十一日</SPAN></P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 4pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 16pt"><SPAN></SPAN>&nbsp;</P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110504_195068_ext.json

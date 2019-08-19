@@ -1,0 +1,250 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（浙江仙鹤纸业、衢州仙鹤纸业、王敏良、陈国聃）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2007-05171</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2007年12月05日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（浙江仙鹤纸业、衢州仙鹤纸业、王敏良、陈国聃）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>证监罚字[2007]33号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（浙江仙鹤纸业、衢州仙鹤纸业、王敏良、陈国聃）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">证监罚字[2007]33号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1268635365937'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1268635365937 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635365937 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635365937 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635365937 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635365937 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center>&nbsp;<SPAN><FONT style="FONT-SIZE: 12pt" face=黑体>证监罚字<SPAN style="FONT-SIZE: 12pt">[2007]33</SPAN>号</FONT></SPAN></P>
+<P>&nbsp;<SPAN>当事人：浙江仙鹤特种纸业有限公司（以下简称浙江仙鹤纸业），住所：浙江衢州市衢江区沈家经济开发区通江路<SPAN>30</SPAN>号，法定代表人王敏良。</SPAN></P>
+<P><SPAN>浙江衢州仙鹤纸业有限公司（以下简称衢州仙鹤纸业），住所：衢州市衢江区沈家经济开发区，法定代表人王敏良。</SPAN></P>
+<P><SPAN>王敏良，男，<SPAN>1965</SPAN>年<SPAN>1</SPAN>月<SPAN>6</SPAN>日出生，住址：浙江省衢州市柯城区狮桥街南湖府苑<SPAN>1</SPAN>幢<SPAN>2</SPAN>单元<SPAN>601</SPAN>室。</SPAN></P>
+<P><SPAN>陈国聃，男，<SPAN>1981</SPAN>年<SPAN>3</SPAN>月<SPAN>16</SPAN>日出生，住址：上海市长宁区延安西路<SPAN>900</SPAN>号。</SPAN></P>
+<P><SPAN>我会依法对浙江仙鹤纸业和衢州仙鹤纸业涉嫌非法利用他人账户交易证券案进行了立案调查、审理，并向当事人告知了做出行政处罚决定的事实、理由、依据及当事人依法享有的权利，现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查，当事人存在如下违法行为：</SPAN></P>
+<P><SPAN>一、衢州仙鹤纸业违法交易<SPAN>“G</SPAN>金丰<SPAN>”</SPAN>（股票代码：<SPAN>600606</SPAN>）股票</SPAN></P>
+<P><SPAN>2005</SPAN><SPAN>年<SPAN>7</SPAN>月<SPAN>14</SPAN>日</SPAN><SPAN>，衢州仙鹤纸业授权全权代理人王敏良在中信建投证券上海向城路营业部开立资金账户<SPAN>17000227</SPAN>，账户名称<SPAN>“</SPAN>仙鹤纸业<SPAN>”</SPAN>，衢州仙鹤纸业授权该营业部下挂<SPAN>8</SPAN>个个人股东账户，<SPAN>1</SPAN>个机构股东账户。该账户于<SPAN>2006</SPAN>年<SPAN>7</SPAN>月<SPAN>17</SPAN>日至<SPAN>25</SPAN>日，利用<SPAN>6</SPAN>个个人股东账户累计买入<SPAN>“G</SPAN>金丰<SPAN>”1,884,941</SPAN>股，<SPAN>8</SPAN>月<SPAN>8</SPAN>日全部卖出。根据统计，衢州仙鹤纸业利用<SPAN>6</SPAN>个个人股东账户交易<SPAN>“G</SPAN>金丰<SPAN>”</SPAN>股票，累计买入<SPAN>1,884,941</SPAN>股，买入金额为<SPAN>10,172,179</SPAN>元，全部卖出后实现盈利<SPAN>4,594,606.3</SPAN>元。</SPAN></P>
+<P><SPAN>二、浙江仙鹤纸业违法交易<SPAN>“G</SPAN>金丰<SPAN>”</SPAN>股票</SPAN></P>
+<P><SPAN>2005</SPAN><SPAN>年<SPAN>9</SPAN>月<SPAN>14</SPAN>日</SPAN><SPAN>，浙江仙鹤纸业授权全权代理人陈国聃在金元证券上海东方路营业部开立资金账户<SPAN>18013558</SPAN>，账户名称<SPAN>“</SPAN>仙鹤纸业<SPAN>”</SPAN>。该账户下挂<SPAN>31</SPAN>个个人股东账户，<SPAN>1</SPAN>个机构股东账户。<SPAN>2006</SPAN>年<SPAN>7</SPAN>月<SPAN>24</SPAN>日开始，浙江仙鹤纸业利用<SPAN>24</SPAN>个个人股东账户买入<SPAN>“G</SPAN>金丰<SPAN>”</SPAN>股票，共买入<SPAN>3,837,306</SPAN>股，<SPAN>8</SPAN>月<SPAN>3</SPAN>日至<SPAN>8</SPAN>日全部卖出。根据统计，浙江仙鹤纸业利用<SPAN>24</SPAN>个个人股东账户交易<SPAN>“G</SPAN>金丰<SPAN>”</SPAN>股票，累计买入<SPAN>3,837,306</SPAN>股，买入金额为<SPAN>22,558,158</SPAN>元，全部卖出后实现盈利<SPAN>9,156,979.69</SPAN>元。</SPAN></P>
+<P><SPAN>上述事实，有相关公司的工商登记资料、开户资料、营业部提供的说明、相关统计资料、相关人员谈话笔录等证据在案证实，证据确实、充分。</SPAN></P>
+<P><SPAN>衢州仙鹤纸业和浙江仙鹤纸业上述行为都违反了《证券法》第八十条“禁止法人非法利用他人账户从事证券交易”的规定，构成《证券法》第二百零八条法人“利用他人账户买卖证券”的行为。对上述行为直接负责的主管人员为衢州仙鹤纸业和浙江仙鹤纸业董事长王敏良；陈国聃是浙江仙鹤纸业的投资经理，负责金元证券<SPAN>“</SPAN>仙鹤纸业<SPAN>”</SPAN>账户的交易，是浙江仙鹤纸业上述违法行为的其他直接责任人员。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零八条规定，我会决定如下：</SPAN></P>
+<P><SPAN>一、没收浙江仙鹤纸业违法所得<SPAN>9,156,979.69</SPAN>元，并处<SPAN>9,156,979.69</SPAN>元的罚款；</SPAN></P>
+<P><SPAN>二、没收衢州仙鹤纸业违法所得<SPAN>4,594,606.3</SPAN>元，并处<SPAN>4,594,606.3</SPAN>元的罚款；</SPAN></P>
+<P><SPAN>三、对直接负责的主管人员王敏良给予警告，并处<SPAN>10</SPAN>万元的罚款；</SPAN></P>
+<P><SPAN>四、对其他直接责任人员陈国聃给予警告，并处<SPAN>3</SPAN>万元的罚款。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P align=right><SPAN>　　　　　　　　　　　　　　　　　　　　　　&nbsp; 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</SPAN></SPAN><SPAN> 二○○七年十二月五日</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20091010_165182_ext.json

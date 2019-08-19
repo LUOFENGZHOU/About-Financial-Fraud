@@ -1,0 +1,334 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（陈贇）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2016年05月19日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（陈贇）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2016〕69号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（陈贇）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2016〕69号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔2016〕69号</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：陈贇，男，1982年2月出生，住址：福建省福州市台江区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对陈贇操纵股价行为进行了立案调查、审理，依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，并应当事人的要求举行了听证会，听取了当事人及其代理人的陈述和申辩。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，陈贇存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月至2013年3月，陈贇控制使用其个人同名账户及“林某贤”、“魏某坦”、“魏某炎”、“赵某榕”、“郭某妍”&nbsp;等共6个账户（以下简称账户组），资金来源为陈贇自有资金及向他人融资，账户组下单交易地址相同，陈贇承认控制使用账户组。上述期间，陈贇通过账户组，在盘中以连续申报、大笔申报、高价申报将股价快速拉至涨停，在涨停价位大量申报买入形成巨量封单，次日开盘集合竞价期间通过高价申报买入、大量撤单影响开盘交易价量，开盘后卖出持股获利。账户组以3至7天为一个交易周期，共交易“美欣达”、“科新机电”、“经纬电材”、“科泰电源”、“凯撒股份”、“明家科技”、“摩恩电气”、“天龙集团”等8只股票，涉及12个周期。具体交易情况如下：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、2012年12月14日至12月18日交易“美欣达”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2012年12月14日买入174.4万股，12月17日全部卖出；12月17日买入9.1万股，12月18日全部卖出，盈利1,465,567.78元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月14日13:08至14:30期间，账户组申报买入合计527.6万股，申报价格由8.49元至9.06元（涨停价），成交163.15万股，占期间该股成交总量的95.91%。撤单5.45万股，撤单量占该时段账户组申卖量的1.03%。13:14后该股涨停，在涨停价位申报未完全成交的情况下，账户组又继续在涨停价位申报买入。13:14至14:30期间，账户组以涨停价合计申报买入468.04万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月17日9:15至9:19:59期间，账户组以9.97元（涨停价）申报买入合计310.87万股，占期间市场涨停价申报量的90.37%，撤单310.87万股，撤单比例100%。9:20至9:29:59期间，账户组申报买入合计152.21万股，占期间市场申买量的86.38%，成交9.1万股，导致该股以9.78元开盘，涨幅为7.95%，偏离深证成指7.78%。9:30至10:20期间，账户组申报买入合计389.46万股，价格从9.75元至9.97元（涨停价），全部撤单。10:53至10:54期间，账户组申报卖出合计198.70万股，成交174.37万股，其中以涨停价9.97元（涨停价）卖出161.80万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月18日9:17以9.9元（委托前市场成交价位9.45元）分三笔申报买入6万股，全部撤单。9:37分两笔申报卖出9.10万股，全部成交。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前三天“美欣达”收盘价均价为8.33元，操纵期间上涨11%，均价9.27元，操纵结束后三天均价下降了2%，均价9.05元。对应的中小板三阶段价格指数分别为3836.88、3951.91、3983.76，阶段变化幅度分别为2%和0.8%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵首日成交量较上一交易日上涨了6.09倍，同日中小板成交量较上一日上涨0.87倍，操纵次日该股成交量较上一交易日上涨1.86倍，同日中小板成交量较上一交易日下跌0.04倍。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月6日，美欣达发布关于公司股东增持本公司股票的公告，但公司股价和成交量仅出现小幅波动。直到2012年12月14日账户组开始建仓买入开始，股价和交易量才出现了大幅波动。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、2012年12月17日至12月20日交易“科新机电”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2012年12月17日买入105.97万股，12月18日全部卖出；12月18日买入25.89万股，12月19日全部卖出；12月19日买入7.29万股，次日全部卖出，盈利889,838.18元。&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月17日13:03:13至13:24:51期间，账户组申报买入合计147.66万股，申报价从8.92元至9.71元（涨停价），占期间申报总量的70.93%，成交54.06万股，占期间成交总量的60.29%，期间买入成交排名第二的账户仅成交4.24万股。在该股已涨停情况下，13:24:59至13:28:02期间，账户组申报买入合计435.98万股，占期间涨停价位申报总量的62.3%，无成交，13:27撤销3笔，合计撤销4500股，14:50至14:54期间撤销8笔，合计撤销申报358.94万股。14:59，在涨停价位申报未完全成交的情况下，账户组继续以涨停价申报买入8笔，合计申报366.15万股，占该时段涨停价申报量的100%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月18日9:15:08至9:15:22期间，账户组以10.68元（涨停价）申报买入合计404万股，占期间买入申报总量的98.32%，导致该股虚拟开盘价涨停，9:19:39撤销全部买入申报。9:20:21至9:30:02期间，账户组申报买入合计301.45万股，申报均价为10.42元，较前一交易日收盘高出7.31%，占期间该股买入申报总量的98.92%，成交25.88万股，于9:30:02撤销其余买入申报275.56万股，撤单比例为91.41%，导致该股以10.45元开盘，涨幅为7.62%，与深成指偏离7.9%。9:30:20，账户组将其持有的105.97万股以2笔申报卖出，申报价格均为10.68元（涨停价），全部成交。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月19日9:44:50，账户组以高于市价0.36元的价格申报买入56.2万股，共成交7.28万股，4秒后账户组将其余未成交部分全部撤销申报。9:45:02，账户组以10元价格申报买入100股，此后6分钟内，账户组以9.57元至9.62元之间的价格共卖出25.89万股，均价9.61元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前四天“科新机电”收盘价均价为8.67元，操纵期间上涨了10%，均价9.62元，操纵结束后四天均价为9.6元，与操纵期间基本持平。对应的创业板三阶段指数分别为642.27、651.52、687.76，阶段涨幅分别为1%和5%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前四天日均成交量为4179.25手，操纵期间日均成交量激增了4.7余倍，操纵结束后四天日均成交量下降了57%。同期创业板成交量情况为：12月11日至14日日均成交量为88.91万手，12月17日至20日增加了8%，12月21日至12月26日较前期增加了55%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">科新机电在账户组操纵周期前后未发布有关公司的重大利好或利空消息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">三、2012年12月18日至12月21日交易“凯撒股份”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2012年12月18日买入115.07万股，12月19日全部卖出；12月19日买入190.23万股，12月20日全部卖出；12月20日买入32.89万股，12月21日全部卖出，亏损575,578.37元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月18日9:39至11:02:05期间，账户组申报买入合计127.35万股，申报价格从6.49元至7.14元，成交83.69万股。11:02该股涨停，在之前涨停价位申报未完全成交的情况下，账户组继续在涨停价位巨量封单。11:02到11:06期间，账户组合计申报买入1132.02万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月19日9:15至9:19:59期间，账户组以7.89元的价格（涨停价）申报买入合计372.54万股，占期间市场涨停价申报量的87.99%，撤单372.54万股，撤单比例100%。9:20至9:29:59期间，账户组申报买入合计258.91万股，占期间市场申买量的89.59%，成交46.79万股，导致该股以7.75元开盘，涨幅为8.09%。偏离深证成指8.24%。9:32:25账户组以7.40元申报卖出合计45.40万股，成交17.55万股，均价7.43元。9:35:13至9:35:17期间，账户组以7.67元（当时市价为7.41元）申报买入合计25.8万股，成交23.67万股。9:35:24起，账户组以高于或等于市价价格申报买入合计138.7万股，成交60.84万股。9:37:03至9:40:08期间，账户组以7.5元（等于或者低于市价）申报卖出合计97.52万股，全部成交。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月20日9:30，账户组以7.19元和7.20元（当时市价为7.42元）申报买入合计25.62万股，成交17.66万股。9:30:01账户组以7.10元至7.18元（当时市价为7.41元）申报买入合计70.28万股，全部撤单。9:30:02账户组以7.3元（当时市价为7.42元）申报卖出合计9.8万股，撤单1.95万股，成交7.85万股。9:30:51账户组以7.4元（高于或者等于市价）申报买入合计3.33万股，全部成交。9:31:03账户组以7.21元申报卖出合计85.65万股，全部成交。9:37:07账户组以7.17元（当时市价为7.21元）申报买入合计39.2万股，全部撤单。9:37:15账户组以7.21元申报卖出合计6.66万股，全部成交。9:39:40账户组以7.38元（当时市价为7.21元至7.35元）申报买入合计5万股，全部成交。9:40:20账户组以7.05元至7.31元申报卖出合计100.62万股，成交91.0万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前四天“凯撒股份”收盘价均价为6.38元，操纵期间上涨了12%，均价7.17元，操纵结束后四天下降了2%，均价7.01元。对应的中小板三阶段价格指数分别为3892.38、3973.57、4115.59，涨幅分别为2%和3%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前四天日均成交量为6809手，操纵期间日均成交量激增7余倍，操纵结束后四日日均成交量下降了52%。同期中小板成交量情况为：12月12日至17日日均成交量为254.98万手，12月18日至21日增加了7%，12月22日至25日较前期增加了29%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">凯撒股份在账户组操纵周期前后未发布有关公司的重大利好或利空消息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">四、2012年12月18日至12月26日交易“明家科技”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2012年12月18日买入59.96万股，12月19日、20日全部卖出；12月19日买入86.57万股，12月20日全部卖出；12月20日买入183.29万股，12月21日全部卖出；12月21日买入228.29万股，12月24日全部卖出；12月24日买入63.70万股，12月25日全部卖出；12月25日买入0.91万股，12月26日全部卖出，亏损769,757.01元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月18日13:01至15:01期间，账户组申报买入合计164.71万股，申报价格从8.32元至9.12元（涨停价），成交59.96万股，占期间该股成交总量的24.47%。撤单104.75万股，撤单量占该时段账户组申卖量的63.6%。13:19至13:27期间，账户组以涨停价申报买入83.47万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月19日10:06至14:57期间，账户组申报买入和卖出交替进行，期间申报买入97.54万股，占该时段市场申买量的45.47%，价格从8.68元至8.84元，成交86.46万股，占该时段市场成交量的63.03%，期间买入排名第二的账户仅成交6.2万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月20日9:33至14:59期间，账户组申报买入合计325.46万股，占期间市场申报买入总量的44.42%，成交182.09万股，占市场成交总量的38.32%。撤单142.16万股，撤单比例为43.68%。申报买入价格从8.75元至9.65元（时段涨幅10.29%）。以9.66元的均价卖出146.46万股，卖出成交量占前日持股量比例的100%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月21日9:15至9:19:59期间，账户组以10.56元（涨停价）申报买入合计104.07万股，占期间市场涨停价申报量的60.41%，撤单104.07万股，撤单比例为100%。9:20至9:29:59期间，账户组申报买入合计216.52万股，成交164.04万股，导致该股以10.39元开盘，涨幅为8.23%，偏离深证成指8.12%。9:30至9:36期间，账户组申报卖出合计150.30万股，成交48.35万股。9:36:52至9:37:29期间，账户组申报买入合计23.36万股（价格从9.48元至10.50元），成交4.54万股。9:37:45至9:39:43期间，账户组申报卖出合计26.76万股（成交均价9.55元），全部成交。随后多次进行类似交替高买低卖、少买多卖。12月21日9:30至15:00累计申报买入488.99万股，成交64.25万股，累计申报卖出297.61万股，成交183.29万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月24日9:15至9:19:59期间，账户组以10.43元申报买入合计210.05万股，其中以涨停价申报买入134.67万股，占期间市场涨停价申报量的100%，撤单208.09万股，撤单比例99%。9:20至9:29:59期间，账户组以9.96元申报买入合计142.17万股，占时段市场申买量的95.71%，导致该股以9.99元开盘，涨幅为3.85%，偏离深证成指3.97%。9:30:04账户组以10.00元和9.60元分两笔申报卖出合计120.90万股，成交60.09万股，9:30:05账户组申报买入合计42.61万股，申报价格从9.55元至10.20元，9:34:38账户组以9.60元申报卖出合计52.9万股，成交20.22万股。随后多次重复进行类似交替高买低卖，少买多卖。9:30至9:49期间，账户组申报买入合计115.49万股，成交9.24万股，申报卖出合计332.05万股，成交228.29万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月25日9:30至9:37期间，账户组申报卖出合计39.05万股，价格从9.20元至9.06元，成交35.13万股。9:38:53至9:39:14期间，账户组申报买入合计0.87万股，价格从9.17元至9.24元，全部成交，9:39:24账户组以9.06元申报卖出合计28.57万股，成交8.6万股，9:43:18至9:43:20以9.06元申报买入合计0.04万股，9:43:41至9:49申报卖出合计23.03万股，价格从9.04元至9.05元，成交19.97万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月26日以9.29元申报卖出0.91万股，全部成交。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前七天“明家科技”收盘价均价为8.12元，操纵期间上涨了14%，均价9.29元，操纵结束后七天日均价与操纵期间基本持平，均价9.26元。对应的创业板三阶段价格指数分别为643.21、672.50、716.03，阶段涨幅均为6%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前七天日均成交量为2831手，操纵期间日均成交量激增了11余倍，操纵结束后四天日均成交量下降了71%。同期创业板成交量情况为：12月7日至17日，创业板日均成交量为91.50万手，12月18日至26日增加了43%，为131.07万手，12月27日至次年1月9日较前期增加了25%，为164.82万手。在此期间内，创业板成交量呈稳步上升态势，而“明家科技”成交量则呈现出操纵期间成交量放大，操纵后快速回落的情况。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">明家科技在账户组操纵周期前后未发布有关公司的重大利好或利空消息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">五、2012年12月25日至12月27日交易“经纬电材”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2012年12月25日买入282.87万股，12月26日全部卖出；12月26日买入129.26万股，12月27日全部卖出，盈利307,878.49元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月25日11:10:04至13:09:24期间，账户组申报买入合计694.88万股，申报价格从5.92元至6.45元（涨幅8.95%），成交230.62万股，占期间该股成交总量的87.6%，期间买入成交排名第二的账户仅成交11.2万股。以涨停价申报买入5769.73万股，占市场涨停价申报总量的48.09%，在以涨停价申报买入未成交的情况下，账户组继续以涨停价申报买入285.81万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月26日9:15至9:20期间，账户组以7.10元（涨停价）申报买入合计33万股，占期间市场涨停价申报量的86.48%，实际成交3万股，撤单30万股，撤单比例90.91%。9:20至9:29:59期间，账户组申报买入合计328.81万股，成交70.82万股，导致该股以7.03元开盘，涨幅为8.99%，偏离深证成指9.04%。9:30:23账户组分四笔申报卖出合计210.47万股，价格从7.09元至6.74元，成交78.33万股。9:33:19账户组申报买入合计341.36万股，撤单295.48万股，申报价格从6.59元至7.02元，随后又以6.74元申报卖出合计89.30万股。之后账户组申报买入与卖出交替进行。9:30至14:34期间，账户组申报买入合计725.90万股，成交55.44万股，申报卖出合计482.85万股，成交282.87万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2012年12月27日9:15至9:18期间，账户组申报买入合计57.64万股，全部撤单。9:30至10:19期间，账户组申报卖出合计379.79万股，成交129.26万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前三天“经纬电材”收盘价均价5.87元，操纵期间上涨了10%，均价6.51元，操纵结束后三天均价6.32元，与操纵期间比下跌了2%。对应的创业板三阶段价格指数分别为668.72、700.92、708.96，阶段涨幅分别为4%和1%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前三天日均成交量为5786.67手，操纵期间日均成交量激增了10余倍，操纵结束后三天日均成交量下降了67%。同期创业板成交量情况为：12月20日至24日，创业板日均成交量为129.23万手，12月25日至27日增加了34%，12月28日至次年1月4日较前期下降了17%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经纬电材在账户组操纵周期前后未发布有关公司的重大利好或利空消息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">六、2013年1月4日至1月9日交易“科泰电源”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2013年1月4日买入24.63万股；1月7日买入259.99万股，1月8日将1月4日与1月7日买入的284.62万股全部卖出；1月8日买入51.54万股，1月9日全部卖出，盈利1,974,536.03元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月4日账户组连续申报买入24.81万股，成交24.63万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月7日10:14:34至13:34:54期间，账户组申报买入合计600.59万股，申报价格从7.37元至8.17元，成交252.13万股，占期间该股成交总量的89.9%，期间买入成交排名第二的账户仅成交5万股。10:31后该股涨停，在之前涨停价位申报未完全成交的情况下，账户组继续在涨停价位巨量封单。账户组以涨停价合计申报买入515.73万股，占市场涨停价申报买入总量的62.09%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月8日9:15至9:19:59期间，账户组以8.92元（涨停价为8.99元）申报买入合计540.18万股，以涨停价申报买入296.82万股，占期间市场涨停价申报量的91.26%，撤单540.18万股，撤单比例100%。9:20至9:29:59期间，账户组申报买入合计241.99万股，占期间市场申买量的85.47%，成交51.54万股，导致该股以8.83元开盘，涨幅为8.08%，偏离深证成指8.15%。9:30账户组以8.84元申报卖出合计284.82万股，全部成交。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月9日9:38至9:59期间，账户组申报卖出合计54.29万股，成交51.54万股，均价8.06元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前四天“科泰电源”收盘价均价7.29元，操纵期间上涨了9%，均价8.01元，操纵结束后四天均价7.98元，与操纵期间基本持平。对应的创业板三阶段价格指数分别为707.54、722.77、752.98，阶段涨幅分别为2%和4%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前四天日均成交量为9154手，操纵期间该股日均成交量激增了3.7余倍，操纵结束后四天日均成交量下降了42%。同期创业板成交量情况为：2012年12月26日至31日，创业板日均成交量为160.11万手，次年1月4日至9日增加了8%，1月10日至15日较前期增加了21%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">科泰电源在账户组操纵周期前后未发布有关公司的重大利好或利空消息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">七、2013年1月4日至1月9日交易“科新机电”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2013年1月4日买入214.53万股，1月7日全部卖出；1月7日买入61.90万股，1月8日全部卖出；1月8日买入0.82万股，1月9日全部卖出，盈利751,111.84元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月4日10:13:43至14:49:47期间，账户组申报买入合计317.63万股，申报价格从9.5元（下跌2.06%）至10.67元（涨停价），成交214.53万股，占期间该股成交总量的67.04%，期间买入成交排名第二的账户仅成交10.1万股。14:49后该股涨停，在之前涨停价位申报未完全成交的情况下，账户组继续在涨停价位巨量封单。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月7日9:15:04至9:19:05期间，账户组申报买入5笔，其中3笔申报价格为11.74元（涨停价），2笔申报价格为11.57元（涨幅8.43%），申报买入合计375.54万股，占期间该股买入申报总量的98.15%，导致该股虚拟开盘价涨停（10.69元），9:19:15前撤销全部买入申报。9:42:49至9:56:11期间，账户组申报买入合计67.34万股，单笔申报价格平均较该股最新成交价高出1.08%，最高达7.4%，占期间该股买入申报总量的64.26%，成交50.25万股，期间该股买入成交排名第二的账户仅成交1.74万股，导致该股股价由10.52元（跌幅为1.41%）涨至11.63元（涨幅为8.99%）。9:56:35至10:16:38期间，账户组申报卖出合计403.54万股，均价10.71元（涨幅0.37%），成交214.53万股。10:02:27账户组以11.3元（当时市价为10.7元）申报买入合计5.79万股，成交4.28万股。此后7分钟内（10:02:51至10:10:06）账户组申报卖出合计151万股，全部成交，成交均价10.7元。10:09:09以11.19元（当时市价为10.68元）申报买入合计2万股，全部成交。此后6分钟内（10:09:54至10:16:38）申报卖出合计76.7万股，全部成交，均价10.7元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月8日9:30至9:31期间，账户组以10.6元申报卖出合计16.8万股，成交4.19万股。9:34:24至9:34:48期间，账户组以10.69元（当时市价10.52元）申报买入合计0.29万股，全部成交。9:35至9:38:46期间，账户组申报卖出合计25.56万股，价格从10.55元至10.53元，成交19.8万股。9:42:42账户组以10.67元申报买入合计0.53万股，全部成交。9:44:01至9:52:07期间，账户组申报卖出合计36.63万股，价格从10.63元至10.51元，成交36.55万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前四天“科新机电”收盘价均价9.7元，操纵期间上涨了8%，均价10.57元，操纵结束后四天日均价10.47元，与操纵期间相比略有下跌。对应的创业板三阶段价格指数分别为707.54、722.77、752.98，阶段涨幅分别为2%和4%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前四天日均成交量为10592手，操纵期间日均成交量增加了2.15余倍，操纵结束后四天日均成交量下降了48%。同期创业板成交量情况为：2012年12月26日至31日，创业板日均成交量为160.11万手，2013年1月4日至9日增加了8%，1月10日至15日较前期增加了21%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">科新机电在账户组操纵周期前后未发布有关公司的重大利好或利空消息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">八、2013年1月7日至1月11日交易“天龙集团”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2013年1月7日买入12.57万股，1月8日全部卖出；1月8日买入154.41万股，1月9日全部卖出；1月9日买入82.60万股，1月10日全部卖出；1月10日买入9.88万股，1月11日全部卖出，亏损387,103.72元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月7日买入12.57万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月8日9:53至15:00期间，账户组申报买入合计701.54万股，占期间市场申报买入总量的69.12%，成交153.39万股，占市场成交总量的50.77%，撤单377.26万股，撤单量占账户组申买总量的53.78%，申报买入价格从9.15元至10.09元（涨停价），申报卖出31万股，成交12.57万股。13:34:59账户组以涨停价10.09元（委托前市场成交价为9.9元）连续进行申报买入，以涨停价申报买入合计606.87万股，成交89.47万股，撤单347.53万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月9日9:15至9:19:59期间，账户组以11.1元（涨停价）申报买入合计242.94万股，占期间市场涨停价申报量的95.31%，撤单242.94万股，撤单比例100%。9:20至9:29:59期间，账户组以10.86元申报买入合计247万股，占期间市场申买量的97.86%，成交49.44万股，导致该股以10.88元开盘，涨幅为7.83%，偏离深证成指8.19%。9:30:03账户组分两笔申报卖出合计97.79万股，价格分别为10.89元和10.30元。9:31:58账户组连续申报买入7.76万股，价格从10.10元至10.90元，撤单5.36万股。9:33:32账户组以10.10元申报卖出合计9.89万股，全部成交。此后多次进行类似交替进行的高买低卖行为。2013年1月9日9:30至15:00期间，账户组申报买入合计81.12万股，成交33.15万股，申报卖出合计308.52万股，成交154.41万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月10日9:30至9:37:53期间，账户组申报买入合计43.44万股，价格从10.07元至10.44元，成交9.45万股。9:38账户组以9.98元申报卖出合计20万股，全部成交。9:40:20至9:40:51期间，账户组以10.30元（委托前市场成交价为9.98元）申报买入合计0.42万股，全部成交。9:41至9:48:30期间，账户组以9.98元申报卖出合计37.94万股，全部成交。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前五天“天龙集团”收盘价均价8.88元，操纵期间均价9.84元，上涨10%，操纵结束后五天均价9.82元，与操纵期间大体持平。同期创业板收盘价指数分别为707.1、731.7、773.87，上涨幅度分别为3%和5%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前五天日均成交量为6186手，操纵期间日均成交量为23032手，上涨了2.7倍，操纵结束后五天日均成交量为7832手，下降了65%。同期创业板日均交易量分别为158.4万手、182.24万手、200.81万手，分别上涨了15%和10%。操纵首日和次日，该股成交量分别较上一交易日上涨129%和212%，而相应创业板成交量分别上涨4%和25%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">天龙集团在账户组操纵周期前后未发布有关公司的重大利好或利空消息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">九、2013年1月29日至1月31日交易“摩恩电气”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2013年1月29日买入49.14万股，1月30日全部卖出；1月30日买入35.16万股，1月31日全部卖出，亏损253,665.52元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月29日13:55至14:16期间，账户组以7.6元（涨停价）申报买入合计429.48万股，占期间市场涨停价申报总量的49.36%，成交49.14万股，在申买未成交的情况下，仍以涨停价巨量封单。&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月30日9:15至9:19:59期间，账户组以8.36元（涨停价）申报买入合计261.64万股，占期间市场涨停价申报量的88.63%，撤单260.83万股，撤单比例99.69%。9:20至9:29:59期间，账户组申报买入合计201.43万股，成交34.35万股，导致该股以8.28元开盘，涨幅为8.95%，偏离深证成指9.04%。开盘后以7.7元的价格申报卖出合计49.14万股，全部成交。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月31日，账户组申报卖出合计41.14万股，价格从7.5元至7.35元，成交35.16万股，均价7.46元，将前日购入股数全部卖出。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前三天“摩恩电气”收盘价均价6.77元，操纵期间均价7.63元，较操纵前上涨了12.7%，操纵结束后三天均价7.29元，较操纵期间下跌4%。而同期中小板收盘均价指数为4439.27、4503.12、4482.36，变动幅度分别为1.4%和-0.46%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前三天日均成交量为14219手，操纵期间日均成交量上涨了4.5倍，操纵结束后三天日均成交量下降了66.7%。同期中小板日均交易量分别为3031.7万手、3156.8万手、2988.6万手，分别变化了4.1%和-5.3%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">摩恩电气在账户组操纵周期前后未发布有关公司的重大利好或利空消息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">十、2013年1月30日至2月5日交易“美欣达”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2013年1月30日买入142.38万股，1月31日卖出118.13万股；1月31日买入153.44万股，2月1日连同1月30日购入的余股全部卖出；2月1日买入34.22万股，2月4日全部卖出；2月4日买入1.39万股，2月5日全部卖出，亏损1,216,681.43元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月30日该股于盘中涨停。该股涨停后11:04至13:04期间，账户组报申报买入合计915.25万股，以涨停价10.95元申报买入合计883.25万股，占期间市场涨停价申买总量的68%，成交114.1万股，占期间该股成交总量的39.01%，撤单415.28万股，撤单比例45.37%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月31日9:15至9:19:59期间，账户组申报买入合计292.93万股，占市场申买总量的93.70%，其中以涨停价申报买入144.94万股，占期间市场涨停价申报量的99.07%，撤单290万股，撤单比例99%，导致该股以11.3元开盘，涨幅3.2%，偏离深证成指3.15%。9:30至14:58期间，账户组申报买入与卖出交替进行。9:30至9:49期间，账户组申报卖出合计163.92万股，成交56.94万股，股价从11.20元至10.92元。9:50:46账户组申报买入合计6.4万股（均价10.74元），成交3.71万股。9:52账户组即分三笔（价格分别为10.91元、10.90元、10.88元）申报卖出合计8.52万股。之后多次进行交替买卖行为。当天9:30至15:00期间账户组申报买入合计252.71万股，占市场申报买入总量的20.31%，成交量140.51万股，占市场成交量的15.74%，合计申报卖出250.54万股，成交118.13万股，卖出成交量占前日持股量比例的82.97%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月1日9:36至9:48期间，账户组申报买入与卖出交替进行。9:36至9:40期间，账户组申报买入合计36.39万股，价格从10.6元至11.25元，成交31.97万股。9:40:12账户组以10.72元申报卖出合计57.97万股，全部成交。2013年2月1日账户组多次进行类似交替高买低卖，少买多卖，期间价格变动为11.18元至10.72元，期间累计申报买入40.76万股，成交34.22万股，累计申报卖出223.63万股，成交177.70万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月4日9:46:27账户组分两笔（申报买入价格为10.55元、10.60元，均高于成交前市价的10.45元、10.46元）申报买入合计1.39万股，全部成交。9:46:51账户组申报卖出合计47.91万股，成交34.22万股，均价10.46元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前五天“美欣达”收盘价均价9.68元，操纵期间均价10.69元，上涨了10%。同期中小板价格指数从4462.12上涨到4486.47，涨幅不足0.5%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵首日该股成交量较上一交易日上涨4.33倍，而同日中小板成交量较上一交易日下跌3%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月29日美欣达公告称，公司修正后的2012年净利润同比下降75%至83%。账户组操纵开始的第一日（2013年1月30日），该股收盘价较前一交易日上涨10.05%，与公司基本面存在较大偏离。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">十一、2013年2月18日至2月21日交易“经纬电材”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2013年2月18日买入300.68万股，2月19日全部卖出；2月19日买入273.54万股，2月20日全部卖出；2月20日买入336.17万股，2月21日全部卖出；2月21日买入41.89万股，2月22日全部卖出，亏损1,025,068.11元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月18日11:22:24至13:22:20期间，账户组申报买入合计968.32万股，申报价格从6.40元至7.03元（涨幅9.84%），成交178.65万股，占期间该股成交总量的57.72%，期间买入成交排名第二的账户仅成交10.3万股。13:13后该股涨停，在之前涨停价位申报未完全成交的情况下，账户组又继续在涨停价位巨量封单。13:13:03至13:22:20期间，账户组申报买入合计816.06万股，其中以涨停价申报买入808.83万股，成交200万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月19日9:15至9:19:59期间，账户组申报买入合计733.29万股，其中以7:03元（涨停价）合计申报买入698.46万股，占期间市场涨停价申报量的99.87%，实际成交2.44万股，撤单比例99.67%。9:20至9:29:59期间，账户组申报买入合计384.79万股，其中以涨停价申报买入2.50万股，占期间市场涨停价申报量的86.81%，成交114.62万股，导致该股以7.64元开盘，涨幅为8.68%。偏离深证成指8.77%。9:30至10:07期间，账户组申报买入与卖出交替进行。9:31:13至9:32:29期间，账户组申报买入合计75.14万股，价格从7.15元至7.61元，成交29.22万股。9:35:39账户组7.24元申报卖出合计35万股。之后多次进行类似交替买卖，价格从7.64元至7.04元，9:30至10:07期间，账户组申报买入合计283.39万股，成交78.64万股，申报卖出合计438.85万股，成交300.68万股。14:43至收市，账户组申报买入合计91.46万股，成交77.85万股，价格从6.89元至7.29元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月20日9:24至9:30期间，账户组申报买入与卖出交替进行，申报价格从6.91元涨至7.43元。11:26至11:29:14期间，账户组申报买入合计50.45万股（除11:27:51一笔申报买入外，每笔申报均高于当时市价），全部成交。11:29账户组以7.19元分两笔申报卖出118万股，成交70.4万股。13:00至收市，账户组交替进行申报买入与卖出，期间申报买入合计166.02万股，成交64.57万股，申报卖出合计336.06万股，成交203.10万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月21日9:30至13:04期间，账户组申报买入与卖出交替进行。9:30至9:34:45，账户组以7.04元申报卖出合计3.8万股，9:34:47账户组以7.3元（委托前市场成交价为7.06元）申报买入100股。9:35:01账户组以7.04元申报卖出0.67万股，全部成交。随后多次进行类似交替少买多卖、高买低卖。当天9:30至15:00账户组申报买入合计105.82万股，成交41.49万股，申报卖出合计362.58万股，成交336.17万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵首日收盘价6.45元，较前一交易日上涨了10%，同日创业板上涨1.5%。交易次日开盘价7.03元，较前一交易日上涨9%，同日创业板开盘价下跌了0.1%。&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵首日较前一交易日成交量上涨了5.09倍，操纵次日较前一交易日成交量上涨1.36倍，而同期创业板成交量变化分别为上涨17%和下跌8%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经纬电材在账户组操纵周期前后未发布有关公司的重大利好或利空消息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">十二、2013年2月25日至3月4日交易“摩恩电气”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2013年2月25日买入63.22万股，2月26日全部卖出；2月26日买入99.86万股，2月27日卖出91.36万股，2月27日买入13.77万股，2月28日连同2月26日购入的余股全部卖出；2月28日买入29.01万股，3月1日全部卖出；3月1日买入0.05万股，3月4日全部卖出，亏损679,457.37元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月25日账户组申报买入合计757.52万股，全部以7.60元的涨停价申报买入，成交63.22万股，在申买未成交的情况下，仍以涨停价巨量封单，继续以涨停价申买624.30万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月26日9:15至9:19:59期间，账户组以7.98元（涨停价）申报买入合计624.78万股，占期间市场涨停价申报量的89.79%，撤单624.78万股，撤单比例100%。9:20至9:29:59期间，账户组申报买入合计320.91万股，占期间市场申买量的96.03%，成交57.11万股，导致该股以8.34元开盘，涨幅为4.51%，偏离深证成指5.05%。9:30至9:34期间，账户组申报买入合计331.45万股，成交39.76万股，撤单291.69万股，价格从8.48元至8.10元。9:36账户组三笔以8.11元申报卖出合计40万股，成交20.64万股。9:37账户组又分三笔以8.45元（委托前市场成交价位8.12元）申报买入3万股，全部成交。9:38账户组申报卖出合计42.58万股，均价8.12元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月27日9:32账户组分六笔申报买入合计13.77万股，以7.52元全部成交。13:25账户组开始申报卖出，申报卖出合计121.90万股，成交91.36万股，均价7.69元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月28日9:51账户组分六笔申报买入合计0.45万股，全部成交。9:52:23账户组分两笔申报卖出合计12.3万股，成交9.3万股。9:54:03账户组以7.71元（委托前市场成交价为7.6元）申报买入100股。9:54:12至9:57期间，账户组申报卖出合计10.19万股，价格从7.60元至7.50元，成交7.97万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月1日9:34账户组分别以7.76元和7.72元分两笔申报买入0.05万股，全部成交。9:39至9:59期间，账户组申报卖出合计30.96万股，价格从7.65元至7.60元，成交29.01万股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前六天“摩恩电气”收盘均价7.34元，操纵期间均价7.73元，较操纵前上涨了5%，操纵结束后六天均价7.68元，与操纵期间基本持平。同期中小板收盘均价指数为4637.17、4624.45、4677.16，变动幅度分别为-0.27%和1%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">操纵之前六天日均成交量为15761手，操纵期间日均成交量上涨了2.1倍，操纵结束后六天日均成交量下降了54%。同期中小板日均交易量分别为372.54万手、405.62万手、409.12万手，分别变化了8%和-1%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年2月26日摩恩电气公告称，公司每股收益0.04元，每股净资产2.89元，净资产收益率1.34%，营业收入39292.63万元，同比下降12.14%，净利润&nbsp;843.47万元，同比增长44.99%等。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组交易对该股交易价量的影响是从2月25日开始的。从该股成交量看，陈贇操纵首日，该股日成交额达3477万元，较前三个交易日交易额明显放大（1097万元、1049万元、721万元），操纵周期结束后该股日成交额回落至1173万元；从该股换手率来看，2月25日当天该股换手率达4.74，明显高于前三个交易日水平（1.55、1.49、1.02），陈贇操纵行为周期结束后该股换手率又回到1.62。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述12个周期，账户组盈利合计5,388,932.32元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实，有涉案人员询问笔录，涉案账户交易记录、资金划转记录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">陈贇的上述行为，违反了《证券法》第七十七条第一款（一）、（四）项关于禁止操纵证券市场的规定，构成《证券法》第二百零三条所述操纵证券市场的行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人及其代理人在申辩材料及听证中，未对操纵行为的认定与操纵每只股票违法所得的计算提出异议，但提出，涉案多只股票的交易结果有盈有亏，违法所得金额应以最终实际获利也即盈亏相抵后的数额481,620.79元为准，理由如下：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第一，证监会公布的同类型处罚案例中，连续多次操纵违法所得计算均按照“盈利减去亏损”标准统计，比如“汪建中案”、“莫建军案”、“袁郑健案”、“新理益案”、“周武秀案”。本案也应当采用同样的违法所得计算方式。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第二，从操纵市场案刑事判决（汪建中案）看，司法机关也是采取盈亏相抵，而操纵市场行政违法与刑事犯罪只是社会危害性的差异，就违法所得计算而言，行政处罚与刑事处罚应当一致、衔接。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第三，本案违法所得的计算方式不属于行政自由裁量权的范畴，因为行政自由裁量权是行政机关在法律法规明确规定的裁量权范围内进行裁量的自由度，而《证券法》及证监会《证券市场操纵行为认定指引（试行）》未对操纵多只股票既有盈利又有亏损情形下的违法所得计算方式作出规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第四，即使操纵证券市场违法所得“扣减亏损或不扣减亏损”属于证监会的自由裁量权，在《证券法》尚未修订以及证监会部门规章尚未对操纵证券市场的违法所得的计算方法作出与上述案例计算方式相反的规定之前，证监会在行使自由裁量权时应当遵循行政法的“平等对待”原则，并受到之前同类处罚案件的行政惯例约束。证监会做出的处罚决定应当前后一致，具有稳定性和可预见性。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">陈贇及其代理人还提出，陈贇始终配合我会调查，属于“初犯”，违规操作时间较短，金额较小，大部分交易的股票亏损，主观恶性较小、市场影响不大，对违法后果深表悔恨，认错态度较好，请求从轻、减轻处罚。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，本案系陈贇连续多次操纵多只股票，属于连续多次实施同种行政违法行为，在违法所得金额计算上，行政处罚采取“盈亏不相抵”原则，于法并非无据，于理并无不合。其一，连续多次操纵多只股票，属于实质上的数个行政违法行为，对每次操纵行为的社会危害性，均可单独评价，对每次操纵行为的违法所得金额，也可分别认定、分别计算。其二，从《证券法》的现行规定看，在计算内幕交易、操纵市场等交易型违法行为违法所得时，实际上将违法所得为负数也即交易亏损的情况视为“没有违法所得”，也即视同违法所得为零，相应处以较低数额、限定幅度的罚款。其三，连续多次、在多只股票上实施操纵市场的违法行为，其主观恶性与社会危害性，均比单次、在一只股票上的违法行为要严重；如果进行盈亏相抵，相当于用亏损的违法行为去抵消、减轻另外一个盈利的违法行为，违反“过罚相当”原则，不符合社会一般认知，也给违法行为人以恶意逃避或者减少法律制裁的机会。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会在2014年处罚结案的“苏颜翔连续多次操纵市场案”（行政处罚决定书〔2014〕12号）、2015年处罚结案的“任良成连续多次操纵市场案”（行政处罚决定书〔2015〕85号）等案件中，均是采用“盈亏不相抵”的方式。我会认为，对于连续多次操纵行为的违法所得采取“盈亏不相抵”的方式进行计算，符合行政处罚的比例原则与合理性原则。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">此外，我会在审理时已经考虑了当事人配合调查的情况。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零三条规定，我会决定：没收陈贇违法所得5,388,932.32元，并处以5,388,932.32元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人应自收到本处罚决定书之日起15日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起6个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2016年5月19日　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20160526_297864_ext.json

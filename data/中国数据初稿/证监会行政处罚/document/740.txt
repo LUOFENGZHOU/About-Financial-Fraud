@@ -1,0 +1,250 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（利安达信隆会计师事务所、王日宇、王颖、曹如鹏）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-01773</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年04月07日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（利安达信隆会计师事务所、王日宇、王颖、曹如鹏）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2009]11号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（利安达信隆会计师事务所、王日宇、王颖、曹如鹏）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2009]11号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1268634873703'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1268634873703 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268634873703 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268634873703 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268634873703 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268634873703 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><SPAN><FONT style="FONT-SIZE: 12pt" face=黑体>〔<SPAN style="FONT-SIZE: 12pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 12pt">11</SPAN>号</FONT></SPAN></P>
+<P>&nbsp;</P>
+<P><SPAN>当事人：利安达信隆会计师事务所有限责任公司（以下简称利安达信隆），法定代表人黄锦辉，住所：北京市朝阳区八里庄西里<SPAN>100</SPAN>号<SPAN>1</SPAN>号楼东区<SPAN>20</SPAN>层<SPAN>2008</SPAN>室。</SPAN></P>
+<P><SPAN>王日宇，男，<SPAN>1946</SPAN>年<SPAN>4</SPAN>月出生，住址：哈尔滨市南岗区宣德街<SPAN>110</SPAN>号<SPAN>2</SPAN>单元<SPAN>3</SPAN>楼<SPAN>1</SPAN>门。</SPAN></P>
+<P><SPAN>王颖，女，<SPAN>1972</SPAN>年<SPAN>7</SPAN>月出生，住址：哈尔滨市南岗区民益街<SPAN>80</SPAN>号。</SPAN></P>
+<P><SPAN>曹如鹏，男，<SPAN>1965</SPAN>年<SPAN>1</SPAN>月出生，住址：哈尔滨市南岗区国庆街<SPAN>58</SPAN>号<SPAN>4</SPAN>单元<SPAN>201</SPAN>室。</SPAN></P>
+<P><SPAN>根据《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对北亚实业（集团）股份有限公司（以下简称北亚实业）信息披露违法<SPAN>案中审计机构涉及的违法行为</SPAN>进行了立案调查、审理，并向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利。应当事人的申请，行政处罚委员会于<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>12</SPAN>日举行听证会，听取了当事人的陈述和申辩。听证会后，行政处罚委员会进行了复核。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查，发现利安达信隆违法行为如下：</SPAN></P>
+<P><SPAN>一、北亚实业<SPAN>2002</SPAN>年度虚列固定资产原值为<SPAN>876,782,845</SPAN>元，占当期资产总额的<SPAN>23.7%</SPAN>。利安达信隆未能按照《中国注册会计师执业规范指南第<SPAN>1</SPAN>号－年度会计报表审计》第<SPAN>3.332</SPAN>固定资产及累计折旧中第（<SPAN>2</SPAN>）部分审计程序中第<SPAN>3</SPAN>条<SPAN>“</SPAN>实地抽查部分新增固定资产，确定其是否实际存在<SPAN>”</SPAN>的规定，对本年度新增运输工具进行实地抽查。利安达信隆获取郑州铁路局、哈尔滨铁路局的说明作为替代程序。在两个铁路局出具的说明不能有效、充分证明上述固定资产的存在的情况下，利安达信隆也未能就说明中的车辆与北亚实业当期新增的运输工具是否一致获得进一步的审计证据，未能发现上述固定资产存在虚假的情况。</SPAN></P>
+<P><SPAN>二、北亚实业<SPAN>2003</SPAN>年度、<SPAN>2004</SPAN>年度和<SPAN>2005</SPAN>年度虚列固定资产原值均为<SPAN>568,810,345</SPAN>元。在此三年年报审计中，利安达信隆对北亚实业固定资产进行审计时，只对当年新增加的固定资产、部分房屋和办公用品进行抽盘，未对期末固定资产中运输工具执行盘点或抽盘程序。虽然在<SPAN>2003</SPAN>年审计中取得了关于上述运输工具固定资产一定的审计证据，但审计程序不充分、不到位，未能发现上述固定资产存在虚假的情况。</SPAN></P>
+<P><SPAN>以上违法事实有利安达信隆出具的审计报告、审计工作底稿及取得的审计证据、相关人员的谈话笔录和有关说明材料等证据证明，证据确实、充分，足以认定。</SPAN></P>
+<P><SPAN>我会认定，利安达信隆在北亚实业<SPAN>2002</SPAN>、<SPAN>2003</SPAN>、<SPAN>2004</SPAN>、<SPAN>2005</SPAN>年年度报告审计中对固定资产科目进行审计时未能按照《独立审计具体准则第<SPAN>1</SPAN>号－会计报表审计》第十六条<SPAN>“</SPAN>注册会计师在实施审计过程中，应当采用恰当的方法，包括检查、监盘、观察、查询及函证、计算、分析性复核等，以获取充分、适当的审计证据<SPAN>”</SPAN>，《独立审计具体准则第<SPAN>5</SPAN>号－审计证据》第十条<SPAN>“</SPAN>通过实质性测试获取审计证据时，注册会计师应当考虑以下主要事项：（一）资产、负债在某一特定时日是否存在<SPAN>”</SPAN>，以及《中国注册会计师执业规范指南第<SPAN>1</SPAN>号－年度会计报表审计》第<SPAN>3.332</SPAN>条“确定固定资产是否存在”和“确定固定资产是否归被审计单位所有”等规定，履行必要的审计程序，取得充分的审计证据。因此，利安达信隆及其注册会计师违反了<SPAN>1999</SPAN>年<SPAN>7</SPAN>月<SPAN>1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）第一百六十一条<SPAN>“</SPAN>为证券的发行、上市或者证券交易活动出具审计报告、资产评估报告或者法律意见书等文件的专业机构和人员，必须按照执业规则规定的工作程序出具报告，对其所出具报告内容的真实性、准确性和完整性进行核查和验证<SPAN>”</SPAN>的规定，同时违反了《股票发行与交易管理暂行条例》（以下简称《股票条例》）第三十五条“按照本行业公认的业务标准和道德规范，对其出具文件内容的真实性、准确性和完整性进行核查和验证”之规定，构成《股票条例》第七十三条<SPAN>“</SPAN>会计师事务所、资产评估机构和律师事务所违反本条例规定，出具的文件有虚假、严重误导性内容或者有重大遗漏的<SPAN>”</SPAN>行为。</SPAN></P>
+<P><SPAN>王日宇为在北亚实业<SPAN>2003</SPAN>、<SPAN>2005</SPAN>年审计报告上签字的注册会计师；王策为在北亚实业<SPAN>2002</SPAN>年审计报告上签字的注册会计师；王颖为在北亚实业<SPAN>2003</SPAN>、<SPAN>2004</SPAN>年审计报告上签字的注册会计师；曹如鹏为在北亚实业<SPAN>2004</SPAN>、<SPAN>2005</SPAN>年审计报告上签字的注册会计师。因此，以上会计师是上述违法行为直接负责的主管人员。其中，王策因违法行为已超过行政处罚时效，不予处罚。经查，利安达信隆<SPAN>2002</SPAN>年对北亚实业进行年报审计共取得收入<SPAN>60</SPAN>万元。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《股票条例》第七十三条之规定，我会决定：</SPAN></P>
+<P><SPAN>一、没收利安达信隆<SPAN>2002</SPAN>年审计北亚实业年度报告非法所得<SPAN>60</SPAN>万元，并对其因<SPAN>2003</SPAN>年至<SPAN>2005</SPAN>年审计出具文件存在虚假的违法行为处以罚款<SPAN>50</SPAN>万元；</SPAN></P>
+<P><SPAN>二、对王日宇、王颖和曹如鹏分别处以<SPAN>5</SPAN>万元罚款。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN>7111010189800000162,</SPAN>由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P align=right><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 中国证券监督管理委员会</SPAN></P>
+<P align=right><SPAN>&nbsp;<SPAN>　 </SPAN>&nbsp;<SPAN>　</SPAN><SPAN>　&nbsp;</SPAN><SPAN>　</SPAN><SPAN>　</SPAN>　　&nbsp;<SPAN>　</SPAN><SPAN>　　&nbsp;</SPAN><SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 　&nbsp;</SPAN></SPAN><SPAN>二○○九年四月七日</SPAN></P>
+<P>&nbsp;</P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20090727_119316_ext.json

@@ -1,0 +1,260 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（劲嘉股份、庄德智、沈海祥）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年06月27日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（劲嘉股份、庄德智、沈海祥）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕29号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（劲嘉股份、庄德智、沈海祥）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕29号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1361512636421'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1361512636421 P {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1361512636421 TD {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1361512636421 DIV {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1361512636421 LI {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1361512636421 {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+--**/</style>
+<P style="LINE-HEIGHT: 26pt; MARGIN-TOP: 0pt; TEXT-INDENT: 22.05pt; MARGIN-BOTTOM: 0pt" class=p0 align=center><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔2012〕29</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">号</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">事人：</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">深圳劲嘉彩印集团股份有限公司（以下简称劲嘉股份），住所：广东省深圳市宝安区福永镇怀德南路怀德工业区</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">1</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">栋，法定代表人乔鲁予。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">庄德智，男，</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">1963</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月出生，</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2006</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">11</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月至今任劲嘉股份副董事长兼副总经理，住址：广东省深圳市南山区城市山谷。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">沈海祥，男，</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">1945</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">12</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月出生，劲嘉股份常务副总经理，住址：北京市海淀区翠微路</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">4</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">号。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对劲嘉股份信息披露违法行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人劲嘉股份提出了书面申辩意见；应当事人劲嘉股份的要求，我会举行了听证会，听取了当事人及其代理人的陈述和申辩。当事人庄德智、沈海祥未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，劲嘉股份存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2008</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">10</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月下旬，中大正通国际投资有限公司（以下简称中大正通）董事长兼总经理韩某铭与美国公司</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;American&nbsp;Tobacco&nbsp;&amp;&nbsp;Trading,&nbsp;LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的法人代表</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Fredric&nbsp;Panker</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">谈及销售美国公司香烟。韩某铭的熟人韩某君与劲嘉股份副董事长兼副总经理庄德智联系，请劲嘉股份为</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Fredric&nbsp;Panker</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">设计“</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">NATIVE</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”烟标并打样。庄德智随后安排公司工作人员董某宏跟进该项业务。后打样出来的烟标上对烟草生产厂家标注为“</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Made&nbsp;By&nbsp;The&nbsp;Original&nbsp;Tobacco&nbsp;Traders</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">7</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月至</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月，劲嘉股份与中大正通及韩某君反复沟通烟标设计，品牌名称由“</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">NATIVE</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”改为“</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">York</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”，生产厂家标注由“</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Made&nbsp;By&nbsp;The&nbsp;Original&nbsp;Tobacco&nbsp;Traders</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”改为“</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Made&nbsp;in&nbsp;the&nbsp;USA&nbsp;by&nbsp;Native&nbsp;American&nbsp;Tobacco&nbsp;&amp;&nbsp;Trading,&nbsp;LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">”。期间，劲嘉股份多次为客户设计打样烟标并寄往美国</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Fredric&nbsp;Panker</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">处，自始至终烟标标注的生产厂家都不是英美烟草（</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">British&nbsp;American&nbsp;Tobacco&nbsp;P.L.C.</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">）。但在联系业务过程中，韩某铭告知庄德智，合作方为英美烟草。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">8</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">21</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，庄德智在劲嘉股份总经理办公会上通报了与英美烟草的纸张及烟标出口新业务工作情况。庄德智为该项目负责人。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">8</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">25</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，韩某铭等人到劲嘉股份考察，与庄德智、劲嘉股份常务副总经理沈海祥交流烟标事项，韩某铭称合作方为英美烟草，并称英美烟草将来劲嘉股份考察，其后还编造考察人员名单。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">18</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，由于网络上出现劲嘉股份将与英美烟草合作的传闻，可能与劲嘉股份股票异常交易有关，深圳证券交易所要求劲嘉股份对外公告说明与英美烟草合作的事项。沈海祥向深圳证券交易所确认劲嘉股份与英美烟草公司有接触，并称双方将于近日签署战略合作协议并召开新闻发布会，同意向深圳证券交易所上报公告的内容。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">18</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，劲嘉股份发布《深圳劲嘉彩印集团股份有限公司关于与美国英美烟草公司洽谈合作的提示性公告》，称公司与美国英美烟草公司正在接触洽谈为美国英美烟草公司提供烟标印刷的合作事项，至今尚未签署任何合作协议，能否签订合作协议存在不确定性。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">21</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，深圳证券交易所向劲嘉股份发出《关于对深圳劲嘉彩印集团股份有限公司对外合作相关问题的问询函》，询问公司与英美烟草接触的最早时间及洽谈进展情况，以及交易双方及具体经办人员身份等。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">10</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">10</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，庄德智签署了给深圳证券交易所的回复函交董事会，将合作方称为</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;America&nbsp;tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，未再提及英美烟草，也未提及</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;America&nbsp;tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">与英美烟草的关系。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">10</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">12</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，劲嘉股份回复深圳证券交易所，称合作方为</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;America&nbsp;tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">10</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">27</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，深圳证券交易所向劲嘉股份发出《关于对劲嘉彩印股份有限公司对外合作相关问题的第二次问询函》，指出劲嘉股份</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">10</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">12</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日回复函中将公司接触的合作对方名称变为</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;America&nbsp;tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，与</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">18</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日公司公告中所述“美国英美烟草公司”不符，要求公司及时查清</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;America&nbsp;tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">与英美烟草是否为同一家公司或存在关联关系。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">11</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">1</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，劲嘉股份召开临时董事会，专题研究公司与</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;America&nbsp;tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">合作事项。会议认为，</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;America&nbsp;Tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">与英美烟草不是同一家公司，项目负责人副总经理庄德智认为仍然不能证实双方存在关联关系。庄德智提出他本人和董某宏到美国考察</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;America&nbsp;tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">后再做正式答复。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">11</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，劲嘉股份根据董事会情况向深圳证券交易所回复第二次问询函。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">11</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">3</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，深圳证券交易所要求公司马上对外作出更正公告。深圳证券交易所于</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">11</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">4</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日决定对公司股票进行临时停牌。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">11</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">6</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，劲嘉股份发布《深圳劲嘉彩印集团股份有限公司关于对外合作的更正公告》，称相关工作人员误将对外合作方</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;American&nbsp;Tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当作美国英美烟草公司，致使公司对外发布的《深圳劲嘉彩印集团股份有限公司关于与美国英美烟草公司洽谈合作的提示性公告》的内容与事实情况出现差异。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，劲嘉股份</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">18</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日发布的《深圳劲嘉彩印集团股份有限公司关于与美国英美烟草合作的提示性公告》存在虚假陈述，其后亦未及时发布澄清公告或更正公告。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">庄德智是劲嘉股份通过中大正通与美方进行烟标设计印刷合作的项目负责人，在未核实美方合作方身份的情况下，庄德智便在劲嘉股份宣称是与英美烟草的合作。在公司董事会秘书提示关注市场传闻之后，且市场传闻与韩某铭提到过的业务量基本一致时，庄德智未配合对合作方身份进行核实。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">18</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日公告之后，庄德智拖延向董事会提交给深圳证券交易所的回复函，在多次与美方人员见面甚至签署框架合作协议过程中均没有实施必要的核查，在</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">11</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">1</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日董事会上还坚持认为要去美国考察之后再作更正公告。庄德智是对劲嘉股份</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">18</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日公告虚假记载及未及时澄清违法行为直接负责的主管人员。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">沈海祥至少在</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">8</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">25</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日已实际参与到与英美烟草合作业务中。在看到</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">Native&nbsp;America&nbsp;tobacco&nbsp;&amp;&nbsp;Trading,LLC</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">给中大正通的授权书后，沈海祥应能发现该公司名称与英美烟草的公司名称不相符，但沈海祥没有给予应有的关注，而是听信韩某铭和庄德智的介绍确定合作方是英美烟草。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">18</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日，沈海祥根据公司授权规定全面主持公司工作，在公司公告草拟、审核过程中，沈海祥没有核实合作方的真实情况，因此，沈海祥是对劲嘉股份</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">18</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日公告虚假记载行为直接负责的主管人员。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人劲嘉股份及其代理人在提交的书面申辩材料中及在听证会上提出，劲嘉股份信息虚假记载的公告公布后，公司股价未出现异动，未给公司、股东、债权人或其他人造成直接损失，未造成恶劣的社会影响，并认为信息披露违法是因为韩某铭等人的欺骗行为所致，公司不存在欺诈的故意；违法行为发生后，公司董事长等高管人员采取了一系列措施核实合作方的真实身份。请求我会对其不予行政处罚。我会认为，本案中劲嘉股份的违法行为事实清楚，劲嘉股份提出的信息披露违法的主观方面和客观方面的情形及违法行为产生的原因等理由不足以否定违法行为的成立，可以认定违法行为并应予以处罚。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">劲嘉股份相关公告虚假记载且未及时予以澄清的行为，违反了《证券法》第六十三条的规定，构成了《证券法》第一百九十三条所规定的违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、对劲嘉股份给予警告，并处以</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">40</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">万元罚款；</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、对庄德智给予警告，并处以</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">20</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">万元罚款；</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、对沈海祥给予警告，并处以</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">10</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">万元罚款。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">15</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">7111010189800000162</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">60</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">3</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">&nbsp;</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 260.925pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　　　　　　&nbsp; </SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 260.925pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 260.925pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 260.925pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　　　　　　　　　　　　　　　　　　　 中国证券监督管理委员会</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　　　　　　　&nbsp;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 二○一二</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">六月二十七</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20130222_221467_ext.json

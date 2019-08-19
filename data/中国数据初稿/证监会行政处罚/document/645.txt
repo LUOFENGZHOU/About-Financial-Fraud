@@ -1,0 +1,283 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（华夏建通、方林、尚智勇等11名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-08488</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年12月09日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（华夏建通、方林、尚智勇等11名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2010〕46号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（华夏建通、方林、尚智勇等11名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2010〕46号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1304921265671'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1304921265671 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921265671 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921265671 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921265671 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921265671 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+
+
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+
+
+
+
+
+--**/</style>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%">〔<SPAN>2010</SPAN>〕<SPAN>46</SPAN>号</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当</SPAN><SPAN style="LINE-HEIGHT: 150%">事人：华夏建通科技开发股份有限公司（以下简称华夏建通），住所：上海市打浦路金玉兰广场<SPAN>604</SPAN>、<SPAN>605</SPAN>室，法定代表人杨文军。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">方林，<SPAN>1961</SPAN>年<SPAN>4</SPAN>月出生，<SPAN>2007</SPAN>年<SPAN>4</SPAN>月至调查日担任华夏建通副董事长、总经理，住址：上海市徐汇区虹桥路<SPAN>168</SPAN>号<SPAN>6</SPAN>号楼<SPAN>1804</SPAN>室。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">尚智勇，<SPAN>1962</SPAN>年<SPAN>6</SPAN>月出生，<SPAN>2003</SPAN>年<SPAN>3</SPAN>月至<SPAN>2005</SPAN>年<SPAN>10</SPAN>月担任华夏建通董事、总经理，住址：广东省深圳市蛇口荔园<SPAN>4</SPAN>栋<SPAN>404</SPAN>。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">周喜旺，<SPAN>1964</SPAN>年<SPAN>5</SPAN>月出生，<SPAN>2003</SPAN>年<SPAN>12</SPAN>月至<SPAN>2006</SPAN>年<SPAN>1</SPAN>月担任华夏建通财务总监、副总经理，住址：江西省南昌市西湖区三眼井<SPAN>2</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">薛灵虎，<SPAN>1962</SPAN>年<SPAN>10</SPAN>月出生，<SPAN>2000</SPAN>年<SPAN>12</SPAN>月至<SPAN>2007</SPAN>年<SPAN>4</SPAN>月担任华夏建通董事，住址：河北省邢台市桥西区新兴西路<SPAN>1</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">张志坚，<SPAN>1967</SPAN>年<SPAN>8</SPAN>月出生，<SPAN>2007</SPAN>年<SPAN>4</SPAN>月至调查日担任华夏建通财务总监，<SPAN>2007</SPAN>年<SPAN>4</SPAN>月至<SPAN>2008</SPAN>年<SPAN>3</SPAN>月担任华夏建通董事，住址：北京市海淀区万寿路<SPAN>27</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">赵建鹏，<SPAN>1959</SPAN>年<SPAN>4</SPAN>月出生，<SPAN>2000</SPAN>年<SPAN>12</SPAN>月至<SPAN>2006</SPAN>年<SPAN>8</SPAN>月担任华夏建通副董事长，住址：河北省邢台市桥西区冶金南路<SPAN>72</SPAN>号冶金西生活区<SPAN>3</SPAN>楼。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">郑秋涛，<SPAN>1963</SPAN>年<SPAN>10</SPAN>月出生，<SPAN>2005</SPAN>年<SPAN>4</SPAN>月至<SPAN>2008</SPAN>年<SPAN>3</SPAN>月担任华夏建通董事，世信科技发展有限公司（以下简称世信科技）董事长，住址：北京市朝阳区安慧里三区<SPAN>12</SPAN>号楼。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">靳电入，<SPAN>1971</SPAN>年<SPAN>2</SPAN>月出生，<SPAN>2003</SPAN>年<SPAN>6</SPAN>月至<SPAN>2006</SPAN>年<SPAN>8</SPAN>月担任华夏建通董事会秘书，<SPAN>2006</SPAN>年<SPAN>8</SPAN>月至<SPAN>2007</SPAN>年<SPAN>4</SPAN>月担任华夏建通董事、副总经理，住址：河北省邢台市新兴西大街<SPAN>1</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">孙利明，<SPAN>1962</SPAN>年<SPAN>2</SPAN>月出生，<SPAN>2007</SPAN>年<SPAN>4</SPAN>月至调查日担任华夏建通监事长，<SPAN>2008</SPAN>年<SPAN>4</SPAN>月至调查日担任华夏建通科技开发集团有限责任公司（以下简称建通集团）财务总监，住址：北京市西城区丁章胡同<SPAN>4</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">张浩，<SPAN>1944</SPAN>年<SPAN>5</SPAN>月出生，<SPAN>2003</SPAN>年<SPAN>12</SPAN>月至调查日担任华夏建通独立董事，住址：河北省石家庄市桥西区中华南大街<SPAN>50</SPAN>号<SPAN>1</SPAN>栋。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">吕国英，<SPAN>2005</SPAN>年<SPAN>4</SPAN>月至调查日担任华夏建通独立董事，住址：北京市海淀区紫竹院路<SPAN>66</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对华夏建通违反证券法律法规案进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人华夏建通、周喜旺、张志坚、赵建鹏、靳电入、孙利明和吕国英等提出了陈述、申辩意见。应当事人华夏建通的要求，我会举行了听证会，听取了华夏建通的陈述、申辩。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，华夏建通存在以下违法事实：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、<SPAN>2003</SPAN>年<SPAN>2</SPAN>月，建通集团置换进入华夏建通的资产存在重大不实，致使华夏建通<SPAN>2003</SPAN>年至<SPAN>2007</SPAN>年年度报告资产状况的披露存在重大虚假记载</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2002</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>8</SPAN>月<SPAN>22</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，建通集团以<SPAN>39,198.12</SPAN>万元实物资产对铁通华夏电信有限责任公司（以下简称铁通华夏）增资。<SPAN>2002</SPAN>年<SPAN>12</SPAN>月，建通集团又将上述用于铁通华夏增资资产投入上海铁通电信有限公司（以下简称上海铁通）。<SPAN>2003</SPAN>年<SPAN>1</SPAN>月<SPAN>10</SPAN>日，华夏建通与建通集团约定双方进行资产置换，置入华夏建通的资产为建通集团合法持有的铁通华夏权益性资产。在<SPAN>2003</SPAN>年<SPAN>2</SPAN>月<SPAN>18</SPAN>日的临时公告以及<SPAN>2003</SPAN>年至<SPAN>2007</SPAN>年的年度报告中，华夏建通未如实披露建通集团将铁通华夏资产投入上海铁通的情况。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、在<SPAN>2003</SPAN>年至<SPAN>2005</SPAN>年年度报告中，虚假记载建通集团的控股股东及实际控制人情况</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2003</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月至<SPAN>2007</SPAN>年<SPAN>5</SPAN>月期间，华夏建通第一大股东为建通集团，泛华工程有限公司（以下简称泛华工程）持有建通集团<SPAN>60%</SPAN>股权。<SPAN>2003</SPAN>年<SPAN>10</SPAN>月，泛华工程将其持有的建通集团<SPAN>60%</SPAN>的股权转让给北京泛华投资管理有限公司（以下简称泛华投资），建通集团股权结构变更为泛华投资持股<SPAN>75%</SPAN>、北京同方投资管理有限公司持股<SPAN>25%</SPAN>，华夏建通董事长何强、何强配偶及其配偶的哥哥持有该两公司的全部股份。<SPAN>2004</SPAN>年<SPAN>11</SPAN>月，何强将其持有泛华投资<SPAN>59%</SPAN>的股权转让给中国华阳技术贸易朗利公司，根据中国华阳技术贸易朗利公司的说明，该股权转让行为并未真实实施，只是进行了工商变更登记。综上并经测算，何强间接持有华夏建通<SPAN>29%</SPAN>的股权，是华夏建通的实际控制人。在<SPAN>2003</SPAN>年至<SPAN>2005</SPAN>年年度报告中，华夏建通公告的实际控制人为泛华工程，未披露上述泛华投资或何强的控股情况。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、<SPAN>2003</SPAN>年<SPAN>12</SPAN>月临时信息披露、<SPAN>2003</SPAN>年年度报告未按规定披露与西安通信产业基地有限公司（以下简称西安通信）的关联关系和关联交易</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2003</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月至<SPAN>2007</SPAN>年<SPAN>8</SPAN>月期间，华夏建通董事长何强同时担任西安通信董事长。<SPAN>2003</SPAN>年<SPAN>12</SPAN>月<SPAN>15</SPAN>日，华夏建通控股子公司世信科技与西安通信签订《西安通信产业基地信息工程投标保证资金协议书》，世信科技分别于<SPAN>2003</SPAN>年<SPAN>12</SPAN>月<SPAN>23</SPAN>日、<SPAN>24</SPAN>日向西安通信共电汇资金<SPAN>6,000</SPAN>万元。华夏建通<SPAN>2003</SPAN>年<SPAN>12</SPAN>月未及时披露、<SPAN>2003</SPAN>年年度报告未披露上述其与西安通信的关联关系及关联交易。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">四、<SPAN>2003</SPAN>年至<SPAN>2005</SPAN>年，未真实及时披露建通集团、西安通信等关联企业占用资金的情况</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）<SPAN>2003</SPAN>年年度报告未真实及时披露占用资金情况</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2003</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>7</SPAN>月<SPAN>28</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">至<SPAN>12</SPAN>月<SPAN>29</SPAN>日期间，华夏建通先后通过世信科技、北京泰亚东方通信设备有限公司、深圳市财汇投资发展有限公司等多家公司汇出资金<SPAN>1</SPAN>亿元，其中建通集团占用<SPAN>9,000</SPAN>万元、西安通信占用<SPAN>1,000</SPAN>万元，华夏建通<SPAN>2003</SPAN>年年度报告所披露的“关联方应收应付款项余额”为<SPAN>76,640,643.15</SPAN>元，未包含上述占用资金事项。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）<SPAN>2004</SPAN>年年度报告未真实及时披露占用资金情况</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">截至<SPAN>2004</SPAN>年<SPAN>12</SPAN>月<SPAN>2</SPAN>日，华夏建通北京分公司当年共向铁通华夏划转资金<SPAN>3,164.5</SPAN>万元，其中<SPAN>2,900</SPAN>万元经铁通华夏又转至建通集团。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2004</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>10</SPAN>月<SPAN>19</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">至<SPAN>12</SPAN>月<SPAN>31</SPAN>日期间，世信科技共收到西安通信汇来资金<SPAN>1,648.5</SPAN>万元，华夏建通说明，该笔款项是用于偿还<SPAN>2003</SPAN>年建通集团占用的部分资金以及西安通信全部占用资金的。华夏建通<SPAN>2004</SPAN>年年度报告“关联方应收应付款项余额”为<SPAN>99,041,441.24</SPAN>元，未包含建通集团<SPAN>2003</SPAN>年占用资金<SPAN>9,000</SPAN>万元及其<SPAN>2004</SPAN>年占用资金<SPAN>2,900</SPAN>万元，扣除上述已归还的款项，华夏建通<SPAN>2004</SPAN>年年度报告中未披露的建通集团占用资金为<SPAN>11,251.5</SPAN>万元。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（三）<SPAN>2005</SPAN>年年度报告未真实及时披露占用资金情况</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2005</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月<SPAN>19</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">至<SPAN>11</SPAN>月<SPAN>7</SPAN>日期间，建通集团通过西安通信账户归还其所占用资金<SPAN>1,056.1</SPAN>万元，华夏建通<SPAN>2005</SPAN>年年度报告“关联方应收应付款项余额”为<SPAN>1,234,734.82</SPAN>元，扣除上述已归还款项后，未披露建通集团占用资金<SPAN>10,195.4</SPAN>万元的情况。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">五、<SPAN>2007</SPAN>年中期报告提前确认主营业务收入<SPAN>1,225</SPAN>万元</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2007</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>6</SPAN>月<SPAN>28</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，世信科技与北京越洋互动文化传播有限公司签订《社区大屏幕销售合同》，<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>29</SPAN>日，世信科技就上述合同中的软件单独确认了<SPAN>1,225</SPAN>万元主营业务收入，并在<SPAN>2007</SPAN>年度中期报告中予以了披露。但相关项目直到<SPAN>2007</SPAN>年<SPAN>9</SPAN>月<SPAN>21</SPAN>日才交付验收。<SPAN>2007</SPAN>年<SPAN>11</SPAN>月<SPAN>24</SPAN>日，华夏建通发布更正公告，对<SPAN>2007</SPAN>年中期报告及<SPAN>2007</SPAN>年第三季度报告作了调整。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">六、北京华夏通网络技术服务有限公司（以下简称华夏通）虚增营业收入<SPAN>44,735,920.00</SPAN>元，虚增利润<SPAN>35,746,054.00</SPAN>元，导致华夏建通<SPAN>2007</SPAN>年年度报告虚假记载利润<SPAN>17,158,106.11</SPAN>元</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">华夏通成立于<SPAN>2005</SPAN>年<SPAN>1</SPAN>月<SPAN>14</SPAN>日，注册资金<SPAN>6,000</SPAN>万元，其中华夏建通出资<SPAN>2,880</SPAN>万元，持股比例为<SPAN>48%</SPAN>。<SPAN>2007</SPAN>年，华夏通分别与长春华谊国际教育文化交流有限公司等<SPAN>7</SPAN>家公司签订了<SPAN>10</SPAN>个项目的《技术开发合同》，开发经费和报酬总计<SPAN>4,900</SPAN>万元。华夏建通总经理李冬、技术主管刘德明、职员陈风、韩琳等人的询问笔录证实：截至<SPAN>2007</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日，华夏通为上述<SPAN>7</SPAN>家公司所开发的系统尚未完成，相关《项目验收报告》是根据公司会计部门做账之需要，请委托方帮忙签署的，实际上并未按规范程序进行。截至<SPAN>2008</SPAN>年<SPAN>12</SPAN>月，上述<SPAN>10</SPAN>个项目中有<SPAN>2</SPAN>个项目已终止开发，<SPAN>5</SPAN>个项目尚在开发中，<SPAN>3</SPAN>个项目尚处于试运营状态。<SPAN>2007</SPAN>年华夏通确认上述技术开发项目当年实现营业收入共计<SPAN>44,735,920.00</SPAN>元，华夏建通<SPAN>2007</SPAN>年年度报告披露当年实现净利润<SPAN>7,277,955.92</SPAN>元，其中投资华夏通收益<SPAN>12,632,771.34</SPAN>元。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述事实分别有相关合同、财务账册、原始凭证、当事人询问笔录及相关年度报告等证据证明，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">华夏建通虚假记载、重大遗漏、未及时披露信息等违反证券法律法规的行为，违反了<SPAN>1999</SPAN>年<SPAN>7</SPAN>月<SPAN>1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）第六十一条、第六十二条和《证券法》第六十五条、第六十六条的规定，构成了原《证券法》第一百七十七条、《证券法》第一百九十三条规定的行为。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">对于华夏建通未按规定披露信息行为，何强、方林、尚智勇、张志坚是相关违法行为的直接负责的主管人员（何强因涉嫌犯罪被我会移送公安机关，另行处理），周喜旺、薛灵虎、赵建鹏、郑秋涛、靳电入、孙利明、张浩、吕国英是相关违法行为的其他直接责任人员。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">在申辩、陈述和听证中，华夏建通申辩称，公司的违法违规行为都是原大股东及个别人员造成的，与现在的大股东无关。公司已有深刻认识，将认真整改等，恳请我会对其减轻、免除处罚。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">我会认为，华夏建通未按规定披露信息行为的事实确实、准确、充分，其没有提出实质性的理由和事实，对其提出的申辩意见不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">张志坚、周喜旺等人在陈述、申辩书中提出的事实和理由没有实质性意见，对其提出的申辩意见，我会不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条、《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、责令华夏建通改正违法行为，给予警告，并处以<SPAN>30</SPAN>万元罚款；　　　</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、对方林、尚智勇、周喜旺、薛灵虎、张志坚、赵建鹏、郑秋涛、靳电入、孙利明、张浩、吕国英给予警告。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当事人华夏建通应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%" align=center>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%" align=center>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%" align=center>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="LINE-HEIGHT: 150%">　　　　　　　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="LINE-HEIGHT: 150%">&nbsp;<SPAN>　 </SPAN>&nbsp;<SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN>　　　　　　　　　&nbsp; </SPAN><SPAN style="LINE-HEIGHT: 150%">　 二○一○年十二月九日</SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110504_195064_ext.json

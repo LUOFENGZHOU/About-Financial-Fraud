@@ -1,0 +1,261 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（辽宁证券张彪等9名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-06826</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年09月24日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（辽宁证券张彪等9名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2008〕40号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（辽宁证券张彪等9名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2008〕40号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1268635866890'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1268635866890 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635866890 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635866890 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635866890 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635866890 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<P class=Custom_UnionStyle align=center><FONT style="FONT-SIZE: 12pt"><FONT face=黑体>&nbsp;<SPAN style="FONT-SIZE: 12pt">〔<SPAN style="FONT-SIZE: 12pt">2008</SPAN>〕<SPAN style="FONT-SIZE: 12pt">40</SPAN>号</SPAN></FONT></FONT></P>
+<P class=Custom_UnionStyle>&nbsp;<SPAN>当事人：张彪，男，<SPAN>1963</SPAN>年<SPAN>11</SPAN>月出生，时任辽宁省证券公司（以下简称辽宁证券）沈阳歧山中路营业部经理，住址：辽宁省沈阳市和平区和平大街<SPAN>3</SPAN>段<SPAN>8</SPAN>里<SPAN>3</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>刘玉增，男，<SPAN>1954</SPAN>年<SPAN>2</SPAN>月出生，时任辽宁证券沈阳总站路营业部经理，住址：辽宁省沈阳市和平区总站路<SPAN>81</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>郭颖，男，<SPAN>1962</SPAN>年<SPAN>3</SPAN>月出生，时任辽宁证券大连营业部经理，住址：辽宁省沈阳市沈河区彩塔街<SPAN>16-611-08</SPAN>。</SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>刘凡，男，<SPAN>1969</SPAN>年<SPAN>11</SPAN>月出生，时任辽宁证券铁岭营业部、辽宁证券沈阳黑龙江街营业部经理，住址：辽宁省沈阳市南宁南街<SPAN>185</SPAN>号<SPAN>533</SPAN>。</SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>赵伟，男，<SPAN>1967</SPAN>年<SPAN>6</SPAN>月出生，时任辽宁证券铁岭营业部经理，住址：辽宁省沈阳市沈河区南三经街<SPAN>38</SPAN>号<SPAN>772</SPAN>。</SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>王卫国，男，<SPAN>1969</SPAN>年<SPAN>4</SPAN>月出生，时任辽宁证券辽阳营业部经理，住址：辽宁省沈阳市皇姑区陵园街<SPAN>8-5</SPAN>号<SPAN>233-06</SPAN>。</SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>江滨，男，<SPAN>39</SPAN>岁，时任辽宁证券盘锦兴隆大街营业部、辽宁证券天津营业部经理，住址：天津市河西区龙海公寓<SPAN>9-25-602</SPAN>。</SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>庞连鹏，男，<SPAN>1965</SPAN>年<SPAN>3</SPAN>月出生，时任辽宁证券阜新营业部经理，住址：辽宁省沈阳市铁西区北二路<SPAN>3</SPAN>段<SPAN>18</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>周平，男，<SPAN>1963</SPAN>年<SPAN>5</SPAN>月出生，时任辽宁证券上海北京西路营业部经理，住址：辽宁省沈阳市皇姑区崇山中路<SPAN>8-2</SPAN>号<SPAN>-321</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>依据原《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN>辽宁证券沈阳歧山中路营业部等十个营业部</SPAN><SPAN>违反证券法律法规</SPAN><SPAN>一案</SPAN><SPAN>进行了立案调查、审理，并依法向当事人告知（公告送达）了作出行政处罚的事实、理由、依据及当事人依法享有的权利，复核了当事人的陈述、申辩意见，现已调查、审理终结。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>经查明，自<SPAN>2000</SPAN>年起，辽宁证券沈阳歧山中路营业部等十个营业部采取“红字冲正”、“兰字补正”、现金存款、资金内转、允许透支及增加可用资金额度等方式向客户非法融资。截至<SPAN>2005</SPAN>年<SPAN>12</SPAN>月，辽宁证券沈阳歧山中路营业部等十个营业部共计向客户提供了<SPAN>71</SPAN>笔非法融资，合计金额<SPAN>174,145,900</SPAN>元，收取利息<SPAN>647,506.50</SPAN>元。有关情况如下：</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>一、沈阳歧山中路营业部：时任经理张彪向客户非法融资<SPAN>21</SPAN>笔，融资金额<SPAN>22,195,900.00</SPAN>元，收取融资利息<SPAN>285,679.50</SPAN>元；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>二、沈阳总站路营业部：时任经理刘玉增向客户非法融资<SPAN>5</SPAN>笔，融资金额<SPAN>7,200,000.00</SPAN>元；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>三、铁岭营业部：时任经理刘凡向客户非法融资<SPAN>7</SPAN>笔，融资金额<SPAN>9,170,000.00</SPAN>元；时任经理赵伟向客户非法融资<SPAN>7</SPAN>笔，融资金额<SPAN>9,120,000.00</SPAN>元；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>四、沈阳黑龙江街营业部：时任经理刘凡向客户非法融资<SPAN>5</SPAN>笔，融资金额<SPAN>3,960,000.00</SPAN>元，收取融资利息<SPAN>15,000.00</SPAN>元；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>五、辽阳营业部：时任经理王卫国向客户非法融资<SPAN>12</SPAN>笔，融资金额<SPAN>4,900,000.00</SPAN>元，收取融资利息<SPAN>286,827.00</SPAN>元；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>六、盘锦兴隆大街营业部：时任经理江滨向客户非法融资<SPAN>3</SPAN>笔，融资金额<SPAN>6,800,000.00</SPAN>元；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>七、天津营业部：时任经理江滨向客户非法融资<SPAN>1</SPAN>笔，融资金额<SPAN>20,000,000.00</SPAN>元；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>八、阜新营业部：时任经理庞连鹏向客户非法融资<SPAN>1</SPAN>笔，融资金额<SPAN>1,700,000.00</SPAN>元，收取融资利息<SPAN>60,000.00</SPAN>元；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>九、上海营业部：时任经理周平向客户非法融资<SPAN>6</SPAN>笔，融资金额<SPAN>29,100,000.00</SPAN>元；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>十、大连营业部：时任经理李焕民向客户非法融资<SPAN>2</SPAN>笔，融资金额<SPAN>40,000,000.00</SPAN>元；时任经理郭颖向客户非法融资<SPAN>1</SPAN>笔，融资金额<SPAN>20,000,000.00</SPAN>元。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>以上事实，有辽宁证券及辽宁证券托管组关于经纪业务配资及处理情况的报告、部分当事人谈话笔录及电子邮件、营业部配资情况专项审计报告、辽宁证券托管组提供的营业部融资者名单、非法融资信访举报材料、客户透支账户补款明细表、代理证券投资协议、存取款凭证、客户与营业部控制账户资金流水、当事人的任职文件等证据在案证明，足以认定。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>时任辽宁证券沈阳歧山中路营业部等十个营业部负责人的张彪、刘玉增、刘凡、赵伟、王卫国、江滨、庞连鹏、周平、李焕民、郭颖是对上述违法行为</SPAN><SPAN>直接负责的主管人员</SPAN><SPAN>。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>在处理辽宁证券非法融资的过程中，当事人刘凡、赵伟、郭颖积极配合辽宁证券托管组工作，对减少辽宁证券资产损失起到了一定作用。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>当事人刘玉增、刘凡、赵伟、王卫国、庞连鹏在陈述、申辩中称，辽宁证券下属营业部都存在配资行为；自己曾积极配合托管工作或努力使资产损失降到最低。请求免于处罚或减轻处罚。经复核，我会认为，当事人在陈述、申辩中未就本案违法事实提出新的证据，有关当事人配合托管工作的情节在审理中已作考虑，当事人提出的免于处罚或减轻处罚的请求没有法律依据，不予支持。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>辽宁证券沈阳歧山中路营业部等十个营业部向客户非法融资行为的违法事实清楚，证据确实、充分，足以认定。上述行为违反了原《证券法》第三十六条有关证券公司不得从事向客户融资或者融券的证券交易活动以及第一百四十一条有关证券公司不得为客户融资交易的禁止性规定，构成了原《证券法》第一百八十六条所述证券公司为客户提供融资交易的行为。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>因</SPAN><SPAN>严重违规经营，</SPAN><SPAN>辽宁证券于<SPAN>2007</SPAN>年被我会撤销证券业务许可。</SPAN><SPAN>按照辽宁证券沈阳歧山中路营业部等十个营业部违法违规行为及相关当事人的违法事实、性质、情节与社会危害程度，依据原《证券法》第一百八十六条之规定，我会决定：</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>一、给予张彪、江滨、周平警告并分别处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>二、给予刘玉增、王卫国、庞连鹏、刘凡警告并分别处以<SPAN>3</SPAN>万元罚款；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>三、给予赵伟、郭颖警告。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>对参与实施非法融资行为的李焕民，我会将另行处理。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会<SPAN>(</SPAN>开户银行<SPAN>:</SPAN>中信银行总行营业部、账号<SPAN>7111010189800000162,</SPAN>由该行直接上缴国库<SPAN>)</SPAN>，并将付款凭证的复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P class=Custom_UnionStyle>&nbsp;</P>
+<P class=Custom_UnionStyle>&nbsp;</P>
+<P class=Custom_UnionStyle>&nbsp;</P>
+<P class=Custom_UnionStyle>&nbsp;</P>
+<P class=Custom_UnionStyle align=right><SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　 　　　 </SPAN></SPAN><SPAN>中国证券监督管理委员会</SPAN></P>
+<P class=Custom_UnionStyle align=right><SPAN>&nbsp;<SPAN>　 </SPAN>&nbsp;<SPAN>　</SPAN><SPAN>　&nbsp;</SPAN><SPAN>　</SPAN>　　&nbsp;<SPAN>　　</SPAN><SPAN>　</SPAN><SPAN>　&nbsp;</SPAN><SPAN>　&nbsp;</SPAN></SPAN><SPAN>二○○八年九月二十四日</SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20091112_167961_ext.json

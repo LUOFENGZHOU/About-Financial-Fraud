@@ -1,0 +1,257 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（嘉利恒德、胡和建、赵伟、程昌军）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年08月22日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（嘉利恒德、胡和建、赵伟、程昌军）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕38号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（嘉利恒德、胡和建、赵伟、程昌军）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕38号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1361512914703'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1361512914703 P {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1361512914703 TD {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1361512914703 DIV {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1361512914703 LI {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1361512914703 {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+--**/</style>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2012</FONT><FONT face=宋体>〕</FONT><FONT face="Times New Roman">38</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">号</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">事人：</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">北京嘉利恒德房地产开发有限公司（以下简称嘉利恒德），住所：</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">北京</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">市</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">通州区张家湾镇芳草园<FONT face="Times New Roman">1205</FONT><FONT face=宋体>、</FONT><FONT face="Times New Roman">1206</FONT><FONT face=宋体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">法定代表人周熠</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">胡和建，男，<FONT face="Times New Roman">1957</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月出生，时</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">任</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">湖北博盈投资股份有限公司（以下简称博盈投资）</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">董事</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">董事长</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，住址：</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">北京</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">市</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">朝阳区亮马桥路<FONT face="Times New Roman">39</FONT><FONT face=宋体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">赵伟</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，男，<FONT face="Times New Roman">1968</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月出生，时</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">任博盈投资董事</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，住址：四川省成都市锦江区静安路<FONT face="Times New Roman">1</FONT><FONT face=宋体>号。</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">程昌军</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，男，<FONT face="Times New Roman">1962</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月出生，时</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">任北京鸿福祥科技发展有限公司（以下简称鸿福祥公司）董事长</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">博盈投资监事长</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，住址：甘肃省</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">兰州市城关区定西路</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">459</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">号</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对博盈投资及其大股东嘉利恒德未及时披露重大信息的行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，当事人嘉利恒德、胡和建、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">赵伟、程昌军</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">嘉利恒德未及时告知博盈投资其持有的<FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股博盈投资股权已用于担保借款并引发诉讼等情况，导致博盈投资未及时披露相关信息</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=宋体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>日，嘉利恒德与鸿福祥公司签订《借款协议》，约定：嘉利恒德以其持有的博盈投资</FONT><FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股权（占上市公司</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">已发行股份</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的<FONT face="Times New Roman">4.22%</FONT><FONT face=宋体>）及其他资产作担保，向鸿福祥公司借款</FONT><FONT face="Times New Roman">2,000</FONT><FONT face=宋体>万元，借款期</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">限</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">为<FONT face="Times New Roman">45</FONT><FONT face=宋体>日。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">16</FONT><FONT face=宋体>日，鸿福祥公司向江苏省扬州市中级人民法院（以下简称扬州中院）起诉，要求嘉利恒德履行还款义务。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>日，经扬州中院民事调解，双方达成协议如下：嘉利恒德</FONT><FONT face="Times New Roman">2009</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日前一次性给付鸿福祥公司</FONT><FONT face="Times New Roman">2,000</FONT><FONT face=宋体>万元</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">；</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">如果嘉利恒德不能按期付款，嘉利恒德将其持有的博盈投资<FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股权转让给鸿福祥公司用以抵偿</FONT><FONT face="Times New Roman">2,000</FONT><FONT face=宋体>万元借款本金。</FONT><FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=宋体>日，扬州中院裁定将嘉利恒德持有的博盈投资</FONT><FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股权转让给鸿福祥公司。</FONT><FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=宋体>日，扬州中院向中国证券登记结算有限责任公司深圳分公司发出协助执行通知书，要求</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">该公司</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">协助将嘉利恒德所持博盈投资<FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股权过户到鸿福祥公司</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">证券</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">账户上。<FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日，中国证券登记结算有限责任公司深圳分公司确认上述</FONT><FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股权过户成功。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">26</FONT><FONT face=宋体>日，博盈投资</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">发布</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">临时公告称，<FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日，公司收到扬州中院出具的民事裁定书及协助执行通知书、中国证券登记结算有限责任公司深圳分公司出具的协助司法过户通知书，获悉扬州中院于</FONT><FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=宋体>日裁定将被执行人嘉利恒德持有公司的</FONT><FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股票划转入申请执行人鸿福祥公司</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">证券账户</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">；</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述划转行为已于<FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=宋体>日完成。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、嘉利恒德未及时告知博盈投资其持有的<FONT face="Times New Roman">1,100</FONT><FONT face=宋体>万股博盈投资股权已用于担保借款并引发诉讼、股权被冻结等情况，导致博盈投资未及时披露相关信息</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">17</FONT><FONT face=宋体>日，嘉利恒德与中道矿业有限公司（以下简称中道矿业）签订《借款协议》，约定：嘉利恒德以其持有的博盈投资</FONT><FONT face="Times New Roman">1,100</FONT><FONT face=宋体>万股股权（占上市公司</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">已发行股份</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的<FONT face="Times New Roman">4.64%</FONT><FONT face=宋体>）作担保，向中道矿业借款</FONT><FONT face="Times New Roman">2,600</FONT><FONT face=宋体>万元</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">借款期限为<FONT face="Times New Roman">7</FONT><FONT face=宋体>日。因到期未能还款</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=宋体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日，经北京市海淀区人民法院</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以下简称海淀法院</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">）</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">调解，双方达成协议</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">如下</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">：嘉利恒德<FONT face="Times New Roman">2009</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>日前归还中道矿业</FONT><FONT face="Times New Roman">2,600</FONT><FONT face=宋体>万元</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">借款</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">或者以其持有的博盈投资<FONT face="Times New Roman">1,100</FONT><FONT face=宋体>万股股权抵债。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>日，中道矿业向海淀法院申请强制执行嘉利恒德持有的博盈投资</FONT><FONT face="Times New Roman">1,100</FONT><FONT face=宋体>万股股权抵债。</FONT><FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=宋体>日，海淀法院出具强制执行裁定书，裁定轮候冻结嘉利恒德持有的博盈投资</FONT><FONT face="Times New Roman">33,850,061</FONT><FONT face=宋体>股股</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">权</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。<FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">21</FONT><FONT face=宋体>日，海淀法院下达民事裁定书，要求强制将登记于嘉利恒德名下的博盈投资</FONT><FONT face="Times New Roman">1,100</FONT><FONT face=宋体>万股股权变更至中道矿业名下。</FONT><FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">21</FONT><FONT face=宋体>日，海淀法院向中国证券登记结算有限责任公司深圳分公司发出协助执行通知书，要求该公司协助将嘉利恒德所持博盈投资</FONT><FONT face="Times New Roman">1,100</FONT><FONT face=宋体>万股股权过户到中道矿业证券账户上</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>日，中国证券登记结算有限责任公司深圳分公司确认上述</FONT><FONT face="Times New Roman">1,100</FONT><FONT face=宋体>万股股权过户成功。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=宋体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=宋体>日，博盈投资</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">发布</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">临时公告称，<FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=宋体>日收到海淀法院民事调解书及强制执行裁定书，首次获悉海淀法院于</FONT><FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=宋体>日司法裁定冻结被执行人嘉利恒德所持博盈投资无限售条件流通股</FONT><FONT face="Times New Roman">33,850,061</FONT><FONT face=宋体>股，冻结期限自实施冻结之日起</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、嘉利恒德未及时告知博盈投资其持有的<FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股博盈投资股权已用于担保借款并引发诉讼、股权被冻结等情况，导致博盈投资未及时披露相关信息</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009<FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">16</FONT><FONT face=宋体>日，嘉利恒德与自然人苑</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">某</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">贞签订《借款协议》，约定：嘉利恒德以其持有的博盈投资<FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股权作担保，向苑</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">某</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">贞借款<FONT face="Times New Roman">2,400</FONT><FONT face=宋体>万元，借款期限为</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日。因到期未能还款，苑</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">某</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">贞起诉至湖南省长沙市天心区人民法院</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以下简称天心法院</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">）</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，要求偿还<FONT face="Times New Roman">2,400</FONT><FONT face=宋体>万元本金及利息。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">14</FONT><FONT face=宋体>日经天心法院调解，双方当事人自愿达成协议如下：嘉利恒德在</FONT><FONT face="Times New Roman">2009</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=宋体>日前归还苑</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">某</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">贞<FONT face="Times New Roman">2,431.6</FONT><FONT face=宋体>万元，或者将其持有的博盈投资</FONT><FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股权在消除一切处分限制条件后立即转让给苑</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">某</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">贞以抵偿上述<FONT face="Times New Roman">2,431.6</FONT><FONT face=宋体>万元欠款。</FONT><FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>日，天心法院出具民事裁定书，裁定冻结嘉利恒德持有的博盈投资</FONT><FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">权</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日，博盈投资发布临时公告称，</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>日，公司收到</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">天心法院</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">出具的民事裁定书和民事调解书，获悉公司第一大股东嘉利恒德因与苑某贞借款纠纷一案，嘉利恒德持有博盈投资的<FONT face="Times New Roman">1,000</FONT><FONT face=宋体>万股股权被裁定冻结。</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，嘉利恒德知悉上述有关股权因借款纠纷导致司法裁定转让情况，应当按照《上市公司信息披露管理办法》的规定向博盈投资履行告知义务并配合博盈投资做好信息披露工作；但嘉利恒德未按规定及时告知上市公司董事会并配合上市公司履行信息披露义务，致使博盈投资信息披露不及时。《信息披露违法行为行政责任认定规则》第十八条规定，控股股东不告知上市公司应披露信息的，应当认定为控股股东指使从事信息披露违法。因此，嘉利恒德上述行为构成了《证券法》第一百九十三条第三款所述违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">胡和建决策了嘉利恒德发生上述股权担保借款事项，并知悉相关诉讼情况，但</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">没有向博盈投资董事会报告，也没有向博盈投资其他</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">高级管理</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">人员通报该事项，</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">是对</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">博盈投资未及时披露相关诉讼信息</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的行为直接负责的主管</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">人员。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">赵伟、程昌军对嘉利恒德</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以博盈投资股权担保</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">向鸿福祥公司借款</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一事</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">知情，二人</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">分别担任</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">博盈投资董事、监事长后</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">没有向博盈投资董事会、监事会报告</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">有关借款事项</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">，也没有向博盈投资其他</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">高级管理</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">人员通报该事项，是博盈投资未及时披露相关诉讼信息</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">行为</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的其他直接责任人</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">员</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述事实，有</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">担保借款</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">协议、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">临时公告</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">、当事人询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、对</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">嘉利恒德</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">给予警告，并处以<FONT face="Times New Roman">30</FONT><FONT face=宋体>万元罚款；</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">对胡和建给予警告，</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">并</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">处以</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">5</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">万元罚款</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">；</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">对赵伟</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">程昌军给予警告，</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">并分别</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">处以</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">3</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">万元罚款。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=宋体>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=宋体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=宋体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证券监督管理委员会&nbsp;</SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">8<FONT face=宋体>月</FONT><FONT face="Times New Roman">22</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　　</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 15pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20130222_221471_ext.json

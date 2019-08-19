@@ -1,0 +1,246 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（西海集团、许德来、陈贤、陈旭）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-05394</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年09月29日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（西海集团、许德来、陈贤、陈旭）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2009]38号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（西海集团、许德来、陈贤、陈旭）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2009]38号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1268635619125'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1268635619125 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635619125 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635619125 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635619125 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635619125 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<DIV>
+<P align=center><SPAN><FONT style="FONT-SIZE: 12pt" face=黑体>〔<SPAN style="FONT-SIZE: 12pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 12pt">38</SPAN>号</FONT></SPAN></P>
+<P>&nbsp;<SPAN>当事人：珠海经济特区西海集团有限公司（以下简称西海集团），住所：广东省珠海市香洲区人民东路<SPAN>221</SPAN>号西海大厦<SPAN>13</SPAN>楼<SPAN>A</SPAN>座<SPAN>13-10</SPAN>号房，法定代表人许德来。</SPAN></P>
+<P><SPAN>许德来，男，<SPAN>1965</SPAN>年<SPAN>8</SPAN>月出生，住址：广东省阳西县程村镇居民委员会建设路<SPAN>164</SPAN>号，时任西海集团董事长。</SPAN></P>
+<P><SPAN>陈贤，男，<SPAN>1963</SPAN>年<SPAN>12</SPAN>月出生，住址：广东省珠海市香洲区吉大白莲路<SPAN>176</SPAN>号<SPAN>41</SPAN>栋<SPAN>3</SPAN>单元<SPAN>303</SPAN>，时任西海集团总裁。</SPAN></P>
+<P><SPAN>陈旭，男，<SPAN>1964</SPAN>年<SPAN>12</SPAN>月出生，住址：广东省珠海市香洲区珠海大道<SPAN>1</SPAN>号<SPAN>8</SPAN>栋<SPAN>901</SPAN>房，时任西海集团副总裁。</SPAN></P>
+<P><SPAN>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对西海集团违法买卖“威尔科技”股票行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人许德来、陈贤、陈旭进行了陈述和申辩。应当事人西海集团的要求，我会于<SPAN>2009</SPAN>年<SPAN>9</SPAN>月<SPAN>17</SPAN>日举行听证会，听取了西海集团的申辩意见。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，西海集团存在以下违法事实：</SPAN></P>
+<P><SPAN>2007</SPAN><SPAN>年<SPAN>4</SPAN>月<SPAN>27</SPAN>日</SPAN><SPAN>，经西海集团办公会议讨论，西海集团决定采用公司可控制的账户，使用自有资金投资证券市场，投资额度在<SPAN>4,000</SPAN>万元左右。参加此次办公会议的人员包括董事长许德来、总裁陈贤、副总裁陈旭等。<SPAN>2007</SPAN>年<SPAN>4</SPAN>月<SPAN>29</SPAN>日、<SPAN>4</SPAN>月<SPAN>30</SPAN>日、<SPAN>5</SPAN>月<SPAN>8</SPAN>日、<SPAN>5</SPAN>月<SPAN>9</SPAN>日，西海集团总裁陈贤代表公司分别与曾芹、珠海市天水机电有限公司（以下简称天水机电）、珠海新木标装饰设计工程有限公司、珠海真功夫建筑装饰设计工程有限公司等<SPAN>4</SPAN>人签订《委托买卖股票协议书》。协议约定，由西海集团提供资金，以曾芹等<SPAN>4</SPAN>人名义开立证券账户买卖股票，证券账户由西海集团全权操作，账户资金及买卖股票所得盈利均归西海集团所有，西海集团按买卖股票投资额的<SPAN>0.2%</SPAN>向曾芹等<SPAN>4</SPAN>人支付手续费。按照上述协议，在<SPAN>2007</SPAN>年<SPAN>4</SPAN>月<SPAN>29</SPAN>日至<SPAN>2007</SPAN>年<SPAN>5</SPAN>月<SPAN>16</SPAN>日期间，西海集团提供资金<SPAN>4,772.6</SPAN>万元，利用曾芹等<SPAN>4</SPAN>个证券账户累计买入“威尔科技”股票<SPAN>3,561,981</SPAN>股。在西海集团提供的<SPAN>4,772.6</SPAN>万元资金中，除<SPAN>172.6</SPAN>万元为西海集团向曾芹的借款，由西海集团董事长许德来在该借据上签字外，其余划款单据均由西海集团副总裁陈旭签字审批。西海集团购买“威尔科技”股票的具体事宜主要由陈旭负责。</SPAN></P>
+<P><SPAN>截至<SPAN>2007</SPAN>年<SPAN>12</SPAN>月<SPAN>20</SPAN>日，西海集团已将曾芹等<SPAN>4</SPAN>个证券账户中的“威尔科技”股票全部卖出，实际获利<SPAN>10,083,720.77</SPAN>元。</SPAN></P>
+<P><SPAN>上述事实，有相关办公会议纪要、委托买卖股票协议书、付款通知单、银行进账单、公司记账凭证、借款借据、股票明细对账单、交易所统计数据及当事人询问笔录等证据证明，足以认定。</SPAN></P>
+<P><SPAN>西海集团的上述行为，违反了《证券法》第八十条关于“禁止法人非法利用他人账户从事证券交易”的规定，构成了《证券法》第二百零八条所述“法人以他人名义设立账户或者利用他人账户买卖证券”的违法行为。对于西海集团的上述违法行为，西海集团时任董事长许德来、总裁陈贤、副总裁陈旭是直接负责的主管人员。</SPAN></P>
+<P><SPAN>听证过程中，西海集团提出了如下申辩意见：其一，西海集团利用关联公司天水机电的账户交易“威尔科技”股票不属于“非法利用他人账户从事证券交易”；其二，交易“威尔科技”股票的收益源于股票锁定期间股价的不断上涨，与西海集团利用他人账户没有关联，该部分收益不属于违法所得；其三，西海集团的此次违法行为系初犯，主观上没有逃避监管的恶意，客观上没有造成重大社会危害，且案发后积极配合监管部门调查处理。因此请求中国证监会酌情减轻处罚。</SPAN></P>
+<P><SPAN>西海集团违法行为责任人许德来、陈贤、陈旭在书面申辩材料中除了提出与西海集团基本相同的申辩意见外，还提出<SPAN>3</SPAN>人不直接管理西海集团的证券事务，公司的股票买卖等具体事务主要由投资总监负责，<SPAN>3</SPAN>人对后续操作既不知晓亦未参与，不是本案直接责任人，因此请求中国证监会免予处罚。</SPAN></P>
+<P><SPAN>我会认为，当事人的申辩理由不能成立：其一，西海集团和天水机电虽为关联公司，同受许德来的实际控制，但二者是不同的法人主体，各具独立的法人地位。西海集团利用天水机电的账户交易“威尔科技”股票属于“非法利用他人账户从事证券交易”；其二，西海集团交易“威尔科技”股票的收益虽与锁定期内股价的上涨有关，但该收益产生的根源在于西海集团“利用他人账户买卖证券”的违法行为，市场因素不能作为否定该收益属于违法所得的理由；其三，西海集团提出的系初犯、积极配合调查等情节，我会已依据《中华人民共和国行政处罚法》（以下简称《行政处罚法》）第二十七条的规定给予充分考虑，对其予以减轻处罚；其四，在责任人的认定上，许德来、陈贤、陈旭<SPAN>3</SPAN>人分别作为西海集团的董事长、总裁和副总裁，参与了决定采用可控账户投资证券市场的办公会议，是西海集团违法行为的直接决策者。许德来在向曾芹借款<SPAN>172.6</SPAN>万元的借据上签字，陈贤代表西海集团与曾芹等<SPAN>4</SPAN>人签订《委托买卖股票协议书》，陈旭在提供资金的划款单据上签字等行为，都清楚地表明<SPAN>3</SPAN>人实际参与了西海集团的违法行为。<SPAN>3</SPAN>人作为西海集团违法行为的决策者、参与者，应当对西海集团的违法行为承担责任，在我会已充分考虑其积极配合调查等情节的情况下，<SPAN>3</SPAN>人提出免予处罚的请求没有法律依据。</SPAN></P>
+<P><SPAN>根据当事人的违法事实、性质、情节与社会危害程度，结合当事人积极配合调查等情况，依据《证券法》第二百零八条和《行政处罚法》第二十七条的规定，我会决定：</SPAN></P>
+<P><SPAN>一、责令西海集团改正违法行为，没收其违法所得<SPAN>10,083,720.77</SPAN>元；</SPAN></P>
+<P><SPAN>二、对许德来、陈贤、陈旭分别给予警告，并分别处以<SPAN>3</SPAN>万元罚款。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P align=right><SPAN>　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 　　 中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN>&nbsp;<SPAN>　 </SPAN>&nbsp;<SPAN>　</SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 </SPAN><SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　　　　　　　　</SPAN></SPAN><SPAN>二○○九年九月二十九日</SPAN></P></DIV><SPAN><BR clear=all></SPAN>
+<P>&nbsp;</P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20091111_167885_ext.json

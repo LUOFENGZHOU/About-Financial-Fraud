@@ -1,0 +1,264 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（领先集团、李建新、刘建钢、范春明）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-08548</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年12月13日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（领先集团、李建新、刘建钢、范春明）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2011〕55号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（领先集团、李建新、刘建钢、范春明）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2011〕55号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1326963817171'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1326963817171 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1326963817171 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1326963817171 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1326963817171 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1326963817171 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<P style="LINE-HEIGHT: 28pt" align=center><SPAN style="FONT-SIZE: 14pt; COLOR: black">〔</SPAN><SPAN style="FONT-SIZE: 14pt; COLOR: black">2011</SPAN><SPAN style="FONT-SIZE: 14pt; COLOR: black">〕</SPAN><SPAN style="FONT-SIZE: 14pt; COLOR: black">55</SPAN><SPAN style="FONT-SIZE: 14pt; COLOR: black">号</SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 28pt">&nbsp;</P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 28pt">&nbsp;</P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人：天津领先集团有限公司（以下简称领先集团），住所：天津市河西区友谊路梅江小区龙水园<SPAN>2</SPAN>号，法定代表人李建新。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">李建新，男，<SPAN>1966</SPAN>年<SPAN>9</SPAN>月出生，时任领先集团法定代表人、董事长，吉林领先科技发展股份有限公司（以下简称领先科技）董事长，住址：天津市河西区西楼后街华义公寓<SPAN>3</SPAN>号楼。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">刘建钢，男，<SPAN>1957</SPAN>年<SPAN>9</SPAN>月出生，时任领先集团副总裁，住址：天津市河西区西楼后街华义公寓<SPAN>3</SPAN>号楼。</SPAN></P>
+<P style="TEXT-INDENT: 20.3pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">范春明，男，<SPAN>1978</SPAN>年<SPAN>2</SPAN>月出生，时任领先科技董事、副总经理兼财务总监。住址：河北省沧州市运河区浮阳大道中路房产统建楼小区<SPAN>7</SPAN>栋。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对领先科技股票内幕交易行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人领先集团、李建新、刘建钢、范春明提出了陈述、申辩意见，未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，领先集团存在以下违法事实：</SPAN></P>
+<P style="TEXT-INDENT: 21.3pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、关于内幕信息</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>8</SPAN>月初，中油金鸿天然气输送有限公司（以下简称中油金鸿）与领先科技开始重组谈判，双方已经就重组总体意向达成一致，但具体交易条件尚未谈妥。<SPAN>2009</SPAN>年<SPAN>8</SPAN>月<SPAN>14</SPAN>日起，中油金鸿开始按谈判进度划拟重组框架协议，该协议与之后一系列重组框架协议在关键条款上基本一致，与中油金鸿<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>28</SPAN>日第五次董事会议案内容也基本一致。根据框架协议，中油金鸿股东将中油金鸿全部股权注入领先科技，在中油金鸿私募融资完成后，股权评估价值将不低于<SPAN>21.5</SPAN>亿元。中油金鸿在<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>28</SPAN>日召开了第五次董事会，会上就借壳以及借壳以后的收益情况等事宜进行了通报。<SPAN>2009</SPAN>年<SPAN>11</SPAN>月<SPAN>11</SPAN>日，领先科技发布停牌公告称，本公司股票交易异常波动，因此申请股票于<SPAN>2009</SPAN>年<SPAN>11</SPAN>月<SPAN>11</SPAN>日起停牌。<SPAN>2009</SPAN>年<SPAN>11</SPAN>月<SPAN>19</SPAN>日、<SPAN>11</SPAN>月<SPAN>26</SPAN>日、<SPAN>12</SPAN>月<SPAN>3</SPAN>日，领先科技先后发布重大事项停牌公告。<SPAN>2009</SPAN>年<SPAN>12</SPAN>月<SPAN>11</SPAN>日，领先科技发布《关于终止筹划重大资产重组事项暨公司股票复牌公告》，公告称，由于此次重组方案中重组方相关行政审批手续尚未完成，且存在决策障碍，未能与领先集团达成一致意见，导致无法在规定的时间内完成重组预案，公司终止筹划本次重大资产重组事宜。领先科技股票于当日复牌。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">中油金鸿与领先科技重组的信息属于《证券法》第七十五条第二款第七项规定的对公司证券的市场价格有重大影响的尚未公开的信息。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、领先集团涉嫌内幕交易相关情况</SPAN></P>
+<P style="TEXT-INDENT: 20.3pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">天津中润科技投资有限公司（以下简称中润科技）于<SPAN>2009</SPAN>年<SPAN>9</SPAN>月<SPAN>17</SPAN>日在民族证券天津三马路营业部开立股票账户，范春明为全权代理人，银行账户于<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>14</SPAN>日开户。“中润科技”银行账户开户当天自天津燕化科技有限公司（以下简称燕化科技）转入<SPAN>300</SPAN>万元。<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>23</SPAN>日，自吉林中讯新技术有限公司（以下简称吉林中讯）转入“中润科技”银行账户<SPAN>400</SPAN>万元。<SPAN>2009</SPAN>年<SPAN>11</SPAN>月<SPAN>3</SPAN>日，自吉林中讯再次转入“中润科技”银行账户<SPAN>349</SPAN>万元。“中润科技”账户<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>15</SPAN>日至<SPAN>11</SPAN>月<SPAN>10</SPAN>日委托买入领先科技股票<SPAN>750,400</SPAN>股，实际成交<SPAN>300,493</SPAN>股，买入金额<SPAN>2,734,862.98</SPAN>元。买入股票卖出金额<SPAN>3,126,533.04</SPAN>元，扣除税费后获利<SPAN>370,959.38</SPAN>元。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述行为，实际上是领先集团利用“中润科技”账户交易领先科技股票，是领先集团内幕交易行为。根据现有证据，领先集团法定代表人兼董事长李建新、副总裁刘建钢，自<SPAN>2009</SPAN>年<SPAN>8</SPAN>月起已就重组事项开始商谈，是内幕信息知情人。领先集团法定代表人、董事长以及领先科技董事长、领先集团副总裁等高级管理人员直接参与了内幕信息相关事项，因此可以认定领先集团知悉内幕信息。李建新为领先集团和吉林中讯的实际控制人。“中润科技”账户资金中<SPAN>349</SPAN>万元和<SPAN>400</SPAN>万元来源于吉林中讯账户，划款由刘建钢决策，领先科技天津分公司出纳李某具体办理；燕化科技的账户被领先集团借用，<SPAN>300</SPAN>万元实际来源于领先集团，也是由刘建钢决策。领先集团高级管理人员参与了为该账户调集资金等过程，可以认定领先集团在为买卖领先科技股票做准备。时任领先科技董事、副总经理兼财务总监范春明具体实施交易操作，账户中的资金往来也均为领先集团实际控制。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">综合上述事实，足以认定<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>15</SPAN>日至<SPAN>11</SPAN>月<SPAN>10</SPAN>日期间，领先集团利用“中润科技”账户买卖领先科技股票构成了单位内幕交易，违法所得金额为<SPAN>370,959.38</SPAN>元。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">领先集团、李建新、刘建钢及范春明在陈述、申辩材料中称：中润科技、刘建钢与范春明是委托理财关系，已由范春明向我会提交了委托理财协议，因此范春明利用“中润科技”账户买卖领先科技股票与领先集团无关；范春明于<SPAN>2009</SPAN>年年初辞职，此后没有参加过领先集团的相关工作及会议，已不再对领先集团和领先科技提供服务；范春明将相关收益已经上交领先科技等；恳请我会对其免除处罚。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经复核，当事人的上述申辩意见，我会已经充分考虑，根据相关证据，领先集团等提出的理由不成立：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">第一，时任领先科技董事、副总经理兼财务总监的范春明辞职必须履行规定程序并公告。没有足够证据证明当时范春明已经辞职。领先科技正式公告范春明辞职是一年之后的<SPAN>2010</SPAN>年<SPAN>3</SPAN>月。当时，我会已经开始调查了解内幕交易问题。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">第二，关于范春明当时已经辞职的问题。领先集团没有提供足够证据证明他已经离开领先科技或者领先集团。对于上述在一年多期间范春明的工作，范春明未能提供有效证据来证明其不在领先科技或者领先集团。范春明在担任领先科技上述职务期间，虽然只有少量业务，但重要的是范春明签署了定期财务报告，还在履行职责。范春明虽然在领先集团没有正式任职，但直接受李建新领导。范春明实质上是为李建新和领先集团服务。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%; MARGIN-RIGHT: 0cm"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">第三，当事人没有提供足以证明当时就存在委托理财关系的充分证据。从我会对本案前期调查至正式调查阶段约见谈话，范春明向我会仅提供了<SPAN>2</SPAN>份协议的复印件，不能提供协议原件。截至调查日，范春明也没有取得相关的理财收益。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">第四，领先集团和范春明都声称，与中润科技建立了委托理财关系。但是实际上，中润科技只是以领先集团员工名义注册的公司。中润科技<SPAN>2005</SPAN>年设立时崔某某持股<SPAN>40%</SPAN>、康某某持股<SPAN>20%</SPAN>、魏某某持股<SPAN>20%</SPAN>、陈某某持股<SPAN>20%</SPAN>。<SPAN>2007</SPAN>年<SPAN>11</SPAN>月<SPAN>28</SPAN>日变更为崔某某持股<SPAN>40%</SPAN>、米某某持股<SPAN>30%</SPAN>、李某持股<SPAN>30%</SPAN>。<SPAN>2010</SPAN>年<SPAN>8</SPAN>月<SPAN>25</SPAN>日变更为崔某某持股<SPAN>40%</SPAN>、李某持股<SPAN>30%</SPAN>、王某持股<SPAN>30%</SPAN>。<SPAN>2007</SPAN>年起中润科技的工商变更登记均由领先集团企管中心员工叶某经办。我会经查询天津市社会信息发现，上述崔某某、米某某、李某、叶某等均由领先集团负责缴纳社保。崔某某户籍信息显示，其服务处所为领先集团。领先集团提供的通讯录显示，米某某为领先集团车队司机，李某为领先集团总店店长（已辞职）。中润科技原股东陈某某为李建新姐夫。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%; MARGIN-RIGHT: 0cm"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">对于范春明向领先科技上交收益的相关事宜，我会已经予以考虑。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%; MARGIN-RIGHT: 0cm"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">当事人提出的其他申辩意见，没有足够证据能够支持和证明，我会不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述违法事实，有相关人员询问笔录、相关账户交易记录和统计数据等证据证明，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">领先集团利用内幕信息交易领先科技股票的行为违反了《证券法》第七十三条以及第七十六条的规定，构成了《证券法》第二百零二条所述的行为，李建新、刘建钢是领先集团内幕交易行为直接负责的主管人员，范春明是其他直接责任人员。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、没收领先集团违法所得<SPAN>370,959.38</SPAN>元，并处以<SPAN>370,959.38</SPAN>元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、对李建新、刘建钢给予警告，并分别处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、对范春明给予警告，并处以<SPAN>20</SPAN>万元罚款。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 313.1pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">　　　　　　　　　　　　　　　　　 中国证券监督管理委员会</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=right><SPAN style="COLOR: black; LINE-HEIGHT: 150%">二○一一年十二月十三日<SPAN><SPAN>　　&nbsp; </SPAN></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20120119_205029_ext.json

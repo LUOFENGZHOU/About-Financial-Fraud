@@ -1,0 +1,253 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（紫金矿业、陈景河、罗映南等7名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-03100</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年04月20日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（紫金矿业、陈景河、罗映南等7名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕10号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（紫金矿业、陈景河、罗映南等7名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕10号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1337919175234'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1337919175234 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1337919175234 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1337919175234 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1337919175234 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1337919175234 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+--**/</style>
+<P align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%">〔</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT size=+0>2012</FONT></SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">〕</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT size=+0>10</FONT></SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">号</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人：紫金矿业集团股份有限公司（以下简称紫金矿业），住所：福建省上杭县紫金大道</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">号，法定代表人陈景河。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">陈景河，男，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1957</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>10</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月出生，时任紫金矿业董事长，住址：福建省厦门市思明区松柏路。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">罗映南，男，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1957</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>8</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月出生，时任紫金矿业执行董事兼总裁，住址：福建省厦门市湖里区后埔北二里。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">邹来昌，男，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1968</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>8</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月出生，时任紫金矿业执行董事兼常务副总裁，住址：福建省上杭县临江镇和平路。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">刘晓初，男，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1947</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月出生，时任紫金矿业执行董事兼副董事长，住址：福建省福州市鼓楼区湖头街。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">蓝福生，男，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1964</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>4</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月出生，时任紫金矿业执行董事兼副董事长，住址：福建省厦门市湖里区嘉禾路。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">黄晓东，男，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1955</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>12</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月出生，时任紫金矿业执行董事兼副总裁，住址：福建省福州市五四北路。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对紫金矿业信息披露违法违规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，紫金矿业存在以下违法事实：</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2010</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">下午，紫金矿业紫金山金铜矿（以下简称紫金山金铜矿）所属的铜矿湿法厂发生污水从涵洞中渗漏并流入汀江的水污染事件。事件发生后，紫金矿业立即启动应急响应程序，并采取了紧急处理措施。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>4</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">凌晨</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">点，紫金山金铜矿即向龙岩市上杭县环保局和安监局报送了书面的《铜矿湿法厂</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7.3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">污水池突发渗漏事件情况汇报》。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>4</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">下午</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">点，铜矿湿法厂污水渗漏得到控制。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>5</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">下午，紫金矿业决定根据当地政府要求，暂缓披露污水渗漏事件。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>6</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">起，紫金矿业多次与当地政府有关部门联系信息披露事宜，但有关方面要求紫金矿业要与政府保持一致，不能自行公告。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>12</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">，当地政府召开新闻发布会。同日晚，紫金矿业发布了《关于紫金山铜矿湿法厂污水池突发渗漏环保事故的公告》。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">我会认为，紫金矿业所属的铜矿湿法厂于</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">发生的污水渗漏事故，严重污染了其附近汀江下游的水质，对当地环境造成了极大破坏。对于这一可能影响紫金矿业股票价格的重大事件，紫金矿业应在第一时间公之于众。但紫金矿业未能及时披露该重大事故及后续进展情况，其行为违反了《证券法》第六十七条的规定，构成《证券法》第一百九十三条所述的违法行为。对于紫金矿业的违法行为，陈景河、罗映南、邹来昌、刘晓初、蓝福生、黄晓东是直接负责的主管人员。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">在确定紫金矿业应承担的责任幅度时，我会考虑了以下事实：其一，在发生污水渗漏的初期，紫金矿业曾计划披露相关信息，但由于各种外部原因，未能及时履行信息披露义务；其二，在确定污染源后，紫金矿业也曾通过相关政府渠道在一定范围内进行了披露；其三，紫金矿业在事故发生后及时赔偿了汀江下游养殖户的财产损失；其四，因本次污水渗漏事件，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2010</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>9</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>26</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">福建省环境保护厅对紫金山金铜矿作出罚款</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>9,563,130</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">元的行政处罚；</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2011</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>5</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月福建省龙岩市中级人民法院以重大环境污染事故罪对紫金山金铜矿判处罚金</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3,000</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元，对</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>5</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">名责任人员分别判处</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年至</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>6</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">个月不等的有期徒刑并处罚金。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">综合上述情况，<SPAN style="COLOR: black">我会认为，虽然紫金矿业</SPAN>延迟披露有一定的客观原因，<SPAN style="COLOR: black">并非故意隐瞒</SPAN>污水渗漏<SPAN style="COLOR: black">事故，</SPAN>但在对环境产生重大影响的重大事件发生后，作为一家上市公司，首先应当依法及时披露相关信息，将可能产生的后果及时告知投资者和社会公众，以利于投资者的投资决策，而不应受各种外部因素的干扰。紫金矿业未按照法律规定，在第一时间及时披露相关信息，侵害了广大投资者的知情权，理应承担相应的法律后果。虽然有关司法机关和政府部门已根据相关法律法规对紫金矿业下属企业和责任人员分别进行了处理，但不能免除紫金矿业依据《证券法》所应承担的责任。</SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、<SPAN style="COLOR: black">责令</SPAN>紫金矿业改正，给予警告，并处以</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>30</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.35pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">对</SPAN><SPAN style="LINE-HEIGHT: 150%">陈景河给予警告，并处以</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>10</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、<SPAN style="COLOR: black">对</SPAN>罗映南、邹来昌给予警告，并分别处以</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>5</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">四、<SPAN style="COLOR: black">对</SPAN>刘晓初、蓝福生、黄晓东给予警告。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.35pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述当事人应自收到本处罚决定书之日起</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>15</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7111010189800000162</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>60</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><SPAN><FONT size=+0>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</FONT></SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0><SPAN>　　 </SPAN></FONT></SPAN></P>
+<P><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;二○一二年四月二十日</SPAN><SPAN style="FONT-SIZE: 15pt; COLOR: black"><SPAN>　　 </SPAN></SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20120525_210577_ext.json

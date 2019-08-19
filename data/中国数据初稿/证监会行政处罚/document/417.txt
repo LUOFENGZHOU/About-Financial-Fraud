@@ -1,0 +1,232 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（陈珍芳）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2014年03月28日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（陈珍芳）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2014〕37号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（陈珍芳）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2014〕37号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2014</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">37</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：陈珍芳，女，<FONT face="Times New Roman">1982</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>日出生，住址：福建省永定县培丰镇长流村。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: justify; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.8pt; MARGIN-BOTTOM: 0pt" class=p15><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: normal; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会依法对陈珍芳等涉嫌内幕交易违法行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人陈珍芳未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: normal; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，陈珍芳存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、内幕信息的形成和公开过程</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日，广东东方兄弟投资股份有限公司（原名广州东方宝龙汽车工业股份有限公司，以下简称宝龙公司）副总经理彭某与赤峰吉隆矿业有限责任公司（以下简称吉隆矿业）赵某某（董事长）、吕某某（总经理）等，以及西南证券股份有限公司（以下简称西南证券）投行三部高级执行董事陈某某在北京露雨轩茶楼见面，就吉隆矿业借壳上市事项初步接洽。</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>日</FONT><FONT face="Times New Roman">,</FONT><FONT face=方正仿宋简体>西南证券派人以做</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>尽职调查的名义前往吉隆矿业调查。</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>日，陈某某将《框架协议修订版》和《吉隆矿业尽调报告</FONT><FONT face="Times New Roman">20111111_V1</FONT><FONT face=方正仿宋简体>》通过邮件发送给了彭某。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>日，吉隆矿业赵某某前往东莞虎门与宝龙公司董事长郑某某等进行面谈，</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">双方就关心的净壳、估值、利润保证、重组股价及迁址等问题进行了讨论，并对借壳重组事项达成意向。<FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>日，宝龙公司股票（简称“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”，股票代码</FONT><FONT face="Times New Roman">600988</FONT><FONT face=方正仿宋简体>）因重大事项开始停牌。</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">23</FONT><FONT face=方正仿宋简体>日，宝龙公司与赵某某等</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>位自然人签署了《发行股份购买资产协议》。</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">20</FONT><FONT face=方正仿宋简体>日，宝龙公司股票复牌并公告收购报告书等重组文件，宝龙公司发布董事会决议公告称：宝龙公司拟将截至评估基准日的全部资产与负债出售给威远集团，同时以每股</FONT><FONT face="Times New Roman">8.68</FONT><FONT face=方正仿宋简体>元人民币的价格向吉隆矿业的全体股东发行股份，购买吉隆矿业</FONT><FONT face="Times New Roman">100%</FONT><FONT face=方正仿宋简体>的股权。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">宝龙公司向吉隆矿业发行股份购买全部资产，将使宝龙公司的经营方针和经营范围发生重大变化，属于《证券法》第六十七条规定的重大事件；该行为也将直接导致公司的股权结构发生重大变化，构成《证券法》第七十五条第二款第三项规定的“公司股权结构的重大变化”；宝龙公司向吉隆矿业发行股份购买全部资产行为，属于《证券法》第七十五条规定的内幕信息，西南证券陈某某是该内幕信息知情人之一。该内幕信息敏感期应始于<FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>日宝龙公司和吉隆矿业达成重组共识，终于</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>日“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”停牌。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; LETTER-SPACING: 0.3pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈珍芳通过听取</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈某某工作电话非法获取内幕信息</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈某某和陈珍芳为亲兄妹，关系密切。<FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月、</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月期间，陈珍芳一直在交易“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”并关注宝龙公司重组的公告和消息。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月初，她多次通过陈某某的业务通话听到有关宝龙公司的事项，对宝龙公司的重组可行性有预期。陈某某于</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>日前往广东出差，陈珍芳通过陈某某的出差事实，再结合陈某某的投行工作性质，进一步确定陈某某去广东出差从事宝龙公司重组的事实。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; LETTER-SPACING: 0.3pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈珍芳通过听取</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈某某工作电话知悉内幕信息的事实，在</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; LETTER-SPACING: 0.3pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈珍芳、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈某某两人的谈话笔录中相互印证。陈某某称：“在做宝龙公司重组项目时，电话协调比较多，和陈珍芳在一起时，打电话没有刻意避讳陈珍芳，陈珍芳通过听其通话获知了宝龙公司重组的事情”。陈珍芳也承认：“听到陈某某在与他人电话沟通工作时，提及宝龙公司，再结合陈某某的投行职务背景和出差广东的情况，获知宝龙公司正在筹划资产重组，并进一步坚定了买入‘<FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙’的决心”。陈珍芳应在</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月底之前，知悉陈某某出差广东从事宝龙公司重组事宜。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、陈珍芳控制“陈珍芳”、“郑某某”等三个账户在内幕信息敏感期内交易“<FONT face="Times New Roman">ST</FONT><FONT face=方正黑体简体>宝龙”</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈珍芳实际控制“陈珍芳”、“郑某某”等三个账户在内幕信息敏感期内交易“<FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日，陈珍芳账户买入“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”</FONT><FONT face="Times New Roman">3,800</FONT><FONT face=方正仿宋简体>股；</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">22</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">26</FONT><FONT face=方正仿宋简体>日，该账户分别委托卖出“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”</FONT><FONT face="Times New Roman">500</FONT><FONT face=方正仿宋简体>股、</FONT><FONT face="Times New Roman">3,300</FONT><FONT face=方正仿宋简体>股。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">截至<FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>日，“陈某某”账户持有“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”</FONT><FONT face="Times New Roman">100,000</FONT><FONT face=方正仿宋简体>股。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">13</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">14</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日，该账户仅委托买入“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”一只股票，合计实际成交</FONT><FONT face="Times New Roman">321,067</FONT><FONT face=方正仿宋简体>股；</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">29</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>日，</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>日，该账户委托卖出“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”，实际成交</FONT><FONT face="Times New Roman">421,067</FONT><FONT face=方正仿宋简体>股。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">截至<FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>日，“郑某某”账户持有“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”</FONT><FONT face="Times New Roman">1100</FONT><FONT face=方正仿宋简体>股。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">26</FONT><FONT face=方正仿宋简体>日，该账户分别委托买入“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”</FONT><FONT face="Times New Roman">19,000</FONT><FONT face=方正仿宋简体>股、</FONT><FONT face="Times New Roman">19,000</FONT><FONT face=方正仿宋简体>股、</FONT><FONT face="Times New Roman">100</FONT><FONT face=方正仿宋简体>股、</FONT><FONT face="Times New Roman">4,500</FONT><FONT face=方正仿宋简体>股；</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>日，该账户合计委托卖出“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”</FONT><FONT face="Times New Roman">43,700</FONT><FONT face=方正仿宋简体>股。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; LETTER-SPACING: 0.3pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈珍芳”、“陈某某”</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; LETTER-SPACING: 0.3pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“郑某某”三个账户实际获利分别为<FONT face="Times New Roman">3,158.49</FONT><FONT face=方正仿宋简体>元、－</FONT><FONT face="Times New Roman">238,451.40</FONT><FONT face=方正仿宋简体>元、－</FONT><FONT face="Times New Roman">33,701.67</FONT><FONT face=方正仿宋简体>元，三个账户实际获利合计为－</FONT><FONT face="Times New Roman">268,994.58</FONT><FONT face=方正仿宋简体>元。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; LETTER-SPACING: 0.3pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述违法事实，有相关人员询问笔录、相关交易记录、通讯记录、相关会议记录等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">宝龙公司向吉隆矿业发行股份购买全部资产行为，属于《证券法》第七十五条规定的内幕信息。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; LETTER-SPACING: 0.3pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈珍芳是</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈某某的妹妹，</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; LETTER-SPACING: 0.3pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">通过听取</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">陈某某工作电话非法获取了该内幕信息，其在该信息公开前交易“<FONT face="Times New Roman">ST</FONT><FONT face=方正仿宋简体>宝龙”的行为，违反了《证券法》第七十六条的规定，构成《证券法》第二百零二条所述情形。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人的违法事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：对陈珍芳处以<FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>万元罚款。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p16><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=方正仿宋简体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=方正仿宋简体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会&nbsp;</SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2014<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=方正仿宋简体>日</FONT></SPAN></P><!--{PS..0}--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20140523_249561_ext.json

@@ -1,0 +1,240 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书(郭红莲)</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2013年05月09日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书(郭红莲)</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2013〕19号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书(郭红莲)";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2013〕19号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：郭红莲，女，<FONT face="Times New Roman">1962</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月出生，住址：湖北省石首市绣林街道南岳山路</FONT><FONT face="Times New Roman">58</FONT><FONT face=方正仿宋简体>号。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对郭红莲内幕交易上海安诺其纺织化工股份有限公司（以下简称安诺其）股票的行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人提出了陈述、申辩意见，未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，郭红莲存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、内幕信息形成过程</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=方正仿宋简体>年底，丽源（湖北）科技有限公司（以下简称湖北丽源）董事长罗某的私人顾问刘某向安诺其的第二大股东、原总经理臧某传达了罗某想将其控制的企业上市或与合适的上市公司合作的想法。臧某将该信息向安诺其第一大股东、董事长纪某做了汇报，纪某表示愿意约见沟通。罗某在与多家上市公司沟通后，经比较，表示如果湖北丽源能够嫁接到安诺其公司平台中，必将获得更大的发展空间。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月中旬至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>月，安诺其启动重组项目相关工作，初步形成“交易标的湖北丽源</FONT><FONT face="Times New Roman">100%</FONT><FONT face=方正仿宋简体>股权整体作价</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>亿，其中上市公司支付</FONT><FONT face="Times New Roman">3.6</FONT><FONT face=方正仿宋简体>亿股票和</FONT><FONT face="Times New Roman">1.4</FONT><FONT face=方正仿宋简体>亿元现金”的交易条件。但因各种原因，其后项目基本停滞。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">23</FONT><FONT face=方正仿宋简体>日左右，该重组项目财务顾问的项目负责人韩某约见纪某和刘某，提出新的交易条件。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月初，双方会面进行了沟通，基本认可新的交易条件，有了重启项目合作的意向。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=方正仿宋简体>日，交易双方对新交易条件基本认可。新的交易条件是，交易价格确定为</FONT><FONT face="Times New Roman">3.2</FONT><FONT face=方正仿宋简体>亿元，如果湖北丽源</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年、</FONT><FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>年实现净利润均超过</FONT><FONT face="Times New Roman">4,000</FONT><FONT face=方正仿宋简体>万、</FONT><FONT face="Times New Roman">2014</FONT><FONT face=方正仿宋简体>年超过</FONT><FONT face="Times New Roman">4,500</FONT><FONT face=方正仿宋简体>万，上市公司将在</FONT><FONT face="Times New Roman">2014</FONT><FONT face=方正仿宋简体>年年度审计完成后向湖北丽源股东额外支付现金</FONT><FONT face="Times New Roman">7,000</FONT><FONT face=方正仿宋简体>万元等。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日，纪某、臧某、刘某、罗某作了沟通，双方均认可基本方案已经形成。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>日，双方交流了刘某辞职问题，同时确定了通知中介机构再次启动项目。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>日，重组项目召开中介机构协调会，就交易方案和标的资产运营情况等事项以及资产重组项目后续时间安排进行了探讨，并确定了若标的资产运营不存在规范性问题，以目前的业务发展状况及整合业务能够符合评估机构的评估要求，初步确定</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>日停牌。协调会参加人员有纪某、刘某等人。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">14</FONT><FONT face=方正仿宋简体>日</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>：</FONT><FONT face="Times New Roman">00</FONT><FONT face=方正仿宋简体>，项目组召开讨论会，就重组项目涉及的评估事宜进行讨论，评估机构认为湖北丽源提供的财务数据可以实现交易作价。</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=方正仿宋简体>日对本次会议形成备忘录并载明春节后可择日停牌。</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">31</FONT><FONT face=方正仿宋简体>日，项目组商讨具体细节及股票停牌事宜。会议参加人员有纪某、罗某等人。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日，安诺其发布公告称，正在筹划重大资产重组事项，公司股票自</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日起停牌。</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日，安诺其发布公告称，安诺其召开董事会，通过了《上海安诺其纺织化工股份有限公司发行股份及现金购买资产预案》。根据该预案内容，安诺其与湖北丽源数码工程技术有限公司（以下简称丽源数码）、湖北丽源及罗某签署了《发行股份及现金购买资产之框架协议》。根据协议，安诺其拟以发行不超过</FONT><FONT face="Times New Roman">2,445</FONT><FONT face=方正仿宋简体>万股人民币普通股和支付不超过</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>亿元现金的方式购买丽源数码持有的湖北丽源</FONT><FONT face="Times New Roman">100%</FONT><FONT face=方正仿宋简体>股份，标的股权的价格最高不超过人民币</FONT><FONT face="Times New Roman">3.2</FONT><FONT face=方正仿宋简体>亿元，但如满足约定的条件，上市公司将向丽源数码另行追加支付</FONT><FONT face="Times New Roman">7,000</FONT><FONT face=方正仿宋简体>万元现金作为股权转让价款。股票于当日起复牌。复牌后安诺其股票于</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>日连续</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>个交易日涨停。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、郭红莲交易“安诺其”的相关事实</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">郭红莲的丈夫涂某系刘某的高中老师，郭红莲也认识刘某，并有些交往。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正楷体简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（一）郭红莲与刘某的联系情况</SPAN><SPAN style="FONT-FAMILY: '方正楷体简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>日或</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日，刘某、涂某及郭红莲参加同学聚会。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">20</FONT><FONT face=方正仿宋简体>日郭红莲与刘某有多次电话联系。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正楷体简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（二）郭红莲利用其本人证券账户交易“安诺其”</SPAN><SPAN style="FONT-FAMILY: '方正楷体简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“郭红莲”账户（账号<FONT face="Times New Roman">0230</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">×××</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">14771<FONT face=方正仿宋简体>）于</FONT><FONT face="Times New Roman">2006</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=方正仿宋简体>日在华泰联合证券石首中山路营业部开立，下挂深圳股东账户</FONT><FONT face="Times New Roman">010</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">×××</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">0899<FONT face=方正仿宋简体>。该账户于</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日，买入“安诺其”</FONT><FONT face="Times New Roman">25,700</FONT><FONT face=方正仿宋简体>股，买入均价</FONT><FONT face="Times New Roman">8.57</FONT><FONT face=方正仿宋简体>元，买入金额</FONT><FONT face="Times New Roman">222,175</FONT><FONT face=方正仿宋简体>元。</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>日将“安诺其”全部卖出，卖出均价</FONT><FONT face="Times New Roman">10.84</FONT><FONT face=方正仿宋简体>元，获利</FONT><FONT face="Times New Roman">54,632.15</FONT><FONT face=方正仿宋简体>元。除“安诺其”外，该账户在</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日间，仅于</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">14</FONT><FONT face=方正仿宋简体>日买入</FONT><FONT face="Times New Roman">100</FONT><FONT face=方正仿宋简体>股“南山铝业”、于</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=方正仿宋简体>日买入</FONT><FONT face="Times New Roman">3,000</FONT><FONT face=方正仿宋简体>股“武汉塑料”，该账户此前三年未作交易。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“郭红莲”账户在买入“安诺其”之前，资金余额仅为<FONT face="Times New Roman">116.6</FONT><FONT face=方正仿宋简体>元。此后分别于</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>日转入</FONT><FONT face="Times New Roman">20.1</FONT><FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日转入</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>万元，将</FONT><FONT face="Times New Roman">85%</FONT><FONT face=方正仿宋简体>的资金用于买入“安诺其”。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">郭红莲提供的<FONT face="Times New Roman">MAC</FONT><FONT face=方正仿宋简体>地址与其交易“安诺其”记载的</FONT><FONT face="Times New Roman">MAC</FONT><FONT face=方正仿宋简体>地址基本一致。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，安诺其以发行股份和支付现金相结合的方式购买丽源数码持有的湖北丽源<FONT face="Times New Roman">100%</FONT><FONT face=方正仿宋简体>股权事项，系《证券法》第六十七条第二款第（二）项规定的“公司的重大投资行为”，构成《证券法》第七十五条第二款第（一）项规定的内幕信息。该内幕信息最晚于</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=方正仿宋简体>日形成，于</FONT><FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日公开。刘某是重大投资对象实际委派参与商谈的代表，对商谈进展的具体情况知情，其知悉内幕信息的时间不晚于</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=方正仿宋简体>日。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">郭红莲在内幕信息公开前，与刘某有联络、接触，其交易“安诺其”的行为与内幕信息高度吻合：<FONT face="Times New Roman">1.&nbsp;</FONT><FONT face=方正仿宋简体>“郭红莲”账户买入“安诺其”的时间与其可能获悉内幕信息的时间基本一致，买入和卖出&nbsp;“安诺其”的时间、资金变化的时间与内幕信息变化、公开时间基本一致；</FONT><FONT face="Times New Roman">2.&nbsp;</FONT><FONT face=方正仿宋简体>“郭红莲”账户交易是在基本无资金的情况下先后转入资金共计</FONT><FONT face="Times New Roman">26</FONT><FONT face=方正仿宋简体>万余元，主要用来购买“安诺其”，与其前三年内未交易过深市股票、</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年基本不交易股票的习惯明显不同。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">郭红莲在申辩材料中称：<FONT face="Times New Roman">1.&nbsp;</FONT><FONT face=方正仿宋简体>买卖安诺其股票行为系个人独立判断，与刘某没有关系；</FONT><FONT face="Times New Roman">2.&nbsp;</FONT><FONT face=方正仿宋简体>如确有内幕消息，可能会买得更多一些；</FONT><FONT face="Times New Roman">3.&nbsp;</FONT><FONT face=方正仿宋简体>愿意配合上缴买卖股票的盈利，请求不要罚款。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经复核，我会认为，郭红莲的陈述未对其异常交易安诺其股票的行为作出合理解释，不能排除其利用内幕信息从事相关交易，郭红莲内幕交易行为成立，我会对郭红莲免于罚款的请求不予支持。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以上事实，有相关人员询问笔录、相关公告、账户开户材料、交易记录、资金流水等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">郭红莲的上述行为，违反了《证券法》第七十六条的规定，构成了《证券法》第二百零二条所规定的内幕交易行为。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：没收郭红莲违法所得<FONT face="Times New Roman">54,632.15</FONT><FONT face=方正仿宋简体>元，并处以</FONT><FONT face="Times New Roman">54,632.15</FONT><FONT face=方正仿宋简体>元罚款。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=方正仿宋简体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=方正仿宋简体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: bold; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 173.67pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会　　　　　</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">&nbsp; 2013</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">5</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">月<FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>日&nbsp;</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 15pt; mso-spacerun: 'yes'">　　　&nbsp;</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 15pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20130829_233150_ext.json

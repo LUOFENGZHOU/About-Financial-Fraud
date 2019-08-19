@@ -1,0 +1,296 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（庄坚毅、王建辉、高金花等6名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-06986</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年08月22日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（庄坚毅、王建辉、高金花等6名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕37号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（庄坚毅、王建辉、高金花等6名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕37号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1353292827703'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1353292827703 P {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1353292827703 TD {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1353292827703 DIV {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1353292827703 LI {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1353292827703 {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+--**/</style>
+<DIV style="LAYOUT-GRID:  28.7pt none" class=Section0>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔2012〕37</SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">号</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">事人：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">庄坚毅，男，1951年12月出生，系香港特别行政区居民。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">王建辉，男，1972年1月出生，住址：四川省成都市武侯区新希望路9号。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">高金花，女，1973年5月出生，住址：四川省成都市武侯区新希望路9号。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">邹建平，男，1955年1月出生，住址：江苏省无锡市滨湖区孙蒋新村。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">章敏芝，女，1959年1月出生，住址：江苏省无锡市滨湖区孙蒋新村。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">周星夫，男，1980年9月出生，住址：江苏省无锡市新区旺庄街道外下甸村。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">《</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中华人民共和国证券法</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">》（以下简称《证券法》）</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的有关规定，我会对“</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">佛山照明”股票内幕交易违法一案</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">庄坚毅、王建辉、高金花、章敏芝、周星夫</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">未提出陈述、申辩意见，也未要求听证。当事人邹建平提出了书面陈述材料。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，庄坚毅等人存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: bold; mso-spacerun: 'yes'">　　</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、内幕信息的形成、传递与公开过程</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">佛山电器照明股份有限公司（以下简称佛山照明）是一家深圳证券交易所（以下简称深交所）上市公司，上市股票既有A股（股票简称“佛山照明”），也有B股（股票简称“粤照明B”）。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009年起，佛山照明筹划推动投资新能源项目。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2009年5月15日，时任江苏富瑞药业有限公司副总经理的邹建平带着碳酸锂项目的专利持有人、华欧技术咨询及企划发展有限公司（以下简称华欧技术）董事长黄某拜访佛山照明时任董事长、总经理钟某，向钟某介绍碳酸锂项目，建议佛山照明投资新能源。钟某表示对该项目感兴趣，让他们提供可行性方案。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">6月13日，邹建平等人前往青海考察拟合作方的设备并向钟某做汇报。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">7月1日，佛山照明召开经营管理会议，参会人员包括邹建平、钟某等人，会议内容是研究碳酸锂项目。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">7月2日，青海省西宁市东川工业园区管委会工作人员来到佛山照明，向钟某阐述高新区的优惠政策，邹建平、钟某等人</SPAN><SPAN style="FONT-FAMILY: '宋体'; LETTER-SPACING: -0.2pt; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">参加会见。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">同期，邹建平提出成立公司与有关方面合作。邹建平的朋友陈某推荐锂能源控股有限公司（以下简称锂能源控股）作为股东，邹建平推荐青海原点商贸有限责任公司（以下简称青海原点）作为股东。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">7月26日，邹建平、黄某等人前往青海考察碳酸锂项目。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">7月29日，佛山照明时任副董事长庄坚毅与邹建平、钟某、黄某等人前往青海考察碳酸锂项目。经过考察，佛山照明认为投资碳酸锂项目是可行的，随后决定投资该项目。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">7月底到8月初，佛山照明、华欧技术、锂能源控股、青海原点经过多次协商，就共同设立青海佛照锂能源开发有限公司（以下简称佛照锂能源）一事达成一致，参与协商的人员包括庄坚毅、邹建平、青海原点时任总经理王建辉、钟某、黄某以及锂能源控股时任法定代表人谭某。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">8月18日，佛山照明召开第五届董事会第十七次会议。此次会议上，钟某提到下半年公司生产经营计划时，表示要加快发展新能源项目，目前考虑在四方股东的合资公司中，佛山照明拟占股38%。庄坚毅参加了此次会议。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">8月22日，邹建平、钟某、黄某前往青海实地考察。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">8月31日，佛山照明发出召开第五届董事会第十八次会议的通知及议案。会议拟于9月10日召开，主要讨论审议《关于投资参股占总股本38%的青海佛照锂能源开发有限公司的议案》。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9月9日下午，深交所同意“佛山照明”股票于9月10日停牌一天。停牌之前，在佛山照明只有邹建平、钟某及公司证券部的几个人知情。当日，“佛山照明”股价涨幅为7.30%，深证成份指数涨幅为1.04%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9月10日，佛山照明发布停牌公告。当日，佛山照明召开第五届董事会第十八次会议，参会人员包括庄坚毅、钟某等人。全体董事一致同意投资成立合资碳酸锂公司。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">9月11日，佛山照明发布第五届董事会第十八次会议决议公告。当日，“佛山照明”股价涨幅为-2.56%，深证成份指数涨幅为1.76%。9月12日至9月30日，“佛山照明”股价涨幅为-6.86%，深证成份指数涨幅为-7.35%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　9月28日，佛山照明聘任邹建平为副总经理，主管新能源项目业务工作。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　&nbsp;</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: bold; mso-spacerun: 'yes'">&nbsp;</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、涉案账户交易股票情况</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（一）“庄坚毅”账户</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">该账户于1996年11月18日在广发证券佛山汾江中路营业部开立，下挂深圳B股证券账户。该账户于2009年8月25日、31日通过网上下单的方式共买入“粤照明B”股票8万股。截至我会调查终止，上述8万股“粤照明B”股票仍未卖出，账面收益148,426.40元港币。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.75pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">庄坚毅在接受调查时称，其收到了佛山照明在2009年8月31日向公司董事发出的召开董事会会议的通知，并在同时收到了所附会议材料《关于合资成立青海佛照锂能源开发有限公司的议案》；“庄坚毅”账户由其通过网上下单的方式进行操作。2009年8月25日、8月31日，其在香港办公室买入“粤照明B”股票共计8万股。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　（二）“王建辉”、“高金花”账户</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　调查发现，高金花是王建辉的配偶。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“王建辉”账户于2007年8月16日在天源证券西宁长江路营业部开立，下挂上海证券账户与深圳证券账户。该账户于2009年9月1日至9日通过网上下单的方式共买入“佛山照明”股票38.81万股，后于9月17日、22日全部卖出。该账户交易亏损62,286.18元。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“高金花”账户于2005年9月5日在中信证券成都玉林北街营业部开立，下挂上海证券账户与深圳证券账户。该账户于2009年9月3日至9日通过网上下单的方式共买入“佛山照明”股票1.25万股，并于9月17日和22日全部卖出。该账户交易获利3,572.76元。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">王建辉在接受调查时称，其在2009年8月下旬认识了邹建平与黄某。邹建平表示佛山照明准备在青海成立公司搞碳酸锂项目。邹建平同时提出成立的新公司想找青海本地企业做股东，从而享受税收优惠。王建辉考虑到佛山照明是上市公司，比较可信，于是同意将青海原点作为新公司的股东；2009年9月6日，邹建平邀请王建辉前往佛山，目的是介绍其与钟某认识。其在8月下旬就知道华欧技术黄某持有提取碳酸锂项目的专利权，并会投资入股佛山照明准备成立的新公司，也知道锂能源控股会成为新公司股东；在2009年9月10日至9月18日期间，邹建平电话通知其要签署成立佛照锂能源公司的协议，其将青海原点的公章寄给邹建平并将青海原点的营业执照传真至佛山照明，委托邹建平代其在协议上签字并盖章。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">王建辉在接受调查时称，“王建辉”账户的交易主要由其通过网上下单完成，账户交易股票的大多数资金是其家庭共有财产；“高金花”账户是其和高金花一起开立的，交易股票资金来自其家庭共有财产，该账户9月3日买入“佛山照明”股票的交易由其在西宁下单完成，此后的交易由高金花在成都下单完成，“高金花”账户买入“佛山照明”股票是听其建议，卖出主要由高金花决策。王建辉还称，其交易“佛山照明”股票以及建议高金花交易该股票的原因之一是考虑到佛山照明做锂能源项目对该公司业绩有提升，是个利好消息。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">高金花关于涉案账户的陈述与王建辉基本一致。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　（三）“章敏芝”、“周星夫”账户</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">调查发现，章敏芝是邹建平的配偶，周星夫是邹建平、章敏芝的女婿。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“章敏芝”账户于2000年4月6日在国联证券无锡县前东街营业部开立，下挂上海证券账户与深圳证券账户。该账户于2009年7月20日、9月9日通过电话或者网上下单的方式共买入“佛山照明”股票1.3万股，后于10月20日、11月3日和11月5日全部卖出。“章敏芝”账户对应三方存管银行账户与“周星夫”账户及邹建平证券账户对应三方存管银行账户有资金往来，其中，与“周星夫”账户间的资金往来较为频繁。该账户交易获利9,622.54元。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">“周星夫”账户于2009年7月12日在国信证券无锡梁清路营业部开立，下挂上海证券账户与深圳证券账户。该账户于2009年7月13日至9月9日通过网络和手机下单的方式共买入“佛山照明”股票4.22万股，后全部卖出。该账户交易获利23,726.06元。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　邹建平在接受调查时称，“章敏芝”账户交易股票资金是其家庭的共有财产；章敏芝知道其在佛山照明推动新能源项目，其和章敏芝谈过佛山照明开展新能源项目的基本情况，建议章敏芝多关注“佛山照明”股票。其对章敏芝提到新能源项目是很好的投资，对佛山照明的业绩有很大的提升，可以买入“佛山照明”股票作为投资；其知道周星夫交易“佛山照明”股票一事，认为章敏芝和周星夫交流过佛山照明投资新能源项目的情况。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　章敏芝在接受调查时称，邹建平曾对其说过将新能源项目引入佛山照明；2009年9月9日买入1.1万股“佛山照明”股票的原因之一是邹建平在佛山照明工作，对其说这个公司很不错，最近又在做新能源项目，前景很不错，其也一直看好佛山照明，所以买入；邹建平一直都知道其交易“佛山照明”股票；其知道周星夫交易“佛山照明”股票，也和周星夫交流过买卖“佛山照明”股票的情况，包括邹建平在佛山照明工作及参与新能源项目的情况。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">周星夫在接受调查时称，其在2009年6、7月从妻子处得知邹建平在佛山照明做业务；其和章敏芝就交易“佛山照明”股票有过沟通，是跟着章敏芝买的；其和章敏芝在2009年9月9日就买入“佛山照明”股票有过沟通，章敏芝对其说该股票不错，有投资价值，自己已经买入，建议其买入。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">调查过程中，庄坚毅、王建辉和高金花均能积极配合调查。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以上事实，有佛山照明提供的情况说明、涉案人员询问笔录以及涉案账户交易股票记录等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">本案中，佛山照明动议、筹划、调研、决策与其他公司一起组建新能源项目合资企业，并以此为契机，实现从制造型生产企业向新能源开发行业延伸等情况属于《证券法》第六十七条第二款第（一）项所规定的“公司的经营方针和经营范围的重大变化”，构成《证券法》第七十五条第二款第（一）项所规定的内幕信息。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人庄坚毅通过参与2009年7月29日赴青海考察碳酸锂项目，参与7月底及8月初佛山照明就成立佛照锂能源进行协商并达成一致的事项，参加8月18日佛山照明第五届董事会第十七次会议，收到8月31日佛山照明向全体董事发出召开第五届董事会第十八次会议的通知及议案，并于9月10日参加该次董事会等事项，对涉案内幕信息有着清楚、准确的了解。因此，庄坚毅属于《证券法》第七十四条第（一）项规定的“证券交易内幕信息知情人”。庄坚毅知悉内幕信息后，在内幕信息公开前买入“粤照明B”股票，其行为违反了《证券法》第七十六条的规定，构成《证券法》第二百零二条所述违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人王建辉于2009年8月下旬认识邹建平、黄某后，知悉佛山照明准备在青海成立一家公司，利用盐湖资源提取碳酸锂，并同意将其控制的青海原点作为佛山照明所创建新公司的股东之一；2009年9月6日，其前往佛山与钟某认识，其应当知道佛山照明于2009年8月31日发出董事会会议通知，以及9月10日召开董事会的情况。因此，王建辉属于《证券法》第七十四条第（七）项规定的“证券交易内幕信息知情人”。王建辉知悉内幕信息后，在内幕信息公开前买入“佛山照明”股票，其行为违反了《证券法》第七十六条的规定，构成《证券法》第二百零二条所述违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人高金花与王建辉是夫妻关系。“高金花”账户交易“佛山照明”股票的时点等情况表明高金花应当知悉涉案内幕信息。当事人高金花知悉内幕信息后，在内幕信息公开前买入“佛山照明”股票，其行为违反了《证券法》第七十六条的规定，构成《证券法》第二百零二条所述违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人邹建平受佛山照明管理层委托，全程参与了佛山照明投资新能源事项，负责佛山照明投资新能源项目的推动、考察、研究、沟通和决策，对涉案内幕信息有着非常准确、细致的了解。其知悉内幕信息后，在内幕信息公开前向章敏芝介绍佛山照明开展新能源项目的情况，并建议章敏芝买入“佛山照明”股票，其行为构成泄露内幕信息并建议他人买卖，违反了《证券法》第七十六条的规定，构成《证券法》第二百零二条所述违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人章敏芝从邹建平处获悉内幕信息后，在内幕信息公开前买入“佛山照明”股票，其行为违反了《证券法》第七十六条的规定，构成《证券法》第二百零二条所述违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人周星夫与邹建平、章敏芝是近亲属关系。“周星夫”账户交易“佛山照明”股票的时点等情况表明周星夫应当知悉内幕信息。当事人周星夫知悉内幕信息后，在内幕信息公开前买入“佛山照明”股票，其行为违反了《证券法》第七十六条的规定，构成了《证券法》第二百零二条所述违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人邹建平在书面陈述材料中称，其因对法律法规不熟悉，不懂股票交易规则才违法；我会拟作出的处罚太重，请求对其酌情处理。我会复核认为，当事人有关以不了解法律禁止内幕交易的规定以及股票交易规则等为由请求对其酌情处理的申辩于法无据，不予支持。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　一、责令庄坚毅自收到本处罚决定书之日起7个可交易日内，依法处理“粤照明B”股票；如有违法所得，没收庄坚毅违法所得，并处以违法所得一倍罚款；如没有违法所得或者违法所得不足3万元的，对庄坚毅处以港币20万元罚款。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、对邹建平处以10万元罚款。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、对王建辉、章敏芝分别处以5万元罚款。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">四、对高金花、周星夫分别处以3万元罚款。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起15日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起3个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。&nbsp;</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt"></FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt"></FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt"></FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt"></FONT></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0 align=center><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　　　 中国证券监督管理委员会&nbsp; </SPAN></FONT></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0 align=center><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN></FONT><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012</SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">8月22</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">日</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　　</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 16pt; MARGIN-TOP: 0pt; TEXT-INDENT: 5.18pt; MARGIN-BOTTOM: 0pt; MARGIN-RIGHT: 5.775pt" class=p0><SPAN style="Z-INDEX: 1; POSITION: absolute; MARGIN-TOP: 842px; WIDTH: 209px; HEIGHT: 87px; MARGIN-LEFT: 373px; LEFT: 0px"><FONT style="FONT-SIZE: 10.5pt"></FONT></SPAN></P><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 14pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20121119_217026_ext.json

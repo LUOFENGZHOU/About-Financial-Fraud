@@ -1,0 +1,254 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（郭艺声、曲红军）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2014年04月30日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（郭艺声、曲红军）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2014〕44号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（郭艺声、曲红军）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2014〕44号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2014</FONT><FONT face=宋体>〕</FONT><FONT face="Times New Roman">44</FONT><FONT face=宋体>号</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：郭艺声，男，<FONT face="Times New Roman">1969</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月出生，住址：福建省厦门市思明区顶澳仔。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">曲红军，女，<FONT face="Times New Roman">1968</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月出生，住址：辽宁省大连市甘井子区久胜街。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对“<FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”内幕交易案进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人郭艺声、曲红军的要求，我会举行了听证会，听取当事人郭艺声、曲红军的陈述、申辩。本案现已调查、审理终结。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，郭艺声、曲红军存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、内幕信息的形成与公开</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">大同水泥股份有限公司（以下简称大同水泥）于<FONT face="Times New Roman">1997</FONT><FONT face=宋体>年在深圳证券交易所（以下简称深交所）挂牌上市，</FONT><FONT face="Times New Roman">2010</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月，厦门当代置业集团（以下简称厦门当代或者当代集团）获得公司</FONT><FONT face="Times New Roman">29.99%</FONT><FONT face=宋体>的股权，成为其第一大股东，大同水泥更名为山西当代投资股份有限公司（以下简称山西当代）。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">郭艺声于</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>月至</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月任厦门当代董事会办公室主任，</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月至调查时任厦门当代董事、副总裁，</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月至调查时任山西当代董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">大同市明珠商业网点建设有限责任公司（以下简称大同明珠）的实际控制人为大同市国资委。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月起，山西当代根据大同市政府、国资委就厦门当代接手原大同水泥后对公司的安排，开始债权债务清理的准备工作。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">14</FONT><FONT face=宋体>日，山西当代召开关于资产剥离安排的专题会议，宣布公司资产剥离工作正式启动。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>日，相关中介机构开始工作。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=宋体>日，大同市政府召开会议议定，由大同明珠承接原大同水泥的债权、债务（包括所欠各项税金）和资产（土地使用权）；市国资委牵头，尽快开展对原大同水泥债权债务的清理。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>日，大同市地税局确认山西当代截至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=宋体>日欠缴地税税款总额为</FONT><FONT face="Times New Roman">60,345,885.82</FONT><FONT face=宋体>元，同意将上述欠缴税款转承到大同明珠，由大同明珠继续履行该部分地税税款的清缴义务。同日，大同市国税局确认山西当代欠缴国税税款总额为</FONT><FONT face="Times New Roman">35,252,974.26</FONT><FONT face=宋体>元，同意将上述欠缴税款转承到大同明珠，由大同明珠继续履行该部分国税税款的清缴义务。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">21</FONT><FONT face=宋体>日起，郭艺声多次与山西当代方面沟通商讨债务转移相关协议的内容。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日，审计机构出具的审计报告显示，以</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=宋体>日为基准日的公司应收款、存货资产账面余额为</FONT><FONT face="Times New Roman">224,511,064.88</FONT><FONT face=宋体>元，账面价值为</FONT><FONT face="Times New Roman">3,718,184.31</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>日，资产评估机构出具的资产评估报告显示，经采用资产基础法评估，截至评估基准日</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=宋体>日，山西当代委估资产账面原值</FONT><FONT face="Times New Roman">224,350,729.48</FONT><FONT face=宋体>元，账面净值</FONT><FONT face="Times New Roman">3,557,848.91</FONT><FONT face=宋体>元，评估价值</FONT><FONT face="Times New Roman">28,074,515.57</FONT><FONT face=宋体>元，增值</FONT><FONT face="Times New Roman">24,516,666.66</FONT><FONT face=宋体>元，增值率</FONT><FONT face="Times New Roman">689.09%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日，时任山西当代财务部部长张某春将税款剥离资料发送给山西当代总会计师吴某，附件内容包括税款剥离的有关协议，含债务转移协议及附表、以资抵债协议及附表、抵押协议及附表。吴某在询问笔录中称其于</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日收到债务转移的正式合同。山西当代董事会秘书陈某峰在询问笔录中称其与郭艺声等人商议召开关于债务转移、剥离资产的董事会会议时间及确定用于抵偿债务的资产评估截止日期，确定于</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日之前召开董事会会议，审议债务转移方案。&nbsp;</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=宋体>日，山西当代发出董事会会议通知和会议材料，称公司定于</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日召开董事会会议，审议公司资产剥离相关事项，收信人有郭艺声等人。会议材料之一是《关于公司与大同市明珠商业网点建设有限责任公司签订〈债务转移协议〉及〈资产转让协议〉、〈抵押担保协议〉的议案》，介绍了拟签订的三个协议的主要内容。其中《债务转移协议》中约定，公司应缴各税务部门总额为</FONT><FONT face="Times New Roman">95,598,860.08</FONT><FONT face=宋体>元的税款转移由大同明珠承担，由此公司形成对大同明珠同等金额负债，山西当代同意在</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>日前，向大同明珠清偿上述负债；《资产转让协议》中约定，公司将应收款项及存货以评估值作价</FONT><FONT face="Times New Roman">28,074,515.57</FONT><FONT face=宋体>元转让给大同明珠，用以冲抵公司因向大同明珠转让应缴税款对其形成的负债，上述冲抵完成后，公司对大同明珠的负债金额由</FONT><FONT face="Times New Roman">95,598,860.08</FONT><FONT face=宋体>元减为</FONT><FONT face="Times New Roman">67,524,344.51</FONT><FONT face=宋体>元；《抵押担保协议》中约定，公司将拥有的固定资产和无形资产为抵押物抵押给大同明珠，作为偿还所欠大同明珠</FONT><FONT face="Times New Roman">67,524,344.51</FONT><FONT face=宋体>元负债的担保。上述议案认为，本次资产转让协议中涉及的流动资产评估增值</FONT><FONT face="Times New Roman">24,516,666.66</FONT><FONT face=宋体>元，资产转让过程中拟新增税费</FONT><FONT face="Times New Roman">156,422.16</FONT><FONT face=宋体>元，预计本次资产转让完成后，将对公司当年度的非经营性损益增加</FONT><FONT face="Times New Roman">24,360,244.50</FONT><FONT face=宋体>元，净利润增加</FONT><FONT face="Times New Roman">24,360,244.50</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=宋体>日，郭艺声将山西当代驻厦门董事、监事审议通过上述议案的会议决议签字页带到大同。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>日上午，山西当代驻大同的董事、监事召开会议，审议通过了上述议案，并在公司驻厦门董事、监事已签字的决议上签字。现场参加此次会议的有郭艺声等人。会议审议的内容与</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=宋体>日发送的董事会会议材料的内容相同。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日下午</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>点</FONT><FONT face="Times New Roman">48</FONT><FONT face=宋体>分，陈某峰将董事会决议公告文件上传至深交所信息披露系统，文件中介绍了公司与大同明珠签订三个协议所涉及事项，称“本次资产转让协议中涉及的流动资产评估增值</FONT><FONT face="Times New Roman">24,516,666.66</FONT><FONT face=宋体>元……考虑到资产转让过程中拟新增税费</FONT><FONT face="Times New Roman">156,422.16</FONT><FONT face=宋体>元，预计本次资产转让完成后，将对公司当年度的非经营性损益增加</FONT><FONT face="Times New Roman">24,360,244.50</FONT><FONT face=宋体>元，净利润增加</FONT><FONT face="Times New Roman">24,360,244.50</FONT><FONT face=宋体>元。关于本次资产转让因流动资产评估增值对公司损益、净利润的影响，已经公司聘请的年度审计会计师事务所确认。”独立董事意见部分称“公司本次与大同明珠拟进行的债务转移及资产转让、抵押担保相关事项及所签订的相关协议遵循了平等自愿、诚实信用、公平公正的原则，该等事项不存在关联交易情形……”</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日，“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”于下午</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>点左右触及涨停，从</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>点</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>分至收盘保持涨停。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日下午</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>点收市后，深交所监管员致电陈某峰，认为山西当代和大同明珠之间构成关联关系，因此资产转让发生的流动资产评估增值不能计入收益和净利润，而应计入资本公积，并要求公司就此项交易是否构成重大资产重组征求监管部门意见，要求公司股票先做重大事项停牌。陈某峰于当日下午</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>点</FONT><FONT face="Times New Roman">24</FONT><FONT face=宋体>分把申请停牌的公告模板发给了深交所。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>日，“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”停牌。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>日下午</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>点</FONT><FONT face="Times New Roman">59</FONT><FONT face=宋体>分，陈某峰将董事会决议公告等文件上传至深交所信息披露系统，在关联交易公告中，将资产转让协议中涉及的资产评估增值对公司的影响，修改为“预计本次资产转让完成后，将使公司的所有者权益（资本公积）增加</FONT><FONT face="Times New Roman">24,933,544.46</FONT><FONT face=宋体>元，净利润减少</FONT><FONT face="Times New Roman">573,299.96</FONT><FONT face=宋体>元。”</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>日“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”复牌，山西当代公告了其与大同明珠签订的三个协议事项，称该交易将使公司的所有者权益增加</FONT><FONT face="Times New Roman">2,493</FONT><FONT face=宋体>万多元，净利润减少</FONT><FONT face="Times New Roman">57.3</FONT><FONT face=宋体>万多元。当日“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”跌停。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">根据山西当代<FONT face="Times New Roman">2010</FONT><FONT face=宋体>年年报摘要，公司</FONT><FONT face="Times New Roman">2010</FONT><FONT face=宋体>年度经审计总资产为</FONT><FONT face="Times New Roman">158,023,878.65</FONT><FONT face=宋体>元，净资产为－</FONT><FONT face="Times New Roman">1,513,527.30</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">二、郭艺声向曲红军泄露内幕信息，曲红军内幕交易</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">（一）涉案账户交易情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">1.&nbsp;<FONT face=宋体>“曲红军”账户。开立于德邦证券上海浦东南路营业部。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日，该账户买入</FONT><FONT face="Times New Roman">110,400</FONT><FONT face=宋体>股“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”。该账户在</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年全年仅于</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日进行过交易，系将所持有的“上海贝岭”亏损卖出后所得资金全部买入“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”。</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>日上述股票全部卖出，亏损</FONT><FONT face="Times New Roman">184,894.48</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">前述交易委托下单电脑<FONT face="Times New Roman">MAC</FONT><FONT face=宋体>记录与曲红军住宅台式机电脑的</FONT><FONT face="Times New Roman">MAC</FONT><FONT face=宋体>记录一致。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2.&nbsp;<FONT face=宋体>“曲某富”账户。开立于国泰君安证券大连成义街营业部。</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日，该账户买入</FONT><FONT face="Times New Roman">5,200</FONT><FONT face=宋体>股“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”。</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>日上述股票全部卖出，亏损</FONT><FONT face="Times New Roman">8,982.69</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">前述交易委托下单电脑<FONT face="Times New Roman">MAC</FONT><FONT face=宋体>记录与曲红军住宅台式机电脑的</FONT><FONT face="Times New Roman">MAC</FONT><FONT face=宋体>记录一致。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">（二）当事人之间的联系情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">1.&nbsp;2011<FONT face=宋体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月至</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月，郭艺声手机与曲红军手机之间存在</FONT><FONT face="Times New Roman">327</FONT><FONT face=宋体>次通话或短信，与曲红军住宅固定电话之间存在</FONT><FONT face="Times New Roman">222</FONT><FONT face=宋体>次通话。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">2.&nbsp;2010<FONT face=宋体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>日，郭艺声银行账户向曲红军银行账户转入</FONT><FONT face="Times New Roman">50</FONT><FONT face=宋体>万元，当天曲红军银行账户转回</FONT><FONT face="Times New Roman">50</FONT><FONT face=宋体>万元至郭艺声银行账户。</FONT>6<FONT face=宋体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>日，郭艺声银行账户向“曲红军”账户三方存管银行账户转入</FONT><FONT face="Times New Roman">70</FONT><FONT face=宋体>万元，曲红军将此</FONT><FONT face="Times New Roman">70</FONT><FONT face=宋体>万元转入证券资金账户。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">3.&nbsp;<FONT face=宋体>“曲红军”账户委托资料显示，</FONT><FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">16</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日买入“上海贝岭”、“钱江摩托”、“海默科技”等的下单电脑</FONT><FONT face="Times New Roman">MAC</FONT><FONT face=宋体>记录与郭艺声办公室电脑的</FONT><FONT face="Times New Roman">MAC</FONT><FONT face=宋体>记录一致。郭艺声办公电脑界面存有证券交易软件，在用户登录页自动显示资金账户</FONT><FONT face="Times New Roman">02012399</FONT><FONT face=宋体>，为“曲红军”账户的资金账号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">（三）当事人对相关交易的说明</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">曲红军在询问笔录中称，其同时使用“曲某富”账户交易“<FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”，并称这个账户的所有交易都是其下单的。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">郭艺声在询问笔录中称，<FONT face="Times New Roman">2009</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月起，“曲红军”账户由曲红军和郭艺声两人操作交易，郭艺声交易过“钱江摩托”、“华北制药”、“上海贝岭”、“海默科技”等。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">曲红军在询问笔录中称，“<FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代这支股我一直关注，我认识该公司的高管郭艺声，我买</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代是卖出了原持有的一部分上海贝岭出来的钱……我也问过他（郭艺声）是否可以买这只票，他答复我时机还不成熟，他之前也是做分析的，</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日下午我看见</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代涨停了就开始往里追着买的，买了有六七十万元的金额，买进去就套了，春节前我在五元多的时候全割肉全抛售掉了。”</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">郭艺声在询问笔录中称，“她（曲红军）交易股票都会征求一下我的意见。我来当代工作后，她总问我关于公司的事情，我们经常电话沟通，她也知道我在做项目。后来有一天在<FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代涨停板，她把上海贝岭卖出去一些，买了</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代。曲红军买</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代之前问过我的意见，我跟她说公司情况不错，一直在找项目，可以买，但是我不能保证股价一定会涨，这个要看情况。”&nbsp;</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">以上事实，有相关公告、涉案账户交易记录以及涉案人员询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">我会认为，山西当代在当代集团与大同市政府部门安排下，剥离原大同水泥遗留的历史债务，属于债务重组事项。该债务重组事项包括债务转承、相关资产转让以及抵押担保，无论从使山西当代得以摆脱历史包袱、为公司进一步资产重组打下基础的角度看，还是从交易涉及金额与公司<FONT face="Times New Roman">2010</FONT><FONT face=宋体>年度经审计总资产和净资产的对比看，该事项无疑对山西当代的财务、经营和证券市场投资者判断具有重大影响。尽管当时证券市场对山西当代历史债务的剥离存在预期或传闻，但这并不影响该事项所涉及的启动、进展时点与细节信息在正式公开前构成内幕信息。尽管山西当代接受了深交所的意见，将债务重组收入列入资本公积而非此前筹划并经董事会通过、拟公开披露的非经常性损益，且信息公开当天其股价跌停，但并不影响与该债务重组事项有关的信息在当时的情境下具有重要性，</FONT><FONT face="Times New Roman">2011</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日下午“</FONT><FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”涨停也提供了相应佐证。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">综合衡量涉案人员掌握内幕信息、涉案人员之间的固有关系与惯常联系、涉案交易的异常以及当事人并未对异常交易做出有说服力的解释等情况，我会认定，内幕信息知情人郭艺声向曲红军泄露了相关内幕信息，曲红军利用该信息买入“<FONT face="Times New Roman">ST</FONT><FONT face=宋体>当代”，构成内幕交易。该二人的</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">行为，违反了《证券法》第七十六条的规定，构成了《证券法》第二百零二条所述违法行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'">当事人郭艺声、曲红军在听证会上及陈述、申辩材料中提出，《事先告知书》有关违法行为的认定及处理没有事实依据，请求免予处罚。我会复核认为，本案客观证据已经形成完整的证据链条，依据该证据链条可以推断出当事人实施了违法行为；当事人提出的抗辩，不足以推翻上述推断。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; LETTER-SPACING: 0.3pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">郭艺声作为上市公司控股股东派出的直接参与债务重组事项沟通、谈判与决策的核心内幕信息知情人，向曲红军泄露内幕信息，情节比较严重；曲红军在获悉内幕信息后交易相关股票，涉及金额较大。根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、对郭艺声处以<FONT face="Times New Roman">10</FONT><FONT face=宋体>万元罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、对曲红军处以<FONT face="Times New Roman">10</FONT><FONT face=宋体>万元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=宋体>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=宋体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=宋体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;</o:p></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014<FONT face=宋体>年</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=宋体>日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--{PS..0}--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20150814_282814_ext.json

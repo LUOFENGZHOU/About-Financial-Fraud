@@ -1,0 +1,262 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（沈少玲）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-05493</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年06月05日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（沈少玲）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕23号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（沈少玲）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕23号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1346915993531'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1346915993531 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1346915993531 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1346915993531 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1346915993531 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1346915993531 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+
+--**/</style>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="LINE-HEIGHT: 150%">〔<SPAN>2012</SPAN>〕<SPAN>23</SPAN>号</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人：沈少玲，女，<SPAN>1964</SPAN>年<SPAN>10</SPAN>月出生，深圳市彩虹精细化工股份有限公司（以下简称彩虹精化）实际控制人、董事，住址：深圳市福田区金地海景花园。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对沈少玲内幕交易行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，沈少玲存在以下违法事实：</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、关于内幕信息形成情况</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）深圳绿世界生物降解材料有限公司（以下简称深圳绿世界）与嘉星国际有限公司（以下简称嘉星国际）签订销售协议</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2010</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>10</SPAN>月<SPAN>29</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，深圳绿世界与嘉星国际达成海外销售初步意向，深圳绿世界计划每年向嘉星国际销售餐盒<SPAN>9</SPAN>亿套、卡板<SPAN>400</SPAN>万个，但未签订正式协议，也未谈妥购销价格。<SPAN>2010</SPAN>年<SPAN>11</SPAN>月<SPAN>23</SPAN>日，深圳绿世界与彩虹精化签订《关于深圳市彩虹绿世界生物降解材料有限公司之合作经营协议书》及相关备忘录（以下简称《合作经营协议书》），约定共同出资成立深圳市彩虹绿世界生物降解材料有限公司（以下简称彩虹绿世界）。深圳绿世界与彩虹绿世界还口头约定：深圳绿世界保证彩虹绿世界销售净利润不低于<SPAN>10%</SPAN>。<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>12</SPAN>日，深圳绿世界与嘉星国际就<SPAN>2010</SPAN>年<SPAN>10</SPAN>月<SPAN>29</SPAN>日达成的合作意向签订两份《产品销售协议》，采购金额分别为<SPAN>14.4</SPAN>亿元和大于<SPAN>4.8</SPAN>亿元的大单。根据深圳绿世界与彩虹绿世界的口头约定，剔除制品外协加工费，上述《产品销售协议》带来的生产订单总额约<SPAN>130,100</SPAN>万元，可能给彩虹绿世界创造净利润约<SPAN>13,010</SPAN>万元，给彩虹精化间接创造净利润约<SPAN>7,155.50</SPAN>万元，对彩虹精化利润产生重大影响（彩虹精化<SPAN>2009</SPAN>年度经审计净利润仅为<SPAN>38,912,863.86</SPAN>元）。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）更改合同销售主体，预期给彩虹精化带来更大利益</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2010</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>12</SPAN>月<SPAN>16</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，深圳绿世界在其公司会议室召开了“市场与生产计划会”，彩虹精化副总经理兼彩虹绿世界董事刘某等参加了会议。此次会议上，深圳绿世界总经理苏某某演示了《绿世界目标市场与客户》幻灯片，着重介绍了深圳绿世界已与嘉星国际签订的两份大单以及深圳绿世界和彩虹绿世界等公司为履行合同制定的生产计划。<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>18</SPAN>日，深圳绿世界召开座谈会，讨论彩虹绿世界拟于<SPAN>2</SPAN>月<SPAN>28</SPAN>日召开的生物降解材料国际技术交流暨推介会的筹备工作。沈少玲的丈夫、彩虹精化董事长兼总经理陈某某（同时担任彩虹绿世界董事长兼总经理），彩虹精化副总经理兼彩虹绿世界董事刘某等参会。会上陈某某建议改由彩虹绿世界直接对外签订销售合同，深圳绿世界总经理苏某某表示同意，但因合同标的大，需研究决定。<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>21</SPAN>日，陈某某将彩虹绿世界在<SPAN>2</SPAN>月<SPAN>28</SPAN>日的推介会上可能签订<SPAN>3</SPAN>亿元的销售意向合同，并可能由彩虹精化作为合同销售主体的事项告诉了彩虹精化董事会秘书李某某，要求李某某报告深圳证券交易所（以下简称深交所）并咨询公司股票是否需要停牌。<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>23</SPAN>日，陈某某再次提出将合同销售主体变更，苏某某表示同意。接着，陈某某提出借<SPAN>2</SPAN>月<SPAN>28</SPAN>日召开推介会的机会，安排彩虹绿世界与客户签约。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>2</SPAN>月<SPAN>27</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，彩虹绿世界以销售方的名义直接与客户签订了总金额为<SPAN>27,407</SPAN>万美元（约合<SPAN>17.8</SPAN>亿元人民币）的一系列合同。彩虹精化可获利润空间有了进一步保证。<SPAN>2011</SPAN>年<SPAN>3</SPAN>月<SPAN>2</SPAN>日，彩虹精化发布了下属子公司彩虹绿世界签订重大意向性合同的公告。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、沈少玲控制相关账户交易情况</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年左右，沈少玲安排同学黄某某使用“黄某燕”等<SPAN>5</SPAN>个账户为其买卖股票。黄某某交易“彩虹精化”的下单地点为深圳市彩虹创业投资集团有限公司的一间办公室，上述<SPAN>5</SPAN>个账户的下单电脑<SPAN>MAC</SPAN>地址基本一致。调查显示，办公室和电脑均是由沈少玲提供的。具体操作模式为沈少玲提供资金，下达交易指令，黄某某具体负责买卖操作；上述账户的资金去向也是沈少玲夫妇。证券营业部对“黄某燕”等<SPAN>5</SPAN>个账户的日常维护情况显示，账户联系人一栏填写的电话为沈少玲的电话号码；证券营业部的投资顾问林某和经理助理万某某在询问笔录中均反映上述<SPAN>5</SPAN>个账户的日常服务均找沈少玲，不认识黄某某。因此，沈少玲实际控制了“黄某燕”等<SPAN>5</SPAN>个账户。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">“黄某燕”等<SPAN>5</SPAN>个账户在<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>21</SPAN>日至<SPAN>2011</SPAN>年<SPAN>3</SPAN>月<SPAN>2</SPAN>日期间，只交易或主要交易彩虹精化股票，且在<SPAN>2010</SPAN>年<SPAN>12</SPAN>月下旬开始大举买入彩虹精化股票。前述期间，<SPAN>5</SPAN>个证券账户买入彩虹精化股票<SPAN>2,892,678</SPAN>股，买入金额<SPAN>47,223,646.05</SPAN>元；卖出<SPAN>528,471</SPAN>股，卖出金额<SPAN>9,900,038.46</SPAN>元。经证券交易所统计，截至<SPAN>2011</SPAN>年<SPAN>9</SPAN>月<SPAN>2</SPAN>日，上述交易共亏损<SPAN>4,765,612.09</SPAN>元。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、沈少玲知悉并利用内幕信息进行交易</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）沈少玲作为彩虹精化实际控制人、董事，了解公司与深圳绿世界的合作前景</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">沈少玲于<SPAN>2010</SPAN>年<SPAN>11</SPAN>月<SPAN>27</SPAN>日前查看了彩虹精化证券事务代表李某发给其本人的董事会资料，知道彩虹精化与深圳绿世界合作的事情，<SPAN>11</SPAN>月<SPAN>27</SPAN>日又去考察深圳绿世界。<SPAN>11</SPAN>月<SPAN>30</SPAN>日审议通过成立彩虹绿世界的董事会会议记录显示，沈少玲的丈夫、彩虹精化董事长兼总经理陈某某在董事会会议上提到了深圳绿世界的初步销售意向及苏某某对彩虹绿世界销售净利润不低于<SPAN>10%</SPAN>的保证，此事项有供董事阅读的《可行性分析报告》为证。沈少玲在董事会会议上对设立彩虹绿世界议案提出了个人意见。因此，沈少玲了解彩虹精化与深圳绿世界合作设立彩虹绿世界的过程，知晓深圳绿世界签订大额销售合同将给彩虹精化带来的影响。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）沈少玲的丈夫陈某某知悉内幕信息，沈少玲具有获悉内幕信息的途径</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2010</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>12</SPAN>月<SPAN>17</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，彩虹精化副总经理刘某将《绿世界目标市场与客户》幻灯片文件通过电子邮件发给陈某某的秘书金某某，陈某某据此知悉深圳绿世界已经正式与嘉星国际签订大单合同的事情。<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>20</SPAN>日或者<SPAN>21</SPAN>日，刘某向陈某某汇报了<SPAN>12</SPAN>月<SPAN>16</SPAN>日市场与生产计划会的主要情况，包括深圳绿世界与嘉星国际<SPAN>12</SPAN>月<SPAN>12</SPAN>日签订大单合同的事情。<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>18</SPAN>日，陈某某同刘某等人参加深圳绿世界与彩虹绿世界共同召开的会议，会上研究讨论了合同销售主体更换为彩虹绿世界一事。<SPAN>2</SPAN>月<SPAN>19</SPAN>日、<SPAN>20</SPAN>日，陈某某和苏某某一直为更改合同主体的事情做铺垫工作。<SPAN>2</SPAN>月<SPAN>21</SPAN>日，陈某某将更换合同主体一事告诉彩虹精化董事、董事会秘书兼财务总监李某某，并要李某某询问深交所公司股票是否需要停牌。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">从身份上看，沈少玲和陈某某均为彩虹精化的实际控制人，是共同生活的夫妻，一起创业多年，且都在彩虹精化董事会任职。陈某某知悉能够给彩虹精化带来巨大利润的合同事项，作为公司的另一个实际控制人、陈某某的妻子，沈少玲应当获悉内幕信息。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（三）沈少玲控制账户的交易活动与内幕信息高度一致</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">其一，从沈少玲控制账户的开立情况看，<SPAN>5</SPAN>个账户中有<SPAN>2</SPAN>个账户开立于<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>13</SPAN>日，即内幕信息生成后的第二天。开立账户的行为与内幕信息的生成之间具有高度关联性。其二，沈少玲控制的账户在内幕信息生成后至内幕信息公开前有大笔资金汇入。其三，沈少玲控制的账户在内幕信息生成后至内幕信息公开前，只交易或者主要交易彩虹精化股票。综上，沈少玲的交易行为异常且与内幕信息高度一致。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（四）沈少玲与其同学黄某某相互串通，有掩盖事实真相的重大嫌疑</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">沈少玲和黄某某辩解买入彩虹精化股票的原因是黄某某<SPAN>2012</SPAN>年<SPAN>12</SPAN>月<SPAN>15</SPAN>日参加了招商证券益田路营业部召开的策略会，会上招商证券推荐了彩虹精化股票，于是二人商量决定买入彩虹精化股票。但是招商证券益田路营业部提供的说明显示，策略会现场安排客户座次及午餐时，没有沈少玲或黄某某等人的名单。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述违法事实，有相关人员询问笔录、公司出具的说明、有关会议纪要、相关账户交易记录和统计数据等证据证明，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">沈少玲的上述行为，违反了《证券法》第七十三条、第七十六条的规定，构成《证券法》第二百零二条所述“证券交易内幕信息的知情人或者非法获取内幕信息的人，在涉及证券发行、交易或者其他对证券的价格有重大影响的信息公开前，买卖该证券”的违法行为。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、责令沈少玲依法处理“黄某燕”等<SPAN>5</SPAN>个账户内的彩虹精化股票；如有违法所得，予以没收。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、对沈少玲处以<SPAN>60</SPAN>万元罚款。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 299.55pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">　　　　&nbsp; 中国证券监督管理委员会</SPAN></P>
+<P style="TEXT-INDENT: 299.55pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"></SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">　　　　　 &nbsp;二○一二年六月五日<SPAN><SPAN>　　&nbsp; </SPAN></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20120906_214532_ext.json

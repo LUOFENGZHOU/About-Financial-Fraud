@@ -1,0 +1,226 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（隋新洛、刘卫、张五洲）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-07035</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年05月16日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（隋新洛、刘卫、张五洲）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]30号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（隋新洛、刘卫、张五洲）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]30号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt" align=center><B>&nbsp;</B><B>&nbsp;</B></P>
+<P style="LINE-HEIGHT: 29pt" align=center><SPAN style="FONT-SIZE: 14pt; COLOR: black">[2008]30</SPAN><SPAN style="FONT-SIZE: 14pt; COLOR: black">号</SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 28pt">&nbsp;</P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">当事人：隋新洛，男，<SPAN style="FONT-SIZE: 10.5pt">1956</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，时任</SPAN><SPAN style="FONT-SIZE: 10.5pt">五洲证券有限公司（以下简称五洲证券）<SPAN style="FONT-SIZE: 10.5pt">董事长，住址：河南省洛阳市西工区健康路<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>号院<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>门<SPAN style="FONT-SIZE: 10.5pt">102</SPAN>室。</SPAN></SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">刘卫，男，<SPAN style="FONT-SIZE: 10.5pt">1968</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月出生，时任</SPAN><SPAN style="FONT-SIZE: 10.5pt">五洲证券深圳营业部经理<SPAN style="FONT-SIZE: 10.5pt">，住址：湖北省武汉市江岸区御江苑<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>号（现住址：深圳市福田区益田路石厦三街）</SPAN>。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">张五洲，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任</SPAN><SPAN style="FONT-SIZE: 10.5pt">五洲证券财务部经理，<SPAN style="FONT-SIZE: 10.5pt">住址：河南省洛阳市西工区解放路<SPAN style="FONT-SIZE: 10.5pt">49</SPAN>号院<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>门<SPAN style="FONT-SIZE: 10.5pt">401</SPAN>号。</SPAN></SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">依据原《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN style="FONT-SIZE: 10.5pt">五洲证券违反证券法律法规案进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，</SPAN><SPAN style="FONT-SIZE: 10.5pt">复核了当事人的陈述、申辩意见，</SPAN><SPAN style="FONT-SIZE: 10.5pt">现已调查、审理终结。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">经查明，</SPAN><SPAN style="FONT-SIZE: 10.5pt">五洲证券主要存在以下违法事实：</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、挪用客户交易结算资金</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.85pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）截至<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，五洲证券挪用客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">200,309,785.76</SPAN>元，上述资金缺口主要是由于五洲证券<SPAN style="FONT-SIZE: 10.5pt">1994</SPAN>年至<SPAN style="FONT-SIZE: 10.5pt">1995</SPAN>年间将资金拆借到当时各地的交易所形成了大量的不良债权和抵债资产、购买固定资产导致的。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.85pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日五洲证券新增挪用客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">37,501,360.87</SPAN>元，其中：<SPAN style="FONT-SIZE: 10.5pt">(1) 2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月从结算备付金客户资金户多划出<SPAN style="FONT-SIZE: 10.5pt">14,057,405.00</SPAN>元至自有资金账户用于还款和工程支出等；（<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月挪用存入洛阳市商业银行的客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">11,184,275.03</SPAN>元维持公司日常经营；（<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月挪用中国银行洛阳分行七里河支行（以下简称中行七支）客户交易结算资金账户资金<SPAN style="FONT-SIZE: 10.5pt">1,599,050.00</SPAN>元支付代兑付债券款和逾期利息；（<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月挪用交通银行洛阳分行西苑路支行客户交易结算资金账户资金<SPAN style="FONT-SIZE: 10.5pt">150</SPAN>万元用于购房；（<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月从中国工商银行洛阳分行银行卡业务部客户交易结算资金账户直接挪用<SPAN style="FONT-SIZE: 10.5pt">210</SPAN>万元至中行七支银行存款自有资金账户；（<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月利用王定富账户透支<SPAN style="FONT-SIZE: 10.5pt">500</SPAN>万元借款给山东鑫融科技产业有限责任公司。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.85pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>日新增挪用客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">171,888,853.37</SPAN>元，其中：（<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>）通过王定富资金户透支形成挪用<SPAN style="FONT-SIZE: 10.5pt">8,929</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>）通过李斌资金户透支形成挪用<SPAN style="FONT-SIZE: 10.5pt">4,159</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>）通过山东鑫融资金户形成净挪用<SPAN style="FONT-SIZE: 10.5pt">1,185</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>）五洲证券深圳营业部直接挪用<SPAN style="FONT-SIZE: 10.5pt">325</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>）五洲证券上海营业部挪用<SPAN style="FONT-SIZE: 10.5pt">200</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>）通过何水根资金户挪用<SPAN style="FONT-SIZE: 10.5pt">495</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月从结算备付金客户资金户多划出<SPAN style="FONT-SIZE: 10.5pt">1610</SPAN>万元至自有资金账户用于日常经营等。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>隋新洛在五洲证券上述违法行为中起决策、决定作用，是主要责任人员。刘卫、时任五洲证券财务总监江毅、张五洲起组织、参与实施或决定作用，是五洲证券挪用客户交易结算资金违法行为的责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实，有相关账户资料、资金流水、资金划款凭证、情况说明、谈话笔录等证据证明。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、超范围从事委托理财业务</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">2005</SPAN><SPAN style="FONT-SIZE: 10.5pt">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月，五洲证券（经纪类券商）在不具备委托理财业务资格的情况下，组织洛阳<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>家营业部开展了<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>期国债托管业务，共涉及<SPAN style="FONT-SIZE: 10.5pt">490</SPAN>个客户<SPAN style="FONT-SIZE: 10.5pt">,</SPAN>金额<SPAN style="FONT-SIZE: 10.5pt">2,590</SPAN>万元。其中有<SPAN style="FONT-SIZE: 10.5pt">376</SPAN>个客户（涉及金额<SPAN style="FONT-SIZE: 10.5pt">2,061</SPAN>万元）分别与营业部签订了《托管协议书》或《国债冻结协议书》，客户承诺：将国债托管到营业部或由营业部冻结，托管期内不卖出或不解冻国债。在协议中虽然未约定固定收益，但客户在签署托管协议或冻结协议时，收取了营业部以托管费名义支付的按固定利率（分别为<SPAN style="FONT-SIZE: 10.5pt">5.6%</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">1%</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">4.8%</SPAN>）计算的收益。五洲证券的上述行为从事了委托理财业务，超出了经核定的业务范围。时任五洲证券总裁杨欣在上述违法行为中起决策、领导作用，是五洲证券超范围从事委托理财业务的主要责任人员。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">上述事实，有</SPAN><SPAN style="FONT-SIZE: 10.5pt">托管协议书、国债冻结协议书、资金划款凭证、<SPAN style="FONT-SIZE: 10.5pt">情况说明、谈话笔录等证据证明。</SPAN></SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">时任财务部经理张五洲在陈述、申辩中提出，其</SPAN><SPAN style="FONT-SIZE: 10.5pt">未起组织实施或决定作用，公司重大决定由公司经理办公会决定，具体执行人是财务人员；造成挪用的直接原因是大量违规拆借和对外投资及购置固定资产，因此，对其只起执行作用的中层处罚有失公正。经审理，</SPAN><SPAN style="FONT-SIZE: 10.5pt">张五洲并未对其所指人员在五洲证券违法行为中应承担的责任提出证据，且相关证据表明，张五洲在担任五洲证券财务部经理期间，在大量挪用客户交易结算资金的单据上签字，且财务人员也是在其管理之下，因此，张五洲实际上起到了组织、参与实施挪用的作用</SPAN><SPAN style="FONT-SIZE: 10.5pt">。张五洲的上述申辩理由不成立。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五洲证券上述挪用客户交易结算资金的行为违反了原《证券法》第七十三条 “在证券交易中，禁止证券公司及其从业人员从事下列损害客户利益的欺诈行为”第（三）项“挪用客户所委托买卖的证券或者客户账户上的资金”的规定，以及第一百三十二条“严禁挪用客户交易结算资金”的规定，构成了原《证券法》第一百九十三条所述“证券公司、证券登记结算机构及其从业人员，未经客户的委托，买卖、挪用、出借客户账户上的证券或者将客户的证券用于质押的，或者挪用客户账户上的资金的”行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五洲证券上述超范围从事委托理财业务的行为违反了原《证券法》第一百三十一条第二款“证券公司不得超出核定的业务范围经营证券业务和其他业务”的规定，构成了原《证券法》第一百九十九条所述“证券公司违反本法规定，超出业务许可范围经营证券业务的”行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>鉴于五洲证券已依法被行政关闭，根据当事人违法行为的性质、情节和社会危害程度，依照原《证券法》第一百九十三条“证券公司、证券登记结算机构及其从业人员，未经客户的委托，买卖、挪用、出借客户账户上的证券或者将客户的证券用于质押的，或者挪用客户账户上的资金的，责令改正，没收违法所得，处以违法所得一倍以上五倍以下的罚款，并责令关闭或者吊销责任人员的从业资格证书”的规定，<SPAN style="FONT-SIZE: 10.5pt">我会决定：吊销隋新洛、张五洲、刘卫的证券从业资格证书</SPAN>。鉴于责任人员江毅无证券从业资格，我会将另行处理。对于责任人员杨欣，我会将另行处理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 223.8pt; LINE-HEIGHT: 36pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　 　&nbsp; 中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 28pt" align=center><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　　 </SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　&nbsp; 　　　　&nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">二○○八年五月十六日</SPAN><SPAN style="FONT-SIZE: 10.5pt"> </SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100125_175869_ext.json

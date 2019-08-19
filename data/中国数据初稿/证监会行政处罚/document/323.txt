@@ -1,0 +1,228 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（胡先林、罗雄飞、唐均）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2015年08月18日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（胡先林、罗雄飞、唐均）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2015〕28号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（胡先林、罗雄飞、唐均）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2015〕28号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 29pt; TEXT-ALIGN: center" align=justify><FONT style="FONT-SIZE: 15pt"><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正仿宋简体'; mso-spacerun: 'yes'">〔<FONT style="FONT-SIZE: 10.5pt">2015</FONT><FONT style="FONT-SIZE: 10.5pt">〕</FONT><FONT style="FONT-SIZE: 10.5pt">28</FONT><FONT style="FONT-SIZE: 10.5pt">号</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></FONT></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 15pt; FONT-FAMILY: '方正仿宋简体'; mso-spacerun: 'yes'">　&nbsp;</SPAN><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：胡先林，男，1964年5月出生，住址：四川省成都市青羊区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">罗雄飞，男，1961年11月出生，住址：四川省南充市顺庆区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">唐均，男，1972年3月出生，住址：四川省南充市顺庆区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对胡先林等人编造传播虚假信息行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，胡先林等人存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、东方财富股吧“冷眼看市888”账号编造、传播虚假信息</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年4月24日和5月4日，“冷眼看市888”账号先后2次在东方财富股吧发表“金宇车城股权之争引发重大资产重组”的帖子，称“北京正谋组织多路私募基金狙击金宇车城，直接通过二级市场收集该公司股权，夺取控股权，并希望通过公开征集重组方和植入项目，对公司进行彻底重组，逼迫大股东下野，导致二级市场上股价一路飙涨。大股东金宇控股集团非常被动，现在正在火速召集多家券商寻找志同道合的战略投资者和优质的项目注入上市公司，对北京正谋的狙击进行反击，以牢牢保住公司的控制权”，“经向公司内部人士求证，公司高管最近都贴了封口令，凡是涉及资产重组的话题高度保密，不能发言。这种高度保密，只针对资产重组的封口令以前从来没有过。现在，公司股价暴涨，也不排除大股东参与了二级市场股权争夺的反击战”。5月17日，“冷眼看市888”账号再次在东方财富股吧发表“这次的借壳可能已经谈妥”的帖子，称“据传，以前屡次谈崩的重组——剑兰春借壳金宇车城上市，最近频繁接触，可能已经谈妥。二级市场的股价已经对借壳重组充分佐证”。截至6月9日，“冷眼看市888”发表的上述3个帖子点击率分别为5611次、5922次和3452次，跟帖量分别为6次、4次和2次，转载量分别为0次、3次和3次，点赞量分别为1次、1次和3次。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经与四川金宇汽车城（集团）股份有限公司（以下简称金宇车城）、成都金宇控股集团有限公司（以下简称金宇控股，金宇车城控股股东）、四川剑南春（集团）有限责任公司与四川剑南春股份有限公司等单位和有关人员调查核实，“冷眼看市888”所发布的上述信息为虚假信息。金宇车城于2015年5月19日发布澄清公告，针对网络上有关“这次（剑南春）借壳可能已经谈妥”与“金宇车城股权之争引发重大资产重组”的传闻进行澄清。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、胡先林等人利用“冷眼看市888”账号编造、传播虚假信息的动机和具体经过</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">金宇控股持有金宇车城23.51%股权，为金宇车城第一大股东。由于持股比例较低，金宇控股一直都有增持金宇车城股份的想法。2015年2月至4月，金宇车城股票价格大幅上涨。2015年4月，金宇车城董事长胡先林找到董秘罗雄飞，让罗雄飞去发布一个金宇车城没有借壳重组的澄清公告，希望遏制公司股价快速上涨势头。在胡先林要求罗雄飞发布澄清公告后，金宇车城股价涨得很高，胡先林问罗雄飞澄清公告为什么还没有发出来，罗雄飞回答说当时不符合发布澄清公告的要求和条件，以前网上有关于金宇车城重组传闻的帖子，但是现在网上没这个帖子了。胡先林要罗雄飞想办法尽快把澄清公告发出去。罗雄飞接受调查时称，他找到胡先林谈到公司股价涨势太快，两人一致认为公司股价涨得过猛，想遏制一下公司股价，就商量出了先安排人在股吧上发帖，然后再出澄清公告的想法。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年4月，罗雄飞找到唐均，让他帮忙去网上发布一些关于金宇车城重组传闻的帖子，然后再由公司发布澄清公告，达到控制股价上涨的目的。2015年4月24日，唐均在东方财富股吧注册了“冷眼看市888”账号。唐均使用该账号于4月24日、5月4日和5月17日分别发布了上述关于金宇车城重组传闻的帖子，每次发帖后均将发帖情况告诉了罗雄飞。罗雄飞称，由于唐均前两次发帖后，大盘情况不太好，金宇车城股价受到影响，如发布澄清公告会对公司股票造成较大波动，所以当时未发布澄清公告，但第三次发帖后，公司股价已达到40元左右，等不及观察发帖的效果，就赶紧发布澄清公告。2015年5月18日，胡先林到金宇车城开会，罗雄飞把找人在网上发表关于金宇车城帖子的情况和第二天准备发澄清公告的情况告诉了胡先林，胡先林当日在澄清公告上签字，2015年5月19日，金宇车城发布澄清公告。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">三、胡先林等人的行为扰乱了证券市场</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">涉案帖子发布后，2015年5月19日，金宇车城发布澄清公告，称“近日公司发现有部分消息在网络流传，传闻一：‘这次（剑南春）借壳可能已经谈妥’。传闻二：‘金宇车城股权之争引发重大资产重组’”，并澄清传闻一与传闻二不属实，表示“公司、控股股东及实际控制人承诺在未来六个月内不会筹划与本公司有关的重组、并购、定向发行及其他可能对公司股票交易价格有重大影响的事项”。当日公司股票收盘价为35.08元，较上一日收盘价36.7元下跌4.41%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述违法事实，有相关发帖记录、注册信息、登陆日志、浏览量信息以及情况说明、公告、涉案人员询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，唐均在罗雄飞的安排下，使用“经向公司内部人士求证”、“最近频繁接触，可能已经谈妥”等看似确信又具有误导性的词汇，编造了金宇车城重组传闻这一虚假信息并在东方财富股吧进行了传播；胡先林未承认直接安排或指使罗雄飞安排人在网络上发布关于金宇车城重组的传闻，但他向罗雄飞明确要想办法推出澄清公告，并在5月18日罗雄飞向他汇报找人发帖的情况后签署了澄清公告，可以认定胡先林对罗雄飞安排人员在网络上发布虚假信息进行了事先概括授权与事后认可。胡先林等人的行为，违反了《证券法》</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第七十八条第一款关于“禁止国家工作人员、传播媒介从业人员和有关人员编造、传播虚假信息，扰乱证券市场”的规定，构成《证券法》第二百零六条所述“扰乱证券市场”行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第二百零六条的规定，我会决定：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、责令胡先林、罗雄飞改正，并分别处以20万元罚款；</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、责令唐均改正，并处以5万元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p15 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起6个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt">&nbsp;</FONT></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt">&nbsp;</FONT></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt">&nbsp;</FONT></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 中国证监会</FONT></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p><FONT style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 &nbsp;2015年8月18日</FONT></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20150908_283694_ext.json

@@ -1,0 +1,320 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（涂强）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-04290</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年07月29日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（涂强）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2010）27号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（涂强）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2010）27号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>号</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：涂强，男，<SPAN style="FONT-SIZE: 10.5pt">1969</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月出生，时任景顺长城基金管理有限公司（以下简称景顺长城）景系列开放式证券投资基金（包含优选股票基金、动力平衡基金、货币市场基金）、景顺长城鼎益股票型证券投资基金（以下简称鼎益基金）基金经理。住址：广东省深圳市福田区长城盛世家园。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">依据《中华人民共和国证券投资基金法》（以下简称《证券投资基金法》）、《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">涂强</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">违法违规</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">一案</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人提出了陈述、申辩意见，但不要求举行听证会。本案现已调查、审理终结。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，涂强存在以下违法违规行为：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">涂强担任景顺长城景系列开放式基金的基金经理（<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日任景顺长城鼎益股票型证券投资基金的基金经理）起至涂强违法行为的发现时间<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日，涂强等人通过网络下单的方式，共同操作涂强亲属赵某、王某开立的两个同名证券账户从事股票交易，先于或与涂强管理的动力平衡基金等基金同步买入相关个股，先于或与动力平衡基金等基金同步卖出相关个股，涉及浦发银行等<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>支股票，为赵某、王某账户非法获利<SPAN style="FONT-SIZE: 10.5pt">379,464.40</SPAN>元。其中：</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">一、</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">赵某账户</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）赣粤高速：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">4,280</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">2,000,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）泰豪科技：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">3,300</SPAN>股，同日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">692,200</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）济南钢铁：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">30,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">29</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划卖出该股。<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">29</SPAN>日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">264,068</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（四）广州友谊：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">97,730</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">97,730</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（五）浦发银行：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">8,800</SPAN>股，同日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">300,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">877,022</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股，同日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">365,974</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划卖出该股。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">246,130</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股，同日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">2,110,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日，<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">4,000,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">2,500,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（六）海油工程：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划买入该股。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">400,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划卖出该股。<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">150,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（七）兴业银行：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">500,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">1,158,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">201,400</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（八）武钢股份：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">50,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">500,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">25,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">2,930,100</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（九）中联重科：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">4,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">2,111,659</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">4,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">210,765</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十）金地集团：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股，同日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">199,992</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">1,077,924</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十一）神火股份：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股，同日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">1,292,300</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股，同日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">230,764</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">15,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">1,100,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日，<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日涂强提交的操作计划显示，动力平衡基金计划卖出该股。<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日，<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">4,500,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十二）贵州茅台：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">2,500</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日，涂强为精选蓝筹基金下单买入<SPAN style="FONT-SIZE: 10.5pt">299,959</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户卖出<SPAN style="FONT-SIZE: 10.5pt">3,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日，动力平衡基金、鼎益基金累计卖出<SPAN style="FONT-SIZE: 10.5pt">1,989,861</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十三）置信电气：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日，动力平衡基金、鼎益基金累计买入<SPAN style="FONT-SIZE: 10.5pt">6,388,942</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十四）华发股份：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，赵某账户买入<SPAN style="FONT-SIZE: 10.5pt">20,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt"> 23</SPAN>日，鼎益基金共买入<SPAN style="FONT-SIZE: 10.5pt">1,824,296</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、王某账户</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）神火股份：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">20,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划买入该股。<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">100,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">1,500</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划卖出该股。<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">1,074,400</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">110,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）天音控股：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">18,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">2,244,457</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）中兴通讯：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划买入该股。<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">250,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日景顺长城投资部晨会纪要显示，资源垄断基金计划买入该股，涂强出席了该晨会。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（四）中信证券：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">7,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">1,349,916</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">2,777</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划卖出该股。<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">250,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">3,000</SPAN>股，同日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">265,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">3,500</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">400,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">6,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日景顺长城投资部晨会纪要显示，新兴成长基金计划卖出该股，涂强出席了该晨会。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（五）宝钢股份：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">14,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">18,940,527</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">4,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">6,000,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日景顺长城投资部晨会纪要显示，资源垄断基金计划卖出该股，涂强出席了该晨会。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（六）国药股份：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">29</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">14,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">2,690,944</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">14,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">957,696</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（七）云南铜业：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">4,229,801</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">909,801</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（八）金地集团：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划买入该股。<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">356,700</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日景顺长城投资部晨会纪要显示，资源垄断基金计划卖出该股，涂强出席了该晨会。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">5,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日景顺长城投资部晨会纪要显示，资源垄断基金计划卖出该股，涂强出席了该晨会。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日景顺长城投资部晨会纪要显示，优选股票基金、动力平衡基金、鼎益基金计划买入该股，涂强出席了该晨会。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金、鼎益基金计划买入该股，涂强出席了该晨会。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">7,500</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日，鼎益基金共买入<SPAN style="FONT-SIZE: 10.5pt">3,999,906</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（九）哈空调：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">12,900</SPAN>股，同日，动力平衡基金买入<SPAN style="FONT-SIZE: 10.5pt">1,235,950</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">8,500</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日景顺长城投资部晨会纪要显示，动力平衡基金计划买入该股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">15,000</SPAN>股，同日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">1,000,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">20,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日，动力平衡基金共卖出<SPAN style="FONT-SIZE: 10.5pt">2,052,042</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十）广州友谊：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">20,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日，鼎益基金买入<SPAN style="FONT-SIZE: 10.5pt">500,000</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十一）合肥百货：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户卖出<SPAN style="FONT-SIZE: 10.5pt">13,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，动力平衡基金卖出<SPAN style="FONT-SIZE: 10.5pt">2,778,703</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十二）泸州老窖：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">15,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">29</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">5,154,718</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十三）置信电气：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>日，王某账户再次买入<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日，动力平衡基金、鼎益基金累计买入<SPAN style="FONT-SIZE: 10.5pt">13,846,661</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（十四）海油工程：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，王某账户买入<SPAN style="FONT-SIZE: 10.5pt">30,000</SPAN>股。<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日，动力平衡基金共买入<SPAN style="FONT-SIZE: 10.5pt">1,999,932</SPAN>股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>调查发现，涂强提供了赵某、王某账户的部分交易资金，是该两个账户股票交易获利的受益人。涂强利用任职优势获取了景顺长城旗下多支基金投资股票的未公开信息，操控赵某、王某账户，先于或与涂强管理的基金及其他有关基金同步买卖相同股票。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>以上事实，有景顺长城提供的相关情况说明，景顺长城会议记录，当事人询问笔录，相关基金和赵某、王某账户股票交易记录，赵某、王某账户股票交易下单电脑<SPAN style="FONT-SIZE: 10.5pt">MAC</SPAN>记录以及下单交易<SPAN style="FONT-SIZE: 10.5pt">IP</SPAN>地址等证据在案证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述行为，违反了《证券投资基金法》第十八条有关基金从业人员不得从事损害基金财产和基金份额持有人利益的证券交易的规定，构成了《证券投资基金法》第九十七条所述违法行为。同时，还违反了《证券法》第四十三条有关禁止特定人员直接或者借他人名义持有、买卖股票的规定，构成了《证券法》第一百九十九条所述违法行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人涂强在陈述、申辩材料中对因个人的行为给所在公司及行业造成的负面影响表示悔过，愿意接受处罚，但提出自己并没有主观故意去侵害基金持有人的利益，事先告知书列举的部分交易在交易股票类型和时间上不符合“老鼠仓”行为特征。例如，涉案个人账户对大多数股票的首次买入时间大大晚于当事人管理的基金对相同个股的首次买入时间；基金先于涉案个人账户买入或卖出个股的情况较多；基金对大多数个股的交易量未超过该股票当日总成交量的<SPAN style="FONT-SIZE: 10.5pt">10%</SPAN>，影响不了该个股的价格走势；涉案个人账户在同时期内交易的股票支数较多，市值通常较大，但整体收益不高，与“老鼠仓”一般选择单支、小市值股票以获取超额收益的做法不符。此外，当事人还提出，其无法获取景顺长城旗下其他基金的投资信息；受精选蓝筹基金的基金经理电话委托，为该基金买入“贵州茅台”股票，受托买入时间晚于涉案赵某账户买入该股票的时间。请求对其减轻处理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经复核，在涂强任基金经理的近<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>年时间里，其所控制的赵某、王某账户持续不断地出现与基金投资高度关联的交易行为，表现为提前或同步买或卖相同股票。这一长期连续发生的客观事实表明，涉案个人账户的抢先交易行为不是偶发的、巧合的，而是有意识的、习惯性的。涂强任基金经理，上述抢先交易行为均与其任职有关，其利用未公开的基金投资信息为涉案个人账户谋利的情形明显。综上，涂强有关没有违法主观故意的申辩意见没有法律依据与证据支持，不予采纳。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经复核，根据景顺长城提供的情况说明，该公司<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月之前实行基金经理在晨会上报告当日操作建议的日例会制度，并留有晨会纪要，后改为基金经理通过投研系统提交操作计划，<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月后改为由基金经理经审批后直接下单。晨会纪要、投研系统投资操作计划向基金经理开放查询。以上情况说明，当事人通过参加晨会或登录投研系统，可以知悉景顺长城旗下有关基金投资建议，其有关无法获取其他基金投资信息的说法与事实不符，没有证据支持，不予采纳。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经复核，根据景顺长城晨会纪要与投资记录，涂强参加了<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日的晨会。在该次晨会上，资源垄断基金的基金经理将“贵州茅台”股票作为首选股进行推荐。<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日，涉案赵某账户买入该股票。<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日，涂强代精选蓝筹基金下单买入该股，并在精选蓝筹基金交易所报表单上签字。另通过电话录音查询，未发现涂强是在<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日当日才接受精选蓝筹基金的基金经理委托下单买入“贵州茅台”股票的指令。综上，其有关陈述、申辩理由与事实不符，没有证据支持，不予采纳。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">我会认为，涂强担任基金经理职务近<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>年，本应坚守法律底线和职业操守，尽心管理基金财产，为基金份额持有人服务。但是，涂强却违背了忠实和诚信义务，利用担任景顺长城旗下基金的基金经理的职务便利以及所获取的相关基金投资股票的未公开信息，操控涉案个人账户先于或与有关基金同步买卖与基金相同股票牟利，从事利益冲突行为，且持续时间较长。在我会对多起基金从业人员从事利益冲突行为给予严厉处罚、处理，在多次重申执业纪律，强调基金投资管理人员执业行为规范之后，涂强仍不思悔改，继续从事违法行为，具有较大主观恶性，依法应予处罚。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，基金公司与基金份额持有人之间是信托法律关系，基金公司对基金财产和基金份额持有人负有诚信义务。基金经理受聘代表基金公司管理基金财产，对基金财产和基金份额持有人负有忠实、勤勉义务，须恪守职业道德与行为规范，尽责管理基金财产，维护基金份额持有人的利益，不得从事任何损害基金财产和基金份额持有人利益的证券交易及其他活动，特别是与其履行基金经理职责有利益冲突，与其担任基金经理职务随附的诚信义务相悖的活动。利用职务便利抢先交易，使涉案个人账户同有关基金相比在交易价格、交易时机上占优，并意图利用基金的投资行为替涉案个人账户谋取利益，是一种典型的利益冲突行为。这种行为不仅客观上会对相关股票的市场价格产生不利于有关基金的影响，损害基金财产及基金份额持有人的利益，而且妨碍了正常的交易秩序，破坏了公平、公正的市场交易环境。因此，无论抢先交易是否会对相关股票价格最终产生影响，无论产生的影响大小，也无论当事人是否最终获利，这种行为本身都违背了基金经理的诚信义务，具有违法性，且性质恶劣。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，基金经理管理着资金规模巨大的信托财产，其所作所为不仅关系到所在基金公司的声誉，而且将影响广大投资者对基金行业乃至证券市场的信赖基础。因此，基金经理应珍视职业发展的良好机遇，谨记自身对于基金财产和基金份额持有人的诚信义务，忠实、勤勉地工作，切不可存有侥幸心理，从事任何形式的背信违法行为。否则一旦被发现，当事人将遭受严厉的惩罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券投资基金法》第九十七条及《证券法》第一百九十九条规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、取消涂强的基金从业资格；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、没收涂强违法所得<SPAN style="FONT-SIZE: 10.5pt">379,464.40</SPAN>元，并处以<SPAN style="FONT-SIZE: 10.5pt">200</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚没款汇交中国证券监督管理委员会<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>开户银行<SPAN style="FONT-SIZE: 10.5pt">:</SPAN>中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>，并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>　　<SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">二○一○年七月二十九日</SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100906_184428_ext.json

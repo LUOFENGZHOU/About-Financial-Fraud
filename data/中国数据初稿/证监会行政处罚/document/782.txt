@@ -1,0 +1,247 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（唐建）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-01537</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年04月08日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（唐建）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]22号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>股票 基金份额 账户 基金</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（唐建）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]22号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1247119006750'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1247119006750 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119006750 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119006750 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119006750 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119006750 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'">[2008]22<FONT face=黑体>号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=17><SPAN class=15 style="FONT-SIZE: 12pt; FONT-FAMILY: '黑体'; mso-spacerun: 'yes'"><FONT face=黑体><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人</FONT></SPAN></FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>：唐建，男，1974年4月出生，时任上投摩根基金管理有限公司（以下简称上投摩根）研究员兼阿尔法基金经理助理，住址：上海市浦东新区金桥路989弄38号202室。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对唐建违反证券法律法规一案进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人申请，我会举行了听证会，听取了当事人及其代理人的陈述与申辩意见，现已调查、审理终结。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，唐建任职上投摩根期间，利用职务便利通过其所控制的证券账户交易“新疆众和”股票，为自己及他人非法获利152.72万元。具体情况如下：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2006<FONT face=宋体>年3月，唐建任职上投摩根研究员兼阿尔法基金经理助理，在执行职务活动，向有关基金二级股票池和阿尔法基金推荐买入“新疆众和”股票的过程中，使用自己控制的中信建投证券上海福山路营业部（以下简称福山路营业部）“唐金龙”证券账户先于阿尔法基金买入“新疆众和”股票，并在其后连续买卖该股。期间，唐建还利用职务权限，多次查询上投摩根阿尔法基金投资“新疆众和”股票的信息，充分掌握了该基金的投资情况。截至2006年4月6日全部卖出前，“唐金龙”证券账户累计买入“新疆众和”股票60,903股，累计买入金额76.49万元；全部卖出所得金额105.45万元，获利28.96万元。此外，2006年4月至5月，唐建还利用福山路营业部“唐金龙”资金账户下挂的“李成军”证券账户、东方证券上海浦东南路营业部“李成军”证券账户连续买卖“新疆众和”股票的机会，为自己及他人非法获利123.76万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>以上违法事实，有上投摩根情况说明，当事人询问笔录，营业部情况说明及有关人员询问笔录，“唐金龙”、“李成军”账户开户资料及交易流水，“唐金龙”账户网络交易IP地址，上投摩根出差记录及报销凭证，“新疆众和”公司2006年第一季度报告等证据在案证明。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>唐建在申辩中提出，自己不是基金经理助理。经复核，根据上投摩根有关公司研究员和基金经理助理职责的说明，唐建于2004年4月加入上投摩根，担任研究员；2006年1月兼任阿尔法基金经理助理。根据上投摩根内部管理制度，基金经理助理的职权包括依据基金经理的授权下达股票交易指令；向该基金的基金经理提出投资参考建议；查询该基金的交易组合情况。唐建利用上述职权对阿尔法基金投资情况进行了查询。因此，唐建的上述申辩与事实不符。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>唐建提出，自己并未向阿尔法基金推荐买入“新疆众和”股票。经查明，2006年3月23日，唐建以上投摩根研究员身份建议调整上投摩根阿尔法基金、中国优势基金二级股票池，增加“新疆众和”股票为可投资对象；2006年3月28日，唐建电话向阿尔法基金的基金经理建议买入“新疆众和”股票。唐建的上述行为构成了向有关基金推荐买入“新疆众和”股票的职务行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>唐建提出，自己对“唐金龙”账户没有控制权，未提供该账户的交易资金；未进行股票交易；与最终获利无关。经查明，根据福山路营业部情况说明、福山路营业部柜台主管以及唐建本人的询问笔录，唐建办理了“唐金龙”、“李成军”资金账户的开立手续，将“李成军”证券账户下挂在“唐金龙”资金账户；根据福山路营业部及招商银行上海分行营业部提供的证据，“唐金龙”资金账户的交易资金62万元系由唐建本人的招商银行一卡通账户51242502****0623在2006年2月7日划入；根据福山路营业部提供的“唐金龙”证券账户网络交易IP地址、上投摩根出差记录与报销凭证以及唐建的询问笔录，唐建曾通过网络交易的方式在香港、新疆、云南等地交易过“新疆众和”股票。根据唐建的询问笔录，唐建从“新疆众和”股票交易获利中分得了收益。因此，唐建的上述申辩没有事实依据，我会不予采信。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>唐建及其代理人辩称，唐建的行为未给基金财产和基金份额持有人利益造成损失，不应适用《中华人民共和国证券投资基金法》（以下简称《证券投资基金法》）第十八条予以认定，也不应适用该法第九十七条进行处罚。我会认为，《证券投资基金法》第十八条明确规定，基金从业人员“不得从事损害基金财产和基金份额持有人利益的证券交易及其他活动”。基金从业人员利用其所处的职务或地位，从事任何与基金财产和基金份额持有人利益相冲突的证券交易，都将导致或可能导致损害基金财产和基金份额持有人利益，都是为法律所禁止的。唐建利用其在基金公司所任职务的便利，利用非公开的基金投资信息，先于有关基金买入同一公司股票，为自己及其亲属牟取私利，违背了基金从业人员对受托管理的基金及基金份额持有人应负有的忠实、勤勉义务，是明显的利益冲突的行为，是严重的背信行为。这种先于有关基金买入同一公司股票的证券交易行为客观上会对相关股票的市场价格产生不利于有关基金的影响，使该基金投资该种股票的成本增加，从而损害了基金财产和基金份额持有人利益。唐建这种背信行为还损害了有关基金及基金管理人的声誉，损害了投资者对有关基金及基金管理人的信赖和信心，进而对有关基金的长期运作和基金份额持有人利益造成损害。因此，应当适用《证券投资基金法》第九十七条对唐建的行为进行处罚。同时，我会认为，作为基金从业人员，唐建属于《证券法》等法律、行政法规规定的禁止从事股票交易的人员，其买卖“新疆众和”股票的行为违反了《证券法》有关禁止有关人员买卖股票的规定。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>唐建利用职务便利，通过“唐金龙”及其关联证券账户多次交易“新疆众和”股票并获利的违法行为事实清楚，证据确实、充分，足以认定。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>我会认为，在证券投资基金活动中，投资者出于对基金管理人的信任，将资金委托给基金管理人进行证券投资；基金管理人受人之托，为基金份额持有人的利益管理、运用基金财产。基金管理人与基金份额持有人之间是一种信托关系，基金管理人及其基金从业人员对基金和基金份额持有人负有忠实义务，必须恪尽职守，履行诚实信用、谨慎勤勉的义务，不得从事利益冲突的行为，不得将自身利益置于基金财产和基金份额持有人的利益之上，更不得在执行职务或办理业务过程中利用所处地位或优势牟取私利。忠实勤勉、诚实守信、避免利益冲突，不仅是基金从业人员基本的执业准则，更是基金行业的立业之本。唐建作为上投摩根研究员兼阿尔法基金经理助理，一方面履行公司赋予的职责，参与基金财产的投资和管理，另一方面又凭借职务便利，利用非公开的基金投资信息，为自己及他人利益买卖相同股票并获利，构成了严重的利益冲突行为，违背了基金从业人员的法定义务，是一种典型的背信行为，应当受到制裁。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>唐建的上述行为违反了《证券投资基金法》第十八条有关禁止从事损害基金财产和基金份额持有人利益的证券交易及其他活动的规定，同时也违反了《证券法》第四十三条有关禁止有关人员参与股票交易的规定，构成了《证券投资基金法》第九十七条所述基金从业人员损害基金财产和基金份额持有人利益的行为以及《证券法》第一百九十九条所述违反法律规定参与股票交易的行为。根据唐建违法行为的事实、性质、情节与社会危害程度，依据《证券投资基金法》第九十七条、《证券法》第一百九十九条之规定，我会决定如下：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>一、取消唐建基金从业资格；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>二、没收唐建违法所得152.72万元，并处50万元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会(开户银行:中信银行总行营业部、账号7111010189800000162,由该行直接上缴国库)，并将付款凭证的复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起3个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 63pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN></P>
+<P class=17 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 63pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>二○○八年四月八日&nbsp; </FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20080430_23123_ext.json

@@ -1,0 +1,246 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（智多盈、黄建等4名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-08269</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年12月31日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（智多盈、黄建等4名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2009）56号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（智多盈、黄建等4名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2009）56号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">（<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">56</SPAN>号</SPAN>&nbsp;</FONT></FONT></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：深圳市智多盈投资顾问有限公司（以下简称智多盈），法定代表人裴继伟，住所：广东省深圳市福田区深南中路<SPAN style="FONT-SIZE: 10.5pt">2072</SPAN>号电子大厦<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>层<SPAN style="FONT-SIZE: 10.5pt">03-16</SPAN>房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>黄建，男，<SPAN style="FONT-SIZE: 10.5pt">1962</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月出生，时任智多盈证券投资咨询人员，住址：天津市河西区洞庭路龙江里<SPAN style="FONT-SIZE: 10.5pt">64</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">503-504</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>冯瀚，男，<SPAN style="FONT-SIZE: 10.5pt">1978</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月出生，时任智多盈证券投资咨询人员，住址：湖北省武汉市武昌区学院路<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>易文斌，男，<SPAN style="FONT-SIZE: 10.5pt">1971</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月出生，时任智多盈证券投资咨询人员，住址：广东省深圳市福田区八卦岭平安大厦<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>楼。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>谢勇，男，<SPAN style="FONT-SIZE: 10.5pt">1975</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，时任智多盈证券投资咨询人员，住址：广东省深圳市福田区下步庙<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">503</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">依据</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">《</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">中华人民共和国证券法</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">》（以下简称《证券法》）</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">的有关规定，我会对</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">智多盈</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">违反证券法律法规</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">一案</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人黄建的要求，我会举行了听证会，听取了黄建的陈述和申辩；其他当事人未提出陈述、申辩意见。本案现已调查、审理终结。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">经查明，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">智多盈、黄建等当事人存在如下违法违规行为：</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月，智多盈与广西电视台、新疆电视台、深圳财经频道等<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>家媒体签订合作协议，由电视台安排固定时段播出智多盈制作的《财富资讯》、《股市智多盈》、《股市纵横》等股评栏目。<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月，黄建等<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>名智多盈聘用的证券投资咨询人员在股评栏目中向公众提供证券投资分析、预测或建议，有如下言论：</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、黄建</FONT></SPAN></P>
+<P style="TEXT-INDENT: 19.2pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>日，黄建主持的广西电视台股评节目《股市智多盈》中有以下内容：“捕获未来的硅资源霸主，形态突破确认升势即将展开”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 19.2pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日，黄建主持的广西电视台股评节目《股市智多盈》中有以下内容：“你与财富的距离＝你与电话的距离，播种五月的丰收还剩最后几天”，“捕获未来的硅资源霸主留着机会等你来”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>此外，黄建在担任深圳华鼎财经资讯股份有限公司（以下简称华鼎财经）证券投资咨询人员期间亦有类似言论。<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日，黄建主持的辽宁电视台股评节目《股市赢家》中有以下内容：“两大计划，打响升值翻身战；飙升在即，低位不能错过，持有就能赚钱”，“中秋同乐，华鼎送出三重大礼，第二重大礼：免费送股，今日免费送出‘电金流计划’核心股之‘动力火车’让您的资产快速增值<SPAN style="FONT-SIZE: 10.5pt">50%</SPAN>”，“黄河火龙，筑底接近尾声，飙升就在眼前”，“纵横天下公司业绩出现转折，筑底已经完成，飙升就在眼前”，“送出纵横天下这一个股”，“中华大力之神；地王之王；无需买来买去，持有就能翻倍”，“今日破例免费赠送所有来电者‘纵横天下’，节前最后一天是最佳买入良机”，“欢迎有识之士来电共谋赚取<SPAN style="FONT-SIZE: 10.5pt">50%</SPAN>以上利润的大计”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、易文斌</FONT></SPAN></P>
+<P style="TEXT-INDENT: 16.35pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日，易文斌主持的深圳财经频道股评节目《中国股市报道》中有以下内容：“短线方面出现比较大的飚升动作，在未来业绩方面会出现连续大幅增长，后年会出现<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>到<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>倍的增长，爆发在即，把这只个股送给打进电话的前<SPAN style="FONT-SIZE: 10.5pt">50</SPAN>名投资者”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 16.35pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日，易文斌主持的深圳财经频道股评节目《中国股市报道》中有以下内容：“今天给大家推荐一只新的领涨股，低价牛股，像这样升值潜力巨大的个股，你现在拿起电话就能得到它”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、冯瀚</FONT></SPAN></P>
+<P style="TEXT-INDENT: 16.35pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日，冯瀚主持的新疆电视台股评节目《财富资讯》中有以下内容：“<SPAN style="FONT-SIZE: 10.5pt">G</SPAN>江铜第二，复牌后能获得巨大收益”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 16.35pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日，冯瀚主持的广西电视台《股市智多盈》节目中有以下内容：“<SPAN style="FONT-SIZE: 10.5pt">G</SPAN>拜克（股票代码为<SPAN style="FONT-SIZE: 10.5pt">600226</SPAN>），飙升在即”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 10.9pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日，冯瀚主持的新疆电视台股评节目《财富资讯》中有以下内容：“轴研科技振荡整理有望结束，激动人心的涨势就在眼前，爆发在即，中国强国之路第一股”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、谢勇</FONT></SPAN></P>
+<P style="TEXT-INDENT: 16.35pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日，谢勇主持的深圳财经频道股评节目《交易日》中有以下内容：“送出的会员股二号同样具备涨价题材，后市将会加速飚升”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 16.35pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日，谢勇主持的深圳财经频道股评节目《交易日》中有以下内容：“风华高科（股票代码为<SPAN style="FONT-SIZE: 10.5pt">000636</SPAN>）在周<SPAN style="FONT-SIZE: 10.5pt">K</SPAN>线完成一个颈线的一个突破后，后市会出现暴发性的上涨”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 16.35pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日，谢勇主持的深圳财经频道股评节目《交易日》中有以下内容：“怎么样从个股中选择一些获得暴利的机会”，“谢勇今天送出的一只股票无论基本面还是它的形态都具备飚升的潜力”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>以上事实，有智多盈提供的情况说明、当事人询问笔录、相关协议和电视股评节目录像等证据在案证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>智多盈、黄建等人的上述行为违反了《证券、期货投资咨询管理暂行办法》（以下简称《暂行办法》）第十九条、第二十条、第二十四条第（二）项以及《证券法》第一百七十一条第一款第（四）项、第（五）项的规定，构成了《暂行办法》第三十四条、第三十六条以及《证券法》第二百二十六条第三款所述违法行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人黄建申辩称，其在电视股评节目中的有关言论并未违反《暂行办法》有关提供证券投资分析、预测或建议应遵循客观、谨慎等行业公认的原则规定；其对个股的评述、推荐是基于分析研究之后的理性判断，不存在欺骗、误导投资者的主观故意，未向投资者承诺收益；免费赠股等广告营销活动并不违反当时的法律规定；拟对其作出的处理已过行政处罚追诉时效。请求对其免于处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经复核，黄建作为证券投资咨询执业人员，违背《证券法》、《暂行办法》有关提供证券投资分析、预测或建议应遵循客观、谨慎、准确、完整的规定，在任职华鼎财经、智多盈期间，在电视股评节目中多次使用含有夸大性字眼的表述，例如“飙升在即”，以及使用含有误导性的言论，例如“无需买来买去，持有就能翻倍”等对相关个股情况进行评价、预测、推荐，影响了普通的公众投资者对证券投资风险的正常判断，误导普通的公众投资者相信，购买黄建所推荐的投资理财产品或服务能够获得收益。以上行为，违反了《暂行办法》有关证券投资咨询人员应当以诚实守信和勤勉尽责的态度提供证券投资咨询服务，证券投资咨询机构及其从业人员不得向投资人承诺收益，以及《证券法》有关证券投资咨询机构及其从业人员不得利用传播媒介提供、传播误导投资者的信息的规定，违法事实清楚，证据确实、充分；从《暂行办法》第十九条、第二十条的规定看，客观、谨慎、诚实和勤勉尽责是证券投资咨询人员必须遵守的执业准则。这个执业准则应当贯穿于其执业的全过程，覆盖其执业的全部内容。由于黄建是以其执业身份在公众媒体做营销，其营销行为已构成了其执业内容的一部分，因此，也必须符合执业准则；<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月，我会对智多盈违法一案正式立案稽查，根据《中华人民共和国行政处罚法》第二十九条规定，黄建在任职华鼎财经、智多盈期间的连续违法行为，应当被追究行政法律责任。综上，当事人黄建未就事先告知涉及的违法行为提出新的事实及其证据，有关陈述、申辩意见不予采纳。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，智多盈利用合法证券投资咨询机构的社会影响力、证券投资咨询人员的专业身份以及公众媒体所具有的公信力，在电视股评节目中发表误导性言论，违反了法律规定和行业要求，影响比较恶劣。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，作为经批准从事证券投资咨询业务的投资咨询机构及其从业人员，务必谨守执业准则和规定，谨慎、勤勉、客观、公平地为投资者提供咨询服务，共同维护市场秩序和行业声誉。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt">根据当事人的违法事实、性质、情节与社会危害程度，依据《暂行办法》第三十四条、第三十六条和<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">《证券法》第二百二十六条第三款的规定，我会决定：</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">一、</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">对智多盈责令改正，并处以<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>万元罚款；</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、撤销黄建的证券投资咨询业务资格，并处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元罚款；对冯瀚、易文斌、谢勇分别给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>开户银行<SPAN style="FONT-SIZE: 10.5pt">:</SPAN>中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162,</SPAN>由该行直接上缴国库<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>，并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 276.95pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>　　　<SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二○○九年十二月三十一日</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20101203_188287_ext.json

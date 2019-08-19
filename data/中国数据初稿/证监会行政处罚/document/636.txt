@@ -1,0 +1,248 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（江苏现代）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-02403</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年01月21日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（江苏现代）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2011）8号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（江苏现代）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2011）8号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1304921097562'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1304921097562 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921097562 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921097562 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921097562 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921097562 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><SPAN>（<SPAN>2011</SPAN>）<SPAN>8</SPAN>号</SPAN></P>
+<P><SPAN>当事人：江苏现代资产投资管理顾问有限公司（以下简称江苏现代），法定代表人丁伯康，住所：江苏省南京市白下区汉中路<SPAN>180</SPAN>号星汉大厦<SPAN>7</SPAN>楼<SPAN>D</SPAN>座。</SPAN></P>
+<P><SPAN>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对江苏现代违法违规</SPAN><SPAN>一案</SPAN><SPAN>进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，江苏现代存在以下违法违规行为：</SPAN></P>
+<P><SPAN>一、向监管部门报送的文件、资料有重大遗漏</SPAN></P>
+<P><SPAN>2009</SPAN><SPAN>年<SPAN>3</SPAN>月<SPAN>16</SPAN>日</SPAN><SPAN>，江苏现代在向江苏证监局报送的《江苏现代订户总名单》（以下简称《订户总名单》）中称，<SPAN>2008</SPAN>年<SPAN>1</SPAN>月至<SPAN>2009</SPAN>年<SPAN>2</SPAN>月，江苏现代有客户<SPAN>137</SPAN>人，收取咨询费总金额为<SPAN>2,197,804.00</SPAN>元。但调查发现，<SPAN>2008</SPAN>年<SPAN>1</SPAN>月至<SPAN>2009</SPAN>年<SPAN>2</SPAN>月，江苏现代实有客户<SPAN>2,550</SPAN>人，收取的咨询费总金额为<SPAN>37,587,419.00</SPAN>元。与调查结果相比，《订户总名单》少报客户<SPAN>2,413</SPAN>人，少报咨询费金额<SPAN>35,389,615.00</SPAN>元，存在重大遗漏，情节严重。</SPAN></P>
+<P><SPAN>以上事实，有江苏现代报送的《订户总名单》、江苏现代提供的客户资料、情况说明以及有关人员询问笔录等证据证明，足以认定。</SPAN></P>
+<P><SPAN>上述行为，构成了《证券、期货投资咨询管理暂行办法》（以下简称《暂行办法》）第三十三条第（一）项所述向证券监管部门报送的文件、资料有虚假陈述或者重大遗漏的行为。同时，上述行为还违反了《证券法》第一百七十一条第一款第（五）项规定，构成了《证券法》第二百二十六条第三款所述违法行为。江苏现代法定代表人、总经理丁伯康是主要责任人。</SPAN></P>
+<P><SPAN>二、未在法定期限内保存相关资料</SPAN></P>
+<P><SPAN>2008</SPAN><SPAN>年<SPAN>1</SPAN>月，江苏现代开始面向公众投资者提供证券投资咨询服务。<SPAN>2010</SPAN>年<SPAN>5</SPAN>月，江苏证监局调查人员要求江苏现代提供有关荐股资料，江苏现代不能提供并称<SPAN>2009</SPAN>年<SPAN>3</SPAN>月解散投资咨询部时，工作交接比较混乱，对有关资料未专门保管，经查找，不能寻获相关荐股资料。</SPAN></P>
+<P><SPAN>以上事实，有江苏现代的情况说明、有关人员询问笔录等证据证明，足以认定。</SPAN></P>
+<P><SPAN>上述行为，违反了《暂行办法》第二十八条所述证券、期货投资咨询机构应当将其向投资人或社会公众提供的投资咨询资料，自提供之日起保存<SPAN>2</SPAN>年的规定，构成了《暂行办法》第三十四条以及《证券法》第二百二十五条所述违法行为。丁伯康是主要责任人。</SPAN></P>
+<P><SPAN>除上述违法违规行为外，调查还发现，江苏现代对证券投资咨询业务的管理十分混乱。江苏现代存在同他人以利润分成的方式，由他人经营、管理证券投资咨询业务；违规利用公司员工个人的银行账户向客户收取证券投资咨询服务费<SPAN>10,327,942.21</SPAN>元；对客户的服务不规范，导致大量投诉等问题，造成了比较恶劣的社会影响。丁伯康在对江苏现代的管理上未做到勤勉尽责，对江苏现代出现的有关问题负有主要责任。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百二十五条、第二百二十六条第三款规定，我会决定：对于江苏现代向监管部门报送的文件、资料有重大遗漏的行为，对江苏现代撤销证券投资咨询业务许可，并处以<SPAN>30</SPAN>万元罚款；对于江苏现代未按法定期限保存有关资料的行为，对江苏现代处以<SPAN>30</SPAN>万元罚款。合并处理，对江苏现代撤销证券投资咨询业务许可，并处以<SPAN>30</SPAN>万元罚款。</SPAN></P>
+<P><SPAN>当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P align=left>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P><SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　 　　　 &nbsp;</SPAN></SPAN><SPAN>中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN><SPAN>　　&nbsp; </SPAN><SPAN>　　　</SPAN><SPAN>　&nbsp;</SPAN>&nbsp;<SPAN>　&nbsp;</SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;</SPAN>&nbsp;</SPAN><SPAN>二○一一年一月二十一日</SPAN></P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110509_195189_ext.json

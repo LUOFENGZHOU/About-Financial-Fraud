@@ -1,0 +1,232 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（姜永贵）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-07129</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年06月30日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（姜永贵）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2010）23号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（姜永贵）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2010）23号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>号</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt">当事人：<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">姜永贵，男，<SPAN style="FONT-SIZE: 10.5pt">1957</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，时任深圳市天健（集团）股份有限公司（以下简称深天健或者公司）董事、总经理，住址：广东省深圳市福田区市政公司。</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对姜永贵内幕交易行为进行了立案调查、审理。我会依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人不要求陈述、申辩和听证。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，姜永贵存在如下违法行为：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、内幕信息的形成、传递、公开过程与姜永贵知悉内幕信息的情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>深天健是一家主营房地产开发与经营、市政工程建设和管理的公司。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，深天健披露<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年年度业绩预增公告，预告<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度净利润比上年同期增长<SPAN style="FONT-SIZE: 10.5pt">50%-100%</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">，深天健财务部编制了《<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年所属各企业收入、利润完成情况表》（以下简称表一，其中天健现代城项目按已收商品房销售款测算），该表显示深天健<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度净利润<SPAN style="FONT-SIZE: 10.5pt">19,931.01</SPAN>万元。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">1</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">上午，深天健财务部对表一进行修正，将天健现代城项目按<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年达到收入确认条件部分测算，编制了《<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年所属各企业收入、利润完成情况表》（以下简称表二）和《<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年全年上报数表》（以下简称表三）。表二和表三显示深天健<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度净利润<SPAN style="FONT-SIZE: 10.5pt">17,301.77</SPAN>万元，比上年增长<SPAN style="FONT-SIZE: 10.5pt">54.61%</SPAN>，每股收益<SPAN style="FONT-SIZE: 10.5pt">0.57</SPAN>元。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">1</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">下午，时任深天健董事、总经理姜永贵与公司董事长、财务总监、财务经理等召开碰头会，讨论上报大股东深圳市国资委<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩快报数据。财务经理在会上发给每人表一、表二和表三，通报了主要的财务数据和指标，并强调有些数据可能会稍作调整，但最终上报数据与本次碰头会数据应该差异不大，其余参会人员对汇报的数据没有提出异议。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">1</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">，深天健财务部编制了<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度利润表，净利润、每股收益数据与表二相同，其余数据与表二略有差异，主要是利润总额比表二增加了<SPAN style="FONT-SIZE: 10.5pt">4.06</SPAN>万元。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">1</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">，深天健财务部编制了<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日的资产负债表，将该表和<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日编制的<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度利润表及其他附表通过网络上报给深圳市国资委。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">1</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">上午，深天健财务总监向董事长汇报深天健已向深圳市国资委上报<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩快报，并建议深天健及时披露。当天下午，深天健财务部草拟了<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩快报公告文稿。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">1</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">，深天健<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩快报公告文稿经部分董事会签后，报送给深圳证券交易所。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">1</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">，深天健披露<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩快报，所披露的数据与深天健上报深圳市国资委的数据一致。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">4</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">，深天健披露<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年年度报告，显示净利润<SPAN style="FONT-SIZE: 10.5pt">17,329.31</SPAN>万元，比上年增长<SPAN style="FONT-SIZE: 10.5pt">42.11%</SPAN>，增幅低于业绩快报数，每股收益<SPAN style="FONT-SIZE: 10.5pt">0.5692</SPAN>元，与业绩快报数接近。公司在年度报告中解释主要原因是：<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>比较基数一直采用原审定的<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年净利润，未考虑所属亏损法人企业按新准则追溯调整对净利润的影响，由于所得税费用的追溯调整，使调整后的<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年净利润比原审定数增长幅度很大，从而降低了<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度净利润的增幅。<SPAN style="FONT-SIZE: 10.5pt">”</SPAN></SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、相关信息对公司股价的影响</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">深天健披露<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩快报当日，公司股票开盘价、最高价、最低价、收盘价和均价分别为<SPAN style="FONT-SIZE: 10.5pt">25.20</SPAN>元、<SPAN style="FONT-SIZE: 10.5pt">25.30</SPAN>元、<SPAN style="FONT-SIZE: 10.5pt">24.10</SPAN>元、<SPAN style="FONT-SIZE: 10.5pt">24.18</SPAN>元和<SPAN style="FONT-SIZE: 10.5pt">24.79</SPAN>元，收盘跌幅达<SPAN style="FONT-SIZE: 10.5pt">6.10%</SPAN>、与深证成份股指数偏离值为<SPAN style="FONT-SIZE: 10.5pt">-2.52%</SPAN>。当日卖出<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>数量列前二十名者除国泰君安证券股份有限公司外都是个人投资者，买入<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>数量列前二十名者全部是个人投资者。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt">当日，国泰君安证券股份有限公司卖出<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”119,900</SPAN>股，其说明卖出<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的主要原因是：<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>公司的业绩增长仅仅是略高于其之前在<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日预告的业绩大幅增长<SPAN style="FONT-SIZE: 10.5pt">50%-100%</SPAN>下限。而且大大低于了之前市场和我们对其<SPAN style="FONT-SIZE: 10.5pt">0.75</SPAN>元左右的业绩预期。而此次施工业务的亏损加大，也引起我们的严重关注，动摇了我们原先对于公司的判断。<SPAN style="FONT-SIZE: 10.5pt">”</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>自<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日，即深天健披露<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩预增公告至披露<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩快报期间，国金证券股份有限公司、联合证券有限责任公司、天相投资顾问有限公司各发表了一篇关于<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的研究报告，三家机构预测深天健<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度净利润增长率分别为<SPAN style="FONT-SIZE: 10.5pt">91.63%</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">99%</SPAN>和<SPAN style="FONT-SIZE: 10.5pt">110.30%</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">，深天健向我会调查部门提交的书面说明，分析了<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩快报中的净利润增幅<SPAN style="FONT-SIZE: 10.5pt">54.61%</SPAN>落在业绩预增公告的<SPAN style="FONT-SIZE: 10.5pt">50%-100%</SPAN>区间下限的原因，主要是披露业绩预增公告时未能预计天健现代城项目入伙延期导致收入减少、未考虑某项目的减值损失和未预计到某案败诉导致损失。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、姜永贵卖出<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>股票的情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">，姜永贵深圳股东账户委托证券营业部买入<SPAN style="FONT-SIZE: 10.5pt">41,800</SPAN>股<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>，这些股票当日即被中国证券登记结算公司锁定；<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>日，中国证券登记结算公司解锁<SPAN style="FONT-SIZE: 10.5pt">10,450</SPAN>股；截至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日，姜永贵持有<SPAN style="FONT-SIZE: 10.5pt">10,450</SPAN>股<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>无限售条件流通股。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">9</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">时<SPAN style="FONT-SIZE: 10.5pt">38</SPAN>分，姜永贵用其办公室电脑（<SPAN style="FONT-SIZE: 10.5pt">IP</SPAN>地址<SPAN style="FONT-SIZE: 10.5pt">121.15.136.177</SPAN>）上网委托证券营业部卖出<SPAN style="FONT-SIZE: 10.5pt">5,450</SPAN>股<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>，委托价格<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>元；当日<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>时<SPAN style="FONT-SIZE: 10.5pt">44</SPAN>分<SPAN style="FONT-SIZE: 10.5pt">55</SPAN>秒，该笔委托成交，成交金额<SPAN style="FONT-SIZE: 10.5pt">141,700</SPAN>元、交易费用<SPAN style="FONT-SIZE: 10.5pt">850.20</SPAN>元。当日<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>时<SPAN style="FONT-SIZE: 10.5pt">50</SPAN>分，姜永贵以<SPAN style="FONT-SIZE: 10.5pt">26.17</SPAN>元的价格委托卖出<SPAN style="FONT-SIZE: 10.5pt">2,000</SPAN>股<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>，<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>时<SPAN style="FONT-SIZE: 10.5pt">51</SPAN>分撤回该笔委托。卖出<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>深天健<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>所得资金用于申购新股和交易其他股票，未取出现金。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经深圳证券交易所计算，以内幕信息公开日<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日为基准日，姜永贵内幕交易违法所得（规避的损失）为<SPAN style="FONT-SIZE: 10.5pt">2,964.80</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实，有账户交易记录、公司公告、会议记录及说明、询问笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，姜永贵知悉深天健<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩快报信息后，卖出其本人持有的公司股票，违反了《证券法》第七十三条、第七十六条的规定，构成了《证券法》第二百零二条规定的<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>证券交易内幕信息的知情人或者非法获取内幕信息的人，在涉及证券的发行、交易或者其他对证券的价格有重大影响的信息公开前，买卖该证券<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的行为，应当依照《证券法》第二百零二条的规定予以处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条规定，我会决定：对姜永贵处以<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　　　　&nbsp;中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp;</SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">二○一○年六月三十日</SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20101203_188303_ext.json

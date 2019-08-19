@@ -1,0 +1,234 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（龙泉实业、龙泉国际大酒店、龙泉房地产、张佛恩）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-07765</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年09月29日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（龙泉实业、龙泉国际大酒店、龙泉房地产、张佛恩）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2009〕39号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（龙泉实业、龙泉国际大酒店、龙泉房地产、张佛恩）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2009〕39号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt" align=center><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>〔<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 10.5pt">39</SPAN>号</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 30pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：东莞市龙泉实业发展有限公司，住所：广东省东莞市虎门镇人民路，法定代表人：张佛恩。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>东莞市龙泉国际大酒店，住所：广东省东莞市虎门镇莲升路，法定代表人：张佛恩。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>东莞市龙泉房地产开发有限公司，住所：广东省东莞市虎门镇连升路金州段，法定代表人：张佛恩。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>张佛恩，男，<SPAN style="FONT-SIZE: 10.5pt">1953</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月出生，住址：广东省东莞市虎门镇龙眼东三路八巷。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对东莞市龙泉实业发展有限公司（以下简称龙泉实业）及其一致行动人涉嫌违反证券法律法规行为进行了立案调查、审理，并向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未申请听证。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，龙泉实业等存在如下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，龙泉实业账户、龙泉国际大酒店账户、龙泉房地产账户开始陆续买入长城信息产业股份有限公司（以下简称长城信息）股票。<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日三账户合计持有长城信息<SPAN style="FONT-SIZE: 10.5pt">18,832,751</SPAN>股，占长城信息总股本的<SPAN style="FONT-SIZE: 10.5pt">5.015%</SPAN>。龙泉实业账户、龙泉国际大酒店账户、龙泉房地产账户持有长城信息股票合计超过<SPAN style="FONT-SIZE: 10.5pt">5%</SPAN>时，未向中国证券监督管理委员会、深圳证券交易所作出书面报告，未通知长城信息公司，并未予以公告。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>龙泉实业、东莞市龙泉国际大酒店（以下简称龙泉国际大酒店）、东莞市龙泉房地产开发有限公司（以下简称龙泉房地产）的法定代表人或企业负责人均为张佛恩，买卖长城信息股票符合《上市公司收购管理办法》（证监会令第<SPAN style="FONT-SIZE: 10.5pt">56</SPAN>号）第八十三条第二款第二项关于“投资者受同一主体控制”为一致行动人的规定，龙泉实业、龙泉国际大酒店、龙泉房地产都应对上述未按规定报告、披露信息的行为承担责任；三个账户买卖长城信息股票的决定都由张佛恩个人作出，授意邓全高具体操作。因此，张佛恩是上述违法行为责任人。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实有开户证明、交易流水、资金流水、谈话笔录等证据证明，证据充分，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认定，龙泉实业等机构和张佛恩的上述行为违反了《证券法》第八十六条关于“通过证券交易所的证券交易，投资者持有或通过协议、其他安排与他人共同持有一个上市公司已发行的股份达到百分之五时，应当在该事实发生之日起三日内，向国务院证券监督管理机构、证券交易所作出书面报告，通知该上市公司，并予公告”的规定，构成了《证券法》第一百九十三条所述“发行人、上市公司或者其他信息披露义务人未按照规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者重大遗漏”的行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、对龙泉实业、龙泉国际大酒店、龙泉房地产分别给予警告；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对张佛恩给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 271.3pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>　　<SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　&nbsp;</SPAN>　　<SPAN style="FONT-SIZE: 10.5pt">　　　　　　　 　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二○○九年九月二十九日</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100225_177402_ext.json

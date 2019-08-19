@@ -1,0 +1,256 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（上海科技、张杰等9名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-03831</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年04月06日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（上海科技、张杰等9名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2010）13号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（上海科技、张杰等9名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2010）13号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-INDENT: 30.3pt; LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">（<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>号</SPAN>&nbsp;</FONT></FONT><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：上海宽频科技股份有限公司（以下简称上海科技）<SPAN style="FONT-SIZE: 10.5pt">,</SPAN>住所：上海市浦东新区银城东路<SPAN style="FONT-SIZE: 10.5pt">139</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>楼，法定代表人李保卫。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>张杰，男，<SPAN style="FONT-SIZE: 10.5pt">1968</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，住址：江苏省南京市北京东路<SPAN style="FONT-SIZE: 10.5pt">71</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>幢，时任上海科技董事长。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>任建宏，男，<SPAN style="FONT-SIZE: 10.5pt">1968</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月出生，住址：上海市浦东新区东环龙路<SPAN style="FONT-SIZE: 10.5pt">181</SPAN>弄<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>号，时任上海科技董事、总经理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>胡良，男，<SPAN style="FONT-SIZE: 10.5pt">1954</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月出生，住址：上海市昌里东路<SPAN style="FONT-SIZE: 10.5pt">675</SPAN>弄<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>号，时任上海科技财务部长。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>叶麒敏，男，<SPAN style="FONT-SIZE: 10.5pt">1950</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月出生，住址：上海市打浦路<SPAN style="FONT-SIZE: 10.5pt">339</SPAN>弄<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>号，时任上海科技董事、副董事长。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>郑茳，男，<SPAN style="FONT-SIZE: 10.5pt">1966</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月出生，住址：江苏省无锡市荷叶新村<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>幢，时任上海科技董事、副总经理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>曹水和，男，<SPAN style="FONT-SIZE: 10.5pt">1965</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月出生，住址：广东省珠海市吉大香洲区白莲路<SPAN style="FONT-SIZE: 10.5pt">176</SPAN>号，时任上海科技董事、董事长。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>蔡宪成，男，<SPAN style="FONT-SIZE: 10.5pt">1942</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，住址：江苏省南京市珠江路北门桥汇文里<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>号，时任上海科技独立董事。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>王守觉，男，<SPAN style="FONT-SIZE: 10.5pt">1926</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月出生，住址：北京市中关村甲<SPAN style="FONT-SIZE: 10.5pt">943</SPAN>，时任上海科技独立董事。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>倪敬东，男，<SPAN style="FONT-SIZE: 10.5pt">1941</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月出生，住址：上海市宝山区宝林一村<SPAN style="FONT-SIZE: 10.5pt">119</SPAN>号，时任上海科技独立董事。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）和<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对上海科技信息披露违法行为进行了立案调查、审理，依法向当事人告知了做出行政处罚依据的事实、理由及当事人依法享有的权利。应当事人张杰、任建宏的要求举行了听证会，听取了当事人提出的申辩意见；当事人胡良、叶麒敏、郑茳提出了书面申辩意见。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，上海科技信息披露违法案的主要事实如下：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上海科技于<SPAN style="FONT-SIZE: 10.5pt">1992</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月在上海证券交易所上市，原为国有控股上市公司，<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月南京斯威特集团有限公司（以下简称斯威特集团）通过受让国有股成为公司控股股东。斯威特集团于<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月成立，由西安通邮科技投资有限公司绝对控股，严晓群是实际控制人。西安通邮科技投资有限公司于<SPAN style="FONT-SIZE: 10.5pt">1995</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月成立，严晓群是绝对控股股东。南京宽频科技有限公司（以下简称南京宽频）为上海科技的控股子公司，其实际运作直接受张杰控制。南京口岸进出口有限公司（以下简称南京口岸）于<SPAN style="FONT-SIZE: 10.5pt">1998</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月成立，与上海科技系同受严晓群控制的关联公司。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、上海科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报未披露重大银行借款与应付票据事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年年内，上海科技及其控股子公司南京宽频曾经分次与多家商业银行的分支机构签订借款合同，取得<SPAN style="FONT-SIZE: 10.5pt">195,000,000</SPAN>元银行借款（期末数）。上海科技未将这些借款入账，也未在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中予以披露。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年年内，上海科技及其控股子公司南京宽频曾经分次在多家商业银行的分支机构开具银行承兑汇票，应付票据期末数达<SPAN style="FONT-SIZE: 10.5pt">250,000,000</SPAN>元。上海科技未将这些应付票据入账，也未在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中披露。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>张杰、任建宏、胡良在上海科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报上声明保证财务报告的真实、完整。上海科技时任董事张杰、任建宏、叶麒敏、郑茳、王守觉和蔡宪成在审议<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字表示同意。未入账凭证中的资金审批单上有张杰、任建宏和胡良的签字。上海科技本部与南京宽频相关财务人员称未入账的银行贷款、票据业务是张杰指令他们经办的，张杰承认自己曾指令胡良经办过相关账外账事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、上海科技<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报未披露重大银行借款与应付票据事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，上海科技在其公开披露的<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报中，针对上述<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中的重大遗漏，补充披露“<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年底少计银行短期借款<SPAN style="FONT-SIZE: 10.5pt">170,000,000</SPAN>元，同时少计应收关联方南京口岸进出口有限公司债权<SPAN style="FONT-SIZE: 10.5pt">170,000,000</SPAN>元”（实际为<SPAN style="FONT-SIZE: 10.5pt">150,000,000</SPAN>元银行借款、<SPAN style="FONT-SIZE: 10.5pt">20,000,000</SPAN>元应付票据）。但是，尚有<SPAN style="FONT-SIZE: 10.5pt">45,000,000</SPAN>元银行借款、<SPAN style="FONT-SIZE: 10.5pt">230,000,000</SPAN>元应付票据未在<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报中作为期初数予以披露。<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日，上海科技发布临时公告，披露南京宽频<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年底有<SPAN style="FONT-SIZE: 10.5pt">45,000,000</SPAN>元银行借款和<SPAN style="FONT-SIZE: 10.5pt">230,000,000</SPAN>元银行承兑汇票未入账，除<SPAN style="FONT-SIZE: 10.5pt">50,000,000</SPAN>元票据保证金外其余均被关联方占用，并据此调整了<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报的期初数。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>在<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报上签字的董事为曹水和、任建宏、叶麒敏、郑茳（书面授权曹水和表决同意）、蔡宪成和倪敬东。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、上海科技未按规定披露为控股股东关联方提供担保、公司银行存款被银行划扣、公司资金被控股股东关联方占用事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，南京苏厦科技有限公司（斯威特集团关联公司）开具金额为<SPAN style="FONT-SIZE: 10.5pt">154,420,000</SPAN>元的银行承兑汇票给南京口岸，上海科技以存放在银行的<SPAN style="FONT-SIZE: 10.5pt">154,420,000</SPAN>元自有资金开具定期存单，为该汇票提供<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>个月的质押担保。此担保事项由张杰安排办理，未经董事会开会讨论。<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日，上述银行承兑汇票到期，上海科技的<SPAN style="FONT-SIZE: 10.5pt">154,420,000</SPAN>元资金被银行扣划以兑付票据，上海科技未入账。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，南京双有电器有限公司（斯威特集团关联公司）开具金额为<SPAN style="FONT-SIZE: 10.5pt">175,000,000</SPAN>元（承兑合同共为<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>份，金额分别为<SPAN style="FONT-SIZE: 10.5pt">150,000,000</SPAN>元和<SPAN style="FONT-SIZE: 10.5pt">25,000,000</SPAN>元）的银行承兑汇票给南京索瑞软件工程有限公司（斯威特集团关联公司）。同日，南京索瑞软件工程有限公司将该<SPAN style="FONT-SIZE: 10.5pt">175,000,000</SPAN>元银行承兑汇票贴现后将所得款<SPAN style="FONT-SIZE: 10.5pt">173,227,000</SPAN>元中的<SPAN style="FONT-SIZE: 10.5pt">150,000,000</SPAN>元划至上海科技银行账户，上海科技开具<SPAN style="FONT-SIZE: 10.5pt">150,000,000</SPAN>元定期存单，为该<SPAN style="FONT-SIZE: 10.5pt">150,000,000</SPAN>元银行承兑汇票提供<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月的质押担保。张杰、任建宏、叶麒敏和郑茳在通过此项担保事项的董事会决议上签字，郑茳的签字系张杰依据其<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日授权委托书代签。<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，上述银行承兑汇票到期，上海科技的<SPAN style="FONT-SIZE: 10.5pt">150,000,000</SPAN>元资金被银行扣划以兑付票据。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>对上述两项为控股股东关联方提供担保，以及因该担保导致公司银行存款被扣划的重大事项，上海科技未履行临时报告与披露义务，也未在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年报中披露。经张杰安排，上海科技<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年半年度报告将上述<SPAN style="FONT-SIZE: 10.5pt">150,000,000</SPAN>元被划扣款虚构为代理采购电子产品款予以披露。任建宏知悉代理采购协议提交董事会审批前资金已经流出公司。张杰、任建宏、胡良在<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年半年度报告上声明保证财务报告的真实、完整。<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">在<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年半年度报</SPAN>告<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">上签字的董事为曹水和、任建宏、叶麒敏、郑茳和蔡宪成。</SPAN>其后于<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日和<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日，上海科技公告该项目已取消而款项未及时收回并致歉。上海科技在<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报和<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日补充公告中，披露了上述<SPAN style="FONT-SIZE: 10.5pt">154,420,000</SPAN>元资金被控股股东关联方占用。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，江苏金捷国际货物运输代理有限公司（系斯威特集团下属的控股子公司）开具<SPAN style="FONT-SIZE: 10.5pt">56,000,000</SPAN>元银行承兑汇票给南京斯威特索维软件有限公司。同日，斯威特集团以支付上海易美通信有限公司债权转让款的名义，划入上海科技银行账户<SPAN style="FONT-SIZE: 10.5pt">56,000,000</SPAN>元，上海科技以这笔资金开具定期存单，为上述江苏金捷国际货物运输代理有限公司开具的银行承兑汇票提供<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月的质押担保。张杰、叶麒敏和郑茳在有关该担保事项的董事会决议上签字，郑茳的签字系张杰依据其<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日授权委托书代签。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2005</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，江苏金捷国际货物运输代理有限公司开具的银行承兑汇票到期，上海科技的<SPAN style="FONT-SIZE: 10.5pt">56,000,000</SPAN>元资金被银行扣划以兑付票据。为掩盖此事项，<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月，张杰代表上海科技与江苏金捷国际货物运输代理有限公司签订虚拟的借款协议，由后者向上海科技借款<SPAN style="FONT-SIZE: 10.5pt">56,000,000</SPAN>元，上海科技依据该借款协议以及<SPAN style="FONT-SIZE: 10.5pt">56,000,000</SPAN>元担保款被扣划的凭证传真件进行入账。该协议未经上海科技董事会讨论，由张杰、任建宏操作完成。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>就上述<SPAN style="FONT-SIZE: 10.5pt">56,000,000</SPAN>元资金涉及的为控股股东关联方提供担保、公司存款被银行划扣和借款事项，上海科技未进行临时公告，亦未在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中披露，<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年半年报未按关联方占用披露。<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报中披露了上述资金被关联方占用。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实，有上海科技相关报告及说明、相关财务凭证、担保贷款合同及董事会决议、相关人员询问笔录等证据证明。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会在调查过程中，发现有关人员挪用上海科技巨额资金的行为涉嫌触犯《中华人民共和国刑法》有关规定，于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月将其移送公安机关处理。<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月，上海市浦东新区人民法院以《刑法修正案（六）》规定的背信损害上市公司利益罪判处张杰有期徒刑<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>年，并处罚金人民币<SPAN style="FONT-SIZE: 10.5pt">2,000</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，上海科技在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中未披露重大银行借款与应付票据事项，构成信息披露重大遗漏；在<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报中未披露重大银行借款与应付票据事项，构成信息披露重大遗漏。同时，上海科技未按照有关临时报告、定期报告规定披露为控股股东关联方提供担保、公司银行存款被银行划扣、公司资金被控股股东关联方占用等重大事项。上海科技的行为，先后违反了原《证券法》第五十九条、《证券法》第六十三条的规定，而且信息披露违法行为发生次数多，持续时间长，涉及金额巨大，并导致公司巨额资金被控股股东关联方占用的严重后果，影响恶劣，情节严重，应当依法给予从重处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任上海科技董事长张杰，完全听命于上海科技实际控制人，丧失了最基本的守法观念与诚信尽责意识，缺乏最起码的职业道德与职业操守，直接策划、指挥、组织、经办了大量的上海科技账外资金运作和对控股股东关联方担保事项，导致上市公司巨额资金被控股股东关联方占用，是上海科技一系列信息披露违法行为的主谋、主使和直接负责的主管人员。其行为严重侵害了上市公司和投资者利益，严重扰乱了证券市场秩序，性质恶劣，依法应当给予严惩。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任上海科技董事、总经理任建宏，在审议上海科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年半年报、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报的董事会决议上签字表示同意，并且知道上海科技有关未披露的账外资金运作事项，经手了上海科技有关未披露的对外担保事项，是上海科技信息披露违法行为直接负责的主管人员，依法应当给予从重处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任上海科技财务部部长胡良，在上海科技有关定期报告上声明保证财务数据的真实、完整，并经办了上海科技有关未披露的账外资金运作事项，是上海科技信息披露违法行为直接负责的主管人员，依法应当给予从重处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任上海科技副董事长叶麒敏，在审议上海科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年半年报、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报的董事会决议上签字表示同意，并且经手了上海科技有关未披露担保事项，是上海科技信息披露违法行为的其他直接责任人员，依法应当给予相应处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任上海科技董事、副总经理郑茳，在审议上海科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年半年报、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报的董事会决议上签字表示同意，并且概括性地“授权委托张杰签署涉及有关银行贷款、授信及对外担保的有关上海宽频科技股份有限公司相应的董事会决议文件”，应对委托张杰签字事项产生的法律后果负责，是上海科技信息披露违法行为的其他直接责任人员，依法应当给予相应处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任上海科技董事长曹水和，在审议上海科技<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年半年报、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报的董事会决议上签字表示同意，是上海科技信息披露违法行为的其他直接责任人员。鉴于账外资金运作及对外担保问题发生在其到任之前，未有证据表明其参与或者知晓有关未披露事项，依法对其予以从轻处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任上海科技独立董事王守觉在审议上海科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字表示同意，时任上海科技独立董事蔡宪成在审议上海科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年半年报、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报的董事会决议上签字表示同意，时任上海科技独立董事倪敬东在审议上海科技<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报的董事会决议上签字表示同意，此三人是上海科技信息披露违法行为的其他直接责任人员。鉴于其外部独立董事身份，以及未有证据表明其参与或者知晓有关未披露事项，依法对其予以从轻处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>张杰在听证和书面申辩中提出，其一，上海科技是由严晓群实际控制的民营控股上市公司，自己虽然名为董事长，事实上完全按实际控制人的意见行事，因此不是上海科技信息披露违法的主谋、主使；其二，自己已经因挪用上市公司资金行为被法院以背信损害上市公司利益罪判处有期徒刑和罚金，不应因同一事实与案由受到两次处罚。我会认为，其一，张杰身为上市公司董事长，对上海科技信息披露事务负有最主要责任，从其任职之日起，就应当清楚作为一个上市公司董事长所应承担的义务、责任以及不依法履行义务与责任的法律后果，他在本案中的所作所为，足以支持我会对其责任的定性；其二，因背信损害上市公司利益受到刑事处罚，与因违反证券信息披露法规受到行政追究，系基于不同的事实，属于不同的案由，不构成所谓的“一事两罚”。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>任建宏在听证与书面申辩中提出，他对上海科技存在账外账的事情不知情，并对自己在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日上海科技<SPAN style="FONT-SIZE: 10.5pt">1.5</SPAN>亿元对外担保董事会决议上签名的真实性提出疑问。我会认为，任建宏作为上市公司董事、总经理，负责上海科技的日常经营，上海科技本部未入账凭证中有关账外资金划转、账外贷款利息支付、账外票据贴息支付等资金审批单上均有其签字，另有其他涉案当事人指认其知道上海科技存在账外账的情况。这些证据，足以支持我会的有关认定。听证会就上述事项安排任建宏查看、核对了有关当事人询问笔录、书面说明和未披露的董事会决议原件，其未再提出异议。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>胡良对本案所列事实无异议，但请求从轻处罚。我会认为，上市公司财务信息是证券市场信息披露体系中的核心内容，胡良身为上海科技财务负责人，对上海科技财务信息的真实、准确、完整负主要责任，其经办有关上海科技未披露账外资金运作事项的行为，既违反了作为一个财务人员的职业操守，又造成了上市公司财务信息的严重失真，因此，我会认定其为本案直接负责的主管人员，并无不当。同时，审理时已经考虑其积极配合调查、认错与悔改态度诚恳等情况。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>叶麒敏对本案事实无异议，但请求减轻处罚。我会认为，叶麒敏身为上市公司副董事长，有责任采取必要的、有效的监督措施与督促行动，使上海科技信息披露依法合规，但是，他在违规担保的董事会决议上签字后不管不问，且未有证据显示他在审议上海科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报过程中对涉案问题进行了足够的关注和适当的核查，因此，应当承担相应的责任。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>郑茳承认自己概括委托张杰代为签署有关董事会决议，但表示对有关事项不知情，请求减轻处罚。我会认为，上市公司董事把自己作为董事权利“全权委托”、“概括委托”出去的做法，不符合法律关于董事义务与责任的要求。众所周知，股东选任董事，是基于对该董事个人品行与能力的信任，因此，对董事职责范围内的公司事务亲历亲为，是忠实勤勉义务对一名上市公司董事的最起码、最基本要求。虽然现行规则在某些特殊情况下，允许确有正当理由致使本人不能亲自出席董事会的董事委托其他董事代为行使表决权，但是现行规则并未允许把董事权利“兜揽”出去。一名董事将董事权利“全权委托”、“概括委托”给他人，在很大程度上表明他不能胜任董事职位，或者不愿承担董事义务与责任，结果往往给公司内部人或者实际控制人侵害上市公司利益的行为提供了便利，是对上市公司前途不负责的表现。根据有关法律、法规与规则，董事委托其他董事行使的，是在董事会会议上的表决权；委托董事必须事先审议其提交讨论表决的议案，对所委托事项做出独立判断，并对每个议案明确表示同意还是反对。委托董事必须对受托董事行为与所委托事项实施必要的约束与监督；董事因个人身体原因等特殊情况不能审议并判断有关事项的，视为无法履职，不能委托其他董事代为审议与判断，由此导致董事会会议无法达到法定人数的，上市公司应通过及时更换董事等渠道解决；董事委托其他董事代为表决，必须一事一委托，禁止“全权委托”或者“概括委托”，有多个委托事项时应分别列明；委托其他董事代为表决的，其法律后果，包括发生违法行为时的法律责任，由委托董事承担。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人的违法行为事实、性质、情节和社会危害程度，依据原《证券法》第一百七十七条、《证券法》第一百九十三条规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、对上海科技给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">40</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对张杰、任建宏给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、对胡良给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、对叶麒敏、郑茳给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五、对曹水和、蔡宪成、王守觉、倪敬东分别给予警告。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>开户银行<SPAN style="FONT-SIZE: 10.5pt">:</SPAN>中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>，并将付款凭证的复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>　　<SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 &nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二○一○年四月六日</SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100820_183726_ext.json

@@ -1,0 +1,251 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（钟伟华、符列娜、叶育鹏）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-08488</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年12月16日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（钟伟华、符列娜、叶育鹏）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2010）51号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（钟伟华、符列娜、叶育鹏）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2010）51号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1304921335937'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1304921335937 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921335937 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921335937 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921335937 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304921335937 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">51</SPAN>号</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">当</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">事人：</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">钟伟华，男，<SPAN style="FONT-SIZE: 10.5pt">1957</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，时任广东证券股份有限公司（以下简称广东证券）董事长、总裁，住址：广东省广州市天河区南国一街<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>号。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>符列娜，女，<SPAN style="FONT-SIZE: 10.5pt">1958</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月出生，时任广东证券财务总监，住址：广东省广州市体育东横街<SPAN style="FONT-SIZE: 10.5pt">80</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>叶育鹏，男，<SPAN style="FONT-SIZE: 10.5pt">1962</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任广东证券河源营业部总经理，住址：广东省河源市源城区新风路<SPAN style="FONT-SIZE: 10.5pt">113</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）的有关规定，我会对广东证券违反证券法律法规的行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人钟伟华、符列娜提出了陈述、申辩意见，所有当事人未要求听证。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，广东证券存在如下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、自<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日，广东证券累计挪用客户保证金<SPAN style="FONT-SIZE: 10.5pt">647,934.94</SPAN>万元。其中：（<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>）通过从客户资金银行存款账户直接划款到广东证券自有资金银行存款账户的方式挪用客户保证金，累计发生<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>笔，共计金额<SPAN style="FONT-SIZE: 10.5pt">135,000</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>）通过将在中国证券登记结算公司的客户保证金以自有资金名义划款到广东证券自有资金银行存款账户的方式挪用客户保证金，累计发生<SPAN style="FONT-SIZE: 10.5pt">72</SPAN>笔，共计金额<SPAN style="FONT-SIZE: 10.5pt">431,289.18</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>）直接将资金从广东证券的保证金专户中转账到云南冶金集团，用于支付非客户交易事项，造成挪用客户保证金，累计金额<SPAN style="FONT-SIZE: 10.5pt">20,000</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>）因经济纠纷被光大银行从广东证券的保证金专户划出资金，累计金额<SPAN style="FONT-SIZE: 10.5pt">17,624</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>）西华路营业部、长春桥营业部、江宁路营业部与福华一路营业部，通过柜台交易系统在“泰怡轩<SPAN style="FONT-SIZE: 10.5pt">15254</SPAN>”、“宁禄投资<SPAN style="FONT-SIZE: 10.5pt">14943</SPAN>”、“泰诚咨询<SPAN style="FONT-SIZE: 10.5pt">800138</SPAN>”、“德源投资<SPAN style="FONT-SIZE: 10.5pt">17694</SPAN>”与“广东兆源<SPAN style="FONT-SIZE: 10.5pt">24423</SPAN>”五个账户，虚加标准券套取资金造成挪用客户保证金，累计金额<SPAN style="FONT-SIZE: 10.5pt">40,578.76</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>）河源营业部及叶育鹏直接从客户保证金银行账户提取资金用于对外借贷或者支付非客户交易事项，造成挪用客户保证金，累计金额<SPAN style="FONT-SIZE: 10.5pt">3,443</SPAN>万元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>截至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日，广东证券客户保证金缺口为<SPAN style="FONT-SIZE: 10.5pt">193,968.5</SPAN>万元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、自<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日，广东证券违规开展委托理财<SPAN style="FONT-SIZE: 10.5pt">438</SPAN>笔、受托资产金额累计<SPAN style="FONT-SIZE: 10.5pt">236,859.98</SPAN>万元，累计支付所承诺的理财收益<SPAN style="FONT-SIZE: 10.5pt">15,513.9</SPAN>万元。其中：（<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>）顺德管理总部违规开展委托理财<SPAN style="FONT-SIZE: 10.5pt">330</SPAN>笔，涉及委托理财本金<SPAN style="FONT-SIZE: 10.5pt">88,989.5</SPAN>万元，共计支付承诺的保底收益<SPAN style="FONT-SIZE: 10.5pt">4,008.89</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>）资产管理部违规开展委托理财<SPAN style="FONT-SIZE: 10.5pt">45</SPAN>笔，涉及委托理财本金<SPAN style="FONT-SIZE: 10.5pt">60,821.97</SPAN>万元，共计支付承诺的保底收益<SPAN style="FONT-SIZE: 10.5pt">5,645.47</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>）投资部违规开展委托理财<SPAN style="FONT-SIZE: 10.5pt">51</SPAN>笔，涉及委托理财本金<SPAN style="FONT-SIZE: 10.5pt">78,874.3</SPAN>万元，共计支付承诺的保底收益<SPAN style="FONT-SIZE: 10.5pt">5,606.83</SPAN>万元；（<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>）昆明、茂名与三水等地营业部违规开展委托理财<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>笔，涉及委托理财本金<SPAN style="FONT-SIZE: 10.5pt">8,174.22</SPAN>万元，共计支付承诺的保底收益<SPAN style="FONT-SIZE: 10.5pt">252.72</SPAN>万元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日和<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日四个时点分别挪用客户国债<SPAN style="FONT-SIZE: 10.5pt">66,031.043</SPAN>万元、<SPAN style="FONT-SIZE: 10.5pt">89,055.364</SPAN>万元、<SPAN style="FONT-SIZE: 10.5pt">68,182.896</SPAN>万元和<SPAN style="FONT-SIZE: 10.5pt">68,477.25</SPAN>万元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>广东证券挪用客户保证金、客户国债行为，违反了原《证券法》第七十三条关于“在证券交易中，禁止证券公司及其从业人员从事下列损害客户利益的欺诈行为：（三）挪用客户所委托买卖的证券或者客户账户上的资金”和第一百三十二条关于“严禁挪用客户交易结算资金”的规定，构成了原《证券法》第一百九十三条规定的行为。广东证券承诺保底收益的资产管理业务行为，违反了《证券公司客户资产管理业务试行办法》（证监会令第<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>号，以下简称《试行办法》）第四十一条：“证券公司从事客户资产管理业务，不得有下列行为：（二）向客户作出保证其资产本金不受损失或者取得最低收益的承诺”的规定，构成了《试行办法》第六十五条规定的行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>钟伟华作为广东证券挪用客户保证金行为的决策人及组织者，并在部分涉及挪用客户保证金的资金划拨单和内部签报上签字，是对广东证券挪用客户保证金行为直接负责的主管人员。他作为公司资产管理业务的领导者和管理者，批准、授权下属部门和员工以承诺保底和约定收益率的方式开展资产管理业务，是对广东证券开展有保底承诺资产管理业务直接负责的主管人员。钟伟华还招揽国洪起到广东证券进行国债回购，没有对国洪起控制账户的国债回购规模和回购资金的使用情况进行有效监督和控制，放任国洪起控制账户挪用客户国债，是国洪起控制账户挪用客户国债的其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>符列娜作为公司财务总监，主管和协调计划财务部和清算中心业务，负责挪用客户保证金的使用调配和拆借资金掩盖客户保证金缺口的安排，在大量挪用客户保证金的内部资金划拨单和部分内部签报上签字，是广东证券挪用客户保证金行为的主要执行者和直接负责的主管人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>叶育鹏作为广东证券河源营业部总经理，擅自挪用河源营业部的客户保证金，累计挪用金额为<SPAN style="FONT-SIZE: 10.5pt">3,443</SPAN>万元，是对该营业部挪用客户保证金行为直接负责的主管人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实，有账户开户资料、交易记录、相关合同、询问笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>钟伟华在申辩材料中提出，他未主动招揽国洪起到公司做国债回购业务，没有管理各营业部的具体工作和各项业务，曾经主动化解公司危机、减少损失、如实向有关部门报案，请求减轻处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会查明，国洪起在询问笔录中称，他于<SPAN style="FONT-SIZE: 10.5pt">1997</SPAN>年底到海南开会认识了钟伟华，之后钟伟华邀请他去广东证券“做国债”，条件是手续费按<SPAN style="FONT-SIZE: 10.5pt">0.1%</SPAN>计算，广东证券席位上标准券借给他用；钟伟华在调查中也承认，国洪起曾和广东证券高层谈过开展国债业务的优惠条件的事情，他本人表示只要国洪起业务量达到一定规模，就给予低佣金的优惠。因此，钟伟华未主动招揽国洪起到广东证券做国债回购业务的申辩理由不能成立。我会认为，钟伟华担任广东证券董事长兼总裁期间，是挪用客户保证金行为的决策人及组织者，是公司资产管理业务的领导者和管理者，钟伟华没有管理各营业部的具体工作和各项业务的申辩理由不影响对其责任的认定；广东证券的违法违规行为涉案金额巨大，情节特别严重，我会已于<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日对广东证券作出了关闭的行政处罚，钟伟华作为最主要的责任人，其主动化解公司危机等理由不足以减轻其应当承担的责任。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>符列娜在申辩材料中提出，公司的资金往来划拨调配，是按公司规定的操作程序，由公司各相关业务职能部门及各人员办理相关手续，其本人不是公司挪用客户保证金行为的主要执行人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，符列娜在担任广东证券财务总监期间，主管和协调计划财务部和清算中心业务，负责挪用客户保证金的使用调配和拆借资金掩盖客户保证金缺口的安排，在大量挪用客户保证金的内部资金划拨单和部分内部签报上签字。符列娜关于其本人不是公司挪用客户保证金行为主要执行人员的辩解与事实不符，其应对广东证券相关违法行为承担相应的责任。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百九十三条和《试行办法》第六十五条的规定，我会决定：吊销钟伟华、符列娜、叶育鹏从业资格证书。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>　</FONT></P>
+<P style="TEXT-INDENT: 147.3pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;二○一○年十二月十六日</SPAN></FONT></FONT></FONT></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110311_193003_ext.json

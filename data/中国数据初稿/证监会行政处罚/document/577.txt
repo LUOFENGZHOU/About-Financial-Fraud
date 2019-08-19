@@ -1,0 +1,257 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（魏辰阳）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-06158</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年04月20日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（魏辰阳）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕9号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（魏辰阳）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕9号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1349682368812'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1349682368812 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1349682368812 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1349682368812 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1349682368812 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1349682368812 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+
+
+
+--**/</style>
+<P align=center><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">〔</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">2012</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">〕</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">9</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">号</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">当事人：魏辰阳，男，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1976</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月出生，住址：河南省郑州市金水区商务内环路</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">22</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">号楼。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对“刘某兰”等账户违反证券法律法规案进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">经查明，魏辰阳通过“刘某兰”等账户持有厦门旭飞投资股份有限公司（以下简称旭飞投资）的股份超过其已发行股份的</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">时未予披露，违法事实如下：</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">一、“刘某兰”、“通商融金”、“焦某”、“龙都基业”、“王某双”等</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">个关联账户集中交易“旭飞投资”，该</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">个关联账户的实际控制人为魏辰阳</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">（一）中原证券郑州商务内环路营业部资金账户</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">80×××60</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，账户名称“刘某兰”，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2010</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">4</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">6</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日开立。该账户从</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">9</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日至</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">10</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日累计买入“旭飞投资”</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3,396,886</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">股，买入金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3,987.44</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元；期间全部卖出，卖出金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">4,507.31</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元，盈利</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">489.88</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元（扣除印花税和手续费）。该账户三方存管银行账号为招商银行</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">622588×××7161991</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，主要资金来源为刘某兰的兴业银行账户转入、河南通商创业投资担保有限公司转入、乔某通过刘某转入等。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">（二）中原证券郑州纬二路营业部资金账户</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">391×××69</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，账户名称“通商融金”，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">9</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日开立。该账户从</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">14</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日至</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">7</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">22</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日累计买入“旭飞投资”</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1,933,742</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">股，买入金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2,334.95</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元；累计卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1,929,642</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">股，卖出金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2,499.79</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元，盈利</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">151.75</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元（扣除印花税和手续费）。该账户三方存管银行账号为招商银行</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">371902×××710467</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，主要资金来源为刘某兰转入。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">（三）招商证券郑州商务外环路营业部资金账户</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">166×××8083</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，账户名称“焦某”，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">9</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日开立。该账户从</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">9</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日至</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">10</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">14</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日累计买入“旭飞投资”</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1,667,480</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">股，买入金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2,140.04</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元；期间全部卖出，卖出金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1,699.35</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元，亏损</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">453.91</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元（扣除印花税和手续费）。该账户三方存管银行账号为招商银行</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">622609×××0312273</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，主要资金来源为柜台存现、刘某兰经刘某荣账户转入和刘某转入。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">（四）民生证券北京工体北路营业部资金账户</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3500×××998</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，账户名称“龙都基业”，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">21</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日开立。该账户从</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日至</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">10</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">14</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日累计买入“旭飞投资”</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3,083,511</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">股，买入金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3,747.90</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元；期间全部卖出，卖出金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3,236.33</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元，亏损</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">535.76</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元（扣除印花税和手续费）。该账户三方存管银行账号为建设银行</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">11001042×××053000632</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，主要资金来源为刘某军转入</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3,000</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元，该笔资金系韩某涛经李某账户转入刘某军账户。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">（五）华泰证券杭州教工路营业部资金账户</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">568×××77</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，账户名称“王某双”，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2010</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">11</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日开立。该账户从</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">9</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日至</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">10</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">14</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日累计买入“旭飞投资”</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1,290,967</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">股，买入金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1,689.30</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元；期间全部卖出，卖出金额</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1,554.54</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元，亏损</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">146.04</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元（扣除印花税和手续费）。该账户的三方存管银行账号为建设银行</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">6227000×××740017355</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">10</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日变更为建设银行</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">62270000×××00057362</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，主要资金来源为刘某兰转入。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">上述</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">个账户所涉人员中，刘某兰是魏辰阳妻子刘某的堂姐，其称是魏辰阳公司的一个员工带其到中原证券开户，填完开户表格后就没管了，也没有操作证券账户，其身份证曾被魏辰阳公司的员工拿去银行开户，账户上的资金不是她的。河南通商融金创业投资有限公司（以下简称通商融金）的时任法定代表人是刘某，刘某称其对股票交易不知情。魏辰阳是通商融金控股股东河南新通商投资集团有限公司的董事长，焦某称其是该公司的司机，魏辰阳让其开立股票账户，开完账户以后把全套资料交给魏辰阳，对以后的交易情况均不知情。刘某军是北京龙都基业城市建设管理顾问有限公司（以下简称龙都基业）的控股股东、法定代表人，其称魏辰阳是他朋友，是魏辰阳打电话叫他开账户做股票，该账户是魏辰阳操作，他从未操作也不过问。王某双是魏辰阳朋友的妹妹，其称魏辰阳是她哥哥王某飞的朋友，魏辰阳用她的账户炒股，由魏辰阳操作这个账户，其本人从未登陆过这个账户，也不知道账户密码。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">上述</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">个账户之间存在频繁资金往来，使用相同的</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">MAC</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">地址，“刘某兰”、“通商融金”、“龙都基业”、“王某双”证券账户之间存在相同的</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">IP</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">地址。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">以上事实表明，上述</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">个关联账户的实际控制人为魏辰阳。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二、魏辰阳控制“刘某兰”等</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">个账户在</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日至</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">7</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">19</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日期间通过证券交易合计持有的“旭飞投资”超过其已发行股份的</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，且未对相关持股情况进行披露</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">1</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，“刘某兰”等账户合计持有“旭飞投资”</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">4,720,623</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">股，持股比例为</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">4.907%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，“刘某兰”等账户合计持有“旭飞投资”</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5,053,180</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">股，达到该公司已发行股份的</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5.253%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，首次超过</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">15</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">至</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">25</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">累计</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">9</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">个交易日，“刘某兰”等账户持有旭飞投资股份最高比例达</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">8.48%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">。截至</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">7</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">19</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，“刘某兰”等账户持股余额为</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5,238,011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">股，持股比例为</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5.45%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，仍超过</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">。经查阅旭飞投资公告资料，未见刘某兰、通商融金、焦某、龙都基业、王某双或其他主体披露持股比例超过</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">的信息。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实分别有账户开户资料、交易明细记录、资金往来明细记录、当事人询问笔录、财务账簿等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">魏辰阳控制“刘某兰”等</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">个账户在</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">3</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日至</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">7</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">月</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">19</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">日期间通过证券交易合计持有“旭飞投资”超过其已发行股份的</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">5%</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，对其持股情况未予披露的行为，违反了《证券法》第八十六条的规定，构成《证券法》第一百九十三条所述违法行为。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：责令魏辰阳改正，给予警告，并处以</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">50</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">万元罚款。</SPAN></FONT></FONT></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">上述当事人应自收到本处罚决定书之日起</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">15</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">7111010189800000162</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">60</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">3</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 260.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">　　　　　　　　　　　二○一二年四月二十日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp; </SPAN></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 13pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 13pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20121008_215518_ext.json

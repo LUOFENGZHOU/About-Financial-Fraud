@@ -1,0 +1,275 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（海星科技）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-04757</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年06月13日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（海星科技）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕25号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（海星科技）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕25号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1343716488578'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1343716488578 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343716488578 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343716488578 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343716488578 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343716488578 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+--**/</style>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%">〔<SPAN>2012</SPAN>〕<SPAN>25</SPAN>号</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当</SPAN><SPAN style="LINE-HEIGHT: 150%">事人：</SPAN><SPAN style="LINE-HEIGHT: 150%">荣海，男，<SPAN>1957</SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>9</SPAN>月出生，时任西安海星现代科技股份有限公司（现更名为格力地产股份有限公司，以下简称海星科技）董事长，住址：陕西省西安市碑林区交大三村。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">韩钢，男，<SPAN>1963</SPAN>年<SPAN>1</SPAN>月出生，时任海星科技董事、总经理，住址：陕西省西安市新城区铁二村。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">徐韬，男，<SPAN>1967</SPAN>年<SPAN>10</SPAN>月出生，时任海星科技董事，住址：陕西省西安市雁塔区科技四路二号枫林绿洲。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">林作良，男，<SPAN>1962</SPAN>年<SPAN>7</SPAN>月出生，时任海星科技董事，住址：陕西省西安市莲湖区桃园南路<SPAN>29</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">杨毅辉，男，<SPAN>1957</SPAN>年<SPAN>9</SPAN>月出生，时任海星科技董事，住址：北京市东城区交道口南大街<SPAN>67</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">刘克峰，男，<SPAN>1963</SPAN>年<SPAN>11</SPAN>月出生，时任海星科技董事，住址：陕西省西安市新城区韩森寨三十街坊。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">陈文，女，<SPAN>1967</SPAN>年<SPAN>6</SPAN>月出生，时任海星科技监事，住址：陕西省西安市雁塔区科技四路二号枫林绿洲。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">雷波，男，<SPAN>1969</SPAN>年<SPAN>3</SPAN>月出生，时任海星科技副总经理、财务总监，住址：陕西省西安市雁塔区枫叶苑北区。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据</SPAN><SPAN style="LINE-HEIGHT: 150%">《</SPAN><SPAN style="LINE-HEIGHT: 150%">中华人民共和国证券法</SPAN><SPAN style="LINE-HEIGHT: 150%">》（以下简称《证券法》）</SPAN><SPAN style="LINE-HEIGHT: 150%">的有关规定，我会对</SPAN><SPAN style="LINE-HEIGHT: 150%">海星科技</SPAN><SPAN style="LINE-HEIGHT: 150%">违反证券法律法规</SPAN><SPAN style="LINE-HEIGHT: 150%">一案</SPAN><SPAN style="LINE-HEIGHT: 150%">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。</SPAN><SPAN style="LINE-HEIGHT: 150%">当事人韩钢、刘克峰、杨毅辉提出了陈述、申辩意见；当事人荣海、徐韬、林作良、陈文、雷波未提出陈述、申辩意见，也未要求听证。</SPAN><SPAN style="LINE-HEIGHT: 150%">本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，海星科技存在以下违法事实：</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、未按规定披露对外重大担保事项</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align=left><SPAN style="LINE-HEIGHT: 150%">（一）<SPAN>2007</SPAN>年<SPAN>5</SPAN>月<SPAN>17</SPAN>日，海星科技控股股东西安海星科技投资控股（集团）有限公司（以下简称海星集团）与空军后勤部驻郑州办事处签订还款补充协议，海星集团付款<SPAN>1,197.73</SPAN>万元，付款期限为<SPAN>2007</SPAN>年<SPAN>5</SPAN>月<SPAN>17</SPAN>日至<SPAN>2008</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日，海星科技为海星集团提供等额担保。在有关担保合同上签字的是韩钢，荣海对此知情。对于以上担保，海星科技未及时披露，也未在<SPAN>2007</SPAN>年中报、<SPAN>2007</SPAN>年年报、<SPAN>2008</SPAN>年中报以及<SPAN>2008</SPAN>年年报中进行披露。<SPAN>2009</SPAN>年<SPAN>7</SPAN>月<SPAN>14</SPAN>日，海星科技进行了补充披露。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）<SPAN>2008</SPAN>年<SPAN>3</SPAN>月<SPAN>26</SPAN>日，陕西同瑞药业有限责任公司（以下简称同瑞药业）与西安市商业银行新城支行签订<SPAN>5,800</SPAN>万元借款合同，借款期限为<SPAN>2008</SPAN>年<SPAN>3</SPAN>月<SPAN>28</SPAN>日至<SPAN>2009</SPAN>年<SPAN>3</SPAN>月<SPAN>20</SPAN>日。同日，海星科技控股子公司西安海星房地产综合开发有限公司（以下简称海星房产）为同瑞药业提供抵押担保。在有关担保合同上签字的是荣海。对于以上担保，海星科技未及时披露，也未在<SPAN>2008</SPAN>年中报、<SPAN>2008</SPAN>年年报中进行披露。<SPAN>2009</SPAN>年<SPAN>6</SPAN>月<SPAN>12</SPAN>日，海星科技进行了补充披露。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（三）<SPAN>2003</SPAN>年<SPAN>9</SPAN>月<SPAN>28</SPAN>日，海星集团和海星科技签订协议组成联合体，投标阿深高速公路河南开封至通许段建设。<SPAN>2003</SPAN>年<SPAN>11</SPAN>月<SPAN>26</SPAN>日，联合体与中铁十五局签订合同，约定各自承担的事项，并约定中铁十五局向联合体指定的账户分批汇入<SPAN>1.4</SPAN>亿元作为履约保证金。<SPAN>2004</SPAN>年<SPAN>2</SPAN>月<SPAN>26</SPAN>日，双方签订补充合同，规定原合同约定的中铁十五局提供的<SPAN>1.4</SPAN>亿元履约保证金的本金和利息均由联合体负责偿还，偿还期限为<SPAN>2</SPAN>年。<SPAN>2008</SPAN>年<SPAN>2</SPAN>月<SPAN>1</SPAN>日，海星房产签署《还款担保书》，为联合体欠中铁十五局<SPAN>1.4</SPAN>亿元保证金的本金及利息提供连带责任担保。在有关担保合同上签字的是荣海。对于以上担保，海星科技未及时披露，也未在<SPAN>2007</SPAN>年年报、<SPAN>2008</SPAN>年中报中进行披露。<SPAN>2008</SPAN>年<SPAN>10</SPAN>月<SPAN>7</SPAN>日，海星科技进行了补充披露。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、未按规定披露重大诉讼事项</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）海星科技<SPAN>2007</SPAN>年中报、<SPAN>2007</SPAN>年年报未按规定披露<SPAN>4</SPAN>起重大诉讼事项</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">1. 2004</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>4</SPAN>月<SPAN>20</SPAN>日，海星科技为深圳市北大中基科技有限公司向中国银行深圳红岭支行的借款提供担保。<SPAN>2006</SPAN>年<SPAN>5</SPAN>月<SPAN>25</SPAN>日，深圳市中级人民法院（以下简称深圳中院）就中国银行深圳红岭支行起诉海星科技借款担保纠纷案下达应诉通知书，涉诉金额<SPAN>2,809.51</SPAN>万元。<SPAN>2006</SPAN>年<SPAN>7</SPAN>月<SPAN>24</SPAN>日，深圳中院下达（<SPAN>2006</SPAN>）深中法民二初字第<SPAN>171</SPAN>号民事调解书，确认海星科技清偿<SPAN>2,100</SPAN>万元本金及利息，要求海星科技于<SPAN>2007</SPAN>年<SPAN>9</SPAN>月<SPAN>30</SPAN>日前清偿全部本金及利息。截至<SPAN>2006</SPAN>年<SPAN>7</SPAN>月<SPAN>12</SPAN>日，双方确认利息数额为<SPAN>371.82</SPAN>万元。对于以上诉讼情况，海星科技未在<SPAN>2007</SPAN>年中报、<SPAN>2007</SPAN>年年报中进行披露。<SPAN>2009</SPAN>年<SPAN>6</SPAN>月<SPAN>16</SPAN>日，海星科技进行了补充披露。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2. 2005</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>4</SPAN>月<SPAN>8</SPAN>日，海星科技为深圳市方正东讯科技有限公司（以下简称方正东讯）向广发银行深圳上步路支行的借款提供担保。<SPAN>2006</SPAN>年<SPAN>2</SPAN>月<SPAN>7</SPAN>日，深圳中院就广发银行深圳上步路支行起诉方正东讯、魏某、海星科技借款纠纷案下达应诉通知书，涉诉金额<SPAN>1,004.46</SPAN>万元。<SPAN>2006</SPAN>年<SPAN>9</SPAN>月<SPAN>28</SPAN>日，深圳中院下达（<SPAN>2006</SPAN>）深中法民二初字第<SPAN>13</SPAN>号民事判决书，判决方正东讯偿还借款<SPAN>1,000</SPAN>万元本金及<SPAN>59.80</SPAN>万元利息，海星科技等承担共同连带清偿责任。<SPAN>2007</SPAN>年<SPAN>1</SPAN>月<SPAN>23</SPAN>日，广东省高级人民法院（以下简称广东高院）向海星科技下达审理上诉通知书。<SPAN>2007</SPAN>年<SPAN>2</SPAN>月<SPAN>26</SPAN>日，广东高院下达（<SPAN>2007</SPAN>）粤高法民二终字第<SPAN>23</SPAN>号民事判决书，驳回海星科技上诉，维持原判。对于以上诉讼情况，海星科技未在<SPAN>2007</SPAN>年中报、<SPAN>2007</SPAN>年年报中进行披露。<SPAN>2009</SPAN>年<SPAN>6</SPAN>月<SPAN>16</SPAN>日，海星科技进行了补充披露。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">3. 2006</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月<SPAN>16</SPAN>日，海星科技向浦发银行深圳分行借款，海星集团为其担保。<SPAN>2007</SPAN>年<SPAN>2</SPAN>月<SPAN>5</SPAN>日，深圳中院就浦发银行深圳分行起诉海星科技、海星集团借款纠纷案下达应诉通知书，涉诉金额<SPAN>1,803.04</SPAN>万元。<SPAN>2007</SPAN>年<SPAN>2</SPAN>月<SPAN>12</SPAN>日，深圳中院下达（<SPAN>2006</SPAN>）深中法民二初字第<SPAN>397</SPAN>号民事调解书，确认海星科技应归还浦发银行深圳分行<SPAN>1,799.18</SPAN>万元本金及<SPAN>3.50</SPAN>万元利息。截至调查时，海星科技未披露该诉讼事项。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">4. 2005</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>10</SPAN>月<SPAN>24</SPAN>日，海星科技为郑州邦和生物药业有限公司（以下简称郑州邦和）向光大银行郑州纬二路支行的借款提供担保。<SPAN>2007</SPAN>年<SPAN>4</SPAN>月<SPAN>28</SPAN>日，郑州市中级人民法院（以下简称郑州中院）就光大银行郑州纬二路支行起诉郑州邦和、海星科技、海星集团、傅某等借款纠纷案下达应诉通知书，涉诉金额<SPAN>3,799.47</SPAN>万元。<SPAN>2007</SPAN>年<SPAN>7</SPAN>月<SPAN>6</SPAN>日，郑州中院下达（<SPAN>2007</SPAN>）郑民四初字第<SPAN>15</SPAN>号民事判决书，判决郑州邦和偿还借款本金<SPAN>3,796.82</SPAN>万元及利息<SPAN>2.65</SPAN>万元，并支付律师费<SPAN>35</SPAN>万元，海星科技等承担连带责任。截至调查时，海星科技未披露该诉讼事项。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">荣海、徐韬对以上事项知情。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）海星科技未及时披露与中铁十五局诉讼案有关情况，也未在<SPAN>2008</SPAN>年中报中披露</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月<SPAN>18</SPAN>日，中铁十五局因项目建设管理委托合同纠纷，向河南省高级人民法院（以下简称河南高院）起诉海星集团、海星科技、海星房产等公司，请求法院判令被告返还中铁十五局履约保证金<SPAN>1.4</SPAN>亿元及相关利息和违约金，合计<SPAN>187,822,715</SPAN>元。<SPAN>2008</SPAN>年<SPAN>9</SPAN>月<SPAN>17</SPAN>日，河南高院裁定冻结各被告方银行账户上的存款<SPAN>1.8</SPAN>亿元，或查封、扣押、冻结其等额财产、投资权益、到期债权。<SPAN>2008</SPAN>年<SPAN>9</SPAN>月<SPAN>18</SPAN>日，河南高院轮候查封海星科技名下的海星信息产业基地；同日，河南高院冻结海星科技的两个银行账户，冻结金额为<SPAN>5,743.21</SPAN>元。对于以上情况，海星科技未及时披露，也未在<SPAN>2008</SPAN>年中报中进行披露。<SPAN>2008</SPAN>年<SPAN>10</SPAN>月<SPAN>7</SPAN>日，海星科技进行了补充披露。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">韩钢对海星科技未按规定披露以上事项负有责任。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（三）海星科技未及时披露与中天建设诉讼案有关情况，也未在<SPAN>2008</SPAN>年中报中披露</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2003</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>9</SPAN>月<SPAN>28</SPAN>日，海星房产与中天建设集团有限公司（以下简称中天建设）签订《建设工程施工合同》和《补充协议》，约定由中天建设承建海星房产开发的位于西安市高新开发区科技路与高新一路十字口的“海星城市广场”。<SPAN>2008</SPAN>年<SPAN>7</SPAN>月<SPAN>15</SPAN>日，中天建设向西安市中级人民法院（以下简称西安中院）提出诉前财产保全申请<SPAN>,</SPAN>请求冻结海星房产和海星集团价值<SPAN>53,741,379.54</SPAN>元的财产。<SPAN>2008</SPAN>年<SPAN>7</SPAN>月<SPAN>21</SPAN>日，西安中院下达（<SPAN>2008</SPAN>）西立保字第<SPAN>9</SPAN>号民事裁定书，裁定查封（预查封）、冻结海星房产和海星集团价值<SPAN>53,741,379.54</SPAN>元的财产。同日，西安中院下达（<SPAN>2008</SPAN>）西立保字第<SPAN>9</SPAN>－<SPAN>2</SPAN>号协助执行通知书，查封海星房产位于海星城市广场和海星智能广场的共<SPAN>10,000</SPAN>多平方米房产。<SPAN>2008</SPAN>年<SPAN>8</SPAN>月<SPAN>15</SPAN>日，中天建设向西安中院起诉海星房产、海星科技和海星集团，要求海星房产立即支付所欠工程款<SPAN>35,819,138</SPAN>元及拖欠的工程款利息<SPAN>18,783,770</SPAN>元，海星科技和海星集团对此承担连带责任。对于以上情况，海星科技未及时披露，也未在<SPAN>2008</SPAN>年中报中进行披露。<SPAN>2008</SPAN>年<SPAN>10</SPAN>月<SPAN>7</SPAN>日，海星科技进行了补充披露。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">荣海、韩钢对以上相关事项知情。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、未按规定披露参股公司经营情况重大变化事项</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2003</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>11</SPAN>月，海星集团与海星科技共同设立河南海星高速公路发展有限公司（以下简称河南海星），专门从事阿深高速公路河南开封至通许段（以下简称开通段）的投资、设计、施工、运营和维护，并被开封市政府授予开通段建设管理权、营运管理权和车辆通行费收费权等特许经营权。<SPAN>2006</SPAN>年<SPAN>8</SPAN>月<SPAN>23</SPAN>日，河南省交通厅批复将河南海星的主营资产——开通段高速项目的业主资格变更为河南高速公路发展有限责任公司。<SPAN>2007</SPAN>年<SPAN>8</SPAN>月<SPAN>30</SPAN>日，河南海星参加由开封市交通局召开的开通段业主变更移交会议。<SPAN>2008</SPAN>年<SPAN>1</SPAN>月<SPAN>9</SPAN>日，开封市交通局下发通知，解除了海星集团与海星科技联合体对开通段的特许经营权。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">对于河南海星被解除特许经营权事项与阿深高速公路开通段业主资格变更事项，海星科技未及时披露，也未在<SPAN>2007</SPAN>年中报、<SPAN>2007</SPAN>年年报、<SPAN>2008</SPAN>年中报以及<SPAN>2008</SPAN>年年报中进行披露。<SPAN>2009</SPAN>年<SPAN>6</SPAN>月<SPAN>20</SPAN>日，海星科技进行了补充披露。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">荣海、徐韬、陈文对以上相关事项知情。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">四、未按规定披露预付账款事项</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2003</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月，西部信托投资有限公司、海星科技、海星集团、海星房产发起设立西安海星科技投资置业有限公司（以下简称海星置业），海星科技持股<SPAN>16.67%</SPAN>。<SPAN>2003</SPAN>年<SPAN>6</SPAN>月，海星科技收购了西部信托投资有限公司和海星集团持有的海星置业股权合计<SPAN>66.67%</SPAN>，收购后，海星科技对海星置业的持股比例变更为<SPAN>83.33%</SPAN>，海星置业成为其控股子公司，海星科技将其纳入合并会计报表范围。<SPAN>2003</SPAN>年<SPAN>3</SPAN>月<SPAN>27</SPAN>日，海星置业向西安市雁塔区国土局预付<SPAN>87,372,450</SPAN>元征地款，其中<SPAN>5,000</SPAN>万元由海星置业支付给海星科技，同日，海星科技将此<SPAN>5,000</SPAN>万元转到西安市雁塔区国土局银行账户上，另外的<SPAN>37,372,450</SPAN>元由海星置业直接转到西安市雁塔区国土局银行账户上，海星置业通过预付账款挂账核算。<SPAN>2003</SPAN>年<SPAN>3</SPAN>月<SPAN>27</SPAN>日海星置业预付给西安市雁塔区国土局的<SPAN>87,372,450</SPAN>元征地款，当日又从该局银行账户上转回到海星科技银行账户上。其中，转回的<SPAN>49,999,997.60</SPAN>元被海星科技用于冲减与海星置业的往来款，另外的<SPAN>37,372,450</SPAN>元用于冲减其他单位对海星科技的挂账欠款。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">海星科技<SPAN>2007</SPAN>年中报、<SPAN>2007</SPAN>年年报、<SPAN>2008</SPAN>年中报以及<SPAN>2008</SPAN>年年报财务会计报告附注中预付账款项目披露：本公司子公司海星置业为征用陆家寨等村<SPAN>794.295</SPAN>亩土地支付的<SPAN>87,372,450.00</SPAN>元征地款<SPAN>,</SPAN>至目前为止<SPAN>,</SPAN>该宗土地的相关手续尚未办理完毕。根据前述事实，海星科技相关定期报告的记载虚假。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">荣海对以上事项知情。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">以上事实，有海星科技相关定期报告、有关当事人询问笔录、对外担保合同以及诉讼法律文书等证据证明，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">海星科技未按规定披露对外重大担保、重大诉讼、参股公司经营情况重大变化以及预付账款事项的行为违反了《证券法》第六十三条、第六十五条、第六十六条、第六十七条的规定，构成了《证券法》第一百九十三条所述违法行为。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">荣海对海星科技绝大部分临时公告违法事项知情，是对相关事项未及时披露行为直接负责的主管人员，是对海星科技2007年中报、2007年年报、2008年中报以及2008年年报信息披露违法行为直接负责的主管人员；韩钢对海星科技部分临时公告违法事项知情，是对相关事项未及时披露行为直接负责的主管人员，是对海星科技2007年中报、2007年年报以及2008年中报信息披露违法行为直接负责的主管人员；徐韬对海星科技部分临时公告违法事项知情，是对相关事项未及时披露行为负责的其他直接责任人员，是对海星科技2007年中报、2007年年报、2008年中报以及2008年年报信息披露违法行为负责的其他直接责任人员；林作良在通过2007年中报、2007年年报的董事会决议上签字同意，是对海星科技有关定期报告信息披露违法行为负责的其他直接责任人员；杨毅辉在通过2007年中报、2008年中报以及2008年年报的董事会决议上签字同意，是对海星科技有关定期报告信息披露违法行为负责的其他直接责任人员；刘克峰在通过2007年年报、2008年中报以及2008年年报的董事会决议上签字同意，是对海星科技有关定期报告信息披露违法行为负责的其他直接责任人员；陈文对海星科技个别临时公告违法事项知情，并保证2007年中报、2007年年报、2008年中报以及2008年年报信息披露不含虚假记载、误导性陈述或者重大遗漏，是对海星科技有关定期报告信息披露违法行为负责的其他直接责任人员；雷波保证2007年中报、2007年年报以及2008年中报财务报告真实、完整，是对海星科技有关定期报告信息披露违法行为负责的其他直接责任人员。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人韩钢在陈述、申辩材料中提出，我会事先告知中有关其应对海星科技未按规定披露中铁十五局诉讼一事负责的认定与事实不符。导致上述事项披露违规的原因是海星集团和海星房产有关人员未将相关诉讼情况及时向公司董事会及公司负责人、董秘报送。其未在海星高速公路发展有限公司和海星房产任职，事先对该事项不可能知情。在得知有关情况后，海星科技董事会立即开会研究并及时对上述事项作了披露；其为海星科技重组做出了贡献。依照《证券法》相关规定，其不应承担责任。经复核，我会认为，依据《证券法》关于上市公司董事应保证上市公司所披露的信息真实、准确、完整的规定，当事人应当对海星科技相关信息披露违法行为承担责任。当事人有关以不知情为由请求对其免予处罚的申辩于法无据。<SPAN>2008</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日，海星科技办公室工作人员吴某签收了河南高院送达的中铁十五局起诉海星科技一案的诉状副本、应诉通知书等法律文书，海星科技受送达一事的事实清楚，证据充分。根据海星科技提供的情况说明，该公司收发文办法中未规定文件流转方面的内容，公司总经理办公室作为收发工作的管理部门，在工作中根据实际情况部分执行了规章制度的要求。有关单位当面送达的文件只是转交收件人批阅未作登记，未办理存档手续。对此，当事人作为全面主持海星科技日常工作的董事、总经理，对公司在收发文过程中存在的严重问题未能及时发现并予纠正，负有管理不善的责任，对由此导致的海星科技未及时披露相关诉讼事项应当承担法律责任。此外，当事人关于其在任职期间有勤勉尽责表现的说法没有证据支持，当事人有关为海星科技重组做出贡献的申辩与本案违法事实认定之间没有直接联系。综上，鉴于当事人未就我会事先告知中对其违法行为的认定提出新的事实及其证据，我会对其申辩意见不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人刘克峰在陈述、申辩材料中提出，涉案违法行为是荣海等海星科技内部人员故意隐瞒导致，其作为外部董事事先并不知情，也没有知情不报或延迟不报。在得知海星科技存在未及时披露重大事项的问题后，其和其他董事要求公司查清事实，立即进行披露，并建议向监管部门及时汇报，不是涉案违法行为的直接责任人；其是在认真审查会计师事务所出具的审计报告后才签署同意有关中报、年报的。在任董事期间尽到了注意和勤勉义务；其受陕西省技术进步投资有限公司委派出任董事，所有表决签字事项，均向派出单位做过汇报，得到了派出单位的允许和支持。其从未在海星科技领取任何津贴，实为影子董事；其为海星科技重组做出了贡献。请求对其免予处罚。经复核，当事人在</SPAN><SPAN style="LINE-HEIGHT: 150%">审议通过海星科技2007年年报、2008年中报以及2008年年报的董事会决议上签字同意。基于前述复核理由，当事人</SPAN><SPAN style="LINE-HEIGHT: 150%">有关以不知情为由请求对其免予处罚的申辩于法无据。对于已督促海星科技查清违法事实，及时披露并建议向监管部门汇报的说法，当事人没有提出具体证据，亦没有公司予以旁证。我会认为，上市公司董事会对公司事务的内部控制、内部审计监督，与外部监督、外部审计一样，均是上市公司合法运作、公开透明的基本保障，二者相辅相成、互相促进，但是不能相互取代。上市公司的会计责任与外部审计机构的审计责任是两种不同的责任，在信息披露违法情形发生时，不能以审计机构未发现、未指出为由，免除上市公司董事的责任。上市公司董事在履职过程中，应当基于本人的学识、能力，以忠实勤勉的态度，依据法律法规和监管部门要求，排除来自上市公司股东、公司内部人以及其他方面的不当影响与干扰，对有关事项做出负责任的独立判断，并清楚自己的行为可能产生的法律后果。因此，当事人有关以受单位派遣、投票行为得到派遣单位支持而自己只是影子董事为由请求对其免予处罚的申辩于法无据。上市公司董事应当尽自己所能主动去全面了解公司的情况，有针对性地提出问题和意见，而不仅仅是被动等待公司告知。同时，针对本案，考虑到当事人作为外部董事不直接参与海星科技日常经营运作，一定程度上难以尽快发现担保、诉讼等事项未披露，违法情节比较轻微的情况，我会在事先告知中认定当事人责任并作出拟处罚决定时，已将其与荣海等对涉案违法行为直接负责的主管人员做了明确区分，对当事人拟作出的处罚仅为警告。此外，当事人有关为海星科技重组做出贡献的申辩与本案违法事实认定之间没有直接联系。综上，鉴于当事人未就我会事先告知中对其违法行为的认定提出新的事实及其证据，我会对其申辩意见不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人杨毅辉在陈述、申辩材料中表示愿意接受监管部门对其进行的批评、教育，但辩称涉案违法行为是公司内部某些高管不按内控制度执行，故意隐瞒事实不向董事会报告导致，其作为外部董事即便再努力也很难得知。对于涉案违法行为，虽然其负有一定的职务责任，但这同违法行为的始作俑者有着本质区别，其不应被认定为是直接责任人；其在任董事期间，主动了解公司经营状况，认真审议议案并慎重表态，多次提出要对控股企业进行审计。在涉案违法事项暴露后，其积极参加讨论应对措施的制定，要求公司立即查明事实并及时披露，同时建议向监管部门报告，有勤勉尽责表现；其作为中航工业西飞工业（集团）公司派出的董事，所有表决签字事项均向派出单位及时汇报，表达了股东的意愿；其为海星科技重组做出了贡献。请求考虑其一贯勤勉履职、积极推动公司重组整合的努力，以及不知实情但能积极做好补救工作的表现，对其免予处罚。经复核，当事人在</SPAN><SPAN style="LINE-HEIGHT: 150%">审议通过海星科技2007年中报、2008年中报以及2008年年报的董事会决议上签字同意。</SPAN><SPAN style="LINE-HEIGHT: 150%">基于前述复核理由，当事人有关以不知情为由请求对其免予处罚的申辩于法无据。对于有关在任董事期间曾认真审议议案，多次提出要对控股企业进行审计的说法以及在海星科技风险爆发后已督促公司查清违法事实，及时披露并建议向监管部门汇报的说法，当事人没有提出具体证据，亦没有公司予以旁证。基于前述复核理由，当事人有关以受单位派遣、有关投票行为均表达了派遣单位意愿为由请求对其免予处罚的申辩于法无据。上市公司董事应当尽自己所能主动去全面了解公司的情况。同时，针对本案，考虑到当事人作为外部董事不直接参与海星科技日常经营运作，在一定程度上难以尽快发现担保、诉讼等事项未披露，违法情节比较轻微的情况，我会在事先告知中认定当事人责任并作出拟处罚决定时，已将其与荣海等对涉案违法行为直接负责的主管人员做了明确区分，对当事人拟作出的处罚仅为警告。此外，当事人有关为海星科技重组做出贡献的申辩与本案违法事实认定之间没有直接联系。综上，鉴于当事人未就我会事先告知中对其违法行为的认定提出新的事实及其证据，我会对其申辩意见不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、对荣海给予警告，并处以<SPAN>10</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、对韩钢给予警告，并处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、对徐韬、雷波给予警告，并分别处以<SPAN>3</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">四、对林作良、杨毅辉、刘克峰、陈文给予警告。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 152.25pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">　　　　　　　　　　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会</SPAN></P><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 二○一二年六月十三日</SPAN>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20120731_213271_ext.json

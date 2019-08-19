@@ -1,0 +1,257 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（北京中同华资产评估有限公司、徐建福、朱云）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2016年07月20日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（北京中同华资产评估有限公司、徐建福、朱云）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2016〕90号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（北京中同华资产评估有限公司、徐建福、朱云）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2016〕90号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔2016〕90号</SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN>&nbsp;</P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：北京中同华资产评估有限公司（以下简称中同华），住所：北京市西城区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">徐建福，男，1962年8月出生，中同华注册资产评估师，住址：上海市浦东新区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">朱云，男，1968年3月出生，中同华注册资产评估师，住址：上海市静安区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对中同华违法违规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人中同华、徐建福、朱云的要求，我会举行听证会，听取了中同华及其代理人、徐建福、朱云的陈述和申辩。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，2014年，中同华在上海大智慧股份有限公司（以下简称大智慧）下属公司</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">民泰（天津）贵金属经营有限公司（以下简称天津民泰）和</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">无锡君泰贵金属合约交易中心有限公司（</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以下简称无锡君泰</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">股东权益价值的评估过程中，存在如下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、中同华在评估天津民泰股权价值时违反相关执业准则规定</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年6月17日，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">大智慧子公司</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">大智慧信息科技有限公司（以下简称大智慧信息科技）、中同华上海分所和天津民泰签订《资产评估业务约定书》。2014年6月19日，中同华出具中同华评报字（2014）第256号评估报告。评估报告的评估基准日为2013年12月31日，该日天津民泰账面净资产值11,833.81万元，评估价值55,728.00万元，评估增值43,894.19万元，增值率370.92%。中同华收取评估费6万元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年3月14日，大智慧在答复上海证券交易所有关转让天津民泰70%股权作价公允性问题时公告回复：“2014年3月子公司天津民泰由北京中同华资产评估有限公司出具中同华评报字（2014）第256号资产评估报告，评估值为55,728.00万元。2014年6月将天津民泰70%的股权作价3.92亿元进行转让，故该作价公允。”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以预先设定的价值作为评估结论。一是</SPAN><SPAN class=15 style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">朱云</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">在进场前了解到委托方的评估期望值为5.6亿元，并称5亿元还是可以试试。二是评估工作底稿中没有天津民泰应当提供的经营计划、发展规划、所在行业状况及发展前景等预测资料，也未对天津民泰的总经理进行访谈。三是应由被评估单位提供的用于盈利预测的基础资料“S－6评估预测”，是评估师依据评估结果代客户倒编形成，其中多次出现“被评估单位”字样。四是评估工作底稿中未记录关键预测数据的形成依据，如2014年至2018年各年开户数增长率、各年人均手续费收入等。五是天津民泰股权价值的评估结果55,728万元占委托方期望的评估值56,000万元的99.51%，中同华对此没有合理解释。中同华的该项行为不符合《资产评估职业道德准则—独立性》第六条和《资产评估准则—企业价值》第七条“不得以预先设定的价值作为评估结论”的规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中同华评估结论存在具有重要影响的实质性遗漏。中同华在预测天津民泰未来各年所租赁物业的租金、物业管理费时，未考虑天津民泰在2014年6月解除与大智慧的业务合作后，对大智慧原无偿提供的场地将产生的租赁费支出，导致评估值高估3,979万元。中同华的该项行为不符合《资产评估准则—企业价值》第七条“不得出现对评估结论具有重要影响的实质性疏漏和错误”的规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">未披露评估基准日（2013年12月31日）至评估报告日（2014年6月19日）期间发生的影响评估结论的重大事项。2014年3月15日，央视财经频道报导的关于部分白银交易所乱象；同时，中同华在评估报告日前获知的天津民泰将与大智慧提前终止贵金属业务合作的事项，属于《资产评估准则—评估报告》第二十六条规定的“重大期后事项”，中同华未将其在评估报告的“十一、特别事项说明”中按规定予以披露，不符合《资产评估准则—评估报告》第二十六条“注册资产评估师应当说明特别事项可能对评估结论产生的影响，并重点提示评估报告使用者予以关注”的规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（四）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">未对现金、银行存款、预付账款、其他应收款和访谈记录等实施有效的评估程序。一是评估工作底稿无现金监盘表。二是无银行、预付账款询证函。三是评估报告日期早于应付账款询证函回函日期。四是部分访谈记录主要要素填写不完整，《被评估企业厂长、总经理访谈记录表》中的访谈对象为“空”。中同华的该项行为不符合《资产评估准则—评估程序》第十九条“注册资产评估师应当通过询问、函证、核对、监盘、勘查、检查等方式进行调查，获取评估业务需要的基础资料，了解评估对象现状，关注评估对象法律权属”的规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（五）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">评估工作底稿不符合规定。中同华收集的与评估业务相关的资料无提供人的签字、盖章，不符合《资产评估准则—工作底稿》第十三条“应当由提供方在相关资料中签字、盖章或者以其他方式进行确认”的规定。评估工作底稿编制日期早于业务承接日期，部分评估工作底稿无审核人员签字或签署不符合规定，不符合《资产评估准则—工作底稿》第十四条“工作底稿应当反映内部审核过程。审核人在审核工作底稿时，应当书面表示审核意见并签字”的规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、中同华在评估无锡君泰股权价值时违反相关执业准则规定</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年12月5日，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">大智慧</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">、中同华上海分所和无锡君泰签订《资产评估业务约定书》。2014年12月10日，中同华出具中同华评报字（2014）第697号评估报告。评估价值5.8亿元。评估目的是为大智慧拟转让其持有的无锡君泰部分股权提供价值参考。中同华收取评估费6万元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">大智慧第二届董事会2014年第八次临时会议决议公告（临2014－083）、大智慧第二届监事会第十五次会议决议公告（临2014－84）和大智慧2014年第五次临时股东大会决议公告（临2014－089）审议通过了《关于转让所持无锡君泰贵金属合约交易中心有限公司25%股权的议案》，该议案中披露股权交易价格以中同华出具的中同华评报字（2014）第697号《资产评估报告书》中确定的标的股份的评估值作为确定依据，标的股份的转让价格确定为14,500万元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 29.6pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以预先设定的价值作为评估结论。一是朱云在进场前得知委托方的评估期望值为5.8亿元。二是评估师预测无锡君泰2015年-2018年各年收入的增长率分别是18%、15%、12%、12%，但评估工作底稿中未记录该增长率的确定依据。三是应由被评估单位提供用于盈利预测的“S－6评估预测”材料是评估师代客户倒编形成，评估工作底稿中无无锡君泰提供的盈利预测数，评估师仅依据访谈内容“公司将在2015年进一步扩大市场，准备上20个新的品种，该计划现已落实，总成交量将扩大3－5倍以上”做出了盈利预测。四是无锡君泰股权价值的评估结果为5.8亿元，与委托方的期望评估结果完全相同，中同华对此没有合理解释。中同华的该项行为不符合《资产评估准则—企业价值》第七条“不得以预先设定的价值作为评估结论”的规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 29.6pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">未按规定取得银行询证函、编制银行存款余额调节表。中同华的该项行为不符合《资产评估准则—评估程序》第十九条“注册资产评估师应当通过询问、函证、核对、监盘、勘查、检查等方式进行调查，获取评估业务需要的基础资料，了解评估对象现状，关注评估对象法律权属”的规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 29.6pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">评估报告的出具日期早于内部审核日期，部分评估工作底稿缺失“主管经理签字”。中同华的该项行为不符合《资产评估准则—工作底稿》第七条“工作底稿应当真实完整”的规定，以及第十四条“工作底稿应当反映内部审核过程。审核人在审核工作底稿时，应当书面表示审核意见并签字”的规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述违法事实，有相关公告、决议、评估报告、协议、评估工作底稿、相关人员询问笔录、通讯记录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中同华在评估天津民泰、无锡君泰股权价值中</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">未勤勉尽责的行为，违反了《证券法》第一百七十三条关于“证券服务机构为证券的发行、上市、交易等证券业务活动制作、出具审计报告、资产评估报告、财务顾问报告、资信评级报告或者法律意见书等文件，应当勤勉尽责，对所依据的文件资料内容的真实性、准确性、完整性进行核查和验证”的规定，构成《证券法》第二百二十三条所述“证券服务机构未勤勉尽责，所制作、出具的文件有虚假记载、误导性陈述或者重大遗漏”的违法行为。徐建福、朱云是直接负责的主管人员。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中同华、徐福建、朱云在听证与申辩材料中提出应当免予处罚，理由如下：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　（一）天津民泰评估项目。1.&nbsp;法律适用。《证券法》第一百七十三条适用的情形必须是以“证券服务机构”的身份从事“为证券的发行、上市、交易等证券业务活动制作、出具各类专业文件”的专业行为。本案中，中同华评估服务的对象是大智慧信息科技，被评估的标的单位是天津民泰，两家有限公司之间的股权转让行为不应当适用《证券法》第一百七十三条的规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;评估报告的使用情况。没有证据表明大智慧信息科技转让天津民泰股权价值时使用了中同华出具的评估报告：（1）2014年6月10日大智慧召开董事会时“未曾提及聘请过评估机构对天津民泰股权评估的事项”。（2）大智慧在2014年6月11日、6月13日发布的两份公告（临2014－033号、临2014－036号）中，将本次股权转让价格确定的一般原则和方法表述为：“以立信会计师事务所（特殊普通合伙）出具的《民泰（天津）贵金属经营有限公司2013年度审计报告》（信会师报字（2014）第&nbsp;111254&nbsp;号）为依据，遵循公平合理的定价原则，并参照市场价格确定”，将关联交易的价格确定的具体方法表述为：“考虑到公司的核心价值是管理团队、销售服务团队及客户资源，综合客户价值、盈利能力、经营环境、今年以来的市场及规模变化等因素，经与购买方黄顺宁先生协商确定目标公司&nbsp;70%股权的交易价格为39,195&nbsp;万元”。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;未以预设值作为评估结论。（1）事先了解委托方的评估期望值是评估师事务所对其从事评估工作的执业风险进行管控的合理做法。评估人员之间的短信沟通属于项目组内部关于评估风险以及评估结果的沟通、商议，并未以此作为预先设定的评估价值。（2）中同华取得了天津民泰提供的有关其未来经营和发展规划的纸质版文件，以及未来盈利预测的电子资料。因其提供的盈利预测太过乐观冒进，评估人员对数据进行了分析调整，最终形成了“S－6评估预测”并以书面形式取得了天津民泰的盖章确认。符合《资产评估准则——企业价值》第四章第二十七条“注册资产评估师应当......对委托方或者相关当事方提供的企业未来收益预测进行必要的分析、判断和调整，在考虑未来各种可能性及其影响的基础上合理确定评估假设，形成未来收益预测。”的规定。（3）天津民泰收入主要为人均手续费收入、人均点差费收入和人均延期费收入，中同华分别对三项收入和开户数未来增长率进行了分析。（4）预测的天津民泰2014年和2015年的营业收入、净利润与实际经营业绩的差异是由实际经营过程中天津民泰受到多方面外力影响所致。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">4.&nbsp;评估结论不存在</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">重要影响的实质性遗漏。（1）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">天津民泰与大智慧终止贵金属业务合作并不必然导致天津民泰需要立即开始向大智慧支付其无偿使用的办公场所的租金和物业费。（2）“重大遗漏”的标准在《证券法》和《资产评估准则——企业价值》中均未做进一步的规定。（3）根据对天津民泰业务类型的判断，评估师有合理理由相信在办公场所的无偿使用许可终止后，天津民泰也无需将其实际办公面积由2,287.48平方米扩展到5,508.92平方米，评估时可以合理假定两者之间相差的3,221.44平方米将被用于对外转租，不应产生租金和物业费的成本。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5.&nbsp;不需披露涉案期后事项。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">央视财经频道报导以及提前终止与大智慧的贵金属业务合作</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">均已经在评估结果中予以考虑且已体现在评估说明中，因此不需要再予以披露。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">6.&nbsp;评估程序符合规定。（1）对银行存款等科目采用了替代程序，如复印所有银行账户的银行对账单及余额调节表，并全部核对相符；抽查了部分银行收支凭证。（2）评估基准日预付账款申报表填列数值与明细表、总账、资产负债表的余额核对相符。对预付账款等科目实施了函证，对未回函且金额较大的部分按照准则要求采用了替代程序。（3）报告日期早于其他应收款询证函回函日期属于正常现象，回函认定无误，不影响评估报告的正式出具。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）无锡君泰评估项目。1.&nbsp;未以预设值作为评估结论。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（1）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">事先了解委托方对评估结果期望值的行为属于评估单位对其从事评估工作的执业风险进行管控的合理做法，不能成为认定其在评估开始前的业务洽谈环节已经实施了预先设定价值的依据</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。（2）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">无锡君泰收入主要为交易手续费收入、隔夜仓息收入和现货收入，中同华分别对三项收入未来增长率进行了分析。（3）评估师已经对无锡君泰4名管理层就经营计划，发展规划及收益相关情况等进行了访谈并将记录存入评估工作底稿，符合《资产评估准则——企业价值》第十四条的相关要求。（4）“S－6盈利预测”已经经过无锡君泰的确认并加盖公章，应当视为从无锡君泰处获得的有效的盈利预测数据。（5）根据《资产评估准则——企业价值》第四章第二十七条的规定：“注册资产评估师应当......对委托方或者相关当事方提供的企业未来收益预测进行必要的分析、判断和调整，在考虑未来各种可能性及其影响的基础上合理确定评估假设，形成未来收益预测”。故评估师在访谈基础上整理形成的“S－6盈利预测”，仍然是基于无锡君泰对未来盈利的主动预测进行的，不存在“代客户倒编”的问题。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;函证仅是注册资产评估师可选择执行的程序之一，并非必须执行的评估程序。银行账户余额与对账单金额的差异，是由于部分对账单未打印形成纸质工作底稿，根据《资产评估准则—工作底稿》第二章第八条的规定，“注册资产评估师可以根据评估业务具体情况合理选择工作底稿的形式”。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">公司的内核、审批流程通常在评估报告的出具日期之后，故评估报告的出具日期早于正式签字盖章并提交给委托方的时间</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">符合《评估准则》的相关规定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，中同华、徐福建、朱云的上述申辩理由不能成立：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　（一）天津民泰评估项目。1.&nbsp;根据《上市公司信息披露管理办法》第三十三条“上市公司控股子公司发生本办法第三十条规定的重大事件，可能对上市公司证券及其衍生品种交易价格产生较大影响的，上市公司应当履行信息披露义务”的规定，第三十条“公司的重大投资行为和重大的购置财产的决定”的规定，大智慧对其控股子公司大智慧信息科技的该项股权转让交易具有披露义务，故中同华对天津民泰的股权价值进行评估的行为受《证券法》第一百七十三条的约束。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;评估报告是否使用与我会对认定中同华行为构成《证券法》第二百二十三条所述违法行为无直接关系，且大智慧2015年3月14日发布的公告披露了天津民泰的评估机构中同华出具了评估值为55,728万元的评估报告这一核心信息。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;中同华以预先设定的价值作为评估结论。（1）中同华预先了解委托方期望的评估值主要是为避免“评估费用无法顺利收取”，故不认可其是遵照《评估机构业务质量控制指南》第二条“评估机构应当结合自身规模、业务领域等因素，建立质量控制体系，保证评估业务质量，防范执业风险”的说法。（2）业务承接当天朱云与项目组成员邵某雯沟通称5亿元还是可以试试。（3）本应由被评估单位提供的“S－6评估预测”中，对天津民泰的称谓为“被评估公司”，而非“本公司”等细节，足以表明该材料系中同华代客户编制。（4）邵某雯电子版评估工作底稿《收益法表格-民泰（朱）0615修改（差4万）》显示，该评估工作底稿的评估值是55,996万元，与大智慧的期望评估值56,000万元相差4万。（5）中同华的“评估结果”55,728万元占“委托方期望的评估值”56,000万元的99.51%。（6）大智慧信息科技取得天津民泰股权时，天津民泰2013年7月31日股权价值的评估值为10,270万元，中同华对天津民泰2013年12月31日股权价值评估值为55,728万元，短短5个月时间，增值率即达到442.63%。（7）中同华的预测结果与天津民泰的实际情况差异较大。2014年6月19日，中同华预测的天津民泰2014年的净利润（盈利558.75万元）是天津民泰2014年实际净利润（盈利94.52万元）的5.9倍，预测的天津民泰2015年1－6月的净利润（盈利3,509万元）比实际净利润（亏损1,134.57万元）大4,643.56元。（8）结合评估过程关键数据预测无依据，未对高风险的现金实施有效监盘、未获取相应银行询证函证、未获取相应往来询证函等，可以认定中同华以预先设定的价值作为评估结论。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">4.&nbsp;大智慧与天津民泰先有《贵金属业务合作协议》（以下简称《合作协议》），后有大智慧无偿提供物业给天津民泰使用事宜。（1）根据《合作协议》，合作期间大智慧可收取为天津民泰开拓客户所产生收入的90%作为佣金，2013年10－12月大智慧向天津民泰收取了约2.16亿元收入，2014年1－6月大智慧向天津民泰收取了约5,422.98万元收入。（2）大智慧提供给天津民泰免费使用的物业是大智慧向他人租赁而来，以大智慧2013年度和2014年度执行的租金计算，大智慧每年需为无偿提供给天津民泰使用的物业支付租金约894.22万元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">从商业逻辑判断，天津民泰终止与大智慧的业务合作后，大智慧不会继续为天津民泰承担每年约894.22万元的房租。从实际执行情况看，天津民泰提供的租金支付凭证和物业租赁合同显示，天津民泰从2014年6月27日开始实际支付租金。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">此外，中同华评估工作底稿中未见天津民泰未来仅需要且仅会租赁2,287.48平方米办公面积的相关证据。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5.&nbsp;根据《资产评估准则——评估报告》第二十六条第三款，“评估报告的特别事项说明通常包括下列内容：......（三）重大期后事项，......注册资产评估师应当说明特别事项可能对评估结论产生的影响，并重点提示评估报告使用者予以关注”。发生在评估基准日（2013年12月31日）和评估报告日（2014年6月19日）期间的3.15央视报道贵金属交易乱象，以及大智慧与天津民泰终止贵金属业务合作，无论评估师在确定天津民泰2014年6－9月开户数增长率时是否予以了考虑，均应当在重大期后事项中予以披露。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">6.&nbsp;货币资金属于高风险项目，应当特别关注，银行对账单无法替代银行询证函。天津民泰预付账款期末余额超过100万的客户有3个，目前的证据显示，中同华仅对其中一个客户的预付账款期末余额实施了替代程序，且替代程序显示的该客户预付账款金额与评估审定金额不一致。天津民泰其他应收款期末余额142,440,203.42元，其中应收天津贵金属交易所139,838,952.75万元，中同华在未收到回函且未实施替代程序的情况下出具评估报告。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　（二）无锡君泰评估项目。1.&nbsp;中同华未以预先设定的价值作为评估结论的申辩理由不能成立。（1）期望评估值（5.8亿元）与评估值（5.8亿元）完全相同违反常理。（2）评估师预先了解委托方期望的目的是为了规避“一旦评估的结果与企业的要求相差太远，就容易发生矛盾纠纷，进而导致评估费用无法顺利收取”的风险，故不认可其是遵照《评估机构业务质量控制指南》第二条“评估机构应当结合自身规模、业务领域等因素，建立质量控制体系，保证评估业务质量，防范执业风险”的说法。（3）根据</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">《资产评估准则—工作底稿》第六条、第十一条，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">评估工作底稿中未包含当事人申辩资料中列举的收入增长率的预测依据，故可以认定中同华确定2015年至2018年各年收入的增长率无依据。（4）无锡君泰出具的证明：“……并未提供过公司未来销售情况的预测数据”。根据当事人笔录，访谈中时任无锡君泰副总经理杜某刚提到：“公司将在2015年进一步扩大市场，准备上20个新的品种，该计划现已落实，总成交量将扩大3－5倍以上”，中同华在未获取其他更近一步的预测发展数据的情况下进行了一系列假设。本应由被评估单位提供的“S－6评估预测”，实际为评估人员编制形成委托方所期望的评估结果后由被评估单位签字、盖章，故评估工作底稿中的“S－6评估预测”是根据评估结果代客户倒编形成。（5）关键风险控制程序尚未执行完毕的情况下出具评估报告。综上，可以认定中同华以预先设定的价值作为评估结论。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　2.&nbsp;货币资金属于高风险项目，应当特别关注，银行对账单无法替代银行询证函，且金额较大，应当按照《资产评估准则—工作底稿》第八条的规定“同时形成纸质文档”。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　3.&nbsp;根据《资产评估准则——评估报告》第二十八条规定，“评估报告载明的评估报告日通常为注册资产评估师形成最终专业意见的日期”，故评估报告的出具日期应为中同华一申、二审和三审审核结束并形成最终专业意见的日期。本案中三审复核结束的日期是2014年12月17日，而评估报告的出具日期是2014年12月10日，早于内部审核的日期。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百二十三条的规定，我会决定：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">责令中同华改正违法行为，没收业务收入12万元，并处以36万元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">对</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">徐建福</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">、</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">朱云</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">给予警告，并分别处以10万元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起15日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起6个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2016年7月20日　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 12pt"><SPAN style="FONT-SIZE: 16pt; COLOR: rgb(0,0,0); FONT-FAMILY: '方正黑体简体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20160722_301087_ext.json

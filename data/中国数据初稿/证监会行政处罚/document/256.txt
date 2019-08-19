@@ -1,0 +1,220 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（薛黎明）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2015年12月30日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（薛黎明）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2015〕98号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（薛黎明）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2015〕98号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2015</FONT><FONT face=宋体>〕</FONT><FONT face="Times New Roman">98</FONT><FONT face=宋体>号</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p16 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：薛黎明</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，男，<FONT face="Times New Roman">1974</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月出生，住址：北京市昌平区。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">薛黎明操纵</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中海阳能源集团股份有限公司（以下简称中海阳）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">股价一案</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">进行了立案调查、审理，并依法向</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">薛黎明</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人提出了陈述、申辩意见，未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">薛黎明</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015<FONT face=宋体>年</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3<FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">23</FONT><FONT face=宋体>日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">期间共计<FONT face="Times New Roman">8</FONT><FONT face=宋体>个交易日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，薛黎明控制使用“薛黎明”、“孙某桂”、“薛某杰”、“王某文”、“薛某霞”、“李某叶”、“雍某雷”、“北京钵那投资管理有限公司”（以下简称钵那投资）等<FONT face="Times New Roman">8</FONT><FONT face=宋体>个账户（以下统称账户组），</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">通过连续申报、以高于做市商报价的价格大笔申报的方式，将“中海阳”每个交易日的收盘价均维持在<FONT face="Times New Roman">8</FONT><FONT face=宋体>元以上。账户组累计申买笔数为</FONT><FONT face="Times New Roman">495</FONT><FONT face=宋体>笔，累计申买量为</FONT><FONT face="Times New Roman">3,443,000</FONT><FONT face=宋体>股，累计申买金额为</FONT><FONT face="Times New Roman">29,755,840</FONT><FONT face=宋体>元，其中申买量占市场所有投资者申买量比例超过</FONT><FONT face="Times New Roman">20%</FONT><FONT face=宋体>的有</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>个交易日，最高为</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日的</FONT><FONT face="Times New Roman">46.74%</FONT><FONT face=宋体>；账户组累计买入成交笔数为</FONT><FONT face="Times New Roman">941</FONT><FONT face=宋体>笔，累计买入成交量为</FONT><FONT face="Times New Roman">3,437,000</FONT><FONT face=宋体>股，累计买入成交金额为</FONT><FONT face="Times New Roman">29,615,480</FONT><FONT face=宋体>元，其中买入量占市场所有投资者买入量比例超过</FONT><FONT face="Times New Roman">20%</FONT><FONT face=宋体>的有</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>个交易日，最高为</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日的</FONT><FONT face="Times New Roman">53.43%</FONT><FONT face=宋体>。在上述累计</FONT><FONT face="Times New Roman">941</FONT><FONT face=宋体>笔买入成交中，主动买入成交笔数为</FONT><FONT face="Times New Roman">851</FONT><FONT face=宋体>笔，占账户组累计买入成交笔数的比例为</FONT><FONT face="Times New Roman">94.44%</FONT><FONT face=宋体>；主动买入成交量为</FONT><FONT face="Times New Roman">3,151,000</FONT><FONT face=宋体>股，占账户组累计买入成交量的</FONT><FONT face="Times New Roman">91.68%</FONT><FONT face=宋体>；主动买入成交金额为</FONT><FONT face="Times New Roman">27,153,140</FONT><FONT face=宋体>元，占账户组累计买入成交金额的</FONT><FONT face="Times New Roman">91.69%</FONT><FONT face=宋体>。账户组累计卖出</FONT><FONT face="Times New Roman">3,633,000</FONT><FONT face=宋体>股，卖出收入共计</FONT><FONT face="Times New Roman">31,740,500</FONT><FONT face=宋体>元，净卖出</FONT><FONT face="Times New Roman">196,000</FONT><FONT face=宋体>股，获利</FONT><FONT face="Times New Roman">545,800</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实，有账户组账户交易资料、委托交易记录、交易数据、资金流水、薛黎明提供的情况说明、相关人员询问笔录、相关人员关于本人账户的相关情况说明、薛黎明与相关人员的短信通信记录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">薛黎明的</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述行为违反了《证券法》第七十七条第一款第（四）项的规定，构成《证券法》第二百零三条所述操纵证券市场行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">薛黎明</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">在陈述申辩意见中提出：第一，《行政处罚事先告知书》（以下简称《告知书》）将<FONT face="Times New Roman">2015</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>日同一时间段内的交易行为和事实错误地重复认定为涉嫌内幕交易和涉嫌股价操纵，属于对同一事实重复认定，不符合法条竞合的法律适用原则和一事不二罚的基本执法原则。第二，《告知书》中对</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>日同一时间段内的交易行为，既认定利用内幕信息卖出大量股份以规避损失涉嫌内幕交易，又认定集中资金优势连续交易拉升股价涉嫌操纵市场，两个认定结论相互矛盾，选择性剪裁使用证据导致对基本事实和交易行为性质认定有误。第三，新三板做市商交易机制下，投资者不具备股价操纵的基础和条件，关于涉嫌操纵股价的认定完全不能成立。第四，</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“中海阳”<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">23</FONT><FONT face=宋体>日股价上涨绝非人为操纵，而是跟随当时整个新三板市场乃至整体资本市场暴涨行情自然上涨的结果。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第五，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其与董秘关于公司股票价格的短信绝非下达操纵股价指令，而是和其探讨公司股票合理价格，希望股价客观反映公司价值。第六，《告知书》中认定，“薛黎明”、“孙某桂”、“薛某杰”、“王某文”、“薛某霞”、“李某叶”、“雍某雷”、“钵那投资”等<FONT face="Times New Roman">8</FONT><FONT face=宋体>个账户由“薛黎明控制使用”，形成薛黎明账户组，这一认定与事实不符。上述</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>个个人账户完全是由户主自己开立，完全是他们自己的资金，买卖股票的决策均由户主本人作出。其填写的《关于本人证券账户的情况说明》等表格为按照调查人员要求填写，不是实际情况的反映。薛黎明提交了</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>日在香港出差的证明。第七，从实际交易行为看，主观上并无内幕交易的故意，客观上相关交易行为也不符合内幕交易惯常的特点和规律，关于内幕交易的认定不能成立。第八，本案调查中所列的三板做市指数比照数据出处存在疑问。《告知书》认定阶段（</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日、</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>日）尚未发布新三板做市指数。全国中小公司股份转让系统于</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">18</FONT><FONT face=宋体>日正式发布指数行情。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">对于薛黎明的申辩理由，我会认为：第一，关于账户组控制关系。相关人员询问笔录及情况说明均证明其账户借给薛黎明使用；账户组内各账户交易地址高度集中；账户组内部分账户与薛黎明存在资金关联；相关人员短信内容显示，相关交易是由薛黎明作出决策并对董秘赵某提出具体要求，由他人组织实施，这种分工不影响对薛黎明控制账户组的认定。故可认定账户组由薛黎明控制，其关于账户组不是由其控制的主张无事实和法律依据，不予采纳。第二，关于内幕交易行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">薛黎明申辩其在本案中交易行为不符合内幕交易行为特征的理由成立，我会予以采纳，不认定薛黎明本案相关交易构成内幕交易。第三，关于操纵证券市场行为。（<FONT face="Times New Roman">1</FONT><FONT face=宋体>）</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">虽然在做市商交易机制中投资者只与做市商直接交易，但做市商的报价根据投资者的报价和申报数量进行调整。本案中，薛黎明申报量巨大，必然影响到做市商的报价，从而影响到市场交易价格和交易量。薛黎明完全具备操纵股价的基础和条件，其通过连续申报、以高于做市商的申报价格大笔申报等方式将“中海阳”价格拉抬并维持在<FONT face="Times New Roman">8</FONT><FONT face=宋体>元以上，构成操纵市场行为，故薛黎明关于做市商交易机制下不能操纵证券市场的理由无事实和法律依据，不予采纳；（</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>）薛黎明与董秘赵某短信记录表明其有明显的股价操纵意图，故对其关于无操纵市场主观故意的主张不予采纳；（</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>）</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">薛黎明于<FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">14:53:40</FONT><FONT face=宋体>向董秘赵某发送交易指令短信，</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日开始涉及“须收在</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>元以上”等操纵股价内容，故应认定薛黎明操纵行为从</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>日开始。经全国中小企业股份转让系统公司计算，获利为</FONT><FONT face="Times New Roman">545,800</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零三条的规定，我会决定：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">没收薛黎明违法所得<FONT face="Times New Roman">545,800</FONT><FONT face=宋体>元，并处以</FONT><FONT face="Times New Roman">545,800</FONT><FONT face=宋体>元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=宋体>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=宋体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=宋体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>个月内向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015<FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=宋体>日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20160106_289563_ext.json

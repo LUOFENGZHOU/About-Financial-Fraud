@@ -1,0 +1,247 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（东盛科技、郭家学等15名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-03450</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年04月13日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（东盛科技、郭家学等15名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2010）17号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（东盛科技、郭家学等15名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2010）17号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%" align=center><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>号</FONT></SPAN></P></FONT></SPAN>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：东盛科技股份有限公司（以下简称东盛科技，股票代码<SPAN style="FONT-SIZE: 10.5pt">600771</SPAN>），注册地址：青海省西宁市经济技术开发区金桥路<SPAN style="FONT-SIZE: 10.5pt">38</SPAN>号，办公地址：陕西省西安市高新区唐延路<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>号东盛大厦。法定代表人：张斌。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>郭家学，男，<SPAN style="FONT-SIZE: 10.5pt">1966</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">29</SPAN>日出生，时任东盛科技董事长，住址：陕西省西安市雁塔区枫叶苑小区<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>号楼<SPAN style="FONT-SIZE: 10.5pt">304</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>张斌，男，<SPAN style="FONT-SIZE: 10.5pt">1973</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日出生，时任东盛科技董事并先后担任东盛科技副总裁、总裁，住址：陕西省西安市雁塔区枫叶苑小区<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>号楼<SPAN style="FONT-SIZE: 10.5pt">402</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>杨红飞，男，<SPAN style="FONT-SIZE: 10.5pt">1968</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日出生，时任东盛科技财务总监、副总裁，住址：陕西省西安市雁塔区泰祥花园小区<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>号楼<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>单元<SPAN style="FONT-SIZE: 10.5pt">703</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>田红，女，<SPAN style="FONT-SIZE: 10.5pt">1968</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日出生，时任东盛科技董事并先后担任董事会秘书、东盛科技副总裁，住址：陕西省西安市雁塔区枫叶苑小区南区<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>号楼<SPAN style="FONT-SIZE: 10.5pt">101</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>关平，男，<SPAN style="FONT-SIZE: 10.5pt">1961</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日出生，时任东盛科技董事、副总裁， 住址：广东省珠海市香洲区拱北桂花北路丽珠医药公司集体宿舍。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>戴登元，男，<SPAN style="FONT-SIZE: 10.5pt"> 1947<SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">年5</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">月7</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">日</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">出生，时任东盛科技董事，住址：江苏省南京市玄武区文华东园5</SPAN></SPAN>幢<SPAN style="FONT-SIZE: 10.5pt">103</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>都兴开，男，<SPAN style="FONT-SIZE: 10.5pt">1967</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日出生，时任东盛科技董事，住址：辽宁省鞍山市新华街<SPAN style="FONT-SIZE: 10.5pt">32</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>单元<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>层。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>王建侠，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日出生，时任东盛科技董事，住址：北京市朝阳区胜古北里<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>楼<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>门<SPAN style="FONT-SIZE: 10.5pt">502</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>邹东涛，男，<SPAN style="FONT-SIZE: 10.5pt">1949</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>日出生，时任东盛科技独立董事，住址：北京市朝阳区华威西里<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>号楼<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>门<SPAN style="FONT-SIZE: 10.5pt">401</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>李成，男，<SPAN style="FONT-SIZE: 10.5pt">1956</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日出生，时任东盛科技独立董事，住址：陕西省西安市雁塔区翠华路<SPAN style="FONT-SIZE: 10.5pt">105</SPAN>号南<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>－<SPAN style="FONT-SIZE: 10.5pt">351</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>王凤洲，男，<SPAN style="FONT-SIZE: 10.5pt">1960</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日出生，时任东盛科技独立董事，住址：福建省厦门市思明区古兴里<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">1204</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>张洪魁，男，<SPAN style="FONT-SIZE: 10.5pt">1933</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>日出生，时任东盛科技独立董事，住址：北京市东城区玉石胡同<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>号楼<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>门<SPAN style="FONT-SIZE: 10.5pt">402</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>姚达慕，男，<SPAN style="FONT-SIZE: 10.5pt">1930</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日出生，时任东盛科技独立董事，住址：北京市朝阳区永安里万豪国际公寓<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>座<SPAN style="FONT-SIZE: 10.5pt">23B</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>李生，男，<SPAN style="FONT-SIZE: 10.5pt">1964</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日出生，时任东盛科技董事。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>李相贤，男，<SPAN style="FONT-SIZE: 10.5pt">1945</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日出生，时任东盛科技董事，住址：青海省西宁市城北区祁连路<SPAN style="FONT-SIZE: 10.5pt">856</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">231</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）和<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对东盛科技虚假陈述行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人邹东涛、张洪魁、姚达慕、王凤洲、李成提出陈述、申辩意见。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，东盛科技存在以下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月没有对东盛科技向西安东盛集团有限公司（以下简称东盛集团）及陕西东盛药业股份有限公司（以下简称东盛药业）提供资金及时履行临时信息披露义务，其中截至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，提供资金余额<SPAN style="FONT-SIZE: 10.5pt">158,858.31</SPAN>万元，<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月提供资金发生额<SPAN style="FONT-SIZE: 10.5pt">1,233.66</SPAN>万元，<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月提供资金发生额<SPAN style="FONT-SIZE: 10.5pt">5,001.54</SPAN>万元，<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月提供资金发生额<SPAN style="FONT-SIZE: 10.5pt">690.64</SPAN>万元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年没有对相关对外担保事项及时履行临时信息披露义务。截至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，东盛科技对外担保事项余额共计<SPAN style="FONT-SIZE: 10.5pt">111,234.83</SPAN>万元，其中为河北宝硕股份有限公司银行借款担保<SPAN style="FONT-SIZE: 10.5pt">36,248.83</SPAN>万元，为沧州化学工业股份有限公司担保<SPAN style="FONT-SIZE: 10.5pt">43,986</SPAN>万元，为宁夏美利纸业股份有限公司担保<SPAN style="FONT-SIZE: 10.5pt">22,100</SPAN>万元，为兰宝科技信息股份有限公司担保<SPAN style="FONT-SIZE: 10.5pt">8,900</SPAN>万元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年度报告没有披露<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">12,100</SPAN>万元对外担保事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年中期报告没有披露<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">15,900</SPAN>万元对外担保事项，没有披露<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">26,000</SPAN>万元银行借款事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年度报告没有披露东盛科技向东盛集团及东盛药业提供资金，<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年提供资金发生额<SPAN style="FONT-SIZE: 10.5pt">73,100</SPAN>万元<SPAN style="FONT-SIZE: 10.5pt">,</SPAN>期末余额<SPAN style="FONT-SIZE: 10.5pt">73,100</SPAN>万元；东盛科技<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年度报告没有披露<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">18,400</SPAN>万元对外担保事项；没有披露<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">70,600</SPAN>万元银行借款、银行承兑汇票、商业承兑汇票贴现事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>六、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年中期报告没有披露<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">3,000</SPAN>万元对外担保事项，没有披露<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">73,700</SPAN>万元银行借款、银行承兑汇票事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>七、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年度报告没有披露东盛科技向东盛集团及东盛药业提供资金，<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年提供资金发生额<SPAN style="FONT-SIZE: 10.5pt">-1,562.70</SPAN>万元，期末余额<SPAN style="FONT-SIZE: 10.5pt">71,537.30</SPAN>万元；没有披露<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">3,000</SPAN>万元对外担保事项；没有披露<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">76,380</SPAN>万元银行借款、银行承兑汇票、商业承兑汇票贴现事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>八、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年中期报告没有披露<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">25,600</SPAN>万元对外担保事项，没有披露<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">73,180</SPAN>万元银行借款、银行承兑汇票事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>九、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年度报告没有披露东盛科技向东盛集团及东盛药业提供资金，<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年提供资金发生额<SPAN style="FONT-SIZE: 10.5pt">56,933.24</SPAN>万元，期末余额<SPAN style="FONT-SIZE: 10.5pt">128,470.54</SPAN>万元；没有披露<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">51,700</SPAN>万元对外担保事项；没有披露<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">45,150</SPAN>万元银行借款、银行承兑汇票事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>十、东盛科技<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年中期报告没有披露<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">22,186</SPAN>万元对外担保事项，没有披露<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>项<SPAN style="FONT-SIZE: 10.5pt">43,100</SPAN>万元银行借款、银行承兑汇票事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>东盛科技<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年期间，未按规定披露将资金提供给控股股东及其他关联方使用，未按规定披露对外担保事项，未按规定披露银行借款事项，其行为在<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年期间违反了原《证券法》第六十条、第六十一条、第六十二条的规定，在<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年期间违反了《证券法》第六十三条的规定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>对东盛科技没有及时履行临时信息披露义务的直接负责的主管人员为东盛科技时任董事长郭家学。对东盛科技相关定期报告虚假陈述行为直接负责的主管人员为参加审议东盛科技相关定期报告董事会并同意相关定期报告的东盛科技时任董事长郭家学。其他直接责任人员为参加审议东盛科技相关定期报告董事会并同意相关定期报告的东盛科技董事张斌、杨红飞、田红、关平、李生、李相贤、王建侠、都兴开、戴登元、邹东涛、李成、姚达慕、张洪魁、王凤洲。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>以上违法事实有<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年度报告、<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年中期报告、<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年度报告、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年中期报告、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年度报告、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年中期报告、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年度报告、<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年中期报告，相关临时公告，相关会计记录，相关合同，相关协议，相关董事会决议，相关人员谈话笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>东盛科技时任独立董事邹东涛、张洪魁、姚达慕、王凤洲、李成在陈述、申辩意见中提出，由于东盛科技向他们隐瞒违法行为，他们事先难以发现东盛科技的违法行为，更不可能事先履行职责制止东盛科技的违法行为。他们在知道东盛科技的违法行为后作了力所能及的工作。经查，现有证据没有证明相关责任人忠实、勤勉地履行了职责，相关责任人在陈述、申辩中提出的证据不能证明其忠实、勤勉地履行了职责。按照《中国人民共和国公司法》及我会的相关规定，上市公司董事应当根据公司和全体股东的最大利益，忠实、勤勉地履行职责，应当遵守有关法律、法规、中国证监会规定及公司章程的规定，应当保证公开披露的文件内容没有虚假记载、误导性陈述或重大遗漏。上市公司董事应当对董事会的决议承担责任，上市公司董事应当对上市公司定期报告的真实、准确、完整负有责任。关于相关责任人提出的在知道东盛科技的违法行为后作了力所能及的工作，对此，我会已充分关注，依照《中华人民共和国行政处罚法》的相关规定对相关责任人从轻处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条和《证券法》第一百九十三条，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、对东盛科技给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对郭家学给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、对张斌给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、对杨红飞、田红、关平、李生、李相贤、王建侠、都兴开、戴登元、邹东涛、李成、姚达慕、张洪魁、王凤洲给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　&nbsp; &nbsp;中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</SPAN>　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">二○一○年四月十三日</SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100728_182996_ext.json

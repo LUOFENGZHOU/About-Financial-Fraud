@@ -1,0 +1,233 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（西昌电力、冯德荣等12名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-07063</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年04月23日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（西昌电力、冯德荣等12名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]24号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（西昌电力、冯德荣等12名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]24号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt" align=center><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><B style="FONT-SIZE: 10.5pt">&nbsp;</B><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">[2008]24</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">号</SPAN></FONT></FONT></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 23pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：四川西昌电力股份有限公司（以下简称西昌电力），住所：四川省西昌市老西门街<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>号，法定代表人谭志红。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：冯德荣，男，<SPAN style="FONT-SIZE: 10.5pt">1948</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月出生，时任董事，住址：重庆市涪陵区新华中路<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：李众江，男，<SPAN style="FONT-SIZE: 10.5pt">1964</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月出生，时任董事，住址：四川省成都市高新区新光路<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>单元<SPAN style="FONT-SIZE: 10.5pt">38</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：郝江波，男，<SPAN style="FONT-SIZE: 10.5pt">1960</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月出生，时任董事，住址：四川省成都市青羊区小南街<SPAN style="FONT-SIZE: 10.5pt">123</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>单元<SPAN style="FONT-SIZE: 10.5pt">105</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：谭启，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月出生，时任董事，住址：四川省成都市青羊区江汉路<SPAN style="FONT-SIZE: 10.5pt">168</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：祝剑秋，男，<SPAN style="FONT-SIZE: 10.5pt">1962</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月出生，时任董事，住址：北京市海淀区北京大学畅春园<SPAN style="FONT-SIZE: 10.5pt">58</SPAN>号公寓<SPAN style="FONT-SIZE: 10.5pt">301</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：罗俊，男，<SPAN style="FONT-SIZE: 10.5pt">1951</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月出生，时任副董事长、总经理，住址：四川省西昌市老西门街<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>号平房<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>幢<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：王成珍，女，<SPAN style="FONT-SIZE: 10.5pt">1947</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月出生，时任董事、副总经理、总会计师，住址：四川省西昌市老西门街<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>幢<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>单元<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>楼<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：谢飞，男，<SPAN style="FONT-SIZE: 10.5pt">1958</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月出生，时任董事，住址：四川省西昌市马水河街州财政局宿舍。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：杨承斌，男，<SPAN style="FONT-SIZE: 10.5pt">1954</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月出生，时任董事，住址：四川省西昌市一环路农垦小区。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：庞小锋，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，时任独立董事，住址：重庆市涪陵区中山西路<SPAN style="FONT-SIZE: 10.5pt">113</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：王波，男，<SPAN style="FONT-SIZE: 10.5pt">1964</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月出生，时任独立董事，住址：四川省成都市青羊区灯笼街<SPAN style="FONT-SIZE: 10.5pt">142</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>单元<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>号。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：张光华，男，<SPAN style="FONT-SIZE: 10.5pt">1955</SPAN>年出生，时任董事会秘书，住址：四川省西昌市龙旺小区。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据原《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对西昌电力虚假信息披露违法行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利。应有关当事人要求，我会于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日召开听证会，听取了当事人的陈述与申辩，现已调查、审理终结。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 26.8pt; LINE-HEIGHT: 23pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LETTER-SPACING: 0.5pt">经查明，</SPAN><SPAN style="FONT-SIZE: 10.5pt">截至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，西昌电力有<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>笔重大对外担保合同一直未披露，担保金额<SPAN style="FONT-SIZE: 10.5pt">73,400</SPAN>万元；有<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>笔重大对外担保未进行及时披露，担保金额<SPAN style="FONT-SIZE: 10.5pt">78,705</SPAN>万元；西昌电力的<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年半年度报告中<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>笔担保未披露，担保金额<SPAN style="FONT-SIZE: 10.5pt">28,300</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年度报告中<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>笔担保未披露，担保金额<SPAN style="FONT-SIZE: 10.5pt">69,800</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年半年度报告中<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>笔担保未披露，担保金额<SPAN style="FONT-SIZE: 10.5pt">60,000</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年度报告中<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>笔担保未披露，担保金额<SPAN style="FONT-SIZE: 10.5pt">114,805</SPAN>万元。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述违法事实有担保合同、借款合同、承兑汇票、董事会决议、董事会会议记录、划款凭证、银行情况说明、西昌电力的定期报告、临时报告、西昌电力自查报告和情况说明、企业工商资料等证据在案证实，证据确实、充分，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>西昌电力的上述违法行为违反了原《证券法》第五十九条、第六十条、第六十一条、第六十二条的规定，构成了原《证券法》第一百七十七条规定的未按照有关规定披露信息及所披露的信息有重大遗漏违法行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>对于前述违法行为，实际控制人张良宾和时任董事长张斌为直接负责的主管人员，两人已经另案处理。签字通过相关定期报告，签字通过应临时披露的重大担保事项，且未勤勉尽责履行信息披露责任的时任董事冯德荣、李众江、郝江波、谭启、王成珍、罗俊、祝剑秋、谢飞、杨承斌、王波、庞小锋及时任董事会秘书张光华为其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">在听证会和申辩陈述中，罗俊提出了对大多数担保事项不知情的申辩意见，经听证会质证认定，其申辩理由不成立；谢飞提出，作为非执行董事，他不应承担信息披露违规方面的责任，我会认为，不论执行董事还是非执行董事，均应勤勉尽责地履行董事职责，保证上市公司所披露的信息真实、准确、完整，谢飞的申辩理由不成立；</SPAN><SPAN style="FONT-SIZE: 10.5pt">谭启提出其任职期间未亲自参加过一次董事会，全部委托相关董事签名，不应承担责任。经复核，谭启作为上市公司董事，任职期间没有亲自参加过一次董事会，其未勤勉尽责履行董事职责的情形十分明显，申辩理由不成立；张良宾、郝江波、冯德荣提出了申辩意见，经复核，申辩意见不予采纳；王波申辩提出，他</SPAN><SPAN style="FONT-SIZE: 10.5pt">积极配合案件调查工作及公司风险处置工作，包括向监管机关、政府主管部门、交易所反映情况，对有关关联交易发表反对意见，有立功表现。经复核，情况属实，申辩意见予以采纳。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条的规定，我会决定如下：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、对西昌电力处以<SPAN style="FONT-SIZE: 10.5pt">40</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对冯德荣、李众江、郝江波、谭启、罗俊、王成珍分别给予警告，并各处<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>万元的罚款；对祝剑秋、谢飞、庞小锋分别给予警告，并各处<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元的罚款；对王波、张光华、杨承斌分别给予警告。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 23pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将付款凭证的复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 30pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　 </FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 36pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">中国证券监督管理委员会</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt" align=center><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　 </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">二○○八年四月二十三日</SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100316_178400_ext.json

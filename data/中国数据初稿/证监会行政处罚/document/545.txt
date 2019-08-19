@@ -1,0 +1,244 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（金城股份、陆剑斌、吕立、胡庆）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-06826</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年08月31日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（金城股份、陆剑斌、吕立、胡庆）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕42号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（金城股份、陆剑斌、吕立、胡庆）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕42号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P align=center><SPAN style="LINE-HEIGHT: 150%; COLOR: black">〔</SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><FONT size=+0>2012</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black">〕</SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><FONT size=+0>42</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black">号</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">当事人：金城造纸股份有限公司（以下简称金城股份），住所：辽宁省凌海市金城街，法定代表人陆剑斌。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">陆剑斌，男，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1962</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>9</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月出生，时任金城股份董事长兼总经理，住址：山东省日照市东港区北京路</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>189</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">号。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">吕立，女，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1962</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>10</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月出生，时任金城股份董事、董事会秘书、副总经理、常务副总经理，住址：辽宁省凌海市金城镇东新街。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">胡庆，男，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1967</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>12</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月出生，时任金城股份监事会主席，住址：辽宁省盘锦市兴隆台区创新街兴隆社区兴隆小区。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">依据</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2006</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日起施行的《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对金城股份信息披露违规案进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人吕立、胡庆提出了陈述、申辩意见；应当事人胡庆的要求，我会举行了听证会，听取了当事人的陈述、申辩意见；当事人吕立参加了听证会。本案现已调查、审理终结。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">经查明，金城股份对于公司为金城造纸（集团）有限责任公司（以下简称金城集团）借款提供担保、涉及公司的重大诉讼以及公司资产抵押事项未按规定披露相关信息，违法事实具体如下：</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">一、金城股份为金城集团</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>15,687</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元借款提供担保后未按规定披露信息</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">金城股份与中国工商银行锦州市分行（以下简称工行锦州分行）于</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2000</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>11</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>29</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日签订</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">份《保证合同》，后于</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2000</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>12</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>28</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日签订</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">份《保证合同》，合同约定对金城集团承担的</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>5</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">笔借款债务，由金城股份向工行锦州分行提供保证担保，担保主债权共计</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>15,687</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元，合同约定保证方式为连带责任保证，保证期间为自主合同确定的借款到期日之次日起两年。经查阅金城股份</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2000</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>11</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>29</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日至</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2010</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>6</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>18</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日期间的公告，未见相关信息的专项披露。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">经查，金城股份</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2000</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年年报显示，上述</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>5</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">份《保证合同》担保金额合计为</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>15,687</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元，占公司</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1999</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年度净资产总额的</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>34.8%</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">二、金城股份对涉及公司的重大诉讼事项未按规定披露信息</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">，中国长城资产管理公司沈阳办事处（以下简称长城公司）向辽宁省高级人民法院递送《起诉状》，将金城集团、金城股份等列为被告，要求金城集团偿还总额</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>43,033.9</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元债务，并要求金城股份对其中的借款本金</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>15,877</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元及相应的利息承担保证责任，陆剑斌指派胡庆负责处理诉讼具体事宜。</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2010</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>5</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>4</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">，辽宁省高级人民法院下达（</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">）辽民二初字第</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>14</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">号《民事判决书》，判决金城股份对金城集团</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>15,687</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元借款本金及利息承担连带偿还责任。</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2010</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>6</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>19</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">，金城股份发布《诉讼判决公告》，披露了法院判决情况。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">三、金城股份将公司</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>57,607</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元资产进行抵押后未按规定披露信息</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">金城股份与锦州银行凌海汇成支行（以下简称锦银凌海支行）签订《最高额抵押合同》，抵押人为金城股份，抵押权人为锦银凌海支行，抵押担保范围为</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2006</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>11</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>30</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日至</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2011</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>11</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>30</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日期间因抵押权人连续向借款人发放借款而形成的一系列债权，其最高额为</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>4</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">亿元整，合同有陆剑斌签字及印章。合同附件《锦州银行抵押物清单》显示，金城股份将土地使用权、房产等资产进行了抵押，并分别于</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>24</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日、</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>9</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日、</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>12</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日在凌海市房地产管理处、义县国土资源局、凌海市国土资源局办理了资产抵押手续，该清单有金城股份公章和陆剑斌印章。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>18</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">，金城股份召开第五届董事会第</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>36</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">次会议，审议通过了办理最高额抵押的决议。陆剑斌、吕立等在决议文件上签字表示同意，决议文件没有注明具体的抵押物。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月，吕立草拟定上述抵押贷款情况的信息披露文本，请示陆剑斌，但之后并未进行披露。</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2010</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>4</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>13</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日</SPAN><SPAN style="LINE-HEIGHT: 150%">，金城股份第五届董事会第</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>46</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">次会议、第五届监事会第</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>18</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">次会议分别审议通过了《关于</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年年度报告及摘要的说明》，陆剑斌、吕立等出席了董事会会议，胡庆等参加了监事会会议，并且均在相关决议上签字表示同意。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">对于金城股份所抵押财产的价值，金城股份在《金城股份关于资产抵押情况的说明》中称，公司</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年新增抵押资产净值为</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>57,607</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元，占公司</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2008</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年度净资产的</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>397%</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">经查，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年年报公布前金城股份未将上述资产抵押事项及时进行信息披露；金城股份</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年年报中，也没有将其作为当期重大事项进行披露，仅在《审计报告》第五项“财务报表有关项目注释”的“固定资产”和“无形资产”项下，对抵押事项进行了陈列，其中固定资产抵押净值</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>17,165</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元、无形资产土地使用权抵押净值</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>70,669</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元，合计</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>87,834</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">上述事实分别有借款合同、保证合同、抵押清单、抵押资产权证、诉讼相关法律文书、当事人询问笔录、金城股份提供的情况说明和相关决议文件等证据证明，足以认定。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">在陈述申辩和听证过程中，当事人胡庆、吕立针对本案事实、法律适用等方面，提出了陈述、申辩意见。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">一、关于当事人胡庆的陈述、申辩意见</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">当事人胡庆在听证会上主要提出以下两项陈述、申辩意见：一是关于金城股份涉诉事项，公司没有明文规定他的职责，他实际只负责谈判和重组事务，他在</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>6</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>15</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日看到法院判决书后，跟陆剑斌、吕立提过相关事宜，对于公司直至</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>6</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>19</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日才进行公告，他不太清楚具体情况。二是关于抵押担保事项，他认为此事已经董事会审议通过，是公司应当披露的事项，他不清楚公司不予披露的原因。对于金城股份上述事项未予披露行为，胡庆认为不应将其作为直接责任人。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">对于胡庆提出的第一项申辩意见，我会认为：一是胡庆、陆剑斌在询问笔录中均承认，由胡庆负责处理金城股份的诉讼事宜，虽然胡庆在听证会上否认自己是涉诉事项的负责人，但他承认之前知道并直接参与了相关工作，因此仍应承担相应责任。二是本案中金城股份</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日被长城公司起诉，此时已发生涉及公司的重大诉讼，因此金城股份自知道被起诉之日起就应及时披露相关情况。胡庆之前已知道相关诉讼，其在判决之后向陆剑斌、吕立提出信息披露要求的行为，不构成减轻或免除处罚的情形。因此，对于胡庆提出的此项申辩意见，我会予以部分采纳，即认定其是涉诉事项直接参与人而不是负责人，据此追究其相应法律责任。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">对于胡庆提出的第二项申辩意见，我会予以采纳。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">二、关于当事人吕立的陈述、申辩意见</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">当事人吕立在听证会上主要提出以下</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">项陈述、申辩意见：一是关于涉诉事项的披露问题，吕立提出金城股份证券部</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>6</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>9</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日收到判决书，在等待律师事务所出具法律意见书后，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>6</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>19</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日公司予以公告，她已认真履行了职责；二是关于抵押事项的披露问题，吕立提出她在拿到抵押明细后，曾将制定好的信息披露文本报陆剑斌审批，是陆剑斌未批准导致该信息未及时披露；三是吕立提出交易所要求对上述事项披露时，必须提供律师对诉讼事项的法律评估意见、抵押的明细清单，由于缺乏这些材料，导致公司没有及时披露。对于金城股份上述事项未予披露行为，吕立认为不应将其作为直接责任人。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; VERTICAL-ALIGN: baseline"><SPAN style="LINE-HEIGHT: 150%">我会认为，吕立的上述申辩理由不成立：</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; VERTICAL-ALIGN: baseline"><SPAN style="LINE-HEIGHT: 150%">一是吕立关于金城股份证券部收到判决书数日后，公司即予披露，她已履行职责的申辩理由不成立。吕立在金城股份任职时间长，自</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1999</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>11</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月至今任董事会秘书；且长期担任公司的高级管理人员，自</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2006</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>9</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月至今任董事，自</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2006</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>9</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月至</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2011</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月任副总经理，</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2011</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月被晋升为常务副总经理。作为金城股份任职时间长且占据重要岗位的高级管理人员，吕立对于金城股份的日常经营管理事务应当非常熟悉，相关</SPAN><SPAN style="LINE-HEIGHT: 150%">诉讼事项</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月发生、标的为</SPAN><FONT size=+0><SPAN style="LINE-HEIGHT: 150%">15</SPAN><SPAN style="LINE-HEIGHT: 150%">,</SPAN><SPAN style="LINE-HEIGHT: 150%">687</SPAN></FONT><SPAN style="LINE-HEIGHT: 150%">万元，她对此应当知悉并且应当及时履行相应的信息披露义务，但经过</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年多的时间，</SPAN><SPAN style="LINE-HEIGHT: 150%">直至公司证券部</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2010</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>6</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%">收到判决书后，吕立才安排进行信息披露，因此</SPAN><SPAN style="LINE-HEIGHT: 150%">无法认定其认真履行了职责</SPAN><SPAN style="LINE-HEIGHT: 150%">。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; VERTICAL-ALIGN: baseline"><SPAN style="LINE-HEIGHT: 150%">二是吕立关于陆剑斌没有审批信息披露文本导致抵押事项未按规定披露信息的申辩理由不成立。吕立自</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>18</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日董事会召开后，即</SPAN><SPAN style="LINE-HEIGHT: 150%">知道有关抵押事项的发生，且</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月相关资产已办理抵押手续，吕立以及金城股份证券事务代表刘某在询问笔录中承认，吕立自</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月开始准备抵押清单等材料，但直至</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>2009</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月才制定好相关信息披露文本报陆剑斌审批，此时早已超过信息披露的法定时限。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; VERTICAL-ALIGN: baseline"><SPAN style="LINE-HEIGHT: 150%">三是吕立关于交易所要求披露抵押事项必须提供抵押清单等材料，导致金城股份未按规定披露信息的申辩理由不成立。吕立提出，由于深圳证券交易所要求对于相关事项的披露必须提供相应的抵押清单等材料，这一要求导致公司不能及时披露，而是在相关材料准备妥当后才能披露，但是吕立对此没有提供相应的证据。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">金城股份为金城集团</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>15,687</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元借款提供担保后未按规定披露信息的行为违反了</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1999</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">年</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>7</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">月</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>1</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">日起施行《中华人民共和国证券法》第五十九条至第六十二条、第六十四条的规定以及《证券法》第六十三条、第六十五条至第六十七条和第七十条的规定；金城股份对涉及公司的重大诉讼未按规定披露信息的行为违反了《证券法》第六十三条、第六十五条至第六十七条和第七十条的规定；金城股份将</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>57,607</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元资产进行抵押后未按规定披露信息的行为违反了《证券法》第六十三条、第六十七条和第七十条的规定。对于金城股份未就重大诉讼事项按规定披露信息的行为，陆剑斌是直接负责的主管人员，吕立、胡庆是直接责任人员。对于金城股份将</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>57,607</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元资产进行抵押后未按规定披露信息的行为，陆剑斌是直接负责的主管人员，吕立是直接责任人员。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">一、对金城股份责令改正，给予警告，并处以</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>40</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元罚款；</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">二、对陆剑斌给予警告，并处</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>30</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元罚款；</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">三、对吕立给予警告，并处以</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>10</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元罚款；</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><SPAN style="LINE-HEIGHT: 150%">四、对胡庆给予警告，并处以</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%">万元罚款。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; VERTICAL-ALIGN: baseline"><SPAN style="LINE-HEIGHT: 150%; COLOR: black">上述当事人应自收到本处罚决定书之日起</SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><FONT size=+0>15</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black">日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><FONT size=+0>7111010189800000162</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black">，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><FONT size=+0>60</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black">日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><FONT size=+0>3</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black">个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="LINE-HEIGHT: 150%">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;中国证券监督管理委员会</SPAN><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0><SPAN>　　　&nbsp; </SPAN></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="LINE-HEIGHT: 150%"><FONT size=+0><SPAN></SPAN></FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><FONT size=+0>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2012</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black">年</SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><FONT size=+0>8</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black">月</SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><FONT size=+0>31</FONT></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black">日</SPAN><FONT size=+0><SPAN style="LINE-HEIGHT: 150%; COLOR: black"><SPAN>　　 </SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%; COLOR: black; FONT-SIZE: 15pt">&nbsp;</SPAN></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20121109_216702_ext.json

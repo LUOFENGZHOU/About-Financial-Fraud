@@ -1,0 +1,247 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（正源和信、毕建华、刘彦顺）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-02928</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年06月03日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（正源和信、毕建华、刘彦顺）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2009]19号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（正源和信、毕建华、刘彦顺）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2009]19号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1268634983203'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1268634983203 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268634983203 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268634983203 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268634983203 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268634983203 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><SPAN><FONT style="FONT-SIZE: 12pt" face=黑体>〔<SPAN style="FONT-SIZE: 12pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 12pt">19</SPAN>号</FONT></SPAN></P>
+<P>&nbsp;</P>
+<P><SPAN>当事人： </SPAN><SPAN>山东正源和信有限责任会计师事务所（以下简称正源和信），<SPAN>法定代表人</SPAN>毕建华<SPAN>。</SPAN></SPAN></P>
+<P><SPAN>毕建华，<SPAN>男，<SPAN>1960</SPAN>年<SPAN>11</SPAN>月<SPAN>16</SPAN>日出生，</SPAN>山东德棉股份有限公司（以下简称德棉股份）<SPAN>2007</SPAN>年财务报表审计报告签字注册会计师。住址：山东省济南市市中区永庆街<SPAN>1</SPAN>号<SPAN>1</SPAN>号楼<SPAN>2</SPAN>单元<SPAN>502</SPAN>室。</SPAN></P>
+<P><SPAN>刘彦顺，<SPAN>男，<SPAN>1980</SPAN>年<SPAN>1</SPAN>月<SPAN>13</SPAN>日出生，</SPAN>德棉股份<SPAN>2007</SPAN>年财务报表审计报告签字注册会计师。住址：山东省济南市历下区解放路<SPAN>24</SPAN>号。</SPAN></P>
+<P><SPAN>依据<SPAN>2006</SPAN>年<SPAN>1</SPAN>月<SPAN>1</SPAN>日起实施的《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN>正源和信在德棉股份<SPAN>2007</SPAN>年财务报表审计中未勤勉尽责的行为<SPAN>进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人未提出陈述、申辩意见。本案现已调查、审理终结。</SPAN></SPAN></P>
+<P><SPAN>经查明，正源和信存在以下违法事实：</SPAN></P>
+<P><SPAN>正源和信对德棉股份<SPAN>2007</SPAN>年年度财务报表审计时未勤勉尽责。</SPAN></P>
+<P><SPAN>2007</SPAN><SPAN>年<SPAN>3</SPAN>月<SPAN>16</SPAN>日</SPAN><SPAN>至<SPAN>2007</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日，德棉股份向其控股股东山东德棉集团有限公司<SPAN>(</SPAN>以下简称德棉集团<SPAN>)</SPAN>累计提供资金<SPAN>316,700,000</SPAN>元，累计收回资金<SPAN>281,770,000</SPAN>元，截至<SPAN>2007</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日未收回资金余额<SPAN>34,930,000</SPAN>元。为避免信息披露，德棉股份采取不将上述提供资金的情况记入会计记录的行为，以及假借与其他机构发生交易的行为，造成德棉股份<SPAN>2007</SPAN>年年度财务报表虚假陈述。德棉股份也没有在<SPAN>2007</SPAN>年年度财务报表中对上述关联交易予以披露。</SPAN></P>
+<P><SPAN>正源和信对德棉股份<SPAN>2007</SPAN>年年度财务报表进行审计，出具审计报告（鲁正信审字（<SPAN>2008</SPAN>）第<SPAN>11004</SPAN>号），发表标准无保留审计意见。审计报告的签字注册会计师为毕建华、刘彦顺。</SPAN></P>
+<P><SPAN>正源和信在对德棉股份审计时，未按照审计准则的要求选择函证样本，对询证函的发出、收回没有保持控制，在对部分往来账项没有发函或没有收到回函的情况下未实施有效的替代程序。正源和信的上述行为违反了《中国注册会计师审计准则第<SPAN>1312</SPAN>号—函证》第十条、第十八条和第二十一条以及《中国注册会计师审计准则第<SPAN>1301</SPAN>号<SPAN>-</SPAN>审计证据》第六条的规定。</SPAN></P>
+<P><SPAN>德棉股份与德棉集团的全资子公司德州瑞杰置业有限公司（以下简称瑞杰置业）没有经营往来，<SPAN>2007</SPAN>年却频繁发生资金往来，正源和信对德棉股份与瑞杰置业的资金往来应当予以关注但没有关注，在审计时没有实施有效的审计程序。正源和信的上述行为违反了《中国注册会计师审计准则第<SPAN>1323</SPAN>号—关联方》第十一条的规定。</SPAN></P>
+<P align=left><SPAN>对正源和信在德棉股份<SPAN>2007</SPAN>年年度财务报表审计时未勤勉尽责直接负责的主管人员为毕建华、刘彦顺。</SPAN></P>
+<P><SPAN>以上违法事实有</SPAN><SPAN>德棉股份<SPAN>2007</SPAN><SPAN>年年度</SPAN>财务报表<SPAN>，</SPAN>正源和信的相关<SPAN>审计报告、审计工作底稿，相关会计记录、合同、协议，相关人员谈话笔录等证据证明，足以认定。</SPAN></SPAN></P>
+<P><SPAN>正源和信的上述行为违反了《证券法》第一百七十三条的规定。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据</SPAN><SPAN>《证券法》第二百二十六条和第二百二十三条的规定<SPAN>，我会决定：</SPAN></SPAN></P>
+<P><SPAN>一、</SPAN><SPAN>责令正源和信改正，并处以<SPAN>10</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>二、分别给予</SPAN><SPAN>毕建华、刘彦顺警告，并处以<SPAN>3</SPAN>万元罚款。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P align=right><SPAN>　　　　　　　　　　　 　　　 　　　　　 中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN><SPAN>　　&nbsp; </SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　 </SPAN><SPAN>　　&nbsp;</SPAN>&nbsp;<SPAN>　　</SPAN><SPAN>　</SPAN><SPAN>　　　　</SPAN><SPAN>　</SPAN></SPAN><SPAN>二○○九年六月三日</SPAN></P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20090728_119360_ext.json

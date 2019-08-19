@@ -1,0 +1,232 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（李建兴）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-07178</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年11月06日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（李建兴）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2009〕45号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（李建兴）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2009〕45号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt" align=center>&nbsp;</P>
+<P style="LINE-HEIGHT: 26pt" align=center><SPAN style="FONT-SIZE: 12pt; COLOR: black">〔<SPAN>2009</SPAN>〕<SPAN>45</SPAN>号</SPAN></P>
+<P>&nbsp;</P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：李建兴，男，<SPAN style="FONT-SIZE: 10.5pt">1979</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月出生，时任深圳康佳集团股份有限公司（以下简称深康佳）财务中心总经理助理，住址：广东省深圳市南山区华侨城汕头街怡康楼。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对李建兴内幕交易案进行了立案调查、审理，并向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利。当事人提出了书面陈述、申辩意见。本案现已调查、审理终结。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，李建兴存在以下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>深康佳<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩预增信息和<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年年度报告信息是《证券法》规定的涉及公司经营、财务或者对公司证券市场价格有重大影响的尚未公开的内幕信息。深康佳<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩预增信息敏感期为<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，深康佳<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年年度报告中的财务报告信息敏感期为<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日。当事人李建兴知悉<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩预增信息和<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年年度报告具体内容，为内幕信息知情人。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2008</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，李建兴通过其本人证券账户买入“深康佳<SPAN style="FONT-SIZE: 10.5pt">A</SPAN>”<SPAN style="FONT-SIZE: 10.5pt">2,600</SPAN>股，于<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日全部卖出；<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，买入“深康佳<SPAN style="FONT-SIZE: 10.5pt">A</SPAN>”<SPAN style="FONT-SIZE: 10.5pt">6,600</SPAN>股；<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日买入“深康佳<SPAN style="FONT-SIZE: 10.5pt">A</SPAN>”<SPAN style="FONT-SIZE: 10.5pt">16,900</SPAN>股，卖出<SPAN style="FONT-SIZE: 10.5pt">6,600</SPAN>股；<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日，卖出“深康佳<SPAN style="FONT-SIZE: 10.5pt">A</SPAN>”<SPAN style="FONT-SIZE: 10.5pt">6,900</SPAN>股；<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日卖出“深康佳<SPAN style="FONT-SIZE: 10.5pt">A</SPAN>”<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>股。以上交易共盈利<SPAN style="FONT-SIZE: 10.5pt">29,534.09</SPAN>元。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实有相关人员谈话笔录、公司出具的说明、有关会议纪要、相关账户交易记录和统计数据等证据在案证实，证据确实、充分，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人李建兴在其陈述、申辩材料中提出：对深康佳<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度业绩预增信息及年度财务报告信息的具体内容不完全清楚，不了解公告的准确数据和内容；<SPAN style="FONT-SIZE: 10.5pt"> 2008<SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">年4</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">月7</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">日</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">卖出“深康佳A</SPAN></SPAN>”<SPAN style="FONT-SIZE: 10.5pt">6,600</SPAN>股为亏损卖出，<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日已发布业绩预增公告，是依据公告的信息买卖股票，亏损卖出股票证明其不知悉内幕信息；如认定其利用内幕信息进行股票交易，应扣除<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日卖出“深康佳<SPAN style="FONT-SIZE: 10.5pt">A</SPAN>”<SPAN style="FONT-SIZE: 10.5pt">6,600</SPAN>股亏损金额。此外，当事人提出其认错态度好，积极配合案件调查，恳请给予从轻处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经我会复核，<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日，李建兴对深康佳<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度合并财务报表进行了审阅，知悉深康佳<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度净利润有较大幅度增长的信息；<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日，李建兴对深康佳<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年年报审计初稿进行了审核，并于<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4-6</SPAN>日知悉深康佳<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年年报审计最终结果。李建兴在内幕信息敏感期内交易“深康佳<SPAN style="FONT-SIZE: 10.5pt">A</SPAN>”股票，违反了《证券法》第七十三条以及第七十六条的规定。行为人只要实施了内幕交易行为，其违法所得多少、是否有违法所得，均不影响内幕交易行为的构成。李建兴内幕交易实际盈利为<SPAN style="FONT-SIZE: 10.5pt">29,534.09</SPAN>元，亏损额已扣除。我会在案件审理过程中，已对当事人违法行为的手法、危害后果等情形作了充分考虑。当事人提出的以上陈述、申辩意见，均不能作为减免责任的依据及理由，我会不予采纳。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认定，当事人李建兴的上述行为违反了《证券法》第七十三条<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>禁止证券交易内幕信息的知情人和非法获取内幕信息的人利用内幕信息从事证券交易活动<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>以及第七十六条<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>证券交易内幕信息的知情人和非法获取内幕信息的人，在内幕信息公开前，不得买卖该公司的证券<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的规定，构成《证券法》第二百零二条所述<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>证券交易内幕信息的知情人或者非法获取内幕信息的人，在涉及证券的发行、交易或者其他对证券的价格有重大影响的信息公开前，买卖该证券<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的违法行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条的规定，我会决定：没收李建兴违法所得<SPAN style="FONT-SIZE: 10.5pt">29,534.09</SPAN>元，并处以<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 28.5pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 271.3pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　 中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　</SPAN>　&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">二○○九年十一月六日</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 12pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 12pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 12pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 12pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 12pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 12pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 16pt">&nbsp;</P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100125_175866_ext.json

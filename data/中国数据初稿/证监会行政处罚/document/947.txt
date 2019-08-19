@@ -1,0 +1,243 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（中科健、郝建学、董志刚）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2004-01527</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2004年06月17日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（中科健、郝建学、董志刚）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2004）20号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（中科健、郝建学、董志刚）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2004）20号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1304492750062'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1304492750062 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304492750062 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304492750062 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304492750062 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304492750062 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">证监罚字<SPAN style="FONT-SIZE: 10.5pt">[2004]20</SPAN>号</SPAN>&nbsp;</FONT></FONT></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：中国科健股份有限公司（以下简称“中科健”），住所为深圳蛇口工业六路，法人代表人侯自强；</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 26.95pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>郝建学，男，<SPAN style="FONT-SIZE: 10.5pt">42</SPAN>岁，住址为广东省深圳市福星楼<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">203</SPAN>，中科健董事兼总裁；</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>董志刚，男，<SPAN style="FONT-SIZE: 10.5pt">41</SPAN>岁，住址为北京市西城区三里河西街<SPAN style="FONT-SIZE: 10.5pt">52</SPAN>号，时任中科健董事会秘书。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人中科健虚假陈述违法行为一案，我会现已调查终结，并依法向当事人告知了作出行政处罚的事实、理由及依据。应当事人要求，我会于<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日依法举行听证，听取了当事人及其代理人的陈述与申辩。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，当事人中科健存在如下违法行为：</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、中科健<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>年年报遗漏披露<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>笔重大担保事项，涉及金额<SPAN style="FONT-SIZE: 10.5pt">10500</SPAN>万元，占当期净资产<SPAN style="FONT-SIZE: 10.5pt">45%</SPAN>。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、中科健<SPAN style="FONT-SIZE: 10.5pt">2001</SPAN>年中报遗漏披露<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>笔重大担保事项，涉及金额<SPAN style="FONT-SIZE: 10.5pt">7500</SPAN>万元，占当期净资产的<SPAN style="FONT-SIZE: 10.5pt">35%</SPAN>。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、自<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2001</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月，中科健为沈阳和光现代商务股份有限公司等单位提供贷款担保<SPAN style="FONT-SIZE: 10.5pt">37</SPAN>笔，其中<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>年发生的有<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>笔单笔金额超过公司<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年期末净资产额的<SPAN style="FONT-SIZE: 10.5pt">10%</SPAN>，<SPAN style="FONT-SIZE: 10.5pt">2001</SPAN>发生的有<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>笔单笔金额超过公司<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>年期末净资产额的<SPAN style="FONT-SIZE: 10.5pt">10%</SPAN>。中科健未按《证券法》、《深圳证券交易所股票上市规则》等有关规定及时披露相关信息。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人以上违法行为有相关年报、中报、相关董事会决议、相关担保合同、有关信息披露文件、相关谈话笔录等主要证据在案佐证。各项证据充分、确凿，足以认定当事人上述违法行为。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，中科健董事会自<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年至<SPAN style="FONT-SIZE: 10.5pt">2001</SPAN>年期间均决议将担保金额不超过一亿元的担保事项的签字权授予总裁郝建学，本案中涉及担保由郝建学对外签署，郝建学也未向其他董事交待对外担保的情况，其他董事对担保事项并不知情。另查明，董事会秘书董志刚虽存在任职期间病休等情况，但其在任职期间未能切实履行协调、组织公司信息披露工作职责，不足以免除其对以上第三项违法行为的责任。因此，我会认定上述违法行为直接负责的主管人员是董事兼总裁郝建学，第三项虚假陈述行为其他直接责任人员是原董事会秘书董志刚。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>本会认为，中科健上述行为违反了《中华人民共和国证券法》（以下简称《证券法》）第五十九条“公司公告的股票或者公司债券的发行和上市文件，必须真实、准确、完整，不得有虚假记载、误导性陈述或者重大遗漏”，《证券法》第六十一条“股票或者公司债券上市交易的公司，应当在每一会计年度结束之日起四个月内，向国务院证券监督管理机构和证券交易所提交记载以下内容的年度报告，并予公告……（五）国务院证券监督管理机构规定的其他事项”和《证券法》第六十二条“发生可能对上市公司股票交易价格产生较大影响而投资者尚未得知的重大事件时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所提交临时报告，并予公告，说明事件的实质……”的规定，构成了《证券法》第一百七十七条“未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大遗漏的”违法行为。中科健陈述申辩认为，其在深圳证券交易所对其进行公开谴责及我会对其立案调查前，已经主动在<SPAN style="FONT-SIZE: 10.5pt">2001</SPAN>年中报和临时公告中披露了有关担保事项，有主动纠正违法行为的情节，违法行为较为轻微；同时其进行对外担保主要是出于日常经营需要，也未出现因担保纠纷导致公司经营困难的情况，危害后果并不严重。经研究，我会采纳中科健以上申辩意见，依据《中华人民共和国行政处罚法》第二十七条规定，决定对中科健免予处罚。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据《证券法》第一百七十七条规定，我会决定如下：</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）对中科健上述虚假陈述违法行为直接负责的主管人员董事兼总裁郝建学处以警告并罚款<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>万元；</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）对中科健第三项虚假陈述违法行为的直接责任人员中科健原董事会秘书董志刚处以警告并罚款<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信实业银行总行营业部，帐号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将付款凭证的复印件送中国证券监督管理委员会法律部审理执行处备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会提出行政复议，也可以在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　 </FONT></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 249.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">　　　　　　　　　　　　 中国证券监督管理委员会</SPAN></FONT></P>
+<P style="LAYOUT-GRID-MODE: char; TEXT-INDENT: 74.45pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　　　 </SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　&nbsp; 　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二○○四年六月十七日</SPAN></FONT></FONT></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110422_194688_ext.json

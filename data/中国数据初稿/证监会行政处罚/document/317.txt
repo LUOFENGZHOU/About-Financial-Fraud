@@ -1,0 +1,259 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（唐汉博）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2015年09月25日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（唐汉博）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2015〕34号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（唐汉博）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2015〕34号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center" align=center><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2015</FONT><FONT face=宋体>〕</FONT><FONT face="Times New Roman">34</FONT><FONT face=宋体>号</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: justify"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：唐汉博，男，<FONT face="Times New Roman">1973</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>月出生，住址：北京市东城区。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对唐汉博操纵沈阳银基发展股份有限公司（以下简称银基发展）股票价格案进行了立案调查、审理，并依法向唐汉博告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。唐汉博未提出陈述申辩意见，也未申请听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，唐汉博存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、<FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">2013</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">16</FONT><FONT face=宋体>日（以下简称控制期间），“陈某学”、“戴某君”、“胡某贤”、“刘某凇”、“闵某杰”、“苏某峰”、“王某华”、“杨某”、“杨某庆”、“袁某金”、“袁某林”、“朱某”等</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>个证券账户（以下简称账户组）的实际控制人为唐汉博。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">控制期间内，账户组下单所使用的电脑、下单地址、下单硬盘序列号高度重合，在同一时段频繁共用相同地址下单，银证转账地址高度重合，资金关联度高，交易股票品种类似。同时，唐汉博本人证券账户与账户组其他账户存在下单地址重合和交替下单情形，多数涉案账户资金直接来源于唐汉博账户，部分涉案资金的用途及归属指向唐汉博，部分涉案银行账户预留联系方式为唐汉博手机，部分涉案银行账户网银划转地址与唐汉博账户重合。结合人员关系、账户组在亚洲大酒店下单时点与唐汉博及相关人员的入住记录完全匹配，“杨某”账户为唐汉博所借用等证据，足以认定唐汉博控制“陈某学”、“戴某君”、“胡某贤”、“刘某凇”、“闵某杰”、“苏某峰”、“王某华”、“杨某”、“杨某庆”、“袁某金”、“袁某林”、“朱某”等<FONT face="Times New Roman">12</FONT><FONT face=宋体>个证券账户。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、唐汉博控制使用账户组，在<FONT face="Times New Roman">2012</FONT><FONT face=宋体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>日、</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日期间（以下简称操纵期间）内，</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>次通过利用资金优势连续买卖、虚假申报的方式影响“银基发展”股票价格，获利共计</FONT><FONT face="Times New Roman">252.89</FONT><FONT face=宋体>万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第<FONT face="Times New Roman">1</FONT><FONT face=宋体>次操纵</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;8<FONT face=宋体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>日至</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日为建仓阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">8<FONT face=宋体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=宋体>日，账户组共申报买入</FONT><FONT face="Times New Roman">275.45</FONT><FONT face=宋体>万股（均为第一档），全部成交，买入均价为</FONT><FONT face="Times New Roman">3.50</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">16.85%</FONT><FONT face=宋体>，无卖出申报，当日股票开盘价和收盘价均为</FONT><FONT face="Times New Roman">3.50</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">8<FONT face=宋体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=宋体>日，账户组共申报买入</FONT><FONT face="Times New Roman">693.67</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">465.23</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">228.44</FONT><FONT face=宋体>万股，买入均价为</FONT><FONT face="Times New Roman">3.52</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">14.26%</FONT><FONT face=宋体>，无卖出申报，当日股票开盘价和收盘价分别为</FONT><FONT face="Times New Roman">3.50</FONT><FONT face=宋体>元和</FONT><FONT face="Times New Roman">3.53</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;8<FONT face=宋体>月</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>日为影响股价阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">8<FONT face=宋体>月</FONT><FONT face="Times New Roman">3</FONT><FONT face=宋体>日，账户组期初持股</FONT><FONT face="Times New Roman">1,432.79</FONT><FONT face=宋体>万股（占流通股</FONT><FONT face="Times New Roman">1.24%</FONT><FONT face=宋体>），全天共申报买入</FONT><FONT face="Times New Roman">2,121</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">169.73</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">1,876.27</FONT><FONT face=宋体>万股，买入均价为</FONT><FONT face="Times New Roman">3.60</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">54.43%</FONT><FONT face=宋体>（当日市场其他投资者买入成交量最高为</FONT><FONT face="Times New Roman">403.25</FONT><FONT face=宋体>万股，占比</FONT><FONT face="Times New Roman">11.70%</FONT><FONT face=宋体>），无卖出申报，当日股票开盘价和收盘价分别为</FONT><FONT face="Times New Roman">3.52</FONT><FONT face=宋体>元和</FONT><FONT face="Times New Roman">3.70</FONT><FONT face=宋体>元，上涨</FONT><FONT face="Times New Roman">5.11%</FONT><FONT face=宋体>。当日“银基发展”市场成交量为</FONT><FONT face="Times New Roman">3,447.26</FONT><FONT face=宋体>万股，较前日上涨</FONT><FONT face="Times New Roman">115.20%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当日账户组共申报买入<FONT face="Times New Roman">41</FONT><FONT face=宋体>笔，成交</FONT><FONT face="Times New Roman">35</FONT><FONT face=宋体>笔。成交的</FONT><FONT face="Times New Roman">35</FONT><FONT face=宋体>笔买入申报中：申报价格大于等于申报前卖一价的有</FONT><FONT face="Times New Roman">33</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">94.29%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,830.29</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">97.55%</FONT><FONT face=宋体>）；申报价格大于申报前卖一价的有</FONT><FONT face="Times New Roman">21</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">60%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,096</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">58.41%</FONT><FONT face=宋体>）；申报价格大于等于申报前成交价的有</FONT><FONT face="Times New Roman">33</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">94.29%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,830.29</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">97.55%</FONT><FONT face=宋体>）；申报价格大于申报前成交价的有</FONT><FONT face="Times New Roman">29</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">82.86%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,580.29</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">84.23%</FONT><FONT face=宋体>）；最高申报价格比申报前卖一价和申报前成交价均高出</FONT><FONT face="Times New Roman">23</FONT><FONT face=宋体>个档位。期间，除</FONT><FONT face="Times New Roman">14:11:36</FONT><FONT face=宋体>以</FONT><FONT face="Times New Roman">3.56</FONT><FONT face=宋体>元申报买入</FONT><FONT face="Times New Roman">22</FONT><FONT face=宋体>万股（占市场同档位申报总量的</FONT><FONT face="Times New Roman">62.39%</FONT><FONT face=宋体>，未成交）之外，市场无其他同档位买入申报。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">从成交情况来看，账户组以不断升高的申报价格与申报价格以下的卖单成交，逐步抬高股价。以<FONT face="Times New Roman">13:14:20</FONT><FONT face=宋体>至</FONT><FONT face="Times New Roman">14:56:59</FONT><FONT face=宋体>期间为例，市场成交价从</FONT><FONT face="Times New Roman">3.49</FONT><FONT face=宋体>元上升至</FONT><FONT face="Times New Roman">3.72</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组还以低价（<FONT face="Times New Roman">4</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>档）申报买入</FONT><FONT face="Times New Roman">4</FONT><FONT face=宋体>笔共计</FONT><FONT face="Times New Roman">80</FONT><FONT face=宋体>万股，全部未成交。该申报在影响股价上升过程中不可能成交，但却在较低档位形成大量申报，在即时行情中显现，意图影响投资者判断。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;8<FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">9:35</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">13:52</FONT><FONT face=宋体>为卖出获利阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">期间，账户组共申报卖出<FONT face="Times New Roman">4,840.12</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">3,304.83</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">1,535.28</FONT><FONT face=宋体>万股，卖出均价为</FONT><FONT face="Times New Roman">3.67</FONT><FONT face=宋体>元，占市场当日卖出成交量的</FONT><FONT face="Times New Roman">55.82%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组卖出过程中为稳定股价，在<FONT face="Times New Roman">10:13</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">10:38</FONT><FONT face=宋体>期间以第一档和第二档价格共</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>笔申报买入</FONT><FONT face="Times New Roman">69.2</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">44.7</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">24.5</FONT><FONT face=宋体>万股；在</FONT><FONT face="Times New Roman">10:49</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">10:50</FONT><FONT face=宋体>期间以远低于市场成交价的价格共</FONT><FONT face="Times New Roman">35</FONT><FONT face=宋体>笔申报买入</FONT><FONT face="Times New Roman">1,884.19</FONT><FONT face=宋体>万股，全部撤单未成交。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）第<FONT face="Times New Roman">2</FONT><FONT face=宋体>次操纵</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;8<FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">14:05</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>日为建仓阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">8<FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">14:05</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">14:57</FONT><FONT face=宋体>，账户组共申报买入</FONT><FONT face="Times New Roman">318</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">73</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">245</FONT><FONT face=宋体>万股，买入均价为</FONT><FONT face="Times New Roman">3.73</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">8.9%</FONT><FONT face=宋体>，无卖出申报，当日股票收盘价为</FONT><FONT face="Times New Roman">3.72</FONT><FONT face=宋体>元。</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>日，账户组共申报买入</FONT><FONT face="Times New Roman">50</FONT><FONT face=宋体>万股，全部成交，买入均价为</FONT><FONT face="Times New Roman">3.72</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">5.33%</FONT><FONT face=宋体>，无卖出申报，当天股票开盘价和收盘价均为</FONT><FONT face="Times New Roman">3.71</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;8<FONT face=宋体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>日为影响股价阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">8<FONT face=宋体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>日，账户组期初持股</FONT><FONT face="Times New Roman">2,093.28</FONT><FONT face=宋体>万股（占流通股</FONT><FONT face="Times New Roman">1.81%</FONT><FONT face=宋体>），全天共申报买入</FONT><FONT face="Times New Roman">1,120.45</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">554.59</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">565.86</FONT><FONT face=宋体>万股，买入均价为</FONT><FONT face="Times New Roman">3.73</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">32.86%</FONT><FONT face=宋体>（当日市场其他投资者买入成交量最高为</FONT><FONT face="Times New Roman">68</FONT><FONT face=宋体>万股，占比</FONT><FONT face="Times New Roman">3.95%</FONT><FONT face=宋体>），无卖出申报，当日股票开盘价和收盘价分别为</FONT><FONT face="Times New Roman">3.71</FONT><FONT face=宋体>元和</FONT><FONT face="Times New Roman">3.76</FONT><FONT face=宋体>元，上涨</FONT><FONT face="Times New Roman">1.35%</FONT><FONT face=宋体>。当日“银基发展”市场成交量为</FONT><FONT face="Times New Roman">1,722.13</FONT><FONT face=宋体>万股，较前日上涨</FONT><FONT face="Times New Roman">83.45%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当日账户组共申报买入<FONT face="Times New Roman">26</FONT><FONT face=宋体>笔，成交</FONT><FONT face="Times New Roman">15</FONT><FONT face=宋体>笔。成交的</FONT><FONT face="Times New Roman">15</FONT><FONT face=宋体>笔买入申报中：申报价格大于等于申报前卖一价的有</FONT><FONT face="Times New Roman">14</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">93.33%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">565.16</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">99.88%</FONT><FONT face=宋体>）；申报价格大于申报前卖一价的有</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">66.67%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">356.93</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">63.08%</FONT><FONT face=宋体>）；申报价格大于等于申报前成交价的有</FONT><FONT face="Times New Roman">15</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">100%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">565.86</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">100%</FONT><FONT face=宋体>）；申报价格大于申报前成交价的有</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">73.33%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">444.86</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">78.62%</FONT><FONT face=宋体>）；最高申报价格比申报前卖一价和申报前成交价均高出</FONT><FONT face="Times New Roman">12</FONT><FONT face=宋体>个档位。期间，除</FONT><FONT face="Times New Roman">14:22:24</FONT><FONT face=宋体>以</FONT><FONT face="Times New Roman">3.72</FONT><FONT face=宋体>元申报买入</FONT><FONT face="Times New Roman">63.05</FONT><FONT face=宋体>万股（占市场同档位申报总量的</FONT><FONT face="Times New Roman">98.64%</FONT><FONT face=宋体>，成交</FONT><FONT face="Times New Roman">0.7</FONT><FONT face=宋体>万股）之外，市场无其他同档位买入申报。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">从成交情况来看，账户组以不断升高的申报价格与申报价格以下的卖单成交，逐步抬高股价，市场成交价从<FONT face="Times New Roman">3.67</FONT><FONT face=宋体>元上升至</FONT><FONT face="Times New Roman">3.76</FONT><FONT face=宋体>元（最高为</FONT><FONT face="Times New Roman">3.78</FONT><FONT face=宋体>元）。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组还以低于申报前卖一价的价格申报买入<FONT face="Times New Roman">11</FONT><FONT face=宋体>笔共计</FONT><FONT face="Times New Roman">367.52</FONT><FONT face=宋体>万股，全部撤单未成交。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;8<FONT face=宋体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">9:24</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">14:43</FONT><FONT face=宋体>为卖出获利阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">期间，账户组共申报卖出<FONT face="Times New Roman">1,818.77</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">734.13</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">1,084.64</FONT><FONT face=宋体>万股，卖出均价为</FONT><FONT face="Times New Roman">3.74</FONT><FONT face=宋体>元，占市场当日卖出成交量的</FONT><FONT face="Times New Roman">41.06%</FONT><FONT face=宋体>。账户组卖出过程中为稳定股价，在</FONT><FONT face="Times New Roman">9:24</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">14:04</FONT><FONT face=宋体>期间以第一档和第二档价格共</FONT><FONT face="Times New Roman">11</FONT><FONT face=宋体>笔申报买入</FONT><FONT face="Times New Roman">390.51</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">247.39</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">143.12</FONT><FONT face=宋体>万股；在</FONT><FONT face="Times New Roman">9:30</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">13:55</FONT><FONT face=宋体>期间以低于市场成交价的价格共</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>笔申报买入</FONT><FONT face="Times New Roman">348</FONT><FONT face=宋体>万股，全部撤单未成交。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第<FONT face="Times New Roman">3</FONT><FONT face=宋体>次操纵</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;8<FONT face=宋体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">14:47</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">14:59</FONT><FONT face=宋体>为建仓阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组共申报买入<FONT face="Times New Roman">427</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">37.18</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">316.15</FONT><FONT face=宋体>万股，买入均价为</FONT><FONT face="Times New Roman">3.73</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">11.97%</FONT><FONT face=宋体>，无卖出申报，当日股票收盘价为</FONT><FONT face="Times New Roman">3.76</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;8<FONT face=宋体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日为影响股价阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">8<FONT face=宋体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日，账户组期初持股</FONT><FONT face="Times New Roman">2,033.77</FONT><FONT face=宋体>万股（占流通股</FONT><FONT face="Times New Roman">1.76%</FONT><FONT face=宋体>），全天共申报买入</FONT><FONT face="Times New Roman">5,079.14</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">3,216.34</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">1,639.79</FONT><FONT face=宋体>万股，买入均价为</FONT><FONT face="Times New Roman">3.81</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">46.62%</FONT><FONT face=宋体>（当日市场其他投资者买入成交量最高为</FONT><FONT face="Times New Roman">297</FONT><FONT face=宋体>万股，占</FONT><FONT face="Times New Roman">8.44%</FONT><FONT face=宋体>），无卖出申报，当日股票开盘价和收盘价分别为</FONT><FONT face="Times New Roman">3.74</FONT><FONT face=宋体>元和</FONT><FONT face="Times New Roman">3.85</FONT><FONT face=宋体>元，上涨</FONT><FONT face="Times New Roman">2.94%</FONT><FONT face=宋体>。当日“银基发展”市场成交量为</FONT><FONT face="Times New Roman">3,517.33</FONT><FONT face=宋体>万股，较前日上涨</FONT><FONT face="Times New Roman">33.15%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当日账户组共申报买入<FONT face="Times New Roman">157</FONT><FONT face=宋体>笔，成交</FONT><FONT face="Times New Roman">34</FONT><FONT face=宋体>笔。成交的</FONT><FONT face="Times New Roman">34</FONT><FONT face=宋体>笔买入申报中：申报价格大于等于申报前卖一价的有</FONT><FONT face="Times New Roman">34</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">100%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,639.79</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">100%</FONT><FONT face=宋体>）；申报价格大于申报前卖一价的有</FONT><FONT face="Times New Roman">17</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">50%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">976.09</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">59.53%</FONT><FONT face=宋体>）；申报价格大于等于申报前成交价的有</FONT><FONT face="Times New Roman">34</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">100%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,639.79</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">100%</FONT><FONT face=宋体>）；申报价格大于申报前成交价的有</FONT><FONT face="Times New Roman">20</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">58.82%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,078.95</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">65.80%</FONT><FONT face=宋体>）；最高申报价格比申报前卖一价高出</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>个档位，比申报前成交价高出</FONT><FONT face="Times New Roman">8</FONT><FONT face=宋体>个档位。拉抬期间，账户组成交的</FONT><FONT face="Times New Roman">34</FONT><FONT face=宋体>笔买入申报中，除</FONT><FONT face="Times New Roman">14:57:29</FONT><FONT face=宋体>以</FONT><FONT face="Times New Roman">3.86</FONT><FONT face=宋体>元申报买入</FONT><FONT face="Times New Roman">50.85</FONT><FONT face=宋体>万股（占市场同档位申报总量的</FONT><FONT face="Times New Roman">94.85%</FONT><FONT face=宋体>）之外，市场无其他同档位买入申报；全部</FONT><FONT face="Times New Roman">157</FONT><FONT face=宋体>笔买入申报中，申报量占市场同档位买入申报总量</FONT><FONT face="Times New Roman">90%</FONT><FONT face=宋体>以上的有</FONT><FONT face="Times New Roman">92</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">58.60%</FONT><FONT face=宋体>），</FONT><FONT face="Times New Roman">50%</FONT><FONT face=宋体>以上的有</FONT><FONT face="Times New Roman">125</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">79.62%</FONT><FONT face=宋体>）。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">从成交情况来看，账户组以不断升高的申报价格与申报价格以下的卖单成交，逐步抬高股价，市场成交价从<FONT face="Times New Roman">3.74</FONT><FONT face=宋体>元上升至</FONT><FONT face="Times New Roman">3.85</FONT><FONT face=宋体>元。过程中，账户组还以低于申报前卖一价的价格申报买入</FONT><FONT face="Times New Roman">91</FONT><FONT face=宋体>笔共计</FONT><FONT face="Times New Roman">3,097.26</FONT><FONT face=宋体>万股，全部未成交。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;8<FONT face=宋体>月</FONT><FONT face="Times New Roman">13</FONT><FONT face=宋体>日为卖出获利阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当日股票开盘价为<FONT face="Times New Roman">3.83</FONT><FONT face=宋体>元。期间内，唐汉博账户组共申报卖出</FONT><FONT face="Times New Roman">1,084.2</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">375.8</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">708.4</FONT><FONT face=宋体>万股，卖出均价为</FONT><FONT face="Times New Roman">3.81</FONT><FONT face=宋体>元，占市场当日卖出成交量的</FONT><FONT face="Times New Roman">35.99%</FONT><FONT face=宋体>。账户组卖出过程中为稳定托高股价，在</FONT><FONT face="Times New Roman">10:23</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">10:42</FONT><FONT face=宋体>期间以第一档和第二档价格共</FONT><FONT face="Times New Roman">5</FONT><FONT face=宋体>笔申报买入</FONT><FONT face="Times New Roman">210</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">161.55</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">48.45</FONT><FONT face=宋体>万股。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（四）第<FONT face="Times New Roman">4</FONT><FONT face=宋体>次操纵</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;9<FONT face=宋体>月</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>日</FONT><FONT face="Times New Roman">14:15</FONT><FONT face=宋体>－</FONT><FONT face="Times New Roman">14:21</FONT><FONT face=宋体>为建仓阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组共申报买入<FONT face="Times New Roman">243</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">43</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">200</FONT><FONT face=宋体>万股，买入均价为</FONT><FONT face="Times New Roman">3.78</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">15.32%</FONT><FONT face=宋体>，无卖出申报，当日股票收盘价为</FONT><FONT face="Times New Roman">3.79</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;9<FONT face=宋体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>日为影响股价阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9<FONT face=宋体>月</FONT><FONT face="Times New Roman">7</FONT><FONT face=宋体>日，账户组期初持股</FONT><FONT face="Times New Roman">2,445.77</FONT><FONT face=宋体>万股（占流通股</FONT><FONT face="Times New Roman">2.12%</FONT><FONT face=宋体>），全天共申报买入</FONT><FONT face="Times New Roman">3,531.80</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">1,609.93</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">1,921.87</FONT><FONT face=宋体>万股，买入均价为</FONT><FONT face="Times New Roman">3.99</FONT><FONT face=宋体>元，占市场当日买入成交量的</FONT><FONT face="Times New Roman">44.38%</FONT><FONT face=宋体>（当日市场其他投资者买入成交量最高为</FONT><FONT face="Times New Roman">400</FONT><FONT face=宋体>万股，占</FONT><FONT face="Times New Roman">9.24%</FONT><FONT face=宋体>），无卖出申报，当日股票开盘价和收盘价分别为</FONT><FONT face="Times New Roman">3.81</FONT><FONT face=宋体>元和</FONT><FONT face="Times New Roman">4.06</FONT><FONT face=宋体>元，上涨</FONT><FONT face="Times New Roman">6.56%</FONT><FONT face=宋体>，当日深成指上涨</FONT><FONT face="Times New Roman">5.08%</FONT><FONT face=宋体>，偏离</FONT><FONT face="Times New Roman">1.48%</FONT><FONT face=宋体>。当日“银基发展”市场成交量为</FONT><FONT face="Times New Roman">4,330.10</FONT><FONT face=宋体>万股，较前日上涨</FONT><FONT face="Times New Roman">231.73%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当日账户组共申报买入<FONT face="Times New Roman">60</FONT><FONT face=宋体>笔，成交</FONT><FONT face="Times New Roman">43</FONT><FONT face=宋体>笔。成交的</FONT><FONT face="Times New Roman">43</FONT><FONT face=宋体>笔买入申报中：申报价格大于等于申报前卖一价的有</FONT><FONT face="Times New Roman">40</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">93.02%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,830.15</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">95.23%</FONT><FONT face=宋体>）；申报价格大于申报前卖一价的有</FONT><FONT face="Times New Roman">18</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">41.86%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">978.47</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">50.91%</FONT><FONT face=宋体>）；申报价格大于等于申报前成交价的有</FONT><FONT face="Times New Roman">38</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">88.37%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,848.77</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">96.20%</FONT><FONT face=宋体>）；申报价格大于申报前成交价的有</FONT><FONT face="Times New Roman">24</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">55.81%</FONT><FONT face=宋体>），申报买入并成交</FONT><FONT face="Times New Roman">1,347.70</FONT><FONT face=宋体>万股（占</FONT><FONT face="Times New Roman">70.12%</FONT><FONT face=宋体>）；最高申报价格比申报前卖一价和申报前成交价均高出</FONT><FONT face="Times New Roman">19</FONT><FONT face=宋体>个档位。账户组成交的</FONT><FONT face="Times New Roman">43</FONT><FONT face=宋体>笔买入申报中，除</FONT><FONT face="Times New Roman">13:53:08</FONT><FONT face=宋体>以</FONT><FONT face="Times New Roman">3.96</FONT><FONT face=宋体>元申报买入</FONT><FONT face="Times New Roman">34</FONT><FONT face=宋体>万股（占市场同档位申报总量的</FONT><FONT face="Times New Roman">97.15%</FONT><FONT face=宋体>）、</FONT><FONT face="Times New Roman">14:07:41</FONT><FONT face=宋体>以</FONT><FONT face="Times New Roman">3.99</FONT><FONT face=宋体>元申报买入</FONT><FONT face="Times New Roman">89.90</FONT><FONT face=宋体>万股（占市场同档位申报总量的</FONT><FONT face="Times New Roman">95.95%</FONT><FONT face=宋体>）、</FONT><FONT face="Times New Roman">14:56:24</FONT><FONT face=宋体>以</FONT><FONT face="Times New Roman">4.06</FONT><FONT face=宋体>元申报买入</FONT><FONT face="Times New Roman">60</FONT><FONT face=宋体>万股（占市场同档位申报总量的</FONT><FONT face="Times New Roman">86.06%</FONT><FONT face=宋体>）之外，市场无其他同档位买入申报；全部</FONT><FONT face="Times New Roman">60</FONT><FONT face=宋体>笔买入申报中，申报量与市场同档位买入申报总量占比全部在</FONT><FONT face="Times New Roman">70%</FONT><FONT face=宋体>以上，其中占</FONT><FONT face="Times New Roman">100%</FONT><FONT face=宋体>的有</FONT><FONT face="Times New Roman">47</FONT><FONT face=宋体>笔（占</FONT><FONT face="Times New Roman">78.33%</FONT><FONT face=宋体>）。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">从成交情况来看，账户组以不断升高的申报价格与申报价格以下的卖单成交，逐步抬高股价，市场成交价从<FONT face="Times New Roman">3.84</FONT><FONT face=宋体>元上升至</FONT><FONT face="Times New Roman">4.07</FONT><FONT face=宋体>元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;9<FONT face=宋体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=宋体>日为卖出获利阶段。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当日，账户组共申报卖出<FONT face="Times New Roman">1,127.57</FONT><FONT face=宋体>万股，撤单</FONT><FONT face="Times New Roman">159.52</FONT><FONT face=宋体>万股，成交</FONT><FONT face="Times New Roman">933.19</FONT><FONT face=宋体>万股，卖出均价为</FONT><FONT face="Times New Roman">4.06</FONT><FONT face=宋体>元，占市场当日卖出成交量的</FONT><FONT face="Times New Roman">36.22%</FONT><FONT face=宋体>。当日，账户组之间成交</FONT><FONT face="Times New Roman">243.29</FONT><FONT face=宋体>万股，占当日账户组买入成交量的</FONT><FONT face="Times New Roman">86.28%</FONT><FONT face=宋体>，占当日市场成交量的</FONT><FONT face="Times New Roman">9.44%</FONT><FONT face=宋体>。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实有相关人员询问笔录、资金流水、交易数据、交易地址、交易所计算的数据等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">综上，操纵期间内，唐汉博通过利用资金优势、持股优势连续买卖、虚假申报等方式操纵“银基发展”股票价格，获利<FONT face="Times New Roman">252.89</FONT><FONT face=宋体>万元，违反了《证券法》第七十七条第一款第（一）项、第（四）项的规定，构成《证券法》第二百零三条所述操纵证券市场的行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节和社会危害程度，依据《证券法》第二百零三条的规定，我会决定：责令唐汉博依法处理非法持有的证券，没收违法所得<FONT face="Times New Roman">252.89</FONT><FONT face=宋体>万元，并处以</FONT><FONT face="Times New Roman">1,264.45</FONT><FONT face=宋体>万元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=宋体>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=宋体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=宋体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">6</FONT><FONT face=宋体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015<FONT face=宋体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=宋体>月</FONT><FONT face="Times New Roman">25</FONT><FONT face=宋体>日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20151130_287350_ext.json

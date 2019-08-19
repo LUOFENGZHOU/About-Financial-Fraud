@@ -1,0 +1,275 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（吴忠仪表及赵广生、李志强等相关人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2006-00192</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>行政处罚委</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2006年03月01日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（吴忠仪表及赵广生、李志强等相关人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>证监罚字[2006]6号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（吴忠仪表及赵广生、李志强等相关人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">证监罚字[2006]6号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1242968506187'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1242968506187 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1242968506187 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1242968506187 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1242968506187 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1242968506187 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=17 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>证监罚字[2006]6号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P><SPAN class=15 style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>
+<P class=0><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人</FONT></SPAN>：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>吴忠仪表股份有限公司，注册地址宁夏吴忠市利通区朝阳街67号，法定代表人冯奇峰。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>赵广生，男，59岁，吴忠仪表股份有限公司原董事长。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>李志强，男，57岁，吴忠仪表股份有限公司原董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>冯平儒，男，60岁，吴忠仪表股份有限公司原董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>冯奇峰，男，38岁，吴忠仪表股份有限公司原董事、现任董事长。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>刘素娟，女，48岁，住址宁夏吴忠市利通区朝阳街吴忠仪表厂家属院，吴忠仪表股份有限公司原董事会秘书、现任董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>郝家琪，男，53岁，住址宁夏银川市新城区怀远西路105号西2楼，吴忠仪表股份有限公司董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>朱怀文，男，40岁，住址宁夏吴忠市朝阳街67号，吴忠仪表股份有限公司董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>马玉山，男，36岁，住址宁夏吴忠市利通区仪表厂北院28-2602号，吴忠仪表股份有限公司董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>蒋伟，男，36岁，住址宁夏吴忠市利通区仪表厂20号楼2号楼501号，吴忠仪表股份有限公司董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>盛之林，男，41岁，吴忠仪表股份有限公司董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>黄正度，男，61岁，吴忠仪表股份有限公司董事。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>吴忠仪表股份有限公司（以下简称吴忠仪表）信息披露违法案，我会于2004年12月立案调查，现已调查完毕，并依法向各当事人履行了事先告知程序。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>经查明，吴忠仪表信息披露存在如下违法行为：</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>一、2003年和2004年半年度报告存在虚假陈述。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>吴忠仪表1999&nbsp;年至&nbsp;2003&nbsp;年12月末虚增资产&nbsp;19,500&nbsp;万元、2003年度期初未分配利润虚增&nbsp;2,091.92&nbsp;万元、2003年度虚增净利润4,233.28万元、2004年度虚增净利润104.94万元、虚做销售收入391.17万元、虚结转成本583.48万元。具体包括：&nbsp;</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">1<FONT face=宋体>、自1999年至2003年12月末，吴忠仪表通过虚增固定资产、长期股权投资、存货和在建工程等形式，虚增资产19,500万元形成账外资金，用做二级市场股票买卖。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2<FONT face=宋体>、吴忠仪表于2001年至2003年期间形成的1,822万元营销费用，长期不入账，致使2003年度期初未分配利润虚增1,138.66万元，2003年度虚增净利润246万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">3<FONT face=宋体>、广州大鹏房地产公司于2001年10月、11月先后两次共打入吴仪集团仪兴公司1,000万元，然后由吴仪集团仪兴公司转入吴忠仪表，吴忠仪表采取冲减产品试制费、虚做销售收入的方式虚增利润1,000万元，致使2003年度期初未分配利润虚增722.5万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">4<FONT face=宋体>、成都吴仪科技发展有限公司（以下简称成都吴仪）自2000年至2001年先后向吴忠仪表借支资金855万元，2002年偿还40多万元，截至2003年底尚余813.58万元。成都吴仪在2002年后处于停产状态，基本无实质资产，准备撤并。　　</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>以上欠款在2003年度实际已全部形成损失，应全额计提坏账；2003年度吴忠仪表对成都吴仪按照账龄分析法计提坏账81.36&nbsp;万元，少计提732.22万元，致使2003年度虚增净利润732.22&nbsp;万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">5<FONT face=宋体>、宁夏洁力环保设备有限公司在1999年先后向吴忠仪表借支资金500万元，借款到期后宁夏洁力环保设备有限公司无力支付。截至2003年9月，吴忠仪表通过吴忠市公安经侦队追回60多万元，其余资金437.94万元无法追回。该款项截至2003年底账龄在3年以上，根据公司“账龄在3年以上的应收款项按50％计提坏账准备”的规定，2003年度应计提218.97万元坏账准备,公司实际没有计提，致使2003年度虚增净利润218.97万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">6<FONT face=宋体>、吴忠仪表在1999年通过预付账款的方式先后借给深圳民鑫实业有限公司（以下简称深圳民鑫）4,000万元，1999年6月吴忠仪表将上述款项全部转为对润世生物工程公司（以下简称润世生物）的投资（实际资金还在深圳民鑫没有收回）。2003年3月、7月吴忠仪表从深圳民鑫共计收回1,400万元，冲减了对润世生物的投资后，截至2003年12月尚余2,600万元没有收回。2003年12月22日，吴忠仪表将收到的兰州创业高新技术发展有限公司（以下简称兰州高新）2,600万元，直接冲减对润世生物的投资，又于2003年12月23日、26日将上述款项通过预付账款的方式重新打回兰州高新，形成兰州高新欠吴忠仪表2,600万元的现象。经查，上述款项实质还是深圳民鑫对吴忠仪表的欠款。根据吴忠仪表计提坏账准备的会计政策“账龄在3年以上的应收款项按50%计提”的规定，2003年度少计提坏账准备1,300万元，致使2003年度虚增净利润1,300万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">7<FONT face=宋体>、1998年8月，吴忠仪表向亿瑛产业集团公司（以下简称亿瑛产业）投资1,500万元，1999年12月收回资金500万元，截至2004年12月31日尚余1,000万元。经向宁夏银川高新技术开发区工商局核实，吴忠仪表与亿瑛产业之间不存在投资关系，实际是借款关系,亿瑛产业已于2002年11月被吊销营业执照。吴忠仪表在2003年度未确认坏账损失1,000万元，致使2003年度虚增净利润1,000万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">8<FONT face=宋体>、吴忠仪表控股子公司珠海银创发展有限公司（以下简称珠海银创），1998年12月从昆明泊乐（风动）机械制造有限公司购入立体车库，金额427.35万元。1999年6月，珠海银创将此立体车库以683.76万元销售给云南新华房地产项目经理部（此项目部为吴忠仪表投资）。经查，以上销售并未实现，目前立体车库仍在昆明泊乐（风动）机械制造有限公司，致使吴忠仪表2003年度期初未分配利润虚增230.76万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">9<FONT face=宋体>、珠海银创通过珠海信托投资公司从事证券投资，从2000年起共投入900万元，2002年4月份股票全部售出。截至2003年末收回725.2万元，尚余174.8万元未确认为投资损失，致使吴忠仪表2003年度虚增净利润157.23万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">10<FONT face=宋体>、截至2003年底,&nbsp;隆泰行公司尚欠珠海银创1032.5万元，该笔业务实际发生在1999年，账龄在3年以上,应计提坏账准备516.25万元,&nbsp;而吴忠仪表将此欠款按账龄在1年以内计提了51.62万元坏账,少提坏账464.63万元，致使吴忠仪表2003年度虚增净利润418.16万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">11<FONT face=宋体>、吴忠仪表2003年原材料库存积压物资388万元，可变现净值为133.3万元，应计提存货减值准备254.7万元，实际计提94万元，少计提160.7万元，致使2003年度虚增净利润160.7万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">12<FONT face=宋体>、截至2004年末，珠海捷金进出口有限公司尚欠珠海银创291.5万元，该笔业务实际发生在2001年，账龄在3年以上，应计提坏账准备145.75万元,而吴忠仪表将此欠款按账龄在一至两年计提坏账，实际计提29.15万元,少提坏账116.6万元，致使吴忠仪表2004年度虚增净利润104.94万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">13<FONT face=宋体>、2004年3月吴忠仪表三表公司通过向北京霍尼韦尔公司虚开发票3张,合计金额154.49万元；向山东博远物流发展有限公司虚开发票2张,合计金额127.18万元；对银川自来水公司的销售中有109.5万元为虚假销售。以上共计虚开销售发票、虚做销售收入391.17万元，虚结转成本583.48万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>以上违法事实致使公司在公布的2004年度财务报告中大幅调整，形成巨额亏损，其中：2003年度亏损由2657万元调整为1.88亿元;&nbsp;2004年度亏损3.86亿元;&nbsp;两年累计亏损为5.41亿元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>证明上述事实的主要证据有：吴忠仪表相关半年度和年度报告、吴忠仪表自查报告及相关情况说明、公司财务明细账、相关会计凭证及其它有关财务资料、外调吴忠仪表与关联单位资金往来、相关会计凭证及其它有关财务资料、吴忠仪表关联单位工商登记资料。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>吴忠仪表上述行为违反了原《中华人民共和国证券法》（以下简称原《证券法》）第59条关于“公司公告的股票或者公司债券的发行和上市文件，必须真实、准确、完整，不得有虚假记载、误导性陈述或者重大遗漏”的规定，构成原《证券法》第177条所述“依照本法规定，经核准上市交易的证券，其发行人未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大遗漏的”行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>公司的原董事长赵广生、董事总经理冯奇峰、董事原财务总监李志强对公司的违法行为负有主要责任,&nbsp;其它高管人员和签字通过2003年半年度、年度、&nbsp;2004半年度报告的董事应承担相应责任。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>二、对配股资金的使用、控股股东的资金占用及担保情况大部分未能及时、准确公告，也未在定期报告中完整披露。</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">1<FONT face=宋体>、吴忠仪表未按配股说明书要求使用配股资金，并在配股资金使用方面存在虚假和误导性陈述。吴忠仪表于2000年12月进行配股，配售股数2,844万股，扣除发行费用后，实际募得资金27,170万元。2003年年报显示，环保监测仪器国产化项目累计投资7,125万元；智能型调节阀及现场总线技术开发与产业化项目累计投资9,145万元；西气东输大口径专用控制阀替代进口技术改造项目累计投资9,346万元，合计25,616万元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，截至2003年12月31日，环保监测仪器国产化项目实际累计投资2,185.27万元；智能型调节阀及现场总线技术开发与产业化项目实际累计投资8,699.42万元；西气东输大口径专用控制阀替代进口技术改造项目实际累计投资3,206.62万元，合计14,091.31万元，年报披露数与实际投入数差额为11,524.69万元。吴忠仪表2004年又向智能型调节阀及现场总线技术开发与产业化项目继续投资121.3万元。吴忠仪表历年实际投入到前述3个项目的资金累计只有14,212.61万元，还有未使用的配股资金12,957.39万元，形成账外资金用做二级市场股票买卖。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2<FONT face=宋体>、对控股股东巨额资金占用未按信息披露要求进行及时、准确的披露。经查，控股股东吴仪集团2003年占用吴忠仪表资金借方发生额为20,446.8万元，贷方发生额为14,346.42万元，余额9,082.17万元；2004年借方发生额16,025.53万元，贷方发生额为13,076.1万元，余额12,031.60万元。只在2003年、2004年报中进行了余额的信息披露，对关联资金占用的发生额及原因未进行准确、完整披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">3<FONT face=宋体>、对外担保情况未及时进行临时公告，也未在定期报告中完整披露。经查，截至2004年12月31日，吴忠仪表对外担保余额共计42笔80,410万元（2004年度合并会计报表中净资产为71,406万元）,对外进行信息披露的担保金额只有34,930万元，其余45,480万元未进行披露。吴忠仪表对外担保涉诉2笔，涉诉金额8,200万元，其中为深圳汇银峰提供担保1笔，已经诉讼结案并执行完毕，形成损失199万元;另为珠海亚利(控股子公司)和深圳新宝荣提供担保3笔,预计损失5,541万元，以上4笔担保形成损失共计为5,740万元。吴忠仪表存在为其控股50％以下子公司提供担保，且对外担保总额超过最近一个会计年度合并报表净资产的50%，而提供对外担保时未要求被担保方提供反担保。对上述重大担保和重大诉讼事项没有按照法律规定及时作出临时公告，也未在公司2003年度和2004年半年度报告中进行充分、完整的信息披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>证明上述事实的主要证据有：吴忠仪表有关会议记录、董事会决议公告及议事规则、吴忠仪表高管及相关人员询问笔录及董事签字确认表、吴忠仪表对外担保情况统计表及其担保合同等相关资料、外调被担保单位的情况说明及担保合同等相关资料、外调贷款银行有关吴忠仪表对外担保的情况说明及担保合同等相关资料。&nbsp;</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>吴忠仪表上述行为违反了原《证券法》第59条关于“公司公告的股票或者公司债券的发行和上市文件，必须真实、准确、完整，不得有虚假记载、误导性陈述或者重大遗漏”的规定、第61条“股票或者公司债券上市交易的公司，应当在每个会计年度结束之日起四个月内，向国务院证券监督管理机构和证券交易所提交记载以下内容的年度报告，并予公告……”第（五）款“国务院证券监督管理机构规定的其他事项”、中国证监会《公开发行股票公司信息披露的内容与格式准则第二号〈年度报告的内容与格式〉(2003年修订稿)》第46条关于关联交易的披露规定，第62条“发生可能对上市公司股票交易价格产生较大影响、而投资者尚未得知的重大事件时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所提交临时报告，并予公告，说明事件的实质”第（三）款“公司订立重要合同，而该合同可能对公司的资产、负债、权益和经营成果产生重要影响”的规定，构成原《证券法》第177条所述“依照本法规定，经核准上市交易的证券，其发行人未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大遗漏的”行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对吴忠仪表在配股资金使用方面的虚假陈述和控股股东巨额资金占用未能进行及时、准确披露的行为，赵广生、冯奇峰、李志强负有主要责任，知情董事刘素娟负有直接责任。出席董事会并表决通过2003年半年度和年度报告、2004年半年度报告的其他董事负有相应责任。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>对发生担保未及时进行临时公告也未在定期报告中完整披露的行为，参与担保决策的赵广生、冯奇峰、李志强、冯平儒负有主要责任；其他董事郝家琪、朱怀文、马玉山、蒋伟、盛之林、刘素娟、黄正度分别参加了上述有关担保行为的董事会决议并签字，负有相应责任。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>根据吴忠仪表上述证券违法行为性质、情节以及责任人员责任大小，依据原《证券法》第177条关于“对发行人处以三十万元以上六十万元以下的罚款”、“对直接负责的主管人员和其他直接责任人员给予警告，并处以三万元以上三十万元以下的罚款”的罚则规定，经研究决定：&nbsp;</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>一、对吴忠仪表处以40万元罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二、对赵广生处以警告、20万元罚款，对李志强处以警告、15万元罚款，对冯平儒处以警告、10万元罚款，对冯奇峰处以警告、3万元罚款，对刘素娟、郝家琪、朱怀文、马玉山、蒋伟、盛之林、黄正度分别处以警告。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信实业银行总行营业部、账号7111010189800000162，由该行直接上缴国库），并将付款凭证的复印件送中国证券监督管理委员会法律部审理执行处备案。如对本处罚决定不服，可在收到本处罚决定之日起60日内向中国证券监督管理委员会提出行政复议；也可以在收到本处罚决定之日起3个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 31.5pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 42pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二○○六年三月一日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20080418_14319_ext.json

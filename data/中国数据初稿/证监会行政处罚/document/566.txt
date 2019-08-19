@@ -1,0 +1,255 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（李绍武）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年05月25日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（李绍武）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕21号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（李绍武）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕21号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1363850417281'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1363850417281 P {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1363850417281 TD {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1363850417281 DIV {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1363850417281 LI {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+#TRS_AUTOADD_1363850417281 {
+	MARGIN-TOP: 6px; FONT-FAMILY: 宋体; MARGIN-BOTTOM: 6px; FONT-SIZE: 10.5pt
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+--**/</style>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔2012〕21号</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">李绍武，男，1964年3月出生，时任国信证券股份有限公司（以下简称国信证券）投资银行部工作人员，住址：广东省深圳市南山区桃源村。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">《</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中华人民共和国证券法</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">》（以下简称《证券法》）</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的有关规定，我会对</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">李绍武</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">违反证券法律法规</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一案</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">进行了立案调查、审理，并依法向李绍武告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人李绍武提出了书面陈述、申辩意见。应李绍武的要求，我会举行了听证会，听取李绍武及其代理人的陈述、申辩。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，李绍武存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2001年起，李绍武利用其在国信证券投行部工作的职务便利，在对有关公司进行改制辅导和保荐上市过程中，通过配偶邱某、岳母冯某以及其本人可以控制的深圳市昕利科技发展有限公司（以下简称昕利科技）等自然人及机构的名义持有、转让拟上市公司的股份或买卖其股票，涉及洛阳轴研科技股份有限公司（以下简称轴研科技，股票代码：002046）、深圳莱宝高科技股份有限公司（以下简称莱宝高科，股票代码：002106）、河南佰利联化学股份有限公司（以下简称佰利联，股票代码：002601）、河南四方达超硬材料股份有限公司（以下简称四方达，股票代码：300179）等4家公司，共获利10,216,215</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">.19</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">元。具体情况如下：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、2001年3月，国信证券深圳投行三部提交洛阳轴承研究所（轴研科技前身，以下简称轴研所）改制上市立项报告。同年4月9日，国信证券轴研所项目立项审批获得通过，李绍武为项目负责人。2001年11月22日，轴研科技召开股份公司创立大会。11月28日，轴研科技正式申请股份公司设立登记。2001年12月至2003年3月，国信证券对轴研科技进行上市辅导，李绍武作为辅导人员在向监管部门报送的《辅导工作备案报告》以及《辅导工作总结报告》上签字确认。2001年，李绍武得知轴研所将引入战略投资者后，介绍昕利科技于同年8月以发起人战略投资者的身份认购65万股轴研科技股份。2005年5月，昕利科技持有的上述股份进行登记，轴研科技在深圳证券交易所上市。经过送股等，至2006年11月，昕利科技共持有轴研科技股票633,750股。2006年11月14日，上述股票开始卖出，至2007年3月5日全部卖出。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、2000年11月，莱宝高科与国信证券签署《股票发行与上市辅导协议书》。2000年11月至2001年11月，国信证券对莱宝高科进行上市辅导，李绍武参加辅导工作，后莱宝高科因故未公开发行股票。2003年12月，国信证券莱宝高科首发再辅导项目立项审批获得通过，李绍武为项目负责人。2004年1月至2005年11月，国信证券对莱宝高科进行上市辅导，李绍武作为辅导人员在向监管部门报送的《辅导工作备案报告》以及《辅导工作总结报告》上签字确认。2004年5月，莱宝高科董事会审议并通过《公司关于发行股票并上市的议案》，决定对公司高级管理人员及管理和技术骨干进行定向增发，实施管理层持股计划。李绍武作为国信证券代表参加相关会议，并就持股计划涉及的持股方式、对象、规模等事宜发表意见，知悉该计划实施的具体过程。2004年5月，经过李绍武介绍，邱某（李绍武对外称邱某是其老乡）与莱宝高科子公司浙江金徕镀膜有限公司（以下简称浙江金徕）签订《劳动合同》。后邱某以该公司兼职员工的身份参加了莱宝高科管理层持股计划。2004年12月，邱某认购5万股莱宝高科股份。2007年1月，邱某持有的上述股份进行登记，莱宝高科在深圳证券交易所上市。经过送股等，至2008年1月，邱某共持有莱宝高科股票113,700股。截至2010年7月22日，上述股票全部卖出。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">三、2007年8月，国信证券投行四部提交佰利联辅导及首次公开发行股票并上市项目立项报告。同月，国信证券佰利联项目立项审批获得通过，李绍武为项目负责人。同月，李绍武作为国信证券授权代表与佰利联签署《辅导协议》。2007年8月至2008年12月，国信证券对佰利联进行上市辅导，李绍武参加辅导工作。2007年11月，佰利联实施公司中高级管理人员股权激励，佰利联股东北京东方博雅投资有限公司（以下简称东方博雅）将其持有的佰利联股份全部转让给佰利联股权激励对象人员。此前，佰利联相关负责人曾就股权激励涉及的可行性、人员范围、持股比例等问题向李绍武进行多次咨询，李绍武知悉股权激励的有关情况。同一时期，李绍武主动向佰利联提出让邱某（李绍武对外称邱某是其朋友）以外部投资者身份参加股权激励。2007年11月，邱某受让东方博雅转让的35万股佰利联股份。2008年11月，佰利联要求李绍武将邱某持有的上述股份转出，邱某向其母亲冯某转让但未收到股权转让款，邱某仍实际控制上述股份，未达到佰利联的要求。2009年10月，在佰利联的进一步要求下，冯某将其持有的上述股份转让给佰利联指定的人员。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">四、2006年末，李绍武在承揽项目时得知四方达有意发行股票并上市。2007年初，邱某以李绍武朋友的身份请四方达负责人帮助解决亲戚工作。2007年7月，邱某到四方达现场参观，询问公司负责人是否有上市意愿，得到肯定答复。随后不久，邱某致电四方达负责人，称河南一家公司的负责人对投资四方达感兴趣。同一时期，邱某致电河南公司的负责人，自称是李绍武的朋友并向其介绍四方达项目。在此之前，四方达和河南公司负责人并不认识邱某，但都认识李绍武。2007年底，邱某在得知河南公司负责人出资设立的公司已经投资四方达后，以居间撮合投资索要好处，向四方达负责人提出入股请求。2008年2月28日，李绍武、国信证券投行部工作人员王某林与四方达负责人召开上市讨论会。2008年3月，邱某向四方达负责人提出希望能以优惠价格入股并表示数量越多越好。其间，四方达负责人曾就引入外部投资者一事涉及的法律问题向李绍武进行咨询，李绍武表示此事不会影响公司上市进程，但引资一事最好赶在公司股份制改造完成前进行。此外，四方达负责人还就外部投资者以优惠价格入股是否存在法律障碍等问题咨询国信证券驻公司现场人员，对方在请示李绍武后答复不存在法律问题。经过上述咨询，四方达同意邱某按照优惠价格以外部投资者身份入股。2008年3月21日，邱某认购100万股四方达股份。除邱某外，同期入股的还有3名外部投资者，但均是四方达主动提出给予对方股份且其认股价格高于邱某。2008年4月，国信证券投行四部提交四方达首发项目立项报告。同月，国信证券四方达首次公开发行股票并上市项目立项审批获得通过，李绍武作为投行四部负责人在业务部门负责人审核意见栏处签署同意意见，随后李绍武作为国信证券授权代表与四方达签署了上市辅导和承销及保荐协议。2009年初，李绍武作为国信证券授权代表与四方达签署《辅导协议》。2009年2月，国信证券开始对四方达进行上市辅导。同年5月，国信证券因故终止对四方达的上市辅导。2010年12月，邱某将其持有的上述股份转让给四方达指定的人员。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以上事实，有涉案人员询问笔录、股票交易记录以及国信证券提供的情况说明等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人李绍武的上述行为，</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">违反了《证券法》第四十三条有关禁止证券从业人员违规持有、买卖股票的规定，构成了《证券法》第一百九十九条所述违法行为。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人及其代理人在陈述申辩材料、补充申辩意见以及听证会上，对于我会关于当事人借他人名义持有轴研科技等4家公司股份的认定提出异议，并申请证人孟某平到听证会作证。当事人及其代理人提出：其一，昕利科技入股轴研科技是代理其他自然人投资，邱某入股莱宝高科是邱某及其家人共同的投资。当事人不存在控制昕利科技的情形，未从该两项投资中获取任何利益，我会关于该两项投资取得的税后净收益数额的认定与事实不符。作为风险投资者，昕利科技、邱某的入股行为属于正常的投资行为，当事人未介绍昕利科技或安排邱某入股两家公司。其二，上市公司股票、公司债券和国务院依法认定的其他证券的发行和交易属于《证券法》的调整范围，未发行并上市的股份有限公司股票的发行和转让不属于《证券法》的调整范围。昕利科技、邱某在投资轴研科技等4家公司时，该等公司尚未上市，其投资行为应受到《中华人民共和国公司法》（以下简称《公司法》）等相关法律法规的规范和调整，我会有关法律适用错误。其三，截至2007年3月5日，昕利科技已将其持有的轴研科技发起人法人股抛售完毕，此时距立案调查的时间已逾3年，依据《中华人民共和国行政处罚法》（以下简称《行政处罚法》）第二十九条的规定，对该行为不应处罚。当事人对因未尽力避免可能造成的利益冲突局面及在履职过程中未充分披露关联方关系而给证券市场秩序带来的不良影响表示歉意，但在主观上并无违法故意，请求对其从轻处理。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">对于当事人及其代理人提出的陈述、申辩，我会做了认真研究。经复核，根据涉案人员的询问笔录和昕利科技工商登记及银行账户资料，当事人与邱某于1992年登记结婚并共同居住。2001年4月19日，当事人与邱某以共同投资名义申请设立昕利科技，昕利科技的办公电话是当事人的家庭电话，注册地址是当事人的家庭住址。2001年5月23日，昕利科技第一次增资，股东变更为邱某和刘某丽（李绍武弟弟的妻子），邱某持股占比85%。2001年8月14日，昕利科技再次增资，邱某持股占比90%。2001年8月15日，昕利科技缴纳了轴研科技发起人法人股认购款。根据相关证据，当事人银行账户资金的主要流向是邱某银行账户。昕利科技第一次增资资金来自刘某丽和邱某，而刘某丽的出资与邱某有关。昕利科技第二次增资资金来自当事人对外借款50万元以及刘某丽和邱某。综上，当事人是昕利科技的创始股东，其妻邱某以家庭共同财产投资昕利科技，并对昕利科技绝对控股。昕利科技投资轴研科技一事发生在当事人与邱某的婚姻关系存续期间，当事人是该投资的直接受益人。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经复核，根据涉案人员的询问笔录，2001年春节前后，当事人向时任轴研所所长建议将轴研所改制上市。轴研所所长认为改制对企业的发展有利，就组织轴研所领导开会讨论改制上市的可行性，达成一致意见。2001年3月中旬，轴研所领导带队到国信证券考察了解改制上市的程序和要求，当事人在场。随后，轴研所与国信证券签署了财务顾问协议，国信证券进场开展工作。当事人是轴研所改制上市项目的承揽人、联系人和主要负责人。2001年4月至2003年期间，当事人经常到轴研科技现场。2003年国信证券因故退出轴研科技上市项目后，当事人还以个人名义参与了轴研科技《招股说明书》等事宜。2001年3月轴研所在同国信证券签署财务顾问协议之前已就引资一事与当事人做了口头约定。之后，当事人又与轴研所就引资数量问题进行了数次沟通。2001年7月轴研科技发起人预备会议召开时，昕利科技的持股最终确定为65万股。当事人在询问笔录中表示其可能代表昕利科技参加了轴研科技发起人预备会议。根据轴研科技提供的公司发起人基本情况材料，昕利科技的联系人为当事人，联系电话为当事人的手机号码，传真号码与国信证券作为券商登记于《轴研所改制工作通讯录》上的号码一致。根据轴研科技发起人协议书（初稿），昕利科技的住所与当事人的家庭住址一致。根据轴研所《战略投资人的选择》，轴研所对发起人战略投资者应符合的条件作出了规定，包括发起人应当与公司的技术、产品和销售市场不存在竞争关系，对公司的销售、管理有帮助或对公司的管理有所提升，可能会给公司带来新的商业机会以及对公司的投资是长期性而非短期行为等。而有证据显示，昕利科技在认购轴研科技股份时刚成立不久，其资质不完全符合轴研所对引入战略投资者的要求。轴研所之所以同意当事人入资是考虑到当事人作为国信证券投行工作人员的特殊执业背景，希望当事人能对轴研所改制上市一事尽心尽力。综上，当事人是国信证券轴研科技项目的承揽人、联系人和主要负责人，代表昕利科技参加了轴研科技发起人预备会议。当事人在为轴研所改制辅导上市提供服务的过程中利用职务优势及影响力，在昕利科技不完全符合轴研所有关引入战略投资者条件的情况下，介绍昕利科技入股并提供便利。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经复核，根据昕利科技银行账户资料等证据，昕利科技于2001年8月15日将认购轴研科技股份的705,400.00元从昕利科技银行账户转至轴研科技，经办人为邱某。其后昕利科技又以现金方式补交了479.00元认股款。昕利科技两次共缴纳认股款705,879.00元，认购轴研科技发起人法人股65万股。2005年5月19日，昕利科技持有的上述股份进行登记。2006年11月9日，昕利科技持有的上述股份变为流通股，昕利科技随后开始卖出其持有的轴研科技股票，至2007年3月5日全部卖出，所获收益以及轴研科技派发的现金股息等均进入昕利科技三方存管银行账户或其指定的银行账户。综上，昕利科技投资轴研科技的资金由昕利科技银行账户划出，相关投资收益亦回到昕利科技三方存管银行账户或其指定的银行账户，昕利科技明确享有对轴研科技的投资收益。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">综上，当事人是昕利科技对外投资的直接受益人，能够实际支配昕利科技的活动，其利用代表国信证券为轴研所改制上市提供中介服务的便利介绍昕利科技入股，有关事实清楚、证据确实充分。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">关于当事人提出昕利科技代理其他自然人投资并持有轴研科技发起人法人股的申辩意见，我会复核了当事人的代理人提交的昕利科技与相关自然人签订的《持股受益凭证协议》以及银行汇款、转账凭证和现金收条等证据。当事人及其代理人在补充申辩意见和听证会上称，相关自然人曾于2001年委托昕利科技投资轴研科技，该等人员并与昕利科技签订了共10份《持股受益凭证协议》。但当事人的代理人仅提交了8份《持股受益凭证协议》，称剩下的2份协议无法找到。而《持股受益凭证协议》显示，相关自然人与昕利科技订立协议的时间是2006年9月，此时距昕利科技认购轴研科技发起人法人股已逾5年，有关持股份额和收益安排系事后确定，无法证明出资认购时的具体状况。当事人的代理人在听证会上称，昕利科技、邱某与相关自然人和部分机构之间有过资金往来，昕利科技向该等人员收取轴研科技委托投资款并向他们实际支付投资收益。但是，当事人的代理人提交的银行汇款、转账凭证以及现金收条等并未显示相关资金往来涉及该等款项的具体用途，且银行汇款凭证及现金收条上记载的金额与相关自然人签署的《持股受益凭证协议》上记载的委托出资金额不能一一对应。昕利科技在2007年3月已将其持有的轴研科技发起人法人股全部卖出，但其向相关自然人和部分机构划款的时间从2006年11月一直延续到2010年1月，所划款项没有注明具体用途，大部分难以与当事人所述支付收益之间形成一一对应关系。同时，复核也注意到，对于其中一名自然人也即听证会证人孟某平，除了上述当事人的代理人提交的证据外，轴研科技一名与涉案违法行为无直接利害关系的人员在接受调查时所作询问笔录可以旁证昕利科技认购轴研科技的股份中有孟某平的出资。根据当事人的代理人提交的相关证据以及孟某平本人在听证会上的陈述，基本可以确定孟某平通过昕利科技认购了轴研科技的部分发起人法人股。鉴此，我会对于当事人提出的孟某平通过昕利科技认购轴研科技部分发起人法人股的申辩意见予以采纳。但是，孟某平在听证会上作证时称，其签署《持股受益凭证协议》之前对委托昕利科技投资轴研科技应持有的股份数量并不清楚，对应以何种标准向昕利科技索要轴研科技投资收益一事亦不十分清楚，其未就昕利科技应付投资收益具体金额一事同邱某作沟通，邱某实际给他多少就是多少。鉴此，在比对当事人的代理人提交的证据后，我会确认属于邱某支付孟某平投资轴研科技股份的收益为147万元。本项申辩意见中的其他内容因相关证据不能证明所述事实，我会不予采纳。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 28.5pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经复核，根据国信证券提供的证据，2000年，莱宝高科启动改制及上市准备工作，当事人参与了对该公司的辅导工作。2001年11月，莱宝高科上市申请因故停止，但当事人仍与该公司保持关系并以个人财务顾问身份参与莱宝高科增资扩股方案的制定工作但未收费。2003年12月，国信证券莱宝高科首发再辅导项目立项审批获得通过，当事人是项目负责人并直接参与上市辅导工作。2004年5月，当事人参加了莱宝高科审议管理层信托持股计划的相关会议并就持股计划涉及的重要问题发表专业意见。2006年，当事人代表国信证券与莱宝高科签订了主承销协议、保荐协议及相关补充协议。2007年，莱宝高科上市。根据涉案人员的询问笔录，时任莱宝高科和浙江金徕董事张某与当事人在工作中结识。张某为了加强对浙江金徕项目的管理，请当事人为其介绍一个财务顾问。经当事人推荐，张某与邱某认识并于2004年5月签署《劳动合同》，邱某成为浙江金徕的兼职员工。据张某称，其只见过邱某一、两次，咨询过几个会计问题。2004年下半年，张某得知自己有资格参加莱宝高科管理层信托持股计划后，向当事人咨询莱宝高科上市进展的有关情况并表示其还在犹豫是否认购股份。随后，张某多次接到邱某电话，请其帮忙联系购买莱宝高科股份，邱某还提出如果张某不要能否把额度让给她。在邱某多次催促后，张某以资金和风险因素为由向莱宝高科方面提出将其认购额度转让给邱某，莱宝高科同意。当时，张某以及莱宝高科并不清楚当事人同邱某是夫妻关系。根据莱宝高科提供的管理层信托持股人员名单及任职情况，莱宝高科45名持股人员中，5人为公司董事、39人为公司和浙江金徕的高管人员和部门技术与管理骨干，仅邱某一人无实际职务。经查证，浙江金徕有4人参加了莱宝高科管理层信托持股计划，其中3人均在浙江金徕工作多年，只有邱某是浙江金徕的兼职员工。根据国信证券提供的证据，当事人作为保荐机构代表曾多次审阅邱某参加莱宝高科管理层信托持股计划的事项及相关文件，对邱某以浙江金徕员工身份参加莱宝高科管理层信托持股计划一事完全知情。当事人在其询问笔录中承认，邱某之所以获得参与莱宝高科管理层信托持股计划的资格，有可能是别的员工不要受让股票的权利，同时，张某考虑到他的面子，就给了邱某受让股票的权利。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 28.5pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">综上，当事人李绍武自莱宝高科2000年启动改制上市准备工作至其挂牌上市的7年多时间里，一直参与了对该公司的上市辅导工作，是国信证券莱宝高科项目的负责人。当事人作为中介机构代表在莱宝高科审议管理层信托持股计划的有关会议上发表专业意见，知悉了该公司实施管理层信托持股计划的重要情况。张某与邱某只有简单交往，但曾告知当事人自己对于参加管理层信托持股计划比较犹豫。邱某多次向张某讨要受让股票的权利并最终得以加入该信托持股计划，与李绍武有着密切关系。以上事实清楚，证据确实充分。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">关于当事人提出邱某参加莱宝高科管理层信托持股计划的一部分资金来自其母亲和两个妹妹，系共同投资的申辩意见，我会复核了邱某银行账户资料等证据。邱某于2004年12月20日将参加莱宝高科管理层信托持股计划的投资款11.3万元从邱某银行账户转至信托公司账户，缴纳了由信托公司作为受托人代持的5万股莱宝高科股份的认股款。经过莱宝高科多次送转股，至莱宝高科上市前，邱某累计持股11.37万股。经过多次解禁和交易，截至2010年7月22日，邱某持有的上述莱宝高科股票全部卖出，所获收益以及莱宝高科管理层信托持股计划分红和莱宝高科派发的现金股息等均进入邱某三方存管银行账户或其指定的银行账户。当事人及其代理人未就其所称共同投资一事提交共同投资书面约定，也未提交邱某亲属出资的证明材料，且并无与涉案违法行为无直接利害关系的第三人对此事予以旁证。当事人的代理人提交的银行划款凭证显示，邱某曾于2010年6月向其两个妹妹划款共计93万元，但相关凭证上并未显示该款项的具体用途，该划款与当事人所称邱某向其亲属支付共同投资收益之间无法形成一一对应关系。综上，邱某认购莱宝高科股份的出资及所获收益均是从邱某账户划出并回到邱某账户，邱某作为莱宝高科管理层信托持股计划的出资人取得投资收益的事实清楚，证据确实充分。当事人有关邱某与其亲属共同投资一事的申辩意见，因没有证据支持，我会不予采纳。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">关于当事人提出的投资收益认定问题，经复核，我会在计算昕利科技投资轴研科技股份和邱某投资莱宝高科股票的获利时，只计算了与李绍武利用职务便利买卖股票相关的非法获利部分。本案听证时，调查人员就本案违法所得计算情况向当事人的代理人作了说明并出示了相关证据。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">关于当事人提出的行政处罚追诉时效问题，经复核，我会认定当事人借他人名义违规持有、买卖股票的违法行为是自2001年起一直持续到2010年12月邱某转让四方达股份为止，本案立案时间是2010年6月24日，依据《行政处罚法》第二十九条的规定，当事人的违法行为具有连续性，因此仍在行政处罚追诉时效内。昕利科技并非本案当事人，不存在行政处罚追诉时效问题。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">关于当事人提出的本案法律适用问题，经复核，依据《公司法》相关规定，股票是股份有限公司签发证明股东所持股份的凭证。股份有限公司向发起人、法人发行的是记名股票，其在转让时需遵守相关法律和行政法规的规定。《证券法》第四十三条规定，证券从业人员不得违规持有、买卖股票。本案中轴研科技等4家公司向战略投资者或者管理层发行股份，是公司为公开发行股票并上市而实施的前期步骤，是公开发行股票事项中的一部分，国信证券介入立项，公司发行股票行为已经启动。当事人自1998年起在国信证券任职，一直从事投行业务，不仅没有在其所服务的项目中有效避免利益冲突，反而刻意隐瞒其与邱某的夫妻关系及与昕利科技的密切关系，在所服务的公司开始启动发行工作时，利用自己的任职优势和便利，安排昕利科技和邱某入股，其后又将股票在二级市场上卖出，或被迫转让给他人，从中获取收益。当事人的上述行为构成了借用昕利科技、邱某的名义持有、转让拟上市公司的股份或买卖其股票的行为，违反了《公司法》、《证券法》的有关规定。因此，我会适用相关法律规定对其违法行为作出认定并无不当。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，依据法律法规和我会有关规定，</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">证券公司作为保荐机构，应当以客观公正的态度，尽心履职推荐发行人发行证券并上市，为市场提供合格的交易产品。这就要求保荐机构的从业人员在执业过程中保持客观公正与独立性，勤勉尽责地履行好尽职调查工作，真实、准确、完整地披露拟上市公司的风险。本案中，李绍武作为国信证券投行部工作人员，历任项目经理、高级经理、投行四部总经理等职务，从业经历长达10余年，其间主持、参与了国信证券负责的多个首发上市及辅导项目，熟悉国信证券投行工作业务流程，清楚法律法规和我会对保荐机构及其执业人员有关尽职推荐发行人发行证券上市和勤勉尽责的相关规定，应当知道《证券法》禁止证券从业人员持有、买卖或借他人名义持有、买卖股票的规定并自觉遵守。但是，李绍武刻意隐瞒其与邱某和昕利科技之间的关系，利用职务便利及所获取的信息优势，安排亲属或其可以控制的公司在拟上市公司改制、增资扩股或实施管理层持股计划等关键阶段投资入股或以优惠价格入股，企图获得有关公司股票发行并上市后巨大的交易价差。这种将自身利益与拟上市公司的利益捆绑在一起的行为背离了保荐机构专业人员应具有的客观公正与独立性，构成保荐机构专业人员与所从事和服务项目业务之间的利益冲突，影响了保荐机构对拟上市公司风险的客观判断，未认真履行尽职调查职责，增加了保荐机构内控失灵与业务失败的风险，侵害了投资者全面了解信息的知情权，妨碍了投资者合理作出投资决策，破坏了证券市场秩序。同时，还增加了拟上市公司的融资成本。因此，应当予以惩处。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十九条的规定，我会决定：没收李绍武违法所得10,216,215</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">.19</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">元，并处以600万元罚款。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人应自收到本处罚决定书之日起15日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起3个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; FONT-WEIGHT: bold; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 284.655pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 284.655pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 284.655pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 284.655pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 二○一二</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">年</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">五月二十五日　　</SPAN></P><!--EndFragment-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20130321_222516_ext.json

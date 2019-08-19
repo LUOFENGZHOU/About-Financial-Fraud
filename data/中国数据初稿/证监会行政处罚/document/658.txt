@@ -1,0 +1,238 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（汪丹辉、张勇乾）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-08374</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年09月21日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（汪丹辉、张勇乾）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2010）35号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（汪丹辉、张勇乾）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2010）35号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">35</SPAN>号</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：汪丹辉，男，<SPAN style="FONT-SIZE: 10.5pt">1969</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月出生，住址：广东省深圳市福田区长城大厦。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>张勇乾，男，<SPAN style="FONT-SIZE: 10.5pt">1962</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，住址：广东省深圳市福田区福景大厦东座。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对汪丹辉、张勇乾涉嫌违反证券法律法规行为进行了立案调查、审理，并向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，汪丹辉、张勇乾存在以下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月，汪丹辉、张勇乾利用“李明彬”等<SPAN style="FONT-SIZE: 10.5pt">34</SPAN>个证券账户交易湖南新五丰股份有限公司（以下简称新五丰）股票，汪丹辉、张勇乾为一致行动人</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>中银国际证券深圳彩田路证券营业部“李明彬”、“张薇”、“何春”、“罗艳”、“吴桂钦”、“宋世华”、“汪津”、“李莉莎”、“韩伟”、“汤茂连”、“齐伟”、“牟刚”、“张清”、“黄荣南”等<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>个账户，联合证券深圳爱国路证券营业部“高秀卿”、“林楚彬”、“陈文玉”、“陈林双”、“何开平”、“范桃艳”、“但昭义”、“岳保胜”等<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>个账户，国信证券深圳泰然九路证券营业部“林瑞华”、“张勇”、“林瑞妹”、“钟野”等<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>个账户和华创证券深圳深南大道证券营业部“张勇乾”、“李开英”<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>个账户，上述<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>个账户中，“李明彬”等<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>个账户的开户联系电话一致，其中<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>个账户代理人为张勇乾，其余账户无代理人；上述<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>个账户的资金来源均为张勇乾的个人银行账户，其中<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>个账户资金流向为张勇乾的个人银行账户，<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>个账户资金流向为汪丹辉的个人银行账户；<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>个账户交易<SPAN style="FONT-SIZE: 10.5pt">IP</SPAN>地址存在重合；上述<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>个账户的所有人与张勇乾存在亲属或朋友关系，张勇乾承认<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月利用上述账户交易新五丰股票为其操作。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>中银国际证券深圳彩田路证券营业部“李静怡”、“李继鹤”、“李冬”等<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个账户，国信证券深圳泰然九路证券营业部“邱玥”账户和华创证券深圳深南大道证券营业部“汪丹辉”、“汪丹妮”<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>个账户，上述<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>个账户联系电话相同，交易<SPAN style="FONT-SIZE: 10.5pt">IP</SPAN>地址重合，<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>个账户的资金来源均为张勇乾的个人银行账户，账户的资金流向均为汪丹辉个人银行账户；上述<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>个账户的所有人与汪丹辉存在亲属或朋友关系，汪丹辉承认<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月利用上述账户交易新五丰股票为其操作。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月张勇乾、汪丹辉共同赴长沙新五丰调研。两人操作交易新五丰股票所利用的“李明彬”等<SPAN style="FONT-SIZE: 10.5pt">34</SPAN>个账户之间存在交易<SPAN style="FONT-SIZE: 10.5pt">IP</SPAN>地址重合、资金往来对象相同的情况，且这些账户交易新五丰股票的时段一致。汪丹辉、张勇乾所利用上述账户在开户资料、资金往来、交易特征上存在关联关系，符合《上市公司收购管理办法》第八十三条第二款第（十二）项“投资者之间具有其他关联关系”为一致行动人的规定。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、汪丹辉、张勇乾作为一致行动人未按规定履行报告、公告义务</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，汪丹辉、张勇乾利用上述账户开始交易新五丰股票，在<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日<SPAN style="FONT-SIZE: 10.5pt">34</SPAN>个账户合计持有新五丰<SPAN style="FONT-SIZE: 10.5pt">5,992,498</SPAN>股，占新五丰已发行股份的<SPAN style="FONT-SIZE: 10.5pt">5.98%</SPAN>；后汪丹辉、张勇乾不断增持新五丰，<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日<SPAN style="FONT-SIZE: 10.5pt">34</SPAN>个账户合计持有新五丰股票达<SPAN style="FONT-SIZE: 10.5pt">10.24%</SPAN>；<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日合计持有新五丰股票达<SPAN style="FONT-SIZE: 10.5pt">15.03%</SPAN>；<SPAN style="FONT-SIZE: 10.5pt">34</SPAN>个账户合计持有新五丰股票比例最高值达<SPAN style="FONT-SIZE: 10.5pt">15.55%</SPAN>。在<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日期间<SPAN style="FONT-SIZE: 10.5pt">34</SPAN>个账户合计持有新五丰股票占该公司已发行股份<SPAN style="FONT-SIZE: 10.5pt">5%</SPAN>以上的天数达到<SPAN style="FONT-SIZE: 10.5pt">144</SPAN>天，在此期间汪丹辉、张勇乾未披露持有新五丰股份股权变动情况。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>汪丹辉、张勇乾利用“李明彬”等<SPAN style="FONT-SIZE: 10.5pt">34</SPAN>个账户合计持有新五丰已发行股份超过<SPAN style="FONT-SIZE: 10.5pt">5%</SPAN>时，未向中国证券监督管理委员会或派出机构、上海证券交易所作出书面报告，未通知湖南新五丰股份有限公司，并未予以公告；同时，汪丹辉、张勇乾共同持有新五丰公司已发行股份达到<SPAN style="FONT-SIZE: 10.5pt">5%</SPAN>后，其所持股份比例每增加或者减少<SPAN style="FONT-SIZE: 10.5pt">5%</SPAN>时，也未依照规定进行报告和公告。汪丹辉、张勇乾应对上述未按规定报告、披露信息承担责任，是上述违法行为责任人。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述违法事实有开户资料、交易流水、资金流水、询问笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>汪丹辉、张勇乾的上述行为违反了《证券法》第八十六条关于“通过证券交易所的证券交易，投资者持有或通过协议、其他安排与他人共同持有一个上市公司已发行的股份达到百分之五时，应当在该事实发生之日起三日内，向国务院证券监督管理机构、证券交易所作出书面报告，通知该上市公司，并予公告”的规定以及“共同持有一个上市公司已发行的股份达到百分之五后，其所持该上市公司已发行的股份比例每增加或者减少百分之五，应当依照前款规定进行报告和公告”的规定，构成了《证券法》第一百九十三条所述“其他信息披露义务人未按照规定披露信息”行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：对汪丹辉、张勇乾给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">50</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 203.1pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　 中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　 </SPAN>　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">二○一○年九月二十一日</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 10pt">&nbsp;</P>
+<P style="TEXT-INDENT: 8.4pt; LINE-HEIGHT: 16pt"><SPAN></SPAN>&nbsp;</P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110223_192239_ext.json

@@ -1,0 +1,259 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（胶南粮库、刘玉江）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-04753</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年05月15日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（胶南粮库、刘玉江）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕15号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（胶南粮库、刘玉江）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕15号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1343716141531'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1343716141531 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343716141531 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343716141531 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343716141531 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343716141531 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+
+
+
+--**/</style>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%">〔<SPAN>2012</SPAN>〕<SPAN>15</SPAN>号</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当</SPAN><SPAN style="LINE-HEIGHT: 150%">事人：</SPAN><SPAN style="LINE-HEIGHT: 150%">胶南市粮食储备库（以下简称胶南粮库），</SPAN><SPAN style="LINE-HEIGHT: 150%">住所<SPAN>：山东省胶南市，</SPAN>法定代表人<SPAN>范存友。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">刘玉江，男，<SPAN>1970</SPAN>年<SPAN>7</SPAN>月<SPAN>30</SPAN>日出生，住址：山东省胶州市。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据<SPAN>《期货交易管理条例》</SPAN>的有关规定，我会对<SPAN>胶南粮库</SPAN>操纵<SPAN>郑州商品交易所硬麦<SPAN>105</SPAN>期货合约（以下简称<SPAN>WT105</SPAN>合约）交易价格</SPAN>行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人<SPAN>胶南粮库、刘玉江</SPAN><SPAN style="COLOR: black">提出了书面陈述、申辩意见</SPAN>。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，<SPAN>胶南粮库</SPAN>存在以下违法事实：</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月<SPAN>3</SPAN>日，胶南粮库持有<SPAN>WT105</SPAN>合约<SPAN>11</SPAN>手</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">。</SPAN><SPAN style="LINE-HEIGHT: 150%">山东得利斯农业科技股份有限公司（以下简称得利斯）、青岛田丰农业发展有限公司（以下简称青岛田丰）未持有<SPAN>WT105</SPAN>合约。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月<SPAN>4</SPAN>日，<SPAN>WT105</SPAN>合约成交量为<SPAN>6</SPAN>手，由胶南粮库、青岛田丰、得利斯交易。具体情况为：</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">11:04:36</SPAN><SPAN style="LINE-HEIGHT: 150%">，胶南粮库申报卖出<SPAN>WT105</SPAN>合约<SPAN>11</SPAN>手。<SPAN>11:07:16</SPAN>，青岛田丰申报买入<SPAN>WT105</SPAN>合约<SPAN>1</SPAN>手。申报卖出、申报买入的价格均为<SPAN>2,000</SPAN>元<SPAN>/</SPAN>吨。<SPAN>11:07:16</SPAN>，胶南粮库、青岛田丰成交<SPAN>WT105</SPAN>合约<SPAN>1</SPAN>手，成交价格<SPAN>2,000</SPAN>元<SPAN>/</SPAN>吨。<SPAN>11:08:10</SPAN>，胶南粮库将未成交的卖出申报撤销。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">11:09:01</SPAN><SPAN style="LINE-HEIGHT: 150%">，青岛田丰申报卖出<SPAN>WT105</SPAN>合约<SPAN>1</SPAN>手。<SPAN>11:09:20</SPAN>，得利斯申报买入<SPAN>WT105</SPAN>合约<SPAN>1</SPAN>手。申报卖出、申报买入的价格均为<SPAN>2,013</SPAN>元<SPAN>/</SPAN>吨。<SPAN>11:09:20</SPAN>，青岛田丰、得利斯成交<SPAN>WT105</SPAN>合约<SPAN>1</SPAN>手，成交价格<SPAN>2,013</SPAN>元<SPAN>/</SPAN>吨。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">14:41:45</SPAN><SPAN style="LINE-HEIGHT: 150%">，得利斯申报卖出<SPAN>WT105</SPAN>合约<SPAN>1</SPAN>手。<SPAN>14:42:09</SPAN>，胶南粮库申报买入<SPAN>WT105</SPAN>合约<SPAN>1</SPAN>手。申报卖出、申报买入的价格均为<SPAN>2,008</SPAN>元<SPAN>/</SPAN>吨。<SPAN>14:42:09</SPAN>，得利斯、胶南粮库成交<SPAN>WT105</SPAN>合约<SPAN>1</SPAN>手，成交价格<SPAN>2,008</SPAN>元<SPAN>/</SPAN>吨。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月<SPAN>4</SPAN>日收盘后，胶南粮库持有<SPAN>WT105</SPAN>合约<SPAN>11</SPAN>手；青岛田丰和得利斯不持有<SPAN>WT105</SPAN>合约。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月<SPAN>4</SPAN>日<SPAN>WT105</SPAN>合约的交易结算价格为<SPAN>2,007</SPAN>元<SPAN>/</SPAN>吨，若无上述<SPAN>6</SPAN>手交易，按照郑州商品交易所交易结算制度，应为<SPAN>1,970</SPAN>元<SPAN>/</SPAN>吨。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月<SPAN>5</SPAN>日，胶南粮库卖出<SPAN>WT105</SPAN>合约<SPAN>11</SPAN>手，价格<SPAN>2,010</SPAN>元<SPAN>/</SPAN>吨。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述交易均由刘玉江操作。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">胶南粮库操纵<SPAN>WT105</SPAN>合约交易结算价格的违法所得为<SPAN>1,720</SPAN>元。</SPAN></P>
+<P style="LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><SPAN>　&nbsp; </SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%">胶南粮库操纵<SPAN>WT105</SPAN>合约交易结算价格的直接责任人员为刘玉江。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">以上违法事实，<SPAN style="COLOR: black">有</SPAN><SPAN>胶南粮库、青岛田丰、得利斯交易<SPAN>WT105</SPAN>合约的相关情况，相关人员</SPAN><SPAN style="COLOR: black">谈话笔录，</SPAN><SPAN>WT105</SPAN><SPAN>合约交易结算价格</SPAN>变化情况等证据证明，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">胶南粮库的上述行为违反了《期货交易管理条例》第四十三条关于禁止</SPAN><SPAN style="LINE-HEIGHT: 150%">操纵期货交易价格<SPAN>的规定，构成《期货交易管理条例》第七十四条所述的</SPAN>违法<SPAN>行为。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">胶南粮库和刘玉江在</SPAN><SPAN style="LINE-HEIGHT: 150%">申辩意见中提出，上述交易是在<SPAN>3</SPAN>个不同的单位法人账户之间进行的，并不是以自己为对象进行交易，我会认定其以自己为交易对象于法无据。我会认为，<SPAN>2011</SPAN><SPAN>年<SPAN>5</SPAN>月<SPAN>4</SPAN>日，胶南粮库、青岛田丰、得利斯的<SPAN>WT105</SPAN>合约交易均由刘玉江一人操作；胶南粮库、青岛田丰、得利斯在进行交易后，原有的持仓未发生变化，其交易行为明显非理性；</SPAN>刘玉江在我会调查时承认，为了规避直接“对敲”，就通过青岛田丰的期货账户，从胶南粮库转移给得利斯<SPAN>1</SPAN>手持仓。我会认定，刘玉江<SPAN>2011</SPAN><SPAN>年<SPAN>5</SPAN>月<SPAN>4</SPAN>日使用胶南粮库、青岛田丰、得利斯的期货账户进行的<SPAN>WT105</SPAN>合约交易是以自己为交易对象，自买自卖，目的是操纵<SPAN>WT105</SPAN>合约交易结算价格，获得非法利益。</SPAN>因此，我会对<SPAN>胶南粮库和刘玉江</SPAN>的申辩意见不予采纳。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据<SPAN>《期货交易管理条例》第七十四条</SPAN>的规定，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、<SPAN>对胶南粮库处以<SPAN>20</SPAN>万元罚款</SPAN>；</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、<SPAN>对刘玉江给予警告，并处以<SPAN>2</SPAN>万元罚款</SPAN>。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。 </SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><SPAN>　　　　　　　　　　　　　　 </SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　 </SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="LINE-HEIGHT: 150%">&nbsp;<SPAN>　 </SPAN>&nbsp;<SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN>　　&nbsp;</SPAN><SPAN style="LINE-HEIGHT: 150%">　 <SPAN><SPAN>　</SPAN><SPAN>　　　　　　　　　　　　 </SPAN></SPAN>二○一二年五月十五日</SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20120731_213267_ext.json

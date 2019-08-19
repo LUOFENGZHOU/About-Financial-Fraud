@@ -1,0 +1,262 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（黄林）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-03107</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年04月11日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（黄林）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2011）15号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（黄林）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2011）15号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1308117698437'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1308117698437 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1308117698437 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1308117698437 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1308117698437 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1308117698437 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<P style="TEXT-INDENT: 30.3pt; LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%">（<SPAN>2011</SPAN>）<SPAN>15</SPAN>号</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当</SPAN><SPAN style="LINE-HEIGHT: 150%">事人：黄林，男，<SPAN>1979</SPAN>年<SPAN>5</SPAN>月出生，时任国海富兰克林基金管理有限公司（以下简称国富基金）中国收益证券投资基金（以下简称中国收益基金）的基金经理，住址：上海市浦东新区潍坊西路<SPAN>2</SPAN>弄。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据《中华人民共和国证券投资基金法》（以下简称《基金法》）、《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN style="LINE-HEIGHT: 150%">黄林</SPAN><SPAN style="LINE-HEIGHT: 150%">违法违规</SPAN><SPAN style="LINE-HEIGHT: 150%">一案</SPAN><SPAN style="LINE-HEIGHT: 150%">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，黄林存在以下违法违规行为：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2007</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月至<SPAN>2009</SPAN>年<SPAN>4</SPAN>月，黄林在任中国收益基金的基金经理期间，利用职务便利及所掌握的基金投资决策重要信息，操作其控制的汉唐证券上海武进路营业部（现信达证券上海四川北路营业部）荆某账户，先于或同步于自己管理的中国收益基金买入并先于或同步于该基金卖出相同个股，涉及宁波华翔等股票<SPAN>8</SPAN>支，亏损<SPAN>54,000.04</SPAN>元。具体情况如下：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）宁波华翔（股票代码：<SPAN>002048</SPAN>）</SPAN></P>
+<P style="TEXT-INDENT: 21.6pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2007</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月<SPAN>29</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>1,300</SPAN>股，同日，中国收益基金买入<SPAN>753,650</SPAN>股；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>4</SPAN>月<SPAN>16</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>17,500</SPAN>股。<SPAN>4</SPAN>月<SPAN>17</SPAN>日、<SPAN>18</SPAN>日，中国收益基金共买入<SPAN>460,000</SPAN>股；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>6</SPAN>月<SPAN>17</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户卖出<SPAN>5,000</SPAN>股。<SPAN>6</SPAN>月<SPAN>20</SPAN>日中国收益基金卖出<SPAN>2,258,352</SPAN>股。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）华发股份（股票代码：<SPAN>600325</SPAN>）</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2007</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>8</SPAN>月<SPAN>22</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">、<SPAN>27</SPAN>日、<SPAN>28</SPAN>日，荆某账户共买入<SPAN>3,000</SPAN>股。<SPAN>8</SPAN>月<SPAN>24</SPAN>日，中国收益基金买入<SPAN>175,056</SPAN>股；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月<SPAN>7</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户卖出<SPAN>1,000</SPAN>股，同日，中国收益基金卖出<SPAN>100,000</SPAN>股。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（三）东软股份（股票代码：<SPAN>600718</SPAN>）</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2007</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>10</SPAN>月<SPAN>10</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>2,500</SPAN>股。<SPAN>10</SPAN>月<SPAN>12</SPAN>日，中国收益基金买入<SPAN>225,000</SPAN>股。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（四）大族激光（股票代码：<SPAN>002008</SPAN>）</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2007</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>12</SPAN>月<SPAN>27</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>6,900</SPAN>股，同日，中国收益基金买入<SPAN>99,950</SPAN>股；</SPAN></P>
+<P style="TEXT-INDENT: 21.6pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>6</SPAN>月<SPAN>27</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>7,000</SPAN>股，同日，中国收益基金买入<SPAN>99,980</SPAN>股；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>6</SPAN>月<SPAN>30</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户卖出<SPAN>5,000</SPAN>股。<SPAN>7</SPAN>月<SPAN>2</SPAN>日，中国收益基金卖出<SPAN>2,400</SPAN>股。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（五）华东医药（股票代码：<SPAN>000963</SPAN>）</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月<SPAN>10</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>4,600</SPAN>股。<SPAN>1</SPAN>月<SPAN>11</SPAN>日，中国收益基金买入<SPAN>515,655</SPAN>股；</SPAN></P>
+<P style="TEXT-INDENT: 21.6pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>7</SPAN>月<SPAN>1</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>8,700</SPAN>股，同日，中国收益基金买入<SPAN>50,000</SPAN>股。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（六）百联股份（股票代码：<SPAN>600631</SPAN>）</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>4</SPAN>月<SPAN>25</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>3,900</SPAN>股，同日，中国收益基金买入<SPAN>1,599,972</SPAN>股；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月<SPAN>6</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户卖出<SPAN>3,900</SPAN>股，同日，中国收益基金卖出<SPAN>1,000,000</SPAN>股。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（七）岳阳纸业（股票代码：<SPAN>600963</SPAN>）</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>5</SPAN>月<SPAN>6</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>5,000</SPAN>股。<SPAN>5</SPAN>月<SPAN>7</SPAN>日、<SPAN>8</SPAN>日，中国收益基金共买入<SPAN>800,000</SPAN>股。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（八）振华港机（股票代码：<SPAN>600320</SPAN>）</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>7</SPAN>月<SPAN>8</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，荆某账户买入<SPAN>10,000</SPAN>股，同日，中国收益基金买入<SPAN>1,599,900</SPAN>股。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">除上述抢先交易行为外，<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>30</SPAN>日，黄林将国富基金将要重仓买入个股的信息泄露给黄某，并明示黄某以当前价位买入。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">以上事实，有国富基金、营业部提供的情况说明，中国收益基金的交易以及荆某账户的下单记录、相关<SPAN>MSN</SPAN>记录等证据证明，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人上述行为，</SPAN><SPAN style="LINE-HEIGHT: 150%">违反了《基金法》第十八条有关禁止基金从业人员从事损害基金财产和基金份额持有人利益的证券交易的规定，构成了《基金法》第九十七条所述违法行为。同时，还违反了《证券法》第四十三条有关禁止特定人员违规持有、买卖股票的规定，构成了《证券法》第一百九十九条所述违法行为。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《基金法》第九十七条及《证券法》第一百九十九条规定，我会决定：取消黄林的基金从业资格；对黄林处以<SPAN>30</SPAN>万元罚款。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">&nbsp;</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%" align=center>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 　　&nbsp; &nbsp;</SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="LINE-HEIGHT: 150%">&nbsp;<SPAN>　 </SPAN>&nbsp;<SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN>　　　　　　　　　　　　　　　　　　　　　&nbsp; </SPAN><SPAN style="LINE-HEIGHT: 150%">　 二○一一年四月十一日</SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110615_196391_ext.json

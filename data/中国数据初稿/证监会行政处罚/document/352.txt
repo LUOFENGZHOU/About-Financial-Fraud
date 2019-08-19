@@ -1,0 +1,253 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（平安证券有限责任公司、韩长风、霍永涛）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2014年12月08日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（平安证券有限责任公司、韩长风、霍永涛）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2014〕103号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（平安证券有限责任公司、韩长风、霍永涛）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2014〕103号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2014</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">103</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：平安证券有限责任公司（以下简称平安证券），深圳海联讯科技股份有限公司（以下简称海联讯）首次公开发行股票并在创业板上市（以下简称<FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>）</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">的</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">保荐机构和主承销商，</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">住所：广东省深圳市福田区金田路。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">韩长风，男，<FONT face="Times New Roman">1974</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>月出生，平安证券海联讯项目签字保荐代表人，住址：北京市海淀区恩济庄。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">霍永涛，男，<FONT face="Times New Roman">1975</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月出生，平安证券海联讯项目签字保荐代表人，住址：河北省石家庄市裕华区槐北路。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对平安证券违反证券法律法规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人韩长风、霍永涛要求申辩和举行听证。<FONT face="Times New Roman">2014</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">14</FONT><FONT face=方正仿宋简体>日，我会依法举行听证会，听取了韩长风的陈述、申辩。霍永涛无故缺席听证，自动放弃听证权利。听证后，我会对韩长风、霍永涛在听证会前提出的申辩意见以及</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">韩长风听证时提出的申辩意见进行了复核。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，平安证券存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、平安证券出具的保荐书存在虚假记载</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">平安证券在推荐海联讯<FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>过程中未勤勉尽责，未按规定对海联讯</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>申请文件进行审慎核查，从而未能发现海联讯虚构收回应收账款和虚增收入的事实，其所出具的保荐书存在虚假记载。具体事实如下：</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正楷体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（一）平安证券未关注并审慎核查海联讯会计期末收到销售款项期后不正常流出的情况，未能发现海联讯虚构收回应收账款的事实</SPAN><SPAN style="FONT-FAMILY: '方正楷体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">为实现发行上市目的，解决公司应收账款余额过大的问题，海联讯采用由股东垫资或向他人借款方式，在会计期末冲抵应收账款，并在下一会计期初冲回。<FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">31</FONT><FONT face=方正仿宋简体>日，海联讯通过他人转入资金</FONT><FONT face="Times New Roman">1,429</FONT><FONT face=方正仿宋简体>万元冲减应收账款，后于</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>日全额退款并转回应收账款；</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月和</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月，海联讯通过股东垫资转入资金</FONT><FONT face="Times New Roman">2,566</FONT><FONT face=方正仿宋简体>万元冲减应收账款；</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月，海联讯通过他人转入资金</FONT><FONT face="Times New Roman">8,754</FONT><FONT face=方正仿宋简体>万元冲减应收账款，后于</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>日将他人资金</FONT><FONT face="Times New Roman">8,754</FONT><FONT face=方正仿宋简体>万元全额退款并转回应收账款；</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>日，海联讯通过他人转入资金</FONT><FONT face="Times New Roman">8,890</FONT><FONT face=方正仿宋简体>万元冲减应收账款，后于</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>日全额退款并转回应收账款。截至</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">31</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">31</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>日，海联讯分别虚构收回应收账款</FONT><FONT face="Times New Roman">1,429</FONT><FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">11,320</FONT><FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">11,456</FONT><FONT face=方正仿宋简体>万元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">平安证券在核查销售收入和应收账款时，未适当关注海联讯在会计期末突击收到的大量销售款项期后不正常流出的情况。在核查货币资金和现金流量时，只收集了海联讯各账户报告期最后<FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>个月的银行对账单，而未整体关注报告期货币资金的期初余额、本期发生额和期末余额。对取得的报告期最后</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>个月的银行进账单，也未重点核查大额货币资金流入情况。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">因未勤勉尽责，平安证券未能发现海联讯在会计期末虚构收回应收账款的事实，致使其所出具的保荐书中关于海联讯应收账款项目的财务数据和财务指标的陈述、海联讯最近三年财务会计文件无虚假记载的陈述、海联讯符合发行上市条件的结论意见存在虚假记载。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正楷体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（二）平安证券未审慎核查海联讯销售情况，未能发现海联讯虚增营业收入的事实</SPAN><SPAN style="FONT-FAMILY: '方正楷体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=方正仿宋简体>年度，海联讯虚构</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>份合同，虚增营业收入</FONT><FONT face="Times New Roman">1,426</FONT><FONT face=方正仿宋简体>万元，其中包括虚构与当期第五大客户广东电网公司签订合同</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>份，金额分别为</FONT><FONT face="Times New Roman">439</FONT><FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">256</FONT><FONT face=方正仿宋简体>万元；虚构与中国南方电网超高压输电公司签订合同</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>份，金额为</FONT><FONT face="Times New Roman">356</FONT><FONT face=方正仿宋简体>万元；虚构与湖南星电实业集团股份有限公司签订合同</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>份，金额为</FONT><FONT face="Times New Roman">375</FONT><FONT face=方正仿宋简体>万元。在上述虚构的</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>份合同中，有</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>份合同收入确认时间发生在“三年一期”期末的</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">28</FONT><FONT face=方正仿宋简体>日。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2011<FONT face=方正仿宋简体>年上半年，海联讯虚构</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>份合同，虚增营业收入</FONT><FONT face="Times New Roman">1,335</FONT><FONT face=方正仿宋简体>万元，其中虚构与当期前十大客户签订合同</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>份，即：虚构与当期第二大客户山西省电力公司签订合同</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>份，金额为</FONT><FONT face="Times New Roman">288</FONT><FONT face=方正仿宋简体>万元；虚构与当期第五大客户广东电网公司签订合同</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>份，金额分别为</FONT><FONT face="Times New Roman">193</FONT><FONT face=方正仿宋简体>万元、</FONT><FONT face="Times New Roman">196</FONT><FONT face=方正仿宋简体>万元；虚构与当期第六大客户河南省电力公司签订合同</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>份，金额为</FONT><FONT face="Times New Roman">265</FONT><FONT face=方正仿宋简体>万元。在上述虚构的</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>份合同中，有</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>份合同收入确认时间发生在“三年一期”期末的</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=方正仿宋简体>日、</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>日。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">平安证券在核查销售情况时，虽已将海联讯各年度前十大客户拟定为访谈对象，但对其中的电力系统客户，其既未访谈，也未采取足够的替代核查手段以获取充分合理的尽职调查证据。对海联讯在会计期末大量集中确认销售收入的情况，未予特别关注并采取适当方法进行核查验证。在核查重大合同时，对海联讯<FONT face="Times New Roman">2008</FONT><FONT face=方正仿宋简体>年至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>日签署的</FONT><FONT face="Times New Roman">47</FONT><FONT face=方正仿宋简体>份金额在</FONT><FONT face="Times New Roman">300</FONT><FONT face=方正仿宋简体>万元以上的重大合同，仅收集了</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年度以前的</FONT><FONT face="Times New Roman">22</FONT><FONT face=方正仿宋简体>份，遗漏包括海联讯虚构的</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>份重大合同在内的</FONT><FONT face="Times New Roman">20</FONT><FONT face=方正仿宋简体>余份合同。对所收集的合同，平安证券也未获取核实合同真实性的充分证据。在公司内核会已发现海联讯</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>－</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月毛利率较往年有较大增长的情况下，平安证券仅重新查阅相关合同、验收报告等材料，而未采取其他核查手段以获取充分的尽职调查证据。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">因未勤勉尽责，平安证券未能发现海联讯在相关会计期间虚增营业收入的事实，致使其所出具的保荐书中关于海联讯营业收入项目的财务数据和财务指标的陈述、海联讯最近三年财务会计文件无虚假记载的陈述、海联讯符合发行上市条件的结论意见存在虚假记载。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、平安证券未审慎核查海联讯公开发行募集文件的真实性和准确性</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月，平安证券与海联讯签订《关于深圳海联讯科技股份有限公司首次公开发行股票并上市工作的一揽子协议》，海联讯聘请平安证券担任其</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>的辅导机构、保荐机构和主承销商。</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>日，平安证券与海联讯签订《首次公开发行股票并在创业板上市保荐协议》和《深圳海联讯科技股份有限公司首次公开发行人民币普通股之承销协议》。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">因存在虚构收回应收账款和虚增收入的事实，海联讯刊登和披露的《招股意向书》、《招股说明书》等公开发行募集文件中涉及应收账款和营业收入项目的内容存在虚假记载。平安证券在尽职调查中，未审慎核查海联讯《招股说明书（申报稿）》等<FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>申请文件的真实性、准确性，未能发现其中含有的虚假记载内容；平安证券在承销海联讯股票过程中，也未审慎核查海联讯刊登和披露的《招股意向书》、《招股说明书》等公开发行募集文件的真实性和准确性，未能发现其中含有的虚假记载内容。在未审慎核查的情况下，平安证券即在海联讯《招股意向书》和《招股说明书》中声明：“本公司已对招股意向书（招股说明书）进行了核查，确认不存在虚假记载、误导性陈述或重大遗漏，并对其真实性、准确性和完整性承担相应的法律责任”。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以上事实，有相关保荐书、保荐工作报告、保荐工作底稿、招股意向书、招股说明书、财务资料、平安证券内部文件、任职文件、当事人提供说明材料和当事人询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">平安证券出具的保荐书存在虚假记载的行为，违反了《证券法》第十一条第二款、第四十九条第二款的规定，构成《证券法》第一百九十二条所述“保荐人出具有虚假记载、误导性陈述或者重大遗漏的保荐书”的行为。平安证券未审慎核查海联讯公开发行募集文件的真实性和准确性的行为，违反了《证券法》第三十一条的规定，构成《证券法》第一百九十一条第（三）项所述“其他违反证券承销业务规定的行为”。对平安证券的违法行为，韩长风、霍永涛是直接负责的主管人员。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">韩长风、霍永涛二人作为平安证券具体负责保荐工作的保荐代表人，在从事保荐业务过程中，未按规定完整核查海联讯货币资金的期初余额、本期发生额和期末余额，未适当关注并核查海联讯在会计期末收到大量应收账款并在期后第<FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>个工作日大量退款的异常情况；未完整核查海联讯重大合同，未对海联讯向前十大客户销售情况获取充分合理的尽职调查证据。韩长风、霍永涛的上述未勤勉尽责行为，直接导致平安证券未能发现海联讯在</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>申请文件和公开发行募集文件中虚构收回应收账款和虚增收入的事实，已构成情节严重。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">案发后，平安证券和相关人员能够配合调查，推动并协助海联讯主要股东设立专项补偿基金，补偿投资者因海联讯虚假陈述而遭受的投资损失。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">韩长风、霍永涛二人在申辩中，在基本认可平安证券未发现海联讯虚构收回应收账款和虚增营业收入事实的基础上，提出以下申辩意见：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其一，海联讯方面当时故意隐瞒事实，向平安证券提供了与真实文件并无明显差异的虚构合同、验收报告等书面文件。相关虚构合同具备合理的交易背景和成本核算，具有极大的隐蔽性。保荐代表人已勤勉尽责，但仍无法通过正常的核查手段发现海联讯故意造假行为。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其二，本案违法主体是平安证券，韩长风、霍永涛二人系代表平安证券执行海联讯项目核查工作，二人的责任认定应与平安证券保持一致。证监会并未认定平安证券行为构成“情节严重”，也不应认定二人行为构成“情节严重”。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其三，韩长风、霍永涛二人主动配合证监会的调查取证工作，提议并推动海联讯主要股东设立专项补偿基金赔偿投资者，促使海联讯主要股东承诺补偿无法收回的应收账款，积极消除海联讯违法行为的危害后果。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">霍永涛还提出，平安证券违法行为主要发生在财务核查方面，他本人并不负责海联讯财务部分的核查工作；其系根据平安证券安排从事保荐工作，职级较低，不是项目主管人员，不应将其认定为直接负责的主管人员。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">综合上述申辩理由，韩长风、霍永涛二人请求我会对其免予撤销证券从业资格，同时减少对霍永涛的罚款金额。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，韩长风、霍永涛二人的辩解理由不能成立：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其一，发行上市保荐是以保荐机构和保荐代表人独立、客观、公正、审慎的尽职调查，来核实发行人申请文件和信息披露资料的真实性、准确性和完整性。本案中海联讯的造假手段并不复杂，当事人只要能按相关业务准则进行核查，并不难发现海联讯造假的线索。但是韩长风、霍永涛二人在履职过程中未按照相关业务规则进行核查，或者遗漏应当核查的事项，或者核查工作不彻底、不充分。韩长风、霍永涛二人所谓保荐代表人无法通过正常核查手段发现海联讯造假的申辩理由不能成立。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其二，同一违法案件中，不同主体是否构成“情节严重”，应当以各主体在整个违法行为中所处的地位、发挥的作用等因素进行综合判断。本案中，平安证券在内核阶段已提出海联讯应收账款余额较大、海联讯<FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>－</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月毛利率较往年有较大增长等问题，要求以保荐代表人作为最重要成员的项目组进行核查和说明，但保荐代表人等此后并未进行审慎核查，再一次错失可能发现海联讯造假的机会。本案的发生虽与平安证券内部控制和风险管理不当等因素有关，但更多的是源于保荐代表人未勤勉审慎履行核查职责。正是由于韩长风、霍永涛等明显不勤勉尽责的行为，才导致平安证券未能发现海联讯在</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>申请文件和公开发行募集文件中虚构收回应收账款和虚增收入的事实。我会据此将保荐代表人行为认定为“情节严重”并作出处理，并无不妥。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其三，对平安证券、韩长风、霍永涛等配合调查和推动海联讯主要股东赔偿投资者等情节，我会在作出处理决定前已予充分考虑，韩长风、霍永涛二人提出的进一步减轻处理的请求没有法律依据。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其四，保荐代表人是保荐机构中具体负责保荐工作的人员，应当对保荐工作整体承担责任。根据规定，保荐代表人负有保证保荐文件和证券发行募集文件真实、准确、完整的法定义务，其必须在全面尽职调查并获取充分合理证据的基础上，方能推荐发行人股票发行上市。保荐代表人不得以任何借口和理由免除其法定责任。本案中，霍永涛作为具备胜任能力的专业人士，熟悉股票发行、承销、上市相关规则，其在未充分核查验证以确信相关文件不存在虚假记载的情况下，即以保荐代表人身份在相关保荐文件和证券发行募集文件上签名，该行为已足以表明其未勤勉尽责，必须承担相应的法律后果。霍永涛所谓其个人不负责海联讯财务部分核查、系根据平安证券安排等从事保荐、职级较低等申辩理由，不影响我会对其责任的认定。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十一条、第一百九十二条和《中华人民共和国行政处罚法》第二十七条第一款第（一）项、第（四）项的规定，我会决定：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、对平安证券给予警告，没收保荐业务收入<FONT face="Times New Roman">400</FONT><FONT face=方正仿宋简体>万元，没收承销股票违法所得</FONT><FONT face="Times New Roman">2,867</FONT><FONT face=方正仿宋简体>万元，并处以</FONT><FONT face="Times New Roman">440</FONT><FONT face=方正仿宋简体>万元罚款；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、对韩长风、霍永涛给予警告，并分别处以<FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>万元罚款，撤销证券从业资格。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=方正仿宋简体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=方正仿宋简体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会&nbsp;</SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2014<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日</FONT></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20141215_265059_ext.json

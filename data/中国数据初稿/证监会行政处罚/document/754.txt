@@ -1,0 +1,239 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（瞿湘）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-04591</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年11月27日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（瞿湘）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]49号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>证券法 账户 股东 控股</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（瞿湘）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]49号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1247120478000'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1247120478000 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247120478000 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247120478000 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247120478000 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247120478000 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=17 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>[2008]49号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=16><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN class=15 style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt">当事人：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt">瞿湘，男，1970年1月出生，2003年5月6日起任深圳市特力（集团）股份有限公司（以下简称特力公司）控股股东深圳市特发集团有限公司（以下简称特发集团）办公室副主任，住址：深圳市福田区香梅北路特发小区8栋203室。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对瞿湘涉嫌内幕交易违法行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。本案现已调查、审理终结。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，瞿湘涉嫌内幕交易案的事实如下：</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2007<FONT face=宋体>年3月27日，特力公司向其控股股东特发集团报送《产权代表重大事项报告表》（关于水贝2、3号厂房合作方案的报告），提出为落实具体的改造开发工作，拟以2005年11月25日特力公司与深圳市吉盟首饰有限公司（以下简称吉盟公司）签订的《合作开发水贝工业区2#、3#厂房合同书》为基础，以成立合资公司的方式进行合作，合作双方各占股50%，特力公司以2、3号厂房评估作价入股，吉盟公司以现金注资。4月2日，特发集团收到上述报告，并交由投资发展部办理。投资发展部于4月17日出具了《关于特力集团与吉盟公司合作开发水贝二、三号厂房方案的意见》，原则同意该项目。5月28日，特力公司根据特发集团要求上报了《深圳市特力水贝工业区2、3号厂房合作改造可行性分析报告》，分析结论称“我司通过与吉盟公司的合作，2、3号厂房现已取得房地产证，并使物业的使用期限延至2034年。现物业市值为2443.53万元；租金总收入的现值为3187.51万元，比未与吉盟公司合作即办证延期前增加1754.39万元。”“通过对2、3号厂房的改造升级，我公司可分得改造后物业面积9276.78㎡,其中新增物业面积983.37㎡。改造后物业市值6054.75万元，租金总收入的现值为9472万元，比未改造前增加6284.49万元，比未与吉盟公司合作即办证延期前增加8038.88万元。”9月27日，特力公司向特发集团上报《关于我司水贝2、3号厂房合作开发利益分配事宜的意见》，对项目利益分配及采用何种方案提出了意见。10月12日，特发集团领导班子召开会议，会议决定“同意特力公司继续履行与吉盟公司签订的合作开发水贝2、3号厂房协议。协议计划成立合资公司等相关事项，集团投资发展部要按有关程序抓紧报批”。10月22日，特发集团向其控股股东深圳市投资控股有限公司（以下简称投资控股）上报了《产权代表重大事项报告》（关于我司控股深圳特力（集团）股份有限公司与吉盟公司合作开发水贝2、3号厂房的产权代表报告），认为该项目具备可行性。10月25日，特力公司董事会会议同意将该项目报控股股东特发集团审批。11月12日，投资控股批复同意特发集团在充分研究论证的基础上决策相关事项。11月20日，特发集团批复同意特力公司与吉盟公司合作开发水贝2、3号厂房项目的立项、开展有关资产评估事宜并上报相关文件。11月27日，特力公司委托的评估机构出具了《房地产估价报告》，显示水贝2、3号厂房2007年11月23日评估净值为2835.2480万元。11月30日，特力公司向特发集团上报《关于报送特吉项目有关资料的报告》，该报告附件包括《深圳市特吉投资有限公司项目可行性分析报告》（以下简称《可行性报告》）、《房地产估价报告》等。其中，《可行性报告》的分析结论写明：成立特吉投资公司当年，可为特力公司带来2470万元账上收益；该项目的实施，特立公司每年能获得469.46万元的净利润，比改造前增加306.38万元；该项目投资回收期在合理范围之内。12月7日，特发集团向特力公司出具《关于同意成立深圳特力吉盟投资有限公司的批复》。12月11日，特力公司董事会审议通过关于合作成立深圳特力吉盟投资有限公司（以下简称特力吉盟）的议案。同日，特力公司与吉盟公司签订《合作协议书》，特力公司以水贝2、3号厂房评估作价28,352,480元出资，吉盟公司以等额现金出资，双方各占目标公司50%股权。12月14日，特力公司发布《董事会对外投资公告》和相应的《房地产估价报告》，公告了上述合作事项。12月18日，特力吉盟成立。12月31日，特力公司确认以水贝2、3号厂房作价投资入股的营业外收入23,321,551.51元。根据特力公司披露的相关定期报告，其2006年净利润为-92,148,791.60元，2007年前三季度净利润为-111,113.13元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>瞿湘自2003年5月6日起任特发集团办公室副主任，其工作职责为负责领导班子会议记录，领导讲话、重要文件起草等工作。在特发集团按要求向深圳证监局报送的有关表格中，瞿湘被确认为接触上市公司未公开信息的人员之一。2007年10月12日，瞿湘列席了特发集团领导班子会议，该会议同意特力公司继续履行与吉盟公司签订的合作开发水贝2、3号厂房协议，并要求投资发展部按程序报投资控股批准。2007年12月7日，特发集团向特力公司出具《关于同意成立深圳特力吉盟投资有限公司的批复》，特发集团提供的文件流转表上有“已核批复稿。瞿湘&nbsp;7/12&nbsp;07”字样。瞿湘在向调查人员出具的《情况说明》承认：“本人于2007年12月7日核校特发集团总部对特力集团2007年11月30日上报的《关于报送特吉项目有关资料的报告》的批复稿时，因核校工作需要，通读了上述报告及相关所有附件和其他相关意见。”</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>瞿湘0001661515深市股东代码下挂于银河证券华强北营业部瞿湘同名资金账户。瞿湘在接受调查人员询问时承认，其账户交易都是本人通过电话委托进行的，账户资金来源于本人。2007年12月11日，瞿湘使用其办公电话下单，用其账户一次性买入“特力A”股票83,700股，买入量居当日该股买入交易排名首位，买入均价13.64元/股，共使用资金1,147,302.15元（包含相关税费等交易费用为5,226.35元），占其账户当时总资产的99.76%。2008年3月7日和11日，瞿湘通过电话委托交易方式将其账户上所有“特力A”股票卖出，均价13.20元/股，卖出总金额1,105,197.20元（已扣除相关税费等交易费用5,097.532元）。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实，有特发集团涉及特力吉盟项目的收发文记录、文件流转表及相应文件、领导班子会议纪要、瞿湘任职文件，以及瞿湘账户开户资料、资金划转凭证等证据在案证明。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>我会认为，本案涉及的特力公司与吉盟公司合作开发项目事项，在尚未公开以前，属于《证券法》第七十五条规定的内幕信息。瞿湘在2007年10月12日列席特发集团领导班子会议时，初步知道了有关内幕信息，在2007年12月7日核批有关文件时进一步知悉了内幕信息的具体内容。瞿湘作为上市公司控股股东中因工作职责能够接触到内幕信息的人员，在知悉内幕信息后，内幕信息公开以前，一次性大量买入“特力A”股票，构成了《证券法》第二百零二条“证券交易内幕信息的知情人或者非法获取内幕信息的人，在涉及证券的发行、交易或者其他对证券的价格有重大影响的信息公开前，买卖该证券”的行为。同时，我会也已经注意到瞿湘在本案调查过程中能够配合调查人员的工作，以及其交易行为的结果是亏损、没有非法所得等情况。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>瞿湘在陈述申辩材料中提出，其购买“特力A”股票，没有主观利用内幕信息牟利的恶意或故意，只是非常巧合地因为本人处于能够知悉内幕消息的地位，通过独立判断认为“特力A”有潜力。我会认为，瞿湘的辩解，缺乏足够的证据支持，不足以排除对其内幕交易行为的认定。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>基于上述事实和理由，依据《证券法》第二百零二条的规定，我会决定对瞿湘处以3万元的罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起3个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 47.25pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 42pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二○○八年十一月二十七日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20081223_36449_ext.json

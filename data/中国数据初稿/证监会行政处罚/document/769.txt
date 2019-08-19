@@ -1,0 +1,261 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（九发股份、蒋少庆等8名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-06104</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年07月14日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（九发股份、蒋少庆等8名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]34号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（九发股份、蒋少庆等8名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]34号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1247119756328'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1247119756328 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119756328 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119756328 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119756328 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247119756328 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=17 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>[2008]34号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=16><FONT face=宋体><SPAN class=15 style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt">当事人：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT style="FONT-SIZE: 10.5pt">山东</FONT>九发食用菌股份有限公司（以下简称九发股份），注册地址为山东省烟台市胜利路201-209号汇丰大厦，法定代表人许爱民。</SPAN></FONT><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>蒋绍庆，男，1953年10月出生，时任九发股份董事长，住址：山东省烟台市牟平区玉林店镇孙格庄村18号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>王龙，男，1970年4月出生，时任九发股份副总经理、董事，住址：山东省烟台市芝罘区永安里38-10号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>张本明，男，1962年10月出生，时任九发股份财务总监、董事，住址：山东省烟台市芝罘区韶祥胡同6号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>袁睁，女，1969年7月出生，时任九发股份财务总监、董事，住址：山东省烟台市芝罘区东南台子46号内12号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>许爱民，男，1968年12月出生，时任九发股份副总经理、董事兼董事会秘书，住址：山东省烟台市芝罘区塔山西路5-2号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>姜海林，男，1962年3月出生，时任九发股份总经理、董事，住址：山东省烟台市牟平区玉林店镇孙格庄村9号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>宫云科，男，1956年3月出生，时任九发股份常务副总经理、董事，住址：山东省烟台市芝罘区东南街17-1号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>李廷芳，男，1966年3月出生，时任九发股份副董事长、董事，住址：上海市浦东新区锦绣路666巷16号202室。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>根据《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对九发股份信息披露违法行为进行了立案调查、审理，并向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。部分当事人提交了陈述和申辩意见，我们进行了审查。应当事人宫云科的申请，我们依法举行了听证，听取了其陈述和申辩。本案现已调查、审理终结。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，九发股份存在以下信息披露违法行为：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>一、虚假记载</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">2005<FONT face=宋体>年和2006年，九发股份向山东九发集团控制的关联公司签发银行承兑汇票23笔，金额720,000,000元，商业承兑汇票4笔，金额80,500,000元，共计800,500,000元，上述票据未记账。票据到期付款时亦不及时入账，且补记入账时，错误地冲减了短期借款、应付账款等其他科目，导致相关期间定期报告财务报表虚假记载。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（一）2005年第一季度报告多计银行存款180,000,000元，少计其他应收款626,105,142.20&nbsp;元，少计应付票据310,000,000元，少计短期借款140,000,000元，少计财务费用3,315,555.00元，少计管理费用579,302.80元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（二）2005年中期报告多计银行存款280,000,000元，少计其他应收款747,832,192.20&nbsp;元，少计管理费用14,254,319.37元，少计财务费用5,717,305.00元，少计主营业务成本1,000,000元，少计坏账准备22,988,480.86&nbsp;元，少计应付票据324,000,000元，少计短期借款157,000,000元，多计未分配利润15,184,664.29元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（三）2005年第三季度报告多计银行存款152,000,000元，少计其他应收款637,702,333.97元，少计管理费用20,425,114.70元，少计财务费用10,347,163.23元，多计长期待摊费用6,170,795.33元，少计主营业务成本1,000,000元，少计坏账准备22,988,480.86元，少计应付票据266,500,000元，少计短期借款237,000,000元，多计期初未分配利润15,184,664.29元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（四）2005年年度报告多计银行存款167,007,373.04元，少计其他应收款848,100,946.53元，多计预付账款47,748,986.10元，少计应收票据49,500,000元，多计长期待摊费用7,432,189.90元，少计管理费用25,794,571.89元，少计主营业务成本1,000,000元，少计坏账准备25,996,543.48元，少计应付票据215,000,000元，少计短期借款312,000,000元，少计应付股利30,000,000元，少计应付账款150,252,784.94元，少计其他应付款4,721,553.26元，多计期初未分配利润15,184,664.29元，少计财务费用20,579,248.01元。2005年九发股份年度报告合计虚减资产675,412,397.49元，年报披露数1,884,288,415.01元；虚减负债711,974,338.20元，年报披露数843,588,689.62元；虚增利润45,144,162.93元，年报披露数43,667,936.35元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（五）2006年第一季度报告多计银行存款223,582,920.04元，少计其他应收款896,690,010.44元，多计预付账款47,748,986.10元，多计长期待摊费用7,495,651.65元，少计坏账准备25,996,543.48元，少计应付票据135,000,000元，少计短期借款335,424,453元，少计应付股利30,000,000元，少计应付账款150,252,784.94元，少计其他应付款4,721,553.26元，少计管理费用63,461.75元，少计财务费用210,325.12元，多计期初未分配利润62,558,484.19元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（六）2006年中期报告多计银行存款261,261,120.04元，少计其他应收款767,709,931.20元，多计预付账款47,748,986.10元，多计长期待摊费用7,564,994.49元，少计财务费用6,176,128.14元，多计管理费用1,578,314.90元，少计坏账准备23,584,813.02元，少计应付票据10,000,000元，少计短期借款405,424,453元，少计应付股利30,000,000元，少计应付账款44,560,308.72元，少计其他应付款4,721,553.26元，多计期初未分配利润62,558,484.19元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（七）2006年第三季度报告多计银行存款123,690,420.04元，少计其他应收款735,232,049.94&nbsp;元，多计预付账款47,748,986.10元，多计应收账款179,951,526.36元，多计长期待摊费用7,564,994.49元，少计财务费用11,209,545.12元，少计管理费用1,428,314.91&nbsp;元，少计坏账准备23,584,813.02&nbsp;元，多计应付票据30,000,000元，少计短期借款553,424,956.17元，少计应付股利30,000,000元，少计应付账款46,836,041.27元，少计其他应付款4,721,553.26元，多计主营业务收入179,951,526.36元，多计主营业务成本144,222,883.54元，少计存货144,222,883.54元,&nbsp;多计期初未分配利润62,558,484.19元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（八）2006年年度报告多计银行存款16,359,299.16元，少计其他应收款193,098,043.06元，多计现金等科目132,804.59元，多计预付账款47,748,986.10元，多计应收账款10,281,457.76元，少计财务费用41,184,096.17&nbsp;元，多计管理费用12,423,100.13元，少计坏账准备14,793,808.59&nbsp;元，少计短期借款63,596,120.22元，少计应付股利30,000,000元，少计应付账款46,836,041.27元，少计其他应付款49,527,696.50元，多计期初未分配利润57,417,175.09元。2006年九发股份年度报告合计虚减资产118,575,495.45元，年报披露资产总额为2,232,329,282.04元；虚减负债189,959,857.99元，年报披露数为1,378,180,966.58元；少计亏损29,408,418.89元，年报披露数为-123,776,660.56元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>二、重大遗漏</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（一）未按规定披露其与关联公司的资金往来。山东省烟台市牟平区正大物贸中心（以下简称正大物贸）实际上受九发集团控制，九发股份与其之间的往来属于关联交易。2005年九发股份与正大物贸关联往来发生额合计2,185,053,629.55元。2006年九发股份与正大物贸关联往来发生额合计883,687,344.86元。对上述关联交易，九发股份均未按照规定发布临时公告，也未在2005年和2006年定期报告中按规定披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（二）未按规定披露重大担保事项。2005年和2006年，九发股份使用定期存单和土地房产等资产等为控股股东九发集团、关联公司烟台麒润投资有限公司等单位银行贷款提供担保，合计担保金额291,000,000元。上述贷款担保事项为重大担保事项，九发股份均未按照规定发布临时公告，也未在2005年和2006年定期报告中按规定披露。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实，有九发股份2005～2006年期间各定期报告、公司内部明细账、会计凭证等会计资料，有关合同，相关公司的工商登记资料，相关银行提供的账户查询回执和说明，相关公司提供的说明材料，董事会决议及会议记录，相关人员的谈话笔录等证据在案证实，证据确实、充分，足以认定。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>时任董事长蒋绍庆及董事王龙、张本明、袁睁、许爱民、姜海林、宫云科、李廷芳分别对所参加的董事会会议上审议通过的九发股份2005年至2006年相关定期报告的虚假记载和重大遗漏负有不同程度的责任。其中，蒋绍庆为各定期报告信息披露违法行为的直接负责的主管人员，其他董事为相应各期定期报告虚假记载信息披露违法行为的其他直接责任人员。同时，根据知情和参与情况，对九发股份未按规定披露与正大物贸关联资金往来和未按规定披露重大担保事项，蒋绍庆是直接负责的主管人员，分管资金的副总经理王龙为其他直接责任人员；时任财务总监袁睁是2006年11月至12月九发股份未按规定披露与正大物贸关联资金往来的其他直接责任人员。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>在调查和审理过程中，未发现上述当事人忠实勤勉履行职务，足以免除责任的事由和相关证据。对当事人宫云科在听证过程中提出的陈述申辩意见，经复核，考虑到与其他分管财务的当事人相较，其责任程度较轻的事实，依法减轻了对其处罚的幅度。对当事人张本明和袁睁提出的被动签字及对有关事实不知情等陈述申辩意见，经复核，认为作为财务总监应对公司资金往来的经济业务内容、关联关系等事项进行充分了解，没有证据表明其勤勉尽责地履行了相应职责，因此不能构成减轻或免除处罚的理由，依法不予采纳。对李廷芳提出的在相关定期报告审议中迫于压力才签字同意通过董事会决议、任职期间未领取薪酬等陈述申辩意见，经复核，认为其履行职务时没有保持独立，违反了董事对公司的忠实勤勉义务，因此不能构成减轻或免除处罚的理由，依法不予采纳。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>九发股份2005年第一季度报告、中期报告、第三季度报告信息披露虚假和遗漏重大事项的行为违反了原《证券法》第五十九条“公司公告的股票或者公司债券的发行和上市文件，必须真实、准确、完整，不得有虚假记载、误导性陈述或者重大遗漏”之规定，构成第一百七十七条所述“所披露的信息有虚假记载……重大遗漏”的行为。九发股份2005年年度报告、2006年第一季度报告、中期报告、第三季度报告、年度报告信息披露虚假和遗漏重大事项的行为违反了《证券法》（2005年修订）第六十三条“上市公司依法披露的信息，必须真实、准确、完整，不得有虚假记载、误导性陈述或者重大遗漏”之规定，构成第一百九十三条所述“所披露的信息有虚假记载……重大遗漏”的行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>九发股份2005年期间未按规定披露与正大物贸的关联方之间资金往来以及重大担保事项违反了原《证券法》第六十二条“发生可能对上市公司股票交易价格产生较大影响、而投资者尚未得知的重大事件时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所提交临时报告，并予公告，说明事件的实质……”之规定，构成第一百七十七条所述“未按照有关规定披露信息”的行为。九发股份2006年期间未按规定披露与正大物贸的关联方之间资金往来以及重大担保事项违反了《证券法》（2005年修订）第六十七条“发生可能对上市公司股票交易价格产生较大影响的重大事件，投资者尚未得知时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所报送临时报告，并予公告，说明事件的起因、目前的状态和可能产生的法律后果”之规定，构成第一百九十三条所述“未按照规定披露信息”的行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条和《证券法》（2005年修订）第一百九十三条规定，我会决定如下：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>一、责令九发股份改正信息披露违法，给予警告，并处以50万元的罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二、对蒋绍庆给予警告，并处以30万元罚款；对王龙给予警告，并处以10万元罚款；对张本明、袁睁、许爱民和姜海林分别给予警告，并各处以5万元罚款；对李廷芳和宫云科分别给予警告，并各处以3万元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号7111010189800000162,由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起60日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定之日起3个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 31.5pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 42pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>&nbsp; 二○○八年七月十四日</FONT></SPAN></P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20090418_100986_ext.json

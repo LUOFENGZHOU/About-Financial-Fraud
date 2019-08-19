@@ -1,0 +1,219 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（大华所、李秉心、徐海宁）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-07058</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年03月31日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（大华所、李秉心、徐海宁）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]18号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（大华所、李秉心、徐海宁）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]18号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 29pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">[2008]18</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">号</SPAN></FONT></FONT></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：深圳大华天诚会计师事务所（以下简称大华所），住所：广东省深圳市滨河大道<SPAN style="FONT-SIZE: 10.5pt">5022</SPAN>号联合广场<SPAN style="FONT-SIZE: 10.5pt">B</SPAN>座<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>楼，法定代表人邬建辉。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>李秉心，男，<SPAN style="FONT-SIZE: 10.5pt">1952</SPAN>年出生，大华所会计师，住址：广东省深圳市罗湖区怡景路<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>号荷花村宇月阁<SPAN style="FONT-SIZE: 10.5pt">B1</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>徐海宁，女，<SPAN style="FONT-SIZE: 10.5pt">1972</SPAN>年出生，大华所会计师，住址：广东省深圳市罗湖区怡景花园荷花村宇月阁<SPAN style="FONT-SIZE: 10.5pt">B1</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会依据原《中华人民共和国证券法》（以下简称《证券法》）的规定，对浙江信联股份有限公司（以下简称信联股份）违反证券法律法规一案进行了立案调查、审理，并向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利；应部分当事人的要求，我会举行了听证会。现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，大华所在对信联股份<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报审计中，对信联股份向深圳盛宏网络技术发展有限公司（现更名为深圳市冠群实业有限公司，以下简称盛宏网络）转让武汉迅宏科技投资有限公司（现更名为武汉迅宏科技有限公司，以下简称武汉迅宏）股权业务核实股权转让款时，未履行充分的审计程序，因而未能确认由盛宏网络代深圳市日昇实业有限公司（以下简称深圳日昇）支付<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>万元款项的事实。信联股份实际收到的股权转让款为<SPAN style="FONT-SIZE: 10.5pt">3080</SPAN>万元，占总价款的<SPAN style="FONT-SIZE: 10.5pt">38.12</SPAN>％，但大华所在上述转让股权未完成过户，且收取的转让款不足<SPAN style="FONT-SIZE: 10.5pt">50</SPAN>％的情况下，未能对其相应的会计处理提出异议，并未能在<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年度出具的审计报告中对公司确认<SPAN style="FONT-SIZE: 10.5pt">5080</SPAN>万元股权转让款提出异议。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实，有大华所提供的专项说明，信联股份提供的专项说明、<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">-2004</SPAN>年年报、有关会计凭证，李秉心、徐海宁的谈话笔录，银行提供的有关股权款资金往来凭证等证据证明，事实清楚，证据确实充分。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>大华所及李秉心、徐海宁在陈述、申辩材料中提出：（一）其对信联股份<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报的审计已根据审计准则的规定，发现了转让武汉迅宏股权过程中盛宏网络代深圳日昇支付<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>万元的事实。但同时承认，截至<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日信联股份收到的股权转让款为<SPAN style="FONT-SIZE: 10.5pt">3080</SPAN>万元，审计报告中列示为<SPAN style="FONT-SIZE: 10.5pt">5080</SPAN>万元实际是一个笔误；（二）根据会计准则的规定，是否办理工商变更和收到的股权转让款是否已达到<SPAN style="FONT-SIZE: 10.5pt">50%</SPAN>，在判断股权转让成立的条件中并不起到决定性的作用；（三）对于其审计确认的<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年信联股份股权转让一事，我会已出具监管函。据此认为，我会不能因为同一事项给予该所两次处罚；（四）信联股份因转让武汉迅宏产生的投资收益为<SPAN style="FONT-SIZE: 10.5pt">1600</SPAN>多万元，而信联股份<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年度更正前净利润为<SPAN style="FONT-SIZE: 10.5pt">-7500</SPAN>多万元，上述投资收益对信联股份<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年度净利润的影响并不重大。因此并不构成《股票发行与交易管理暂行条例》（以下简称《股票条例》）第<SPAN style="FONT-SIZE: 10.5pt">73</SPAN>条所述的行为。综上，申请免除对该所以及签字会计师的行政处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为：（一）根据财政部《关于执行<SPAN style="FONT-SIZE: 10.5pt">&lt;</SPAN>企业会计制度<SPAN style="FONT-SIZE: 10.5pt">&gt;</SPAN>和相关会计准则有关问题解答》（财会<SPAN style="FONT-SIZE: 10.5pt">[2002]18</SPAN>号）的相关规定，确认股权转让收益必须同时满足“与购买方已办理必要的财产交接手续、已取得购买价款的大部分（一般应超过<SPAN style="FONT-SIZE: 10.5pt">50</SPAN>％）”等条件。而大华所违反上述规定，在相关股权转让未办妥工商变更手续且未核实实际收到的转让款是否已达到确认标准的情况下，确认了股权转让收益，导致信联股份<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年净利润虚增<SPAN style="FONT-SIZE: 10.5pt">1646.87</SPAN>万元，并在审计报告解释段中对股权转让款实际收款情况进行了错误披露，理应承担相应的审计责任；（二）我会会计部于<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日就大华所审计确认的<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年信联股份股权转让一事出具的《关于对深圳大华天诚会计师事务所的监管关注函》（会计部监管关注函<SPAN style="FONT-SIZE: 10.5pt">[2003]11</SPAN>号）并非行政处罚，因此，该所提出的一事两罚的申辩理由不能成立；（三）大华所提出的信联股份因转让武汉迅宏产生的<SPAN style="FONT-SIZE: 10.5pt">1600</SPAN>多万元投资收益不构成重大影响的辩解并无明确的法律依据，依法不予采信。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>大华所的上述行为违反了《股票条例》第三十五条的有关规定，构成了《股票条例》第七十三条规定的“出具的文件有虚假、严重误导性内容或者有重大遗漏”的行为。大华所的签字会计师李秉心、徐海宁对上述行为负有直接责任。根据大华所的上述违法行为及相关当事人的违法事实、性质、情节与社会危害程度，依据《股票条例》第七十三条之规定，我会决定如下：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）对大华所处以<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）对李秉心、徐海宁分别给予警告。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 26pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 26pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 26pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 26pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">中国证券监督管理委员会</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black"><SPAN style="FONT-SIZE: 10.5pt">　　　 </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　&nbsp; 　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　 </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">二○○八年三月三十一日</SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100302_177766_ext.json

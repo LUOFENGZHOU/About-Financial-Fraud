@@ -1,0 +1,235 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（德恒证券张业光、郭建伟、王维刚）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-08097</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年01月04日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（德恒证券张业光、郭建伟、王维刚）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2009〕1号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（德恒证券张业光、郭建伟、王维刚）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2009〕1号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt" align=center><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>〔<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>号</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">张业光</SPAN>，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任德恒证券有限责任公司（以下简称德恒证券）董事长，其他情况不详。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">郭建伟，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">男，<SPAN style="FONT-SIZE: 10.5pt">1970</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月出生，时任德恒证券副总裁，其他情况不详。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">王维刚</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，男，<SPAN style="FONT-SIZE: 10.5pt">1964</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，时任德恒证券投资管理部总经理，其他情况不详。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">依据原《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对德恒证券违反证券法律法规</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">一案（责任人部分）</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，现已调查、审理终结。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体>经查明，<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">德恒证券存在</SPAN><SPAN style="FONT-SIZE: 10.5pt">如下</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">违法违规</SPAN><SPAN style="FONT-SIZE: 10.5pt">行为：</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、挪用客户交易结算资金</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.85pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）直接挪用客户交易结算资金</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>截至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日，德恒证券各营业部共挪用客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">73,721.71</SPAN>万元，德恒证券上海总部挪用客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">8,410.14</SPAN>万元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述违法事实，有<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">德恒证券</SPAN>情况说明、开户资料、资金余额对账单、挪用情况统计表、有关公司的工商登记资料、当事人谈话笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">对此负有领导责任的是张业光、时任德恒证券总裁韩新林、郭建伟、时任德恒证券副总会计师李普选、王维刚、时任德恒证券副总裁邵义政、时任上海友联管理研究中心有限公司（以下简称友联公司）投资管理总部负责人杨力和王恩奎；负有经办责任的是时任德恒证券营业部经理韩镔、余树林、柳丹、吴玉华、辛豪和陶敏。对德恒证券上海总部挪用客户交易结算资金负有领导责任的是德恒证券委托理财、国债回购业务的实际控制人，时任德隆国际战略投资有限公司法定代表</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">人唐万新、时任友联公司法定代表人唐万川和张业光。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.85pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）透支挪用客户交易结算资金</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>截至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日，德恒证券沈阳中山路营业部通过透支挪用客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">2,270.21</SPAN>万元；天津白堤路营业部通过透支挪用客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">1,918.14</SPAN>万元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述违法事实，有德恒证券情况说明、有关营业部透支户的开户资料、对账单、交易资料、有关公司的工商登记资料、有关会议记录、有关人员的情况说明、谈话笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>对此负有领导责任的是郭建伟、李普选和王维刚，负有经办责任的是时任德恒证券营业部经理秦为民和杨海斌。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、挪用客户证券</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>德恒证券营业部存在挪用委托理财客户国债进行跨账户回购融资的行为。在到期未偿还或未到期的委托理财合同期限内，德恒证券挪用客户国债累计回购融资<SPAN style="FONT-SIZE: 10.5pt">1,603,656.98</SPAN>万元。截至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日，被挪用的委托理财客户国债未到期回购融资余额为<SPAN style="FONT-SIZE: 10.5pt">239,327.16</SPAN>万元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述违法事实，有<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">德恒证券</SPAN>情况说明、开户资料、有关营业部国债回购资料、委托理财资料、三方监管资料、有关公司的工商登记资料、有关会议记录、有关人员的情况说明、谈话笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>对此负有领导责任的是唐万新、唐万川和张业光，负有直接责任的是杨力、王恩奎和王维刚以及时任德恒证券营业部经理韩镔、秦为民、赖孝辉、余树林、柳丹、杨海斌和陶敏。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、制作虚假交易记录</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">2003</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月间，德恒证券上海华山路营业部根据德恒证券资产管理部的授权，为沈阳合金股份有限责任公司的下属子公司上海星特浩企业有限公司、苏州太湖企业有限公司提供了虚假的国债买卖交割单、对账单及经营情况证明书等文件。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>以上违法事实，有<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">德恒证券</SPAN>情况说明、开户资料、对账单、交易资料、有关公司的工商登记资料、有关会议记录、有关人员的情况说明、谈话笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">对此负有领导责任的是</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">杨力<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">、韩新林和郭建伟，对此负有直接责任的是</SPAN>韩镔<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">。</SPAN></SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体>德恒证券挪用客户交易结算资金、国债的行为违反了原《证券法》第七十三条有关禁止挪用客户交易结算资金和证券的规定，构成了原《证券法》第一百九十三条所述挪用客户资金和证券的行为<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">。德恒证券制作虚假交易记录的行为违反了原《证券法》第一百三十八条有关证券公司在经纪业务中应当如实进行交易记录，不得作虚假记载的规定。</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体>鉴于德恒证券违法违规行为性质恶劣，情节十分严重，根据原《证券法》第二百零一条规定，我会于<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年取消了德恒证券公司的证券业务许可并责令其关闭。根据当事人的违法事实、性质、情节与社会危害程度，依据原《证券法》第一百九十三条之规定，我会决定：<SPAN style="FONT-SIZE: 10.5pt">吊销张业光、郭建伟和王维刚的证券从业资格证书。</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会将对唐万新、唐万川、杨力、王恩奎、韩新林、邵义政、李普选、秦为民、余树林、陶敏、柳丹、韩镔、赖孝辉、杨海斌、吴玉华和辛豪的违法行为另行处理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 </SPAN>&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>　　&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　&nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二○○九年一月四日</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100316_178404_ext.json

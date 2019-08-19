@@ -1,0 +1,224 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（大唐鹏城所、刘军、刘丹）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-07056</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年05月07日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（大唐鹏城所、刘军、刘丹）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]29号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（大唐鹏城所、刘军、刘丹）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]29号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">[2008]29</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">号</SPAN></FONT></FONT></FONT></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：深圳市鹏城会计师事务所有限公司（以下简称鹏城所），住所为深圳市罗湖区东门南路<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>号宝丰大厦<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>楼，法定代表人饶永。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>刘军，男，<SPAN style="FONT-SIZE: 10.5pt">1970</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月出生，鹏城所会计师，住址：广东省深圳市福田区梅兴苑<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>单元<SPAN style="FONT-SIZE: 10.5pt">203</SPAN>室。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">刘丹，女，<SPAN style="FONT-SIZE: 10.5pt">1975</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月出生，鹏城所会计师，住址：深圳市莲花北小区<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">708</SPAN>室。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据原《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对大唐电信科技股份有限公司（以下简称大唐电信）<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报信息披露违法案涉及的年报审计事务所和签字会计师违法行为进行了立案调查、审理，并向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利，并举行了听证会听取当事人提出的陈述和申辩意见，现已调查、审理终结。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">经查，当事人在本案中存在如下违法行为：</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、大唐电信<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报有关投资收益<SPAN style="FONT-SIZE: 10.5pt">12,639,073.27</SPAN>元确认依据不充分，鹏城所未发现该项投资收益确认不当的事实；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、大唐电信<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中少提应收款项的坏账准备<SPAN style="FONT-SIZE: 10.5pt">6,884,298.36</SPAN>元，鹏城所未指出大唐电信计提坏账准备与公开披露的会计政策不一致的事实；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、在对“在建工程一北京永丰产业园项目”科目进行审计时，未对大唐电信将<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年度内合计<SPAN style="FONT-SIZE: 10.5pt">720</SPAN>万元应计入管理费用的两笔支出转入在建工程提出异议；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、对大唐电信本应计入财务费用的<SPAN style="FONT-SIZE: 10.5pt">10,463,225.90</SPAN>元的法律服务中介费用提出了不当审计调整意见，将律师费用和相关中介费用从财务费用转为长期股权投资；</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">五、审计工作底稿中没有留下工作底稿复核人的签名和复核意见，鹏城所也无法提供相应的复核记录；</SPAN></FONT></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">六、刘军作为大唐电信<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报审计的项目负责人，同时又是鹏城所的部门经理，在出具审计报告前，鹏城所未另行指定其他人员代为执行部门经理的工作底稿复核工作，未有效执行三级复核制度。</SPAN></FONT></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">上述事实，有鹏城所的审计工作底稿、有关询证函、鹏城所出具的说明、相关人员的谈话笔录等证据在案证实，证据确实、充分，足以认定。</SPAN></FONT></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">鹏城所在审计大唐电信<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年度财务报告审计工作中，未勤勉尽责，不符合《独立审计具体准则第<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>号一审计证据》第五条、《独立审计基本准则》第六条、《独立审计具体准则第<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>号审计工作底稿》第十三条“会计师事务所应建立审计工作底稿复核制度”等规定，违反了《股票发行与交易管理暂行条例》（以下简称《股票条例》）第三十五条“为上市公司出具文件的注册会计师及其所在事务所、专业评估人员及其所在机构、律师及其所在事务所，在履行职责时，应当按照本行业公认的业务标准和道德规范，对其出具文件内容的真实性、准确性、完整性进行核查和验证”的规定，构成了《股票条例》第七十三条“出具的文件有虚假、严重误导性内容或者有重大遗漏”的行为。签字会计师刘军、刘丹对鹏城所的上述违法行为负有直接责任。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《股票条例》第七十三条规定，我会决定如下：</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　 </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">一、对鹏城所处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元的罚款；</SPAN></FONT></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">二、对刘军和刘丹分别处以<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>万元和<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元的罚款。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 28pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162,</SPAN>由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 15pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">中国证券监督管理委员会</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 199.2pt; LINE-HEIGHT: 28pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　&nbsp; &nbsp; &nbsp;<SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">二○○八年五月七日</SPAN></FONT></FONT></FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100302_177763_ext.json

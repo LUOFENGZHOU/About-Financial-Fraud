@@ -1,0 +1,261 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（佘鑫麒）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-01569</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年01月18日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（佘鑫麒）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2010〕2号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（佘鑫麒）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2010〕2号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>〔<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>〕<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>号</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：佘鑫麒，男，<SPAN style="FONT-SIZE: 10.5pt">1970</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任四川圣达实业股份有限公司（以下简称四川圣达，股票代码<SPAN style="FONT-SIZE: 10.5pt">000835</SPAN>）董事、总经理，住址：四川省成都市锦江区滨江西路<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>单元<SPAN style="FONT-SIZE: 10.5pt">402</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对佘鑫麒涉嫌内幕交易与短线交易行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩理由，也未申请听证。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，佘鑫麒内幕交易与短线交易违法行为的事实如下：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、内幕信息的形成、传递与公开过程</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）内幕信息一（四川圣达<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报信息）</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据有关涉案人员的询问笔录和书面说明，<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">24</SPAN>日，审计机构对四川圣达<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度财务报表进行现场审计，<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>日财务数据基本确定，随后汇总了报表项目数据，编制了审计报告初稿。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日左右，审计人员与四川圣达董事长、财务总监就工作进展进行了沟通，并随后将审计报告初稿通过电子邮件方式发给四川圣达财务总监。鉴于与深圳证券交易所预约公告时间是<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日，董事会必须在<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日前审议年报。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日，四川圣达证券事务代表事先将召开董事会审议年报的事项，以电子邮件或者电话的方式通知了不在公司上班的董事，邮件内容包括<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告的初稿，并于当日以口头方式通知了佘鑫麒等在公司工作的董事，但没有直接向他们报送<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告的初稿。根据《四川圣达实业股份有限公司关于召开第五届董事会第八次会议的通知》，该次会议定于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日召开，会议议题包括审议《<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度董事会工作报告》、审议《<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告》正文及摘要、审议《<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度利润分配预案》等，通知落款日期为<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，四川圣达董事会审议通过了<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告及利润分配预案，佘鑫麒与其他董事一起参加了会议。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日，四川圣达公布《四川圣达实业股份有限公司第五届董事会第八次会议决议》称，公司于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日召开董事会，审议通过《<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告》。《<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告》显示：公司主营业务收入<SPAN style="FONT-SIZE: 10.5pt">344,637,372.79</SPAN>元，同比增长<SPAN style="FONT-SIZE: 10.5pt">21.23%</SPAN>，净利润<SPAN style="FONT-SIZE: 10.5pt">23,073,045.91</SPAN>元，同比增长<SPAN style="FONT-SIZE: 10.5pt">32.62%</SPAN>。<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日公告当日，“四川圣达”以<SPAN style="FONT-SIZE: 10.5pt">10.88</SPAN>元开盘，盘中最高涨幅为<SPAN style="FONT-SIZE: 10.5pt">10%</SPAN>；以<SPAN style="FONT-SIZE: 10.5pt">10.89</SPAN>元收盘，涨幅为<SPAN style="FONT-SIZE: 10.5pt">7.82%</SPAN>。四川圣达<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报公告内容与审计报告初稿在财务数据及其它方面没有大的差异。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）内幕信息二（四川圣达<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报信息）</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据四川圣达《关于公司<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报形成过程及有关情况的补充说明》，公司财务总监于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日收集齐子公司相关报表，<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日合并计算完相关指标后，发现中期指标较<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年一季度所作的中期预报会有较大差异，预期会出现较大增长，遂立即向董事长进行了汇报。经与深圳证券交易所及四川证监局沟通，四川圣达决定发布中期业绩快报公告。<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日，四川圣达财务总监根据已收集的报表数据及相关指标计算结果对业绩快报进行编写，当日初稿完成后发给公司证券事务代表交董事长审阅。董事长审阅后，就业绩快报部分内容的表述方式进行了修改、调整，最终定稿。<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日下午<SPAN style="FONT-SIZE: 10.5pt">, </SPAN>四川圣达证券事务代表将最后一稿文件通过网络平台发往深圳证券交易所审核。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，四川圣达公布<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年度中期业绩快报称，<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年上半年公司净利润<SPAN style="FONT-SIZE: 10.5pt">41,471,900</SPAN>元，较去年同期增长<SPAN style="FONT-SIZE: 10.5pt">1,682.28%</SPAN>。每股收益<SPAN style="FONT-SIZE: 10.5pt">0.256</SPAN>元，较去年同期增长<SPAN style="FONT-SIZE: 10.5pt">1,088.19%</SPAN>。公告当日，“四川圣达”以<SPAN style="FONT-SIZE: 10.5pt">14.00</SPAN>元开盘，盘中最高涨幅为<SPAN style="FONT-SIZE: 10.5pt">9.8%</SPAN>；以<SPAN style="FONT-SIZE: 10.5pt">13.59</SPAN>元收盘，涨幅为<SPAN style="FONT-SIZE: 10.5pt">2.95%</SPAN>。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、佘鑫麒的任职、履职与知悉内幕信息的情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四川圣达有关股东大会决议与董事会决议显示，佘鑫麒于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日担任四川圣达总经理，<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日担任四川圣达董事。根据四川圣达《关于公司<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报形成过程及有关情况的补充说明》，佘鑫麒在四川圣达任总经理期间均正常上班，未出现不在岗的情况。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据《四川圣达实业股份有限公司章程》第一百三十六条规定，经理对董事会负责，主持公司的生产经营管理工作，并向董事会报告工作；第一百四十条规定，经理应制订经理工作细则，报董事会批准后实施。该章程于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月实施。根据《四川圣达实业股份有限公司总经理工作细则》，总经理职权包括主持公司的生产经营管理工作，并向董事会报告工作；组织实施董事会决议，公司年度计划和投资方案；定期以书面形式向董事会和监事会报告工作；在董事会和监事会闭会期间，就公司生产经营和资金运作日常工作向董事长报告工作。该工作细则于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>日实施。根据四川圣达《公司内部财务管理制度》第<SPAN style="FONT-SIZE: 10.5pt">4.5</SPAN>条的规定，财务总监在总经理的领导下具体组织公司经济核算和财务工作，直接对总经理负责。该《公司内部财务管理制度》于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>日实施。根据《四川圣达实业股份有限公司信息披露管理制度》的规定，经理班子应当及时以书面形式定期或不定期向董事会报告公司经营、对外投资、重大合同的签订、执行情况、资金运用情况和盈亏情况，总经理或指定负责的副总经理必须保证这些报告的真实、及时和完整；子公司总经理应当以书面形式定期或不定期向公司总经理报告子公司经营、管理、对外投资、重大合同的签订、执行情况、资金运用情况和盈亏情况，子公司总经理必须保证该报告的真实、及时和完整。该《信息披露管理制度》于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>日实施。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四川圣达的一名董事称，佘鑫麒是四川圣达公司总经理，对公司大致的经营情况和财务状况应该知道。四川圣达的一名高级管理人员称，佘鑫麒负责公司的销售、融资和结算工作，了解当时公司经营情况及行业的发展趋势。四川圣达的一名工作人员称，虽然没有直接向佘鑫麒报送<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告的初稿，但他作为公司总经理，来四川圣达之前又是四川圣达集团有限公司（四川圣达的控股股东）的财务总监，了解下面公司的经营情况和财务状况，因此不可能不知道四川圣达<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年经营状况；另外，在公司上班的董事想看什么资料都是可以看到的；一般在开董事会前，几个高管也会磋商一下。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四川圣达的一名独立董事称，四川圣达董事会每次开会的会议材料都会提前通过电子邮件送到其手中；关于召开<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日的董事会会议通知，肯定包含了<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年的年度报告和会议的各种议题。四川圣达的另一名独立董事称，召开董事会一般是由公司证券事务代表提前<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>到<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>天通过电子邮件将会议材料发到其邮箱，然后通过打电话和短信的方式提醒他查收，会议材料包括会议通知、会议议题内容，如果涉及审议年度报告，还会把年度报告发过来；<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日董事会的会议通知包含了年报的审计初稿和其它的具体会议材料，不会出现董事提前收到的会议材料不一样的情况；<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告的审计初稿在资产负债表等重要项目上基本定格了，只是在具体的利润调整和具体利润分配上经过了董事们的讨论，在<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日的董事会上对<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告未作修改。关于何时收到<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日董事会会议通知，该独立董事说已记不清楚，不过这种会议至少应该提前五天以上，否则董事们在时间和行程上不好安排；召开董事会一般是由公司证券事务代表以电子邮件的形式发会议通知，邮件中有时会包含会议议题及会议所需的材料。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据佘鑫麒询问笔录，关于召开<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日董事会，佘鑫麒承认收到了通知，只是不确定收到通知的方式和是否收到了会议材料，但他知道此次会议主要讨论<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告和公司下一年发展战略的事情。关于四川圣达<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年的经营情况，佘鑫麒说从他管理负责的这部分来说，融资和结算运转都很好。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>关于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报，四川圣达董事长称，<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报没有通过董事们表决。四川圣达的一名高级管理人员称，佘鑫麒可能会了解公司财务部门正在准备<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报的事情。四川圣达的一名工作人员称，佘鑫麒在四川圣达<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报公告前应该知道公司<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年上半年业绩比一季度季报的预告要好很多。四川圣达的一名独立董事称，平时公司的经营层会在已有数据的基础上就公司经营情况进行交流，因此对公司<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年上半年的经营状况有所了解；在<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日董事会上，董事们对四川圣达<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年的经营状况都表示乐观。四川圣达的另一名独立董事称，<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年上半年公司的业绩非常好，钢材价格一直上涨，焦炭价格也上涨，当时其他董事对公司的业绩看法和他一致，对公司业绩大幅上涨并没有感到意外。四川圣达的一名董事称，公司董事会召开会议过程中，各董事对公司经营情况都有交流，能通过董事会详细了解公司经营情况。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据佘鑫麒询问笔录，关于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年上半年四川圣达的经营情况，佘鑫麒说当时煤炭价格和焦炭价格都在涨，钢材的价格也一直在涨，当时他觉得<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年下半年钢材价格可能会下调。他对四川圣达发布<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报表示不知情。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、涉案账户的开户、交易与资金存取情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）账户开立与设置变更情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>开立在国泰君安证券成都北一环路营业部的资金账户<SPAN style="FONT-SIZE: 10.5pt">20004348</SPAN>，户名为佘某，开立于<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日；下挂一个上海股东账户（账号为<SPAN style="FONT-SIZE: 10.5pt">A140409782</SPAN>）和一个深圳股东账户（账号为<SPAN style="FONT-SIZE: 10.5pt">73068869</SPAN>）。该账户开户手续由佘鑫麒办理，账户代理人为佘鑫麒，代理权限是买卖证券、现金存取等业务，无股票转托管情况。主要交易方式是网上交易，账户无销户情况，无融资、三方监管和委托理财等业务发生。经调查人员向佘某户籍所在地四川省彭山县江口派出所查询，佘某已于<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>年左右去世。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 27.75pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据证券营业部出具的《关于<SPAN style="FONT-SIZE: 10.5pt">20004348</SPAN>佘某账户的补充说明》，佘鑫麒开立佘某账户时自己设定了账户密码。根据证券营业部出具的《客户业务申请表》，<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日，佘鑫麒取消了佘某证券账户的代理人身份并重置了交易密码。佘鑫麒称其只知道佘某证券账户初始密码，办理完开立手续后将初始密码告诉给了佘某的女婿。调查人员指出，重置交易密码需要知道原来的交易密码，佘鑫麒表示他对此无法做出解释。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>证券营业部出具的书面证明确认，涉案证券账户实际属于代理人也即佘鑫麒所有，其依据是：代理人有本人和佘某的身份证；有开户时的代理委托关系书；佘鑫麒能提供佘某账户的股东账户卡；佘鑫麒熟知账户的资金和交易密码（开户时客户自己设定密码）；根据历史资金存入单，有代理人佘鑫麒签名及留存身份证号（佘鑫麒存入资金）；有正常银证转账关系，可以正常转账入佘某银行账户。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>关于佘某账户的开户与实际所有人情况，佘鑫麒先是说本人办理了佘某账户的开户手续，当时是佘某的女婿委托他开的户。调查人员根据佘鑫麒提供的手机号码多次联系佘某的女婿，均被告知该号码已停机。其后，佘鑫麒又改口说，佘某账户是赵某的，当时赵某给他提供了佘某的身份证让他帮着开户。但是，赵某拒绝接受调查人员询问。调查人员要求佘鑫麒与赵某联系请其配合调查，遭佘鑫麒拒绝。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.4pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）交易情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>前述账户于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日买入“四川圣达”<SPAN style="FONT-SIZE: 10.5pt">67,800</SPAN>股，买入金额<SPAN style="FONT-SIZE: 10.5pt">618,406.66</SPAN>元；<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日全部卖出，卖出金额<SPAN style="FONT-SIZE: 10.5pt">740,351.33</SPAN>元，实际获利<SPAN style="FONT-SIZE: 10.5pt">121,944.67</SPAN>元。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日买入“四川圣达”<SPAN style="FONT-SIZE: 10.5pt">57,340</SPAN>股，买入金额<SPAN style="FONT-SIZE: 10.5pt">741,225.41</SPAN>元；<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日全部卖出，卖出金额<SPAN style="FONT-SIZE: 10.5pt">761,236.54</SPAN>元，实际获利<SPAN style="FONT-SIZE: 10.5pt">20,011.13</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.4pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）资金存取情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据证券营业部提供的保证金存入单和佘鑫麒的询问笔录，佘鑫麒曾于<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日和<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日，以现金形式分别向佘某证券账户存入保证金<SPAN style="FONT-SIZE: 10.5pt">115,000</SPAN>元、<SPAN style="FONT-SIZE: 10.5pt">100,000</SPAN>元、<SPAN style="FONT-SIZE: 10.5pt">170,000</SPAN>元和<SPAN style="FONT-SIZE: 10.5pt">150,000</SPAN>元。根据证券营业部出具的《银证转账协议》，佘某账户于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日开立了银证转账业务，相应建设银行账户账号为<SPAN style="FONT-SIZE: 10.5pt">6227003813860001193</SPAN>，《银证转账协议》所附材料为佘鑫麒身份证复印件、佘某身份证复印件、建行账号卡复印件。佘鑫麒承认其本人于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>日到证券营业部办理了佘某账户的银证转账业务，并且知道佘某账户银证转账相应银行账户的密码。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据上述事实与证据，经审理，作出以下认定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、关于内幕信息的认定</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>本案中涉及两项信息，一个是四川圣达<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报信息，另一个是四川圣达<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报信息。审理认为，年报、半年报、季报等定期报告信息，以及这些定期报告正式发布前的业绩预告、业绩快报、业绩预告修正等反映上市公司阶段性经营成果的信息，是对上市公司某一期间内经营成果的汇总、确认、分析与说明，是上市公司信息披露体系中的核心内容，对有关证券的市场价格有重大影响，无疑具备内幕信息的“重要性”要素。这些信息在公开前，构成内幕信息。根据《证券法》第七十五条的规定，认定本案涉及的两项信息属于内幕信息。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、关于佘鑫麒知悉内幕信息的认定</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>本案中，佘鑫麒不承认其知悉上述内幕信息。审理认为，综合分析、衡量以下事实与证据，根据《证券法》第七十四条之规定，认定佘鑫麒属于《证券法》第二百零二条规定的“证券交易内幕信息的知情人”：（<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>）案发时，佘鑫麒任四川圣达的董事、总经理。（<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>）根据四川圣达的公司章程与内部管理规则，佘鑫麒对董事会负责，主持公司的生产经营管理工作，并向董事会报告工作；组织实施董事会决议，公司年度计划和投资方案；定期以书面形式向董事会和监事会报告工作；在董事会和监事会闭会期间，就公司生产经营和资金运作日常工作向董事长报告工作；财务总监在总经理的领导下具体组织公司经济核算和财务工作，直接对总经理负责；经理班子应当及时以书面形式定期或不定期向董事会报告公司经营、对外投资、重大合同的签订、执行情况、资金运用情况和盈亏情况，总经理或指定负责的副总经理必须保证这些报告的真实、及时和完整；子公司总经理应当以书面形式定期或不定期向公司总经理报告子公司经营、管理、对外投资、重大合同的签订、执行情况、资金运用情况和盈亏情况。（<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>）佘鑫麒在四川圣达任总经理期间均正常上班，未出现不在岗的情况。（<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>）相关证人的询问笔录表明，佘鑫麒作为公司总经理，来四川圣达之前又是四川圣达集团有限公司的财务总监，结合佘鑫麒履职与参与公司日常事务的情况，他应当了解并掌握公司主要的经营情况与财务状况。（<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>）佘鑫麒在内幕信息敏感期买卖四川圣达股票的时点与相关内幕信息生成、传递与公开的时点高度吻合，买入与卖出的时机与股价走势高度一致。（<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>）调查人员未发现、佘鑫麒本人也未提出其不知悉内幕信息的可靠证据。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、关于佘鑫麒实施涉案交易行为的认定</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>本案中，佘鑫麒未承认涉案账户的买卖行为由其本人实施。审理认为，综合考虑、衡量以下事实与证据，认定佘鑫麒实施了涉案交易的“买卖”行为：（<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>）涉案账户为佘鑫麒开立并实际控制；（<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>）涉案交易的资金由佘鑫麒存入；（<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>）涉案交易的时点与佘鑫麒知悉内幕信息的时点高度吻合；（<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>）调查人员未发现、佘鑫麒本人也拒绝提供涉案交易非其本人“买卖”行为的证据，而且佘鑫麒关于账户开立的解释前后不一，并拒绝协助调查部门搜集能够支持其解释的证据。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.4pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、关于佘鑫麒内幕交易行为的认定</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>综合上述认定意见，审理认为，佘鑫麒的行为，构成了《证券法》第二百零二条规定的“证券交易内幕信息的知情人或者非法获取内幕信息的人，在涉及证券的发行、交易或者其他对证券的价格有重大影响的信息公开前，买卖该证券”的行为，因此，认定其内幕交易行为成立，应当“没收违法所得，并处以违法所得一倍以上五倍以下的罚款。”</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五、关于佘鑫麒短线交易行为的认定</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>本案中，佘鑫麒于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日买入“四川圣达”<SPAN style="FONT-SIZE: 10.5pt">67,800</SPAN>股，<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日全部卖出，卖出金额<SPAN style="FONT-SIZE: 10.5pt">740,351.33</SPAN>元；<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日买入“四川圣达”<SPAN style="FONT-SIZE: 10.5pt">57,340</SPAN>股，<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日全部卖出，卖出金额<SPAN style="FONT-SIZE: 10.5pt">761,236.54</SPAN>元。审理认为，除上述内幕交易行为外，佘鑫麒短线买卖四川圣达股票，同时还构成了《证券法》第四十七条规定的上市公司董事、高级管理人员“将其持有的该公司股票在买入后六个月内卖出”的行为，应当依照《证券法》第一百九十五条的规定“给予警告，可以并处三万元以上十万元以下的罚款。”</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>综合上述情况，审理认为，佘鑫麒身为上市公司董事、总经理，无视法律的多项禁止性规定，以隐蔽手段开立账户，在四川圣达披露<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年中期业绩快报的股价敏感时段内，两次从事内幕交易与短线交易，违法所得金额较大，且拒不配合我会的调查工作。根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零二条与第一百九十五条的规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>对佘鑫麒给予警告，没收违法所得<SPAN style="FONT-SIZE: 10.5pt">141,955.80</SPAN>元，并处以罚款<SPAN style="FONT-SIZE: 10.5pt">170,346.96</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 22.15pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 23pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 26pt" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 28pt" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 11pt"><SPAN style="COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 28pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>　　&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　</SPAN>　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">二○一○年一月十八日</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 19pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 19pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 17pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100420_179466_ext.json

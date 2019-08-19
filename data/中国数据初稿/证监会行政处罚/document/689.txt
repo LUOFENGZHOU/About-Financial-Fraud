@@ -1,0 +1,317 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（威达股份、吕建中等11名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-08501</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年02月11日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（威达股份、吕建中等11名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2010〕6号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（威达股份、吕建中等11名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2010〕6号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV class=Custom_UnionStyle>
+<P align=center>&nbsp;<SPAN>〔<SPAN>2010</SPAN>〕<SPAN>6</SPAN>号</SPAN>&nbsp;</P>
+<P><SPAN>当事人：威达医用科技股份有限公司（以下简称威达股份），注册地址：重庆市渝中区中山三路<SPAN>168</SPAN>号<SPAN>14-5</SPAN>号，法定代表人朱胜利。</SPAN></P>
+<P><SPAN>吕建中，男，<SPAN>1954</SPAN>年<SPAN>10</SPAN>月出生，时任威达股份董事长，住址：江苏省南京市白下区光华东街<SPAN>18</SPAN>号<SPAN>7</SPAN>栋<SPAN>103</SPAN>室。</SPAN></P>
+<P><SPAN>张世田，男，<SPAN>1969</SPAN>年<SPAN>9</SPAN>月出生，时任威达股份董事、董事会秘书，住址：甘肃省白银市白银区黄茂井南路<SPAN>3</SPAN>号。</SPAN></P>
+<P><SPAN>吴雄军，男，<SPAN>1964</SPAN>年<SPAN>6</SPAN>月出生，时任威达股份董事，住址：海南省三亚市南滨农场机关宿舍。</SPAN></P>
+<P><SPAN>王炳燃，男，<SPAN>1968</SPAN>年<SPAN>2</SPAN>月出生，时任威达股份董事，住址：广东省深圳市福田区园岭五路一号园东花园<SPAN>2</SPAN>楼<SPAN>2</SPAN>号。</SPAN></P>
+<P><SPAN>陈洪东，男，<SPAN>1972</SPAN>年<SPAN>2</SPAN>月出生，时任威达股份董事，住址：广东省深圳市罗湖区罗芳路<SPAN>38</SPAN>号。</SPAN></P>
+<P><SPAN>刘通，男，<SPAN>1975</SPAN>年<SPAN>12</SPAN>月出生，时任威达股份独立董事，住址：江西省于都县贡江镇长征西路北区<SPAN>27</SPAN>号。</SPAN></P>
+<P><SPAN>常青，男，<SPAN>1969</SPAN>年<SPAN>1</SPAN>月出生，时任威达股份独立董事，住址：甘肃省兰州市城关区中山林<SPAN>19</SPAN>号。</SPAN></P>
+<P><SPAN>乔贵生，男，<SPAN>1961</SPAN>年<SPAN>9</SPAN>月出生，时任威达股份副总经理、总经理，住址：广东省深圳市罗湖区布心路布心花园<SPAN>2</SPAN>区<SPAN>17</SPAN>栋<SPAN>702</SPAN>。</SPAN></P>
+<P><SPAN>魏万栋，男，<SPAN>1972</SPAN>年<SPAN>8</SPAN>月出生，时任威达股份财务经理和证券事务代表，住址：甘肃省白银市白银区东星街<SPAN>76</SPAN>号－<SPAN>2</SPAN>－<SPAN>8</SPAN>号。</SPAN></P>
+<P><SPAN>文民生，男，<SPAN>1950</SPAN>年<SPAN>12</SPAN>月出生，时任威达股份总经理，住址：北京市海淀区万寿路<SPAN>28</SPAN>号<SPAN>29</SPAN>楼<SPAN>8</SPAN>号。</SPAN></P>
+<P><SPAN>刘学仪，男，<SPAN>1965</SPAN>年<SPAN>2</SPAN>月出生，时任威达股份财务总监，住址：江西省吉安市吉州区长冈北路<SPAN>85</SPAN>号<SPAN>19</SPAN>幢<SPAN>2</SPAN>单元<SPAN>901</SPAN>房。</SPAN></P>
+<P><SPAN>根据《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对威达股份信息披露违法案进行了立案调查、审理，并向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，当事人存在如下违法行为：<SPAN><SPAN>　&nbsp; </SPAN></SPAN></SPAN></P>
+<P><SPAN>一、<SPAN>2005</SPAN>年和<SPAN>2006</SPAN>年年报存在虚假记载和重大遗漏</SPAN></P>
+<P><SPAN>（一）威达股份长期股权投资未计提减值准备</SPAN></P>
+<P><SPAN>1.</SPAN><SPAN>根据<SPAN>2005</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日深圳市广渊实业发展有限公司（以下简称深圳广渊）账面净资产等事项，威达股份对深圳广渊的长期股权投资出现减值，威达股份应按<SPAN>18.18%</SPAN>的持股比例计提减值准备，但威达股份未计提该项减值准备。</SPAN></P>
+<P><SPAN>2</SPAN><SPAN>．根据<SPAN>2005</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日甘肃金土地农业开发有限公司（以下简称金土地）账面净资产等事项，威达股份对金土地的长期股权投资出现减值，威达股份应按<SPAN>18.8%</SPAN>的持股比例计提减值准备，但威达股份未计提该项减值准备。</SPAN></P>
+<P><SPAN>（二）威达股份大北山林地租赁价格不公允</SPAN></P>
+<P><SPAN>2004</SPAN><SPAN>年<SPAN>6</SPAN>月<SPAN>14</SPAN>日</SPAN><SPAN>，威达股份与金土地签订了《大北山林地租赁协议书》。协议中双方协商决定，威达股份将其所有的<SPAN>3.11</SPAN>万亩大北山森林公园林地以每亩每年<SPAN>225</SPAN>元的价格租赁给金土地开发使用。金土地租赁威达股份大北山林地是关联交易，<SPAN>2005</SPAN>年支付了租金合计<SPAN>6,999,750</SPAN>元。威达股份只提供了<SPAN>1</SPAN>份当地每年租赁价格<SPAN>200</SPAN>元<SPAN>/</SPAN>亩的证据，证明大北山林地租赁价格公允的证据不充分。</SPAN></P>
+<P><SPAN>（三）威达股份少计费用</SPAN></P>
+<P><SPAN>根据<SPAN>2004</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日深圳仲裁委员会作出的〔<SPAN>2004</SPAN>〕深仲裁字第<SPAN>613</SPAN>号《裁决书》和<SPAN>2004</SPAN>年<SPAN>8</SPAN>月<SPAN>23</SPAN>日深圳市福田区人民法院向威达股份发出的（<SPAN>2004</SPAN>）深福法执字第<SPAN>3307</SPAN>号《执行通知书》，威达股份应计提应付深圳市明志迪交通设施有限公司（以下简称明志迪公司）借款利息，但威达股份没有计提。威达股份<SPAN>2005</SPAN>年应计利息<SPAN>345,960</SPAN>元，虚增利润<SPAN>345,960</SPAN>元，少计应付账款<SPAN>1,038,951.11</SPAN>元；<SPAN>2006</SPAN>年应计利息<SPAN>363,525.53</SPAN>元，虚增利润<SPAN>363,525.53</SPAN>元，少计应付账款<SPAN>1,402,476.65</SPAN>元。</SPAN></P>
+<P><SPAN>（四）威达股份对部分销售收入和成本会计核算不正确</SPAN></P>
+<P><SPAN>1</SPAN><SPAN>．因威达股份<SPAN>2003</SPAN>－<SPAN>2005</SPAN>年期间对莱芜医院销售业务的收入和成本的会计核算不正确，威达股份<SPAN>2005</SPAN>年年报账面虚增<SPAN>“</SPAN>其他应收款<SPAN>-</SPAN>莱芜医院<SPAN>”720,000</SPAN>元，虚增利润<SPAN>891,993.75</SPAN>元；威达股份<SPAN>2006</SPAN>年年报虚增其他应收款<SPAN>720,000</SPAN>元，虚增年初未分配利润<SPAN>817,900</SPAN>元。</SPAN></P>
+<P><SPAN>2</SPAN><SPAN>．因威达股份<SPAN>2003</SPAN>－<SPAN>2005</SPAN>年期间对安徽武警医院销售业务的收入和成本的会计核算不正确，威达股份<SPAN>2005</SPAN>年年报账面虚增<SPAN>“</SPAN>其他应收款<SPAN>-</SPAN>安徽武警医院<SPAN>”900,000</SPAN>元，同时虚减利润<SPAN>348,882.14</SPAN>元；威达股份<SPAN>2006</SPAN>年年报账面虚增<SPAN>“</SPAN>其他应收款<SPAN>-</SPAN>安徽武警医院<SPAN>”900,000</SPAN>元，同时虚减净利润<SPAN>252,864.47</SPAN>元，虚减年初未分配利润<SPAN>701,016.05</SPAN>元。</SPAN></P>
+<P><SPAN>（五）威达股份对参股子公司股权转让事项信息披露虚假记载和重大遗漏</SPAN></P>
+<P><SPAN>2006</SPAN><SPAN>年<SPAN>9</SPAN>月<SPAN>6</SPAN>日</SPAN><SPAN>，威达股份与中山千江科技有限公司（以下简称中山千江）签订《股权转让协议》，约定威达股份将其持有的金鹿草产业有限责任公司（以下简称金鹿草）<SPAN>19.85%</SPAN>的股权全部转让给中山千江，转让价格为<SPAN>2,142</SPAN>万元。<SPAN>2006</SPAN>年<SPAN>9</SPAN>月<SPAN>11</SPAN>日，威达股份召开了五届九次董事会，会议同意将持有的金鹿草<SPAN>19.85</SPAN>％股权一次性转让给中山千江，并发布《关于出售参股子公司股权的公告》。该公告中对中山千江的财务状况，包括总资产、净资产和净利润等披露不实，并且在<SPAN>2006</SPAN>年年报中未将此项交易作为关联交易进行披露，存在虚假记载和重大遗漏。</SPAN></P>
+<P><SPAN>二、威达股份未按规定及时披露<SPAN>2007</SPAN>年年度报告</SPAN></P>
+<P><SPAN>威达股份至<SPAN>2008</SPAN>年<SPAN>8</SPAN>月<SPAN>29</SPAN>日才公布了<SPAN>2007</SPAN>年年度报告，未能按期在<SPAN>2008</SPAN>年<SPAN>4</SPAN>月<SPAN>30</SPAN>日前披露年度报告。</SPAN></P>
+<P><SPAN>上述事实，有威达股份相关定期报告、相关审计报告、相关协议、相关董事会决议、相关工商登记资料、相关人员谈话笔录等证据在案证实，证据确实、充分，足以认定。</SPAN></P>
+<P><SPAN>我会认定，威达股份上述行为违反了《证券法》第六十三条<SPAN>“</SPAN>发行人、上市公司依法披露的信息，必须真实、准确、完整，不得有虚假记载、误导性陈述或者重大遗漏<SPAN>”</SPAN>和第六十六条<SPAN>“</SPAN>上市公司和公司债券上市交易的公司，应当在每一会计年度结束之日起四个月内，向国务院证券监督管理机构和证券交易所报送记载以下内容的年度报告，并予公告<SPAN>”</SPAN>的规定，构成了《证券法》第一百九十三条规定的<SPAN>“</SPAN>披露的信息有虚假记载、误导性陈述或重大遗漏<SPAN>”</SPAN>和<SPAN>“</SPAN>未按规定披露信息<SPAN>”</SPAN>的行为。</SPAN></P>
+<P><SPAN>根据通过威达股份<SPAN>2005</SPAN>年、<SPAN>2006</SPAN>年年度报告董事会决议的签字情况，以及当事人的职务、履行董事职责等情况，我会认定，吕建中为威达股份<SPAN>2005</SPAN>年、<SPAN>2006</SPAN>年年度报告披露虚假信息及未按规定披露<SPAN>2007</SPAN>年年度报告直接负责的主管人员；文民生为威达股份<SPAN>2005</SPAN>年年度报告披露虚假信息直接负责的主管人员；魏万栋为威达股份<SPAN>2005</SPAN>年、<SPAN>2006</SPAN>年年度报告披露虚假信息直接负责的主管人员；乔贵生为威达股份<SPAN>2006</SPAN>年年度报告披露虚假信息及未按规定披露<SPAN>2007</SPAN>年年度报告直接负责的主管人员；刘学仪为威达股份未按规定披露<SPAN>2007</SPAN>年年度报告直接负责的主管人员；张世田、吴雄军为威达股份<SPAN>2005</SPAN>年、<SPAN>2006</SPAN>年年度报告披露虚假信息及未按规定披露<SPAN>2007</SPAN>年年度报告的其他直接责任人员；王炳燃、陈洪东、刘通和常青为威达股份<SPAN>2005</SPAN>年年度报告披露虚假信息的其他直接责任人员。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，按照《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P><SPAN>一、对威达股份给予警告，并处以<SPAN>40</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>二、对吕建中给予警告，并处以<SPAN>10</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>三、对文民生、乔贵生和魏万栋给予警告，并分别处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>四、对刘学仪、张世田、吴雄军、王炳燃、陈洪东、刘通和常青给予警告，并分别处以<SPAN>3</SPAN>万元罚款。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>　　　　　　　　　　&nbsp; </P>
+<P><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 中国证券监督管理委员会</SPAN></P>
+<P>&nbsp;</P>
+<P align=center><SPAN><SPAN>　　&nbsp; </SPAN><SPAN>　　　</SPAN><SPAN>　　&nbsp;</SPAN>　<SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　 </SPAN></SPAN><SPAN>二○一○年二月十一日</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110929_200233_ext.json

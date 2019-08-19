@@ -1,0 +1,317 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（ST方源、麦校勋等9名责任人）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-08731</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年08月29日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（ST方源、麦校勋等9名责任人）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2011〕36号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（ST方源、麦校勋等9名责任人）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2011〕36号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1336704776328'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1336704776328 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1336704776328 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1336704776328 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1336704776328 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1336704776328 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+
+
+
+
+--**/</style>
+<P align=center><SPAN style="LINE-HEIGHT: 150%">〔<SPAN>2011</SPAN>〕<SPAN>36</SPAN>号</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人：东莞市方达再生资源产业股份有限公司（以下简称<SPAN>ST</SPAN>方源），住所：广东省东莞市松山湖科技产业园区北部工业城中小科技企业创业园，法定代表人任昌建。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">麦校勋，男，<SPAN>1960</SPAN>年<SPAN>9</SPAN>月<SPAN>23</SPAN>日出生，时任<SPAN>ST</SPAN>方源董事、董事长，住址：广东省东莞市长安镇。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">许志榕，男，<SPAN>1968</SPAN>年<SPAN>12</SPAN>月<SPAN>19</SPAN>日出生，时任<SPAN>ST</SPAN>方源董事、总裁，住址：广东省广州市海珠区。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">任昌建，男，<SPAN>1965</SPAN>年<SPAN>6</SPAN>月<SPAN>24</SPAN>日出生，时任<SPAN>ST</SPAN>方源董事长，住址：广东省珠海市香洲区。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">罗文海，男，<SPAN>1968</SPAN>年<SPAN>6</SPAN>月<SPAN>5</SPAN>日出生，时任<SPAN>ST</SPAN>方源总裁，住址：广东省珠海市香洲区。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">陈杰，男，<SPAN>1970</SPAN>年<SPAN>11</SPAN>月<SPAN>13</SPAN>日出生，时任<SPAN>ST</SPAN>方源董事会秘书、副总裁，住址：四川省双流县。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">方遒，男，<SPAN>1973</SPAN>年<SPAN>8</SPAN>月<SPAN>8</SPAN>日出生，时任<SPAN>ST</SPAN>方源副总裁、董事会秘书，住址：上海市长宁区。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">刘晓锋，男，<SPAN>1972</SPAN>年<SPAN>1</SPAN>月<SPAN>22</SPAN>日出生。时任<SPAN>ST</SPAN>方源首席财务官、总裁，住址：广东省广州市越秀区。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">伍宝清，男，<SPAN>1959</SPAN>年<SPAN>8</SPAN>月<SPAN>22</SPAN>日出生，时任<SPAN>ST</SPAN>方源首席财务官，住址：浙江省兰溪市。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">汤剑平，男，<SPAN>1959</SPAN>年<SPAN>7</SPAN>月<SPAN>24</SPAN>日出生，时任<SPAN>ST</SPAN>方源董事，住址：北京市海淀区。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对<SPAN>ST</SPAN>方源虚假陈述行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未<SPAN style="COLOR: black">提出陈述、申辩意见，也未要求听证</SPAN>。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，<SPAN>ST</SPAN>方源存在以下违法事实：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、<SPAN>ST</SPAN>方源《股权分置改革说明书》虚假陈述</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2007</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>6</SPAN>月<SPAN>28</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，麦校勋、中国高新投资集团公司（以下简称中国高新）、东莞市方达集团有限公司（以下简称方达集团）签订《协议书》，《协议书》约定：为实现中国高新持有<SPAN>ST</SPAN>方源股份的目的，麦校勋向中国高新转让东莞市方达环宇环保科技有限公司（以下简称方达环宇）、广东盛世方达节能有限公司（以下简称盛世方达）、东莞市银河工业城开发有限公司（以下简称银河工业城）<SPAN>3</SPAN>家公司各<SPAN>15%</SPAN>的股权，转让价格为人民币<SPAN>94,500,000</SPAN>元。麦校勋、方达集团等<SPAN>ST</SPAN>方源实际控制人将采用定向增发的方式将中国高新持有的方达环宇、盛世方达、银河工业城<SPAN>3</SPAN>家公司全部股权置换或认购为<SPAN>ST</SPAN>方源的增发股票，使中国高新直接持有<SPAN>ST</SPAN>方源股份。在麦校勋、方达集团、中国高新收购<SPAN>ST</SPAN>方源后，完成<SPAN>ST</SPAN>方源的股权分置改革，恢复<SPAN>ST</SPAN>方源的上市交易。《协议书》有两个版本，第一个版本约定，中国高新的<SPAN>94,500,000</SPAN>元股权转让款，麦校勋、中国高新双方共同在方达环宇设立共管账户，<SPAN>30,000,000</SPAN>元留存在共管账户内，由麦校勋、中国高新共同保管，<SPAN>64,500,000</SPAN>元汇至中国高新指定账户，作为留置款。若中国高新通过<SPAN>ST</SPAN>方源定向增发直接持有<SPAN>ST</SPAN>方源股份的目的未能实现，中国高新将<SPAN>94,500,000</SPAN>元股权转让款收回。第二个版本约定，麦校勋将中国高新的<SPAN>94,500,000</SPAN>元股权转让款无偿划转给方达环宇，记入方达环宇资本公积金，由所有股东共享。中国高新确认其签署的是第一个版本的《协议书》。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2007</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>12</SPAN>月，<SPAN>ST</SPAN>方源公告《股权分置改革说明书》，披露：方达环宇股东、<SPAN>ST</SPAN>方源股东麦校勋和许志榕将方达环宇<SPAN>51%</SPAN>的股权无偿送给<SPAN>ST</SPAN>方源，方达环宇的股权价值按<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日净资产评估价值计算，中介服务机构在评估方达环宇<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日净资产时，按照收到的第二个版本《协议书》进行。因此，<SPAN>ST</SPAN>方源公告的《股权分置改革说明书》关于方达环宇<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日的资本和资产的表述不实，并造成<SPAN>ST</SPAN>方源资本和资产不实。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源的上述行为违反了《证券法》第六十三条的规定。对上述违法行为直接负责的主管人员为<SPAN>ST</SPAN>方源时任董事长麦校勋、时任董事兼总裁许志榕。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、<SPAN>2007</SPAN>年年度报告虚假陈述</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）<SPAN>2007</SPAN>年年度报告虚假披露银行存款余额，虚增银行存款<SPAN>64,398,301.72</SPAN>元。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）未按规定在<SPAN>2007</SPAN>年年度报告中披露<SPAN>ST</SPAN>方源控股子公司方达环宇为方达集团<SPAN>13,088,493.67</SPAN>元债务提供担保的事项。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源在<SPAN>2007</SPAN>年年度报告中未按照《公开发行证券的公司信息披露内容与格式准则第<SPAN>2</SPAN>号—年度报告的内容与格式（<SPAN>2005</SPAN>年修订）》第四十三条的规定披露对外担保情况，未按照《公开发行证券的公司信息披露编报规则第<SPAN>15</SPAN>号—财务报告的一般规定（<SPAN>2007</SPAN>年修订）》第五条的规定披露银行存款，违反了《证券法》第六十六条的规定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">对上述违法行为直接负责的主管人员为在通过<SPAN>2007</SPAN>年年度报告的董事会决议上签字同意的<SPAN>ST</SPAN>方源时任董事长麦校勋。其他直接责任人员为在通过<SPAN>2007</SPAN>年年度报告的董事会决议上签字同意的<SPAN>ST</SPAN>方源时任董事兼总裁许志榕，时任董事汤剑平、蒋根福，时任独立董事管维立、杨胜利、唐希灿、虞世全；时任监事胡建其、李柏根、雷艳华；时任副总裁兼首席财务官刘晓锋。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、<SPAN>2008</SPAN>年未按规定及时披露有关事项</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）<SPAN>2008</SPAN>年未按规定及时披露对外担保事项</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2007</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>11</SPAN>月<SPAN>14</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，方达环宇为方达集团<SPAN>13,088,493.67</SPAN>元债务提供担保。<SPAN>2007</SPAN>年<SPAN>12</SPAN>月<SPAN>29</SPAN>日，方达环宇成为<SPAN>ST</SPAN>方源控股子公司后，<SPAN>ST</SPAN>方源未按规定及时披露上述担保事项。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>4</SPAN>月<SPAN>30</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，方达环宇为方达集团<SPAN>15,471,075.60</SPAN>元和<SPAN>10,000,000</SPAN>元债务提供担保，为东莞市长荣置业有限公司（以下简称长荣置业）<SPAN>21,299,788.68</SPAN>元债务提供担保。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）<SPAN>2008</SPAN>年未按规定及时披露诉讼事项</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2008</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>11</SPAN>月<SPAN>27</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，方达环宇因为长荣置业<SPAN>21,299,788.68</SPAN>元债务提供担保而被提起诉讼。<SPAN>2008</SPAN>年<SPAN>12</SPAN>月<SPAN>9</SPAN>日，相关法院向方达环宇发出应诉通知书。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源未按照《上海证券交易所股票上市规则》（以下简称《上市规则》）的相关规定对上述事项及时进行披露，违反了《证券法》第六十七条的规定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">对上述违法行为直接负责的主管人员为<SPAN>ST</SPAN>方源时任董事长麦校勋、时任董事兼总裁许志榕。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">四、<SPAN>2008</SPAN>年年度报告虚假陈述</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）<SPAN>2008</SPAN>年年度报告虚假披露银行存款余额，虚增银行存款<SPAN>64,759,952.63</SPAN>元，未按规定在财务报表及财务报表附注中披露与上述事项相关的负债。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）未按规定在<SPAN>2008</SPAN>年年度报告中披露方达环宇以下担保事项：为方达集团<SPAN>15,471,075.60</SPAN>元和<SPAN>10,000,000</SPAN>元债务提供担保，为长荣置业<SPAN>21,299,788.68</SPAN>元债务提供担保。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（三）未按规定在<SPAN>2008</SPAN>年年度报告中披露因方达环宇为长荣置业<SPAN>21,299,788.68</SPAN>元债务提供担保而发生的诉讼事项。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源在<SPAN>2008</SPAN>年年度报告中未按照《公开发行证券的公司信息披露内容与格式准则第<SPAN>2</SPAN>号—年度报告的内容与格式（<SPAN>2005</SPAN>年修订）》第四十三条的规定披露对外担保情况，未按照《公开发行证券的公司信息披露编报规则第<SPAN>15</SPAN>号—财务报告的一般规定（<SPAN>2007</SPAN>年修订）》第五条的规定披露银行存款，违反了《证券法》第六十六条的规定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">对上述违法行为直接负责的主管人员为在通过<SPAN>2008</SPAN>年年度报告的董事会决议上签字同意的<SPAN>ST</SPAN>方源时任董事长麦校勋。其他直接责任人员为在通过<SPAN>2008</SPAN>年年度报告的董事会决议上签字同意的<SPAN>ST</SPAN>方源时任董事兼总裁许志榕，时任董事蒋根福、方国梁、麦穗勋，时任独立董事姜治云、孙坚、李龙；时任监事长徐述静，时任监事李柏根、雷艳华、杨威；时任副总裁兼首席财务官刘晓锋。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">五、<SPAN>2009</SPAN>年未及时、未真实履行临时信息披露义务</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）未按规定及时披露诉讼事项</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月<SPAN>16</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，方达环宇因为方达集团<SPAN>15,471,075.60</SPAN>元债务提供担保而被提起诉讼。<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>21</SPAN>日，相关法院受理诉讼，并进行了调解，发出民事调解书。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月<SPAN>18</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，方达环宇因为方达集团<SPAN>11,715,207.72</SPAN>元债务提供担保而被提起诉讼。<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>21</SPAN>日，相关法院受理诉讼，并进行了调解，发出民事调解书。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月<SPAN>16</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，广汇科技投资担保股份有限公司（以下简称广汇科投）因<SPAN>20,000,000</SPAN>元借贷纠纷对方达环宇提起诉讼。<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>21</SPAN>日，相关法院受理诉讼，并进行了调解，发出民事调解书。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月<SPAN>9</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，方达环宇因中国高新<SPAN>94,500,000</SPAN>元股权转让纠纷被提起诉讼。<SPAN>2009</SPAN>年<SPAN>3</SPAN>月<SPAN>17</SPAN>日，北京市第一中级人民法院向方达环宇发出应诉通知书。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源未按照《上市规则》的相关规定对上述事项及时进行披露，违反了《证券法》第六十七条的规定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">对上述违法行为直接负责的主管人员为<SPAN>ST</SPAN>方源时任董事长麦校勋、时任董事兼总裁许志榕。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）未按规定及时披露实际控制人变化情况</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>6</SPAN>月<SPAN>24</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，<SPAN>ST</SPAN>方源的实际控制人由麦校勋变更为</SPAN><SPAN style="LINE-HEIGHT: 150%">李晓明。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源</SPAN><SPAN style="LINE-HEIGHT: 150%">未按照<SPAN style="COLOR: black">《证券法》</SPAN>第六十七条的规定，及时将实际控制人变化情况进行公告。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">对上述行为直接负责的主管人员为</SPAN><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源时任董事长</SPAN><SPAN style="LINE-HEIGHT: 150%">麦校勋、任昌建。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>9</SPAN>月<SPAN>18</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，<SPAN>ST</SPAN>方源公告了</SPAN><SPAN style="LINE-HEIGHT: 150%">实际控制人变化情况</SPAN><SPAN style="LINE-HEIGHT: 150%">。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（三）未按规定及时披露与上海震宇的交易为关联交易</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>10</SPAN>月<SPAN>21</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，方达环宇与上海震宇实业有限公司（以下简称上海震宇）签订《股权转让协议》，方达环宇将持有的东莞市鑫路翔改性沥青有限公司<SPAN>80%</SPAN>股权转让给上海震宇，转让价格为<SPAN>2,188,700</SPAN>元。<SPAN>2009</SPAN>年<SPAN>10</SPAN>月<SPAN>27</SPAN>日，<SPAN> ST</SPAN>方源公告上述交易，公告称此股权转让不构成关联交易。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查，李晓明自<SPAN>2008</SPAN>年<SPAN>7</SPAN>月<SPAN>28</SPAN>日持有上海震宇<SPAN>100%</SPAN>的股权，李晓明又是</SPAN><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源的实际控制人</SPAN><SPAN style="LINE-HEIGHT: 150%">，按照《上市公司信息披露管理办法》的规定，<SPAN>ST</SPAN>方源与上海震宇构成关联关系，上述交易属关联交易。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>11</SPAN>月<SPAN>23</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，因核查发现上海震宇与<SPAN>ST</SPAN>方源存在潜在关联关系，<SPAN>ST</SPAN>方源董事会撤销了上述交易。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源在出售资产公告中未按照《上市规则》的相关规定披露上海震宇与<SPAN>ST</SPAN>方源的关联方关系及其交易，违反了《证券法》第六十三条的规定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">对上述行为直接负责的主管人员为</SPAN><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源时任董事长</SPAN><SPAN style="LINE-HEIGHT: 150%">任昌建。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（四）未按规定披露银行存款被法院扣划事项</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">年<SPAN>8</SPAN>月<SPAN>19</SPAN>日</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">，方达环宇在深圳发展银行广州花城支行的银行存款</SPAN><SPAN style="LINE-HEIGHT: 150%">30,000,000</SPAN><SPAN style="LINE-HEIGHT: 150%">元</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">被广州市越秀区人民法院扣划。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">2009</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">年<SPAN>9</SPAN>月<SPAN>9</SPAN>日</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">，方达环宇在深圳发展银行广州花城支行的银行存款</SPAN><SPAN style="LINE-HEIGHT: 150%">528,000</SPAN><SPAN style="LINE-HEIGHT: 150%">元</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">被北京市第一中级人民法院扣划。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源未按照《上市规则》的相关规定对上述事项及时进行披露，违反了《证券法》第六十七条的规定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">对上述行为直接负责的主管人员为</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">ST</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">方源时任董事长</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">任昌建。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">六、<SPAN>2009</SPAN>年半年度报告虚假陈述</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（一）未按规定披露实际控制人变化情况</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源在<SPAN>2009</SPAN>年半年度报告中称本报告期内公司控股股东及实际控制人没有发生变更。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查，自</SPAN><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>6</SPAN>月<SPAN>24</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">起</SPAN><SPAN style="LINE-HEIGHT: 150%">，<SPAN>ST</SPAN>方源的实际控制人由麦校勋变更为</SPAN><SPAN style="LINE-HEIGHT: 150%">李晓明。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>9</SPAN>月<SPAN>18</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，<SPAN>ST</SPAN>方源公告</SPAN><SPAN style="LINE-HEIGHT: 150%">实际控制人变化情况</SPAN><SPAN style="LINE-HEIGHT: 150%">。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">（二）未按规定披露与上海震宇的关联关系及其交易</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">ST</SPAN><SPAN style="LINE-HEIGHT: 150%">方源在<SPAN>2009</SPAN>年半年度报告“重要事项—报告期内公司重大关联交易事项”下，没有反映方达环宇与上海震宇的沥青购销合同及预付<SPAN>1400</SPAN>万元款项；在“财务会计报告—关联方关系及其交易—关联方关系”项下，没有披露上海震宇与<SPAN>ST</SPAN>方源的关联关系；在“财务会计报告—关联方关系及其交易—关联方交易”项下，没有反映方达环宇与上海震宇的沥青购销合同及预付<SPAN>1400</SPAN>万元款项。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">ST</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">方源在<SPAN>2009</SPAN>年半年度报告中未按照《公开发行证券的公司信息披露内容与格式准则第<SPAN>3</SPAN>号—半年度报告的内容与格式（<SPAN>2007</SPAN>年修订）》第二十五条的规定披露实际控制人变化情况，未按照《公开发行证券的公司信息披露编报规则第<SPAN>15</SPAN>号—财务报告的一般规定（<SPAN>2007</SPAN>年修订）》第三十七条的规定对上述关联方关系及其交易进行披露，违反了《证券法》第六十五条的规定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">对上述行为直接负责的主管人员为在通过<SPAN>2009</SPAN>年半年度报告的董事会决议上签字的<SPAN>ST</SPAN>方源时任董事长任昌建，其他直接责任人员为在通过<SPAN>2009</SPAN>年半年度报告的董事会决议上签字的时任董事车学东、白荣涛，时任独立董事万寿义、李龙，时任监事长徐述静，时任监事周辉朋、胡建其、吕学军，时任总裁罗文海，时任副总裁陈杰、方遒，时任首席财务官伍宝清。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>4</SPAN>月<SPAN>10</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，<SPAN>2009</SPAN>年<SPAN>5</SPAN>月<SPAN>7</SPAN>日，<SPAN>2009</SPAN>年<SPAN>6</SPAN>月<SPAN>26</SPAN>日，<SPAN>ST</SPAN>方源对上述违法行为进行了改正。<SPAN>ST</SPAN>方源时任董事兼总裁许志榕在我会对<SPAN>ST</SPAN>方源违法行为进行调查时拒不配合调查。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">以上违法事实和改正情况，有</SPAN><SPAN style="LINE-HEIGHT: 150%">《股权分置改革说明书》，<SPAN style="COLOR: black">2007</SPAN><SPAN style="COLOR: black">年年度报告，<SPAN>2008</SPAN>年年度报告，<SPAN>2009</SPAN>年半年度报告，相关临时公告，相关合同，相关协议，相关董事会决议，相关人员谈话笔录等证据证明</SPAN>，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条、《行政处罚法》第二十七条<SPAN style="COLOR: black">的规定</SPAN>，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、对<SPAN>ST</SPAN>方源给予警告，并处以<SPAN>40</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、对麦校勋、许志榕给予警告，并分别处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、对刘晓锋给予警告，并处以<SPAN>10</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">四、对任昌建给予警告，并处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">五、对罗文海、陈杰、方遒、伍宝清、汤剑平给予警告，并分别处以<SPAN>3</SPAN>万元罚款。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=left>&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 </SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><SPAN>　　 </SPAN>&nbsp;<SPAN>　　　</SPAN><SPAN>　&nbsp;</SPAN>&nbsp;<SPAN>　&nbsp;</SPAN><SPAN>　</SPAN>　　　　　　　　　　　　　　　&nbsp; </SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">二○一一年八月二十九日</SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20120511_209891_ext.json

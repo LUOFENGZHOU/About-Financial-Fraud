@@ -1,0 +1,262 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（闽越花雕及纪金华、吴晓康等人）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2007-01827</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>行政处罚委</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2007年09月24日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（闽越花雕及纪金华、吴晓康等人）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>证监罚字[2007]26号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（闽越花雕及纪金华、吴晓康等人）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">证监罚字[2007]26号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1244099267984'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1244099267984 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244099267984 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244099267984 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244099267984 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1244099267984 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+
+
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=17 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>证监罚字[2007]26号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P><SPAN class=15 style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>
+<P class=0><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><FONT face=宋体>当事人</FONT></SPAN></FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>：福建闽越花雕股份有限公司（以下简称闽越花雕），住所：福州市省府路1号金皇大厦17层,法定代表人：纪金华。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>纪金华，男，1963年出生，时任公司董事长，住址：福州市鼓楼区福寿弄19号C-604。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>吴晓康，男，1948年出生，时任公司董事兼总裁，住址：福州市鼓楼区鼓屏路44号1座503号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陈&nbsp;峰，男，1973年出生，时任公司董事，住址：福州市晋安区王庄新村二区11座401。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>黄&nbsp;晖，男，1965年出生，时任公司董事，住址：福建省永安化工厂。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>叶能湘，男，1946年出生，时任公司董事，住址：福建省渔溪镇华峰路。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>姬德普，男，1939年出生，时任公司财务总监，住址：福州市鼓楼区乌山路17号。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>夏建林，男，1963年出生，时任公司独立董事，住址：福建省福州市鼓楼区五四路19号国泰大厦13楼。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">经查明，闽越花雕通过少提坏账准备、虚构交易、少计利息等方式，在2004年年度报告中虚假记载利润48,277,258.86元。具体为：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p style="FONT-SIZE: 10.5pt"></o:p></SPAN></FONT></FONT></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>一、以拟进行资产置换为由，滥用会计估计，少提坏帐准备6,440,456.97元，虚增利润6,440,456.97元。2005年2月20日,闽越花雕分别与麻城神龙纺织实业有限公司（以下简称麻城神龙）和湖北麻棉纺织（集团）股份有限公司（以下简称湖北麻棉集团）签订《资产置换协议书》，拟将公司及下属控股子公司所持有的其他应收款、预付账款、长期股权投资资产等共计121,775,901.70万元与麻城神龙的在建工程（含420.29亩土地使用权）及湖北麻棉集团的机械设备进行资产置换。但根据相关协议约定，闽越花雕对上述420.29亩土地使用权处分受限制的条件已出现，麻城市政府与福建省神龙企业集团有限公司约定收回其中200亩土地。闽越花雕在拟置换进来的相关土地使用权存在重大瑕疵、资产置换不可能实现的情形下，滥用会计估计，将拟置换出去的应收款项坏账准备的计提方法由原来的账龄分析法改为个别认定法，从而少提坏账准备6,440,456.97元，虚增利润6,440,456.97元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二、通过调整应收款项账龄，少提坏账准备1,112,552.80元，虚增利润1,112,552.80元。2004年12月31日，闽越花雕与其合并报表范围内的子公司上海福联国际贸易有限公司（以下简称上海福贸）签订债务重组协议，将其他应收款中应收福建省丝绸联合公司5,562,764.90元的债权（账龄为3年以上）转让给上海福贸。在债务人——福建省丝绸联合公司的偿债能力并没有发生变化的情况下，上海福贸在受让该笔债权时，将其账龄由原来的3年以上调整为1年以内并少提坏账准备没有合理的依据。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>三、通过将原属其他应收款的债权调列为预付账款的方式，少提坏账准备2,350,279.43元，虚增利润2,350,279.43元。2002年1月30日，上海福贸与上海中豪实业投资有限公司（以下简称上海中豪）签订投资协议，约定双方共同投资建设上海新力的工业厂房项目。上海福贸根据协议约定，将应收上海中豪的23,502,794.35元债权转作债权投资，并将该款项由“其他应收款”转到“短期投资”科目核算，但该投资到期后，上海福贸未按协议收到投资收益，本金亦未收回。之后，上海福贸又于2002年12月将该款项从“短期投资”科目转到“预付账款”科目核算。但上海新力注册资本当时并没有到位，也没有生产经营。由于资金没有及时支付、施工图纸没有到位等原因，上海新力工业厂房建设项目于2002年6月30日已经全面停工。因此，上述23,502,794.35元资金实质为借贷关系，会计核算上属其他应收款，且账龄在3年以上，但上海福贸从2002年到2004年的3个会计年度内均未对上述款项计提坏账准备，闽越花雕因此虚增2004年利润2,350,279.43元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>四、少提利息2,732,817.92元，虚增利润2,732,817.92元。闽越花雕&nbsp;2004年末账面贷款余额165,340,020.00元均已逾期，但仍按未逾期贷款利率计提利息。闽越花雕2004年度财务费用中计提了利息11,148,282.08元，少计贷款利息2,&nbsp;732,817.92元，虚增利润2,732,817.92元。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>五、虚增资金占用费收入935,437.06元，虚增利润935,437.06元。2004年1月5日，闽越花雕与福州丰捷贸易有限公司（以下简称丰捷贸易）签订资金相互借用协议，约定对丰捷贸易的占款收取使用费，闽越花雕据此确认丰捷贸易2004年1-6月资金占用费收入935,437.06元，该笔资金占用费尚未收回。丰捷贸易因未按规定时限办理年度检验手续等原因，于2003年11月10日被吊销营业执照。上述资金占用费收入不应予以确认。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>六、虚构与福建省第一建筑工程公司福州分公司（以下简称一建福州公司）的合作投资款及投资收益，违规确认福建省绿得生物股份有限公司（以下简称福建绿得）股权转让收益，虚增利润8,037,458.84元。闽越花雕于2004年1月与一建福州公司签署《投资协议》，约定双方共同投资建设湖北省麻城市神龙纺织工业园区，闽越花雕投资12,000,000.00元。闽越花雕委托神龙国际投资有限公司（以下简称神龙国际）将其未付的2002年受让闽越花雕持有的福建绿得25%股权尾款中的12,000,000.00元直接汇给一建福州公司作为投资款，闽越花雕因此确认了投资收益6,237,458.84元，并同时确认了对一建福州公司的长期债权投资12,000,000.00元。2004年12月，闽越花雕收到一建福州公司委托湖北省麻城良种棉有限公司（以下简称麻城良种棉）汇来的合作项目分红款4,500,000.00元，并根据投资协议将其中的1,800,000.00元确认为12,000,000.00元长期债权投资的投资收益。截至调查日一建福州公司仅收到50,000.00元的工程款，而且从未在麻城市建设银行开设任何资金账户，因此神龙国际委托支付的12,000,000.00元股权受让款暨投资款属于虚假。闽越花雕收到的所谓“分红款”4,500,000.00元，系闽越花雕6家关联企业利用同城系统内转账可即时到账的特点，用2,700,000.00元于2004年12月28日至29日在麻城建行连续转账虚构59,400,000.00元现金流的一部分，所谓的长期债权投资收益1,800,000.00元没有实质的现金流入，不应确认。闽越花雕2002年转让给神龙国际的25%福建绿得股权中仅有5.02%在工商机关办理了变更登记。根据会计制度和会计准则，福建绿得25%股权转让交易尚未实质完成，由此产生的所谓“投资收益”6,237,458.84元不应予以确认。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>七、闽越花雕控股子公司上海福联投资发展有限公司（以下简称上海福投）虚构与福建省融埔建筑工程有限公司（以下简称融埔建筑）之间的合作投资款及投资收益，闽越花雕因此虚增利润1,016,400.00元。2004年1月10日上海福投与融埔建筑签订投资协议，共同投资建设南京爱达花园。2004年10月上海福投通过委托付款的形式出资8,000,000.00元。2004年12月28日，上海绿得科技有限公司（以下简称上海绿得）根据融埔建筑南京分公司委托函将3,000,000.00元分红款汇给上海福贸（代上海福投收款），上海福投根据委托收款书将上海福贸代收的3,000,000.00元分红款中的1,200,000.00元确认为2004年投资收益。经查融埔建筑的有关银行账号，在2004年10月份未发生任何业务往来，因此，上海福投委托付款的8,000,000.00元合作投资款为虚构。上海绿得汇给上海福贸3,000,000.00元的所谓“分红款”，系闽越花雕6家关联企业利用同城系统内转账可即时到账的特点，用2,700,000.00元于2004年12月28日至29日在麻城建行连续转账虚构59,400,000.00元现金流的一部分，没有实质的现金流入。因此，上海福投1,200,000.00元投资收益不应确认，闽越花雕因此虚增利润1,016,400.00元（按84.7%股权比例折算）。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>八、违规确认转让晋江福联轻纺市场有限公司（以下简称晋江轻纺）25%股权的投资收益2,461,725.50元，虚增利润2,461,725.50元。闽越花雕于2004年9月30日与范常青签署《股权转让协议书》，协议约定，闽越花雕将其持有的晋江轻纺25%的股权转让给范常青，转让价款为7,000,000.00元。闽越花雕收到范常青委托麻城良种棉支付的股权转让款3,600,000.00元。据此，闽越花雕确认了该笔股权转让交易，并确认了2,461,725.50元的股权转让收益。但上述股权转让交易并未办理工商变更登记。闽越花雕收到的所谓“股权转让款”3,600,000.00元，系闽越花雕6家关联企业利用同城系统内转账可即时到账的特点，用2,700,000.00元于2004年12月28日至29日在麻城建行连续转账虚构59,400,000.00元现金流的一部分，没有实质的现金流入。根据有关会计准则的规定，上述投资收益2,461,725.50元不应确认。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>九、福建绿得虚增其他业务利润22,450,000.00元，闽越花雕因此虚增利润8,438,955.00元。2004年12月4日，福建绿得与福清鑫龙食品开发有限公司（以下简称鑫龙食品）签订商标转让合同，协议将福建绿得的六项商标作价38,000,000.00元转让给鑫龙食品。福建绿得于2004年12月确认38,000,000.00元的其他业务收入，确认其他业务利润22,450,000.00元。在此期间，上述商标已经被福州市中级人民法院冻结，无法办理过户手续。根据2005年2月23日福建天联有限责任会计师事务所为鑫龙食品出具的2004年审计报告，鑫龙食品的财务报表中并未体现上述交易。因此，福建绿得上述其他业务利润22,450,000.00元不应确认，闽越花雕因此虚增2004年利润8,438,955.00元（按37.59%股权比例折算）。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>十、福建绿得少计贷款利息支出，虚增2004年利润22,620,300.00元，闽越花雕因此虚增2004年度利润8,502,970.77元。截至2004年12月31日，福建绿得2004年期末贷款余额应为278,137,000.00元，2004年应计贷款利息应为22,620,300.00元。福建绿得2004年账面记录的短期贷款余额仅为220,506,409.77元，且当年账面未计提任何贷款利息支出。因此，福建绿得少计贷款金额57,630,590.23元，少计贷款利息22,620,300.00元，闽越花雕因此虚增2004年利润8,502,970.77元（按37.59%股权比例折算）。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>十一、福建绿得2004年少提坏账准备16,621,986.09元，闽越花雕因此虚增2004年利润6,248,204.57元。2004年12月31日，福建绿得下属核算单位酒厂部分其他应收款账龄分析有误（后公司对账龄重新划分），应补提坏账准备16,621,986.09元。闽越花雕因此多确认投资收益6,248,204.57元（按37.59%股权比例折算）。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>以上事实有有关合同、协议、意向书、承诺函，有关书面说明，闽越花雕和有关企业的财务账页、记账凭证、原始凭证，有关委托付款书、汇款通知书、已付款通知函、收款确认函，有关询证函，银行协助查询回执，有关用章登记表，有关工商登记资料、有关工商局商标档案资料、工商局行政处罚决定书，有关法院判决书、裁定书，有关审计报告、有关审计工作底稿，调查人员与有关人员的谈话笔录，闽越花雕有关董事会会议记录和决议，闽越花雕2004年年度报告等证据证明。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>时任董事长纪金华、时任董事总经理吴晓康、时任董事叶能湘、陈峰、黄晖、时任独立董事夏建林在董事会决议上签字同意通过闽越花雕2004年年报，时任财务总监姬德普在2004年年报财务报表上签字。根据上述违法事实、签字人员的职责及与违法事实的关系，认定：时任董事长纪金华、时任董事总经理吴晓康为负有直接责任的主管人员；时任董事叶能湘、陈峰、黄晖、时任独立董事夏建林、时任财务总监姬德普为其他直接责任人员。时任独立董事夏建林在陈述申辩中提出其在审议资产置换事项的董事会上，曾对拟置换进来的资产状况及转让协议的瑕疵等提出过疑问，但未能提出相应的证据予以证明，因而不予采纳。时任财务总监姬德普在陈述申辩中提出其对第一项资产置换中土地权利受限、第三项相关科目处理等事项不知情，并且第九、十、十一项涉及到的福建绿得为闽越花雕的参股公司，该公司账务处理事宜应由该公司领导及财务总监负责。经审理，姬德普上述申辩理由基本成立，应适当予以采纳。但是，根据相关证据材料，姬德普在陈述申辩中提出的对第五项违法事实及第六项违法事实中违规确认股权转让收益的免责事由不成立。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>我会认为，闽越花雕的上述行为违反了原《中华人民共和国证券法》（以下简称《证券法》）第五十九条“公司公告的股票或者公司债券的发行和上市文件，必须真实、准确、完整，不得有虚假记载、误导性陈述或者重大遗漏”的规定，构成了原《证券法》第一百七十七条所述信息披露有“虚假记载”的行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>根据当事人违法行为的事实、性质、情与社会危害程度，依据原《证券法》第一百七十七条的规定，我会决定如下：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>一、对闽越花雕处以40万元罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二、对时任董事长纪金华给予警告并处以15万元罚款；对时任董事总经理吴晓康给予警告并处以10万元罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>三、对时任董事叶能湘给予警告并处以10万元罚款；对时任董事陈峰、黄晖、时任独立董事夏建林、时任财务总监姬德普分别给予警告并各处以3万元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行股份有限公司总行营业部，账号7111010189800000162，由该行直接上缴国库），并将付款凭证的复印件送中国证券监督管理委员会稽查一局备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起60日内向中国证券监督管理委员会提出行政复议，也可以在收到本处罚决定之日起3个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 63pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN></P>
+<P class=16 style="VERTICAL-ALIGN: baseline; LINE-HEIGHT: 150%; MARGIN-RIGHT: 63pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">○○</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>七年九月二十四日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20080418_14304_ext.json

@@ -1,0 +1,227 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（昆仑证券王毅洁、季振东）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-07032</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年12月14日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（昆仑证券王毅洁、季振东）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2008〕51号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（昆仑证券王毅洁、季振东）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2008〕51号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%">〔<SPAN>2008</SPAN>〕<SPAN>51</SPAN>号</SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：王毅洁，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月出生，时任昆仑证券有限责任公司（以下简称昆仑证券）董事长，住址：广东省深圳市福田区振业景洲大厦<SPAN style="FONT-SIZE: 10.5pt">A-14F</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>季振东，男，<SPAN style="FONT-SIZE: 10.5pt">1965</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任昆仑证券副总裁、财务部经理，住址：江苏省南京市白下区钓鱼巷<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>幢<SPAN style="FONT-SIZE: 10.5pt">29</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">702</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">依据原《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对昆仑证券违反证券法律法规</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">一案</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人王毅洁、季振东未提出陈述、申辩，也未要求举行听证会。本案现已调查、审理终结。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，昆仑证券存在如下违法违规行为：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、挪用客户交易结算资金</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月起，昆仑证券通过将客户交易结算资金划入其控制的深圳银通利实业发展有限公司（以下简称深圳银通利公司）和直接划入其债权人资金账户的方式挪用客户交易结算资金。截至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，昆仑证券挪用客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">15,305</SPAN>万元；截至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，挪用客户交易结算资金<SPAN style="FONT-SIZE: 10.5pt">17,415</SPAN>万元。因挪用客户交易结算资金数额巨大，<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月我会取消了昆仑证券的证券业务许可，责令其关闭。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述违法事实，有昆仑证券情况说明、当事人谈话笔录、昆仑证券董事会决议、昆仑证券内部资金调拨和支票领用审批单、应收账款及客户交易结算资金存取凭证等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">昆仑证券实际控制人、时任昆仑证券董事钟小剑，王毅洁，季振东在昆仑证券挪用客户交易结算资金审批单上签字，对上述违法行为</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">负直接主管责任</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、超范围从事委托理财业务</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">昆仑证券在未取得客户资产管理业务资格的情况下擅自开展委托理财，截至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日，昆仑证券</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">违规开展委托理财业务共<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">计<SPAN style="FONT-SIZE: 10.5pt">92</SPAN>笔，涉及合同金额<SPAN style="FONT-SIZE: 10.5pt">329,284.48</SPAN>万元。</SPAN></SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述违法事实，有昆仑证券及其关联方公司对外签订的委托理财合同、补充协议、昆仑证券及深圳银通利公司财务记账凭证、资金存取凭证及附件、昆仑证券董事会决议、昆仑证券融资管理暂行办法等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体>昆仑证券实际控制人钟小剑<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">是昆仑证券违规开展委托理财业务的决策者；王毅洁担任公司法人代表，是昆仑证券开展违规委托理财业务的策划及参与者；季振东分管昆仑证券的财务管理部、资金计划部，参与违规委托理财行为，上述<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>人应对违规委托理财行为负直接主管责任。</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">昆仑证券挪用客户交易结算资金的行为违反了原《证券法》</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">第七十三条第（三）项有关禁止挪用客户所委托买卖的证券或者客户账户上的资金的规定，构成了原《证券法》第一百九十三条所述证券公司挪用客户交易结算资金的行为。昆仑证券擅自开展委托理财的行为违反了原《证券法》第一百三十一条第二款有关证券公司不得超出核定的业务范围经营证券业务和其他业务的规定，构成了原《证券法》第一百九十九条所述证券公司超出业</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">务许可范围经营证券业务的行为。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>鉴于昆仑证券已于<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年被依法责令关闭，根据当事人的违法事实、性质、情节与社会危害程度，依据原《证券法》第一百九十三条，我会决定：吊销王毅洁、季振东的证券从业资格证书。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会将对当事人钟小剑的违法行为另行处理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　&nbsp; </SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二○○八年十二月十四日</SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100125_175861_ext.json

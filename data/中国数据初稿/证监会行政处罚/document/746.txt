@@ -1,0 +1,260 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（天目药业、章鹏飞、郑智强）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-08274</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年02月01日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（天目药业、章鹏飞、郑智强）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2009〕5号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（天目药业、章鹏飞、郑智强）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2009〕5号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1304492146062'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1304492146062 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304492146062 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304492146062 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304492146062 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1304492146062 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<P align=center><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>〔<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>号</FONT></SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 30.05pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;当事人：杭州天目山药业股份有限公司（以下简称天目药业，股票代码<SPAN style="FONT-SIZE: 10.5pt">600671</SPAN>），法定代表人：章鹏飞，住址：浙江省临安市苕溪南路<SPAN style="FONT-SIZE: 10.5pt">78</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp; 章鹏飞，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任天目药业董事长，住址：浙江省杭州市江干区采荷一区<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>幢<SPAN style="FONT-SIZE: 10.5pt">404</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp; 郑智强，男，<SPAN style="FONT-SIZE: 10.5pt">1954</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月出生，时任天目药业副董事长、总经理，住址：浙江省杭州市上城区冯山人巷<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">303</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30.05pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对天目药业信息<SPAN style="FONT-SIZE: 10.5pt">披露违法事项</SPAN>进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，并应当事人的要求举行了听证会。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，天目药业存在以下信息披露违法行为：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、通过浙江天目保健品有限公司（以下简称天目保健品）向控股股东关联方浙江现代汽车维修有限公司（以下简称现代汽修）提供资金资助累计<SPAN style="FONT-SIZE: 10.5pt">4,000</SPAN>万元，未按规定予以披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">和<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日，天目药业开具汇票两张各<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>万元给子公司天目保健品，天目保健品当日背书给现代汽修；<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日，天目药业开具两张汇票共计<SPAN style="FONT-SIZE: 10.5pt">2,000</SPAN>万元给本公司，后背书给天目保健品，天目保健品再背书给现代汽修。<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>日，现代汽修将前述款项通过天目保健品归还了全部占用资金。前述事项，由章鹏飞批准，天目药业未对上述事项进行临时公告。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、通过民生银行萧山支行银行账户直接向控股股东关联方现代汽修提供资金资助<SPAN style="FONT-SIZE: 10.5pt">2,850</SPAN>万元，未按规定予以披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，天目药业与民生银行杭州萧山支行签订质押借款合同，取得银行贷款<SPAN style="FONT-SIZE: 10.5pt">950</SPAN>万元，随即分两笔<SPAN style="FONT-SIZE: 10.5pt">150</SPAN>万元和<SPAN style="FONT-SIZE: 10.5pt">800</SPAN>万元开具汇票给天目药业自己，当日背书给现代汽修；<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">29</SPAN>日，天目药业与民生银行杭州萧山支行签订质押借款合同，取得银行贷款<SPAN style="FONT-SIZE: 10.5pt">950</SPAN>万元，当日天目药业从民生银行杭州萧山支行汇入现代汽修<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日，天目药业从民生银行杭州萧山支行活期账户汇入现代汽修深圳发展银行黄龙支行账户<SPAN style="FONT-SIZE: 10.5pt">900</SPAN>万元。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日和<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>日，现代汽修分别从广东发展银行（以下简称广发行）账户汇入天目药业民生银行萧山支行账户<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>万元和<SPAN style="FONT-SIZE: 10.5pt">900</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">29</SPAN>日，现代联合控股集团有限公司（以下简称联合控股）从民生银行武林支行账户汇入天目药业民生银行萧山支行账户<SPAN style="FONT-SIZE: 10.5pt">950</SPAN>万元。前述事项，由章鹏飞批准，天目药业未对上述事项进行临时公告。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、向控股股东关联方山东现代物流中心发展有限公司（以下简称现代物流）提供资金资助<SPAN style="FONT-SIZE: 10.5pt">1,100</SPAN>万元，未按规定予以披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，天目药业从中国银行临安支行账户电汇<SPAN style="FONT-SIZE: 10.5pt">200</SPAN>万元至现代物流工商银行济南经十一路支行账户，同日，天目药业从交通银行临安支行电汇<SPAN style="FONT-SIZE: 10.5pt">900</SPAN>万元至现代物流工商银行济南经十一路支行账户。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日，现代物流从建设银行济南经七路支行匡山分理处电汇<SPAN style="FONT-SIZE: 10.5pt">1,100</SPAN>万元至天目药业交通银行西湖支行账户。前述事项，由章鹏飞批准，郑智强知情，天目药业未对上述事项进行临时公告。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、向控股股东关联方杭州富鼎投资有限公司（以下简称富鼎投资）拆借资金<SPAN style="FONT-SIZE: 10.5pt">2,000</SPAN>万元，未按规定予以披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">和<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日，天目药业从交通银行杭州西湖支行账户汇出两笔合计<SPAN style="FONT-SIZE: 10.5pt">2,000</SPAN>万元至富鼎投资广发行德胜支行账户。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>日，富鼎投资从广发行德胜支行账户汇入<SPAN style="FONT-SIZE: 10.5pt">1,150</SPAN>万元至天目药业工商银行临安支行账户；<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日，富鼎投资从广发行德胜支行账户汇入<SPAN style="FONT-SIZE: 10.5pt">850</SPAN>万元至天目药业在工商银行临安支行的账户。前述事项，由章鹏飞在天目药业财务的领（付）款凭证上签字，天目药业未对上述事项进行临时公告。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五、通过杭州品上广告有限公司（以下简称杭州品上）向控股股东关联方现代汽修提供资金资助，未按规定予以披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，天目药业与杭州品上签订广告代理合同，广告发布期间为<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日。<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日，天目药业电汇汇入杭州品上<SPAN style="FONT-SIZE: 10.5pt">480</SPAN>万元，同日杭州品上将款项转入现代汽修<SPAN style="FONT-SIZE: 10.5pt">480</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>日，天目药业先后分两笔<SPAN style="FONT-SIZE: 10.5pt">420</SPAN>万元与<SPAN style="FONT-SIZE: 10.5pt">40</SPAN>万元电汇汇入杭州品上，杭州品上于当天分两笔<SPAN style="FONT-SIZE: 10.5pt">420</SPAN>万元与<SPAN style="FONT-SIZE: 10.5pt">40</SPAN>万元电汇汇入现代汽修<SPAN style="FONT-SIZE: 10.5pt">460</SPAN>万元。<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，天目药业取得杭州品上开具的广告费发票，金额<SPAN style="FONT-SIZE: 10.5pt">326,245</SPAN>元，财务入账冲抵上述预付款；<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日，现代汽修电汇<SPAN style="FONT-SIZE: 10.5pt">570</SPAN>万元至杭州品上，同日杭州品上汇入天目药业<SPAN style="FONT-SIZE: 10.5pt">; 2007<SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">年4</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">月28</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">日</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">现代汽修电汇3,373,755</SPAN></SPAN>元至杭州品上，同日杭州品上汇入天目药业。董事长章鹏飞和总经理郑智强在有关领（付）款凭证上签字，天目药业未对上述事项进行临时公告。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>六、通过杭州骁日新特材料技术有限公司（以下简称杭州骁日）向控股股东关联方现代汽修提供资金资助，未按规定予以披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2006</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，天目药业与杭州骁日签订购买包装原材料的合同，合同总价<SPAN style="FONT-SIZE: 10.5pt">1,875</SPAN>万元，结算方式：先由天目药业预付<SPAN style="FONT-SIZE: 10.5pt">80%</SPAN>的货款。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>日，天目药业分别开具<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>万元、<SPAN style="FONT-SIZE: 10.5pt">290</SPAN>万元和<SPAN style="FONT-SIZE: 10.5pt">150</SPAN>万元汇票给杭州骁日，当日杭州骁日将三张汇票背书给现代汽修；<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日，天目药业开具汇票<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>万元给本公司，当日此汇票背书给杭州骁日，杭州骁日又背书给关联企业浙江四通汽车有限公司（以下简称四通汽车），上述资金合计<SPAN style="FONT-SIZE: 10.5pt">1,500</SPAN>万元。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日，杭州骁日转入天目药业账户<SPAN style="FONT-SIZE: 10.5pt">430</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>日，四通汽车电汇汇入杭州骁日<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>万元，同日转入天目药业；<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">29</SPAN>日，现代汽修汇入杭州骁日<SPAN style="FONT-SIZE: 10.5pt">70</SPAN>万元，同日，转入天目药业账户。以上归还资金合计<SPAN style="FONT-SIZE: 10.5pt">1,500</SPAN>万元。董事长章鹏飞在有关的用款申请单上签字，天目药业未对上述事项进行临时公告。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实，有询问涉案人员的谈话记录、资金往来凭证、工商登记资料、审计机构的专项审计说明等证据在案证明。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，天目药业未按规定履行信息披露义务的行为，违反了《证券法》第六十三条和六十七条的规定，构成了《证券法》第一百九十三条所述“发行人、上市公司或者其他信息披露义务人未按照规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者重大遗漏”的行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>章鹏飞作为上市公司天目药业的董事长和实际控制人，同时也是多个涉案关联法人的法定代表人和实际控制人，直接授意、指挥、经手了本案涉及的提供资金的行为，负有依照规定及时披露相关信息的主要责任。章鹏飞在较短时间内，频繁操纵天目药业向其本人控制的关联企业提供资金资助，累计发生金额比较巨大，均未按照临时报告与披露要求及时披露相关信息。因此，认定章鹏飞是本案直接负责的主管人员。<SPAN style="FONT-SIZE: 10.5pt">郑智强</SPAN>作为<SPAN style="FONT-SIZE: 10.5pt">天目药业副董事长、总经理，知悉</SPAN>天目药业向关联公司提供资金资助的一些情况，负有提醒、督促天目药业及时履行信息披露义务的责任。因此，认定<SPAN style="FONT-SIZE: 10.5pt">郑智强是本案中的其它直接责任人员</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>对于天目药业向现代物流提供资金资助<SPAN style="FONT-SIZE: 10.5pt">1,100</SPAN>万元这一事实，章鹏飞、郑智强辩称，这一款项系天目药业与关联方现代物流共同设立天目物流的第一期出资，该投资事项已经由董事会和股东大会批准并作了公告，但是由于其财务人员工作失误，错误地直接汇到了现代物流账上。后来现代物流将该款项还给了天目药业，因此不需要披露了。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>审理认为，天目药业所称在长达四个半月的时间内，未发现因财务人员失误将款项汇错的情况，其真实性无证据支持，且不影响对控股股东关联方占用上市公司资金这一事实的定性。而且，对投资计划的披露不能代替其后发生的对关联交易事项的披露，不能免除不按规定披露该事项所产生的法律责任。</FONT></SPAN></P>
+<P style="MARGIN: 0cm 0.85pt 0pt 0cm; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>章鹏飞在陈述和申辩中提出，其本人在上市公司规范治理上是一位新入门者，学习法律法规和证监会规章不够，因此在主观上没有明知故犯的动机；其已针对违法行为健全了内部控制制度；其违法行为尚未达到情节严重的程度，资金占用时间短且已悉数收回，并未给上市公司造成较大损失。</FONT></SPAN></P>
+<P style="MARGIN: 0cm 0.85pt 0pt 0cm; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>审理认为，天目药业被占用的资金确已归还，没有对公司造成较大损失，且章鹏飞配合调查，有悔改之意。这些情节，在审理时都已经在量罚上给予了充分考虑。</FONT></SPAN></P>
+<P style="MARGIN: 0cm 0.85pt 0pt 0cm; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>郑智强在申辩中提出了与章鹏飞上述三项理由相同的理由，并称有关天目药业与控股股东关联公司资金往来的情况为事后知悉。</FONT></SPAN></P>
+<P style="MARGIN: 0cm 0.85pt 0pt 0cm; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>审理认为，郑智强作为上市公司副董事长、总经理，在知悉控股股东关联方占用事项后不督促公司及时披露，应当承担法律责任。同时，在审理时，已考虑到其参与违法行为的次数较少，以及天目药业作为自然人控制的上市公司，大额项目如资金调拨、银行贷款等由董事长直接负责的公司治理实际情况，对其给予了法定处罚幅度内的最低处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30.05pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>基于上述事实和理由，依据《证券法》第一百九十三条“发行人、上市公司或者其他信息披露义务人未按照规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者重大遗漏的，责令改正，给予警告，并处以三十万元以上六十万元以下的罚款。对直接负责的主管人员和其他直接责任人员给予警告，并处以三万元以上三十万元以下的罚款”的规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、对天目药业给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">40</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对章鹏飞给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、对郑智强给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元的罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 22.15pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 225.9pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp;</SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">二○○九年二月一日</SPAN></FONT></FONT></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110422_194634_ext.json

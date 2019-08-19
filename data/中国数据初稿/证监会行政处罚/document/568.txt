@@ -1,0 +1,250 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（瀚宇投资、夏自强）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-04681</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年05月23日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（瀚宇投资、夏自强）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕19号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（瀚宇投资、夏自强）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕19号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1343264453750'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1343264453750 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343264453750 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343264453750 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343264453750 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1343264453750 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+--**/</style>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="LINE-HEIGHT: 150%">〔<SPAN>2012</SPAN>〕<SPAN>19</SPAN>号</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当事人：甘肃瀚宇投资有限公司（以下简称瀚宇投资），住所：甘肃省兰州市城关区民主西路<SPAN>7</SPAN>号，法定代表人许鹏。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">夏自强，男，<SPAN>1962</SPAN>年<SPAN>12</SPAN>月出生，瀚宇投资业务总经理、实际控制人，住址：甘肃省兰州市城关区王马巷<SPAN>32</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对瀚宇投资内幕交易及非法利用他人账户买卖证券的行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">经查明，瀚宇投资存在以下违法事实：</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">一、瀚宇投资内幕交易行为</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">截至<SPAN>2010</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日，甘肃皇台酒业股份有限公司（以下简称<SPAN>ST</SPAN>皇台）欠中国长城资产管理公司兰州办事处（以下简称长城资产兰州办）贷款本金及利息共<SPAN>40,436,500</SPAN>元。<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>9</SPAN>日，长城资产兰州办通过天津金融资产交易所将上述债权公开拍卖，瀚宇投资以<SPAN>16,100,000</SPAN>元拍得上述债权。<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>16</SPAN>日，长城资产兰州办与瀚宇投资签订《债权转让协议》，瀚宇投资员工宋某为瀚宇投资的联系人并作为授权代表在协议上签字。<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日，瀚宇投资向<SPAN>ST</SPAN>皇台提交《债权转让通知书》，确认长城资产兰州办已将其对<SPAN>ST</SPAN>皇台的债权转让给瀚宇投资。<SPAN>2011</SPAN>年<SPAN>1</SPAN>月<SPAN>5</SPAN>日，<SPAN>ST</SPAN>皇台对该债权转让事项进行了公告。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月<SPAN>28</SPAN>日</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">，夏自强代表瀚宇投资和<SPAN>ST</SPAN>皇台签订《协议书》，约定由<SPAN>ST</SPAN>皇台向瀚宇投资支付<SPAN>16,100,000</SPAN>元债权转让款及<SPAN>641,800</SPAN>元手续费后，免除本金及全部利息共计</SPAN><SPAN style="LINE-HEIGHT: 150%">2<SPAN style="COLOR: black">4,676,500</SPAN></SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">元。同日<SPAN>ST</SPAN>皇台分两笔转账<SPAN>16,741,800</SPAN>元至瀚宇投资。同日，瀚宇投资出具《债务豁免确认书》。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">2011</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">年<SPAN>1</SPAN>月<SPAN>29</SPAN>日</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">，<SPAN>ST</SPAN>皇台发布《关于向大股东上海厚丰投资有限公司借款的提示性公告》，称向大股东借款的优点之一是能够及时清偿对瀚宇投资的债务，可豁免本金及利息共计<SPAN>24,676,500</SPAN>元，由此将产生的非经常性损益计入<SPAN>2011</SPAN>年度公司营业外收入。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">ST</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">皇台与瀚宇投资签订协议的债务重组事项属于《证券法》第六十七条第二款第（三）项规定的“公司订立重要合同，可能对公司的资产、负债、权益和经营成果产生重要影响”的重大事件，构成了《证券法》第七十五条第二款第（一）项规定的内幕信息。<SPAN>2011</SPAN>年<SPAN>1</SPAN>月<SPAN>28</SPAN>日夏自强代表瀚宇投资和<SPAN>ST</SPAN>皇台签订《协议书》，夏自强为内幕信息知情人。<SPAN>2011</SPAN>年<SPAN>1</SPAN>月<SPAN>29</SPAN>日<SPAN>ST</SPAN>皇台发布《关于向大股东上海厚丰投资有限公司借款的提示性公告》，披露了债务重组的实质性内容，该项内幕信息公开。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">瀚宇投资是债务重组事项的直接参与方，是《协议书》的签订方。瀚宇投资于<SPAN>2007</SPAN>年<SPAN>5</SPAN>月<SPAN>25</SPAN>日开立资金账户，下挂深圳股东账户和上海股东账户，账户内的资金由瀚宇投资提供，相关收益归属于瀚宇投资。夏自强实际管理公司，指令瀚宇投资员工宋某使用瀚宇投资账户于<SPAN>2011</SPAN>年<SPAN>1</SPAN>月<SPAN>28</SPAN>日买入“<SPAN>ST</SPAN>皇台”<SPAN>4,900</SPAN>股，买入金额<SPAN>59,945</SPAN>元，实际盈利<SPAN>21,591.43</SPAN>元。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">以上事实，有夏自强、宋某等人询问笔录、相关协议、账户开户材料、交易记录、资金流水等证据证明，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">瀚宇投资知悉内幕信息并<SPAN style="COLOR: black">利用内幕信息从事证券交易的行为，违反了《证券法》第七十六条的规定，构成了《证券法》第二百零二条所述违法行为，夏自强为直接负责的主管人员。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">二、瀚宇投资非法利用他人账户买卖证券行为</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">宋某资金账户（<SPAN>100×××37</SPAN>）于<SPAN>2007</SPAN>年<SPAN>5</SPAN>月<SPAN>25</SPAN>日开立，下挂深圳股东账户和上海股东账户。自开户以来，宋某账户在深圳证券交易所交易“金路集团”等<SPAN>18</SPAN>只股票，在上海证券交易所交易“中信证券”等<SPAN>26</SPAN>只股票。该账户进行证券交易的主要<SPAN>MAC</SPAN>地址为<SPAN>002×××1F6C5E</SPAN>（夏自强办公电脑）、<SPAN>6CF×××C9E3D9</SPAN>（宋某办公电脑）。该账户与夏自强实际控制的甘肃东盟汽车销售服务有限公司（以下简称东盟汽车）等单位有资金往来。根据深圳和上海证券交易所计算，自开户以来至<SPAN>2011</SPAN>年<SPAN>10</SPAN>月<SPAN>19</SPAN>日，宋某账户盈利共计<SPAN>1,134,087.74</SPAN>元。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">李某资金账户（<SPAN>050×××1209</SPAN>）于<SPAN>2010</SPAN>年<SPAN>1</SPAN>月<SPAN>21</SPAN>日开立，下挂深圳股东账户和上海股东账户。自开户以来仅交易“<SPAN>ST</SPAN>皇台”一只股票，该账户交易的主要<SPAN>MAC</SPAN>地址为<SPAN>6CF×××C9E3D9</SPAN>（宋某办公电脑）。该账户与宋某银行账户、东盟汽车、宜某兰（瀚宇投资员工）账户有资金往来。根据深圳和上海证券交易所计算，自开户以来至<SPAN>2011</SPAN>年<SPAN>10</SPAN>月<SPAN>19</SPAN>日，李某账户盈利共计<SPAN>256,220.91</SPAN>元。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">宋某账户和李某账户的资金属于瀚宇投资，夏自强实际控制、管理瀚宇投资，对两个账户的证券交易进行决策，指令宋某使用两个账户买卖证券。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">以上</SPAN><SPAN style="LINE-HEIGHT: 150%">事实，有<SPAN style="COLOR: black">夏自强、宋某、李某等人询问笔录、交易流水、交易<SPAN>IP</SPAN>地址、<SPAN>MAC</SPAN>地址等证据证明，足以认定。</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">瀚宇投资利用他人账户买卖证券的行为，违反了《证券法》第八十条的规定，构成了《证券法》第二百零八条所述违法行为，夏自强为直接负责的主管人员。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，对瀚宇投资的内幕交易行为，依据《证券法》第二百零二条的规定，我会决定，对瀚宇投资处以罚款<SPAN>5</SPAN>万元；对夏自强给予警告，并处以<SPAN>3</SPAN>万元罚款。对瀚宇投资非法利用他人账户买卖证券的违法行为，依据《证券法》第二百零八条的规定，我会决定，责令瀚宇投资改正违法行为，没收违法所得<SPAN>1,390,308.65</SPAN>元，并处以罚款<SPAN>1,390,308.65</SPAN>元；对夏自强给予警告，并处以<SPAN>3</SPAN>万元罚款。综上，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">一、责令瀚宇投资改正违法行为，对瀚宇投资没收违法所得<SPAN>1,390,308.65</SPAN>元，并处以<SPAN>1,440,308.65</SPAN>元罚款；</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">二、对夏自强给予警告，并处以<SPAN>6</SPAN>万元罚款。</SPAN></P>
+<P style="TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><SPAN>　　　　　　　　　　　　　&nbsp; </SPAN><SPAN>　　　　　　　　　　　</SPAN>　　　　　　　　　　　&nbsp;</SPAN><SPAN style="LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><SPAN>　　&nbsp; </SPAN><SPAN>　　　</SPAN><SPAN>　&nbsp;</SPAN>&nbsp;<SPAN>　&nbsp;</SPAN><SPAN>　</SPAN>　<SPAN>　　　　　　　　　　　&nbsp;</SPAN></SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">二○一二年五月二十三日</SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20120726_213156_ext.json

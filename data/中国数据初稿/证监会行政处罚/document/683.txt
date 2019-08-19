@@ -1,0 +1,257 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（南京中北、郭试平等7名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-01925</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年03月19日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（南京中北、郭试平等7名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2010）10号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（南京中北、郭试平等7名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2010）10号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 29pt" align=center><SPAN style="COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>）<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>号</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 29pt" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：南京中北（集团）股份有限公司（以下简称南京中北，股票代码<SPAN style="FONT-SIZE: 10.5pt">000421</SPAN>），住所：江苏省南京市建邺区通江路<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>号，法定代表人：朱明。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>郭试平，男，<SPAN style="FONT-SIZE: 10.5pt">1953</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月出生，时任南京中北副董事长、总经理，住址：江苏省南京市秦淮区一品嘉园<SPAN style="FONT-SIZE: 10.5pt">13-601</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>许正苟，男，<SPAN style="FONT-SIZE: 10.5pt">1944</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任南京中北董事，住址：江苏省南京市鼓楼区新门口<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">103</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>斯庆，男，<SPAN style="FONT-SIZE: 10.5pt">1968</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任南京中北副总经理兼任总会计师、财务部部长，住址：江苏省南京市鼓楼区广州路<SPAN style="FONT-SIZE: 10.5pt">260</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">104</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>薛乐群，男，<SPAN style="FONT-SIZE: 10.5pt">1956</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任南京中北董事长，住址：江苏省南京市玄武区兰园<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">202</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>李华飞，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月出生，时任南京中北董事，住址：江苏省南京市厚载巷<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">104</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>徐益民，男，<SPAN style="FONT-SIZE: 10.5pt">1954</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，时任南京中北董事，住址：上海市静安区余姚路<SPAN style="FONT-SIZE: 10.5pt">500</SPAN>弄<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">1104</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>周学信，男，<SPAN style="FONT-SIZE: 10.5pt">1954</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，时任南京中北董事，住址：南京市鼓楼区东妙峰庵<SPAN style="FONT-SIZE: 10.5pt">62</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">701</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）的有关规定，我会对南京中北信息披露违法行为进行了立案调查、审理。我会依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，并应当事人的要求举行了听证会。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，南京中北于<SPAN style="FONT-SIZE: 10.5pt">1992</SPAN>年成立，<SPAN style="FONT-SIZE: 10.5pt">1996</SPAN>年在深交所上市。案发时，公司前五名股东为南京市国有资产经营公司、南京公用控股（集团）有限公司、南京万众企业管理有限公司（以下简称南京万众）、南京万众投资管理咨询有限公司（以下简称万众投资）、中信汽车公司。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt">南京万众由南京万众职工持股会绝对控股，南京万众职工持股会的会员主要是南京中北与南京万众的职工。万众投资由南京万众绝对控股。南京万众持有南京中北<SPAN style="FONT-SIZE: 10.5pt">4.77%</SPAN>的股份，为公司第三大股东，万众投资持有南京中北<SPAN style="FONT-SIZE: 10.5pt">3.43%</SPAN>股份，为公司第四大股东，南京万众与万众投资属一致行动人，为南京中北实际上的第二大股东。<SPAN style="FONT-SIZE: 10.5pt">南京中北持有</SPAN>南京苏桑汽车配件有限公司（以下简称苏桑汽配）<SPAN style="FONT-SIZE: 10.5pt">50%</SPAN><SPAN style="FONT-SIZE: 10.5pt">的股权，在苏桑汽配董事会中董事人数超过半数，且苏桑汽配的经理、财务部人员由南京中北派出，南京中北对苏桑汽配具有控制权。</SPAN></FONT></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报信息披露违法行为如下：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、银行借款披露虚假。南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报披露的银行借款金额是<SPAN style="FONT-SIZE: 10.5pt">2.66</SPAN>亿元（母公司）。但是，<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年，南京中北还分<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>次向多家银行机构借款，合计金额<SPAN style="FONT-SIZE: 10.5pt">2.1</SPAN>亿元（母公司），南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报未披露这些银行借款事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、应付票据披露虚假。南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报披露的应付票据金额为<SPAN style="FONT-SIZE: 10.5pt">0</SPAN>元<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>母公司<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>。但是，<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年，南京中北曾经分<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>次在多家银行机构开具<SPAN style="FONT-SIZE: 10.5pt">41</SPAN>份银行承兑汇票，票面金额合计<SPAN style="FONT-SIZE: 10.5pt">306,952,000.00</SPAN>元<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>母公司<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>，南京中北未将这些事项在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、关联方占用披露虚假。南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报已披露与南京万众的关联交易金额<SPAN style="FONT-SIZE: 10.5pt">164,031,360.00</SPAN>元（借方），对应企业“其他应收款”科目借方发生额<SPAN style="FONT-SIZE: 10.5pt">164,031,360.00</SPAN>元；已披露与万众投资的关联交易金额<SPAN style="FONT-SIZE: 10.5pt">0</SPAN>元（借方）。但是，南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报未披露向关联方南京万众和万众投资提供资金的以下事实：南京中北多次直接向南京万众开具本票或者银行转账支票，向南京万众提供资金；南京中北多次向南京中北汽车销售分公司开具本票，并由南京中北汽车销售分公司于同日向南京万众开具等额本票或者转账支票，向南京万众提供资金；南京中北多次向苏桑汽配开具银行承兑汇票或者商业承兑汇票，由苏桑汽配将票据贴现并于当日向南京万众开具本票或者银行转账支票，向南京万众提供资金；南京中北向南大科技园股份有限公司开具银行承兑汇票，由南大科技园股份有限公司将上述票据贴现后打入苏桑汽配银行账户，再由苏桑汽配向南京万众开具银行转账支票，向南京万众提供资金；苏桑汽配多次在银行机构贷款后，于同日向南京万众开具与贷款等额的本票或者银行转账支票，向南京万众提供资金。上述南京中北未披露的与南京万众的关联交易共有<SPAN style="FONT-SIZE: 10.5pt">53</SPAN>笔，合计关联交易金额为<SPAN style="FONT-SIZE: 10.5pt">1,063,053,972.87</SPAN>元（借方）。此外，南京中北未披露分<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>次直接向万众投资开具本票，向万众投资提供资金<SPAN style="FONT-SIZE: 10.5pt">11,000,000</SPAN>元情况。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">四、对关联方担保披露虚假。</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报已披露对外担保金额<SPAN style="FONT-SIZE: 10.5pt">11,650</SPAN>万元，但是，未披露年内发生的为关联方南京万众开具的三份银行承兑汇票提供担保、担保余额合计为<SPAN style="FONT-SIZE: 10.5pt">6,483,440.00</SPAN>元事项。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，南京中北第五届董事会第七次会议通过了<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年度报告，签字董事为薛乐群、李华飞、许正苟、徐益民、郭试平、周学信、陈惠怡、胡争鸣，杨荣华委托胡争鸣出席并代为行使表决权。公司总会计师斯庆在财务会计报表上签字。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>南京中北<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报信息披露违法行为如下：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、银行借款披露虚假。南京中北<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报披露的银行借款金额是<SPAN style="FONT-SIZE: 10.5pt">4.3</SPAN>亿元（母公司）。但是，<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年，南京中北还分<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>次向多家银行机构借款，合计金额<SPAN style="FONT-SIZE: 10.5pt">4.45</SPAN>亿元（母公司），南京中北<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报未披露这些银行借款事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、应付票据披露虚假。南京中北<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报披露的应付票据金额为<SPAN style="FONT-SIZE: 10.5pt">0</SPAN>元<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>母公司<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>。但是，<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年，南京中北曾经分<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>次在多家银行机构开具<SPAN style="FONT-SIZE: 10.5pt">42 </SPAN>份银行承兑汇票，票面金额合计<SPAN style="FONT-SIZE: 10.5pt">333,900,000.00</SPAN>元<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>母公司<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>，南京中北未将这些事项在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 30pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、关联方占用披露虚假。南京中北<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报已披露与南京万众的关联交易借方<SPAN style="FONT-SIZE: 10.5pt">/</SPAN>贷方<SPAN style="FONT-SIZE: 10.5pt">/</SPAN>余额的金额均为<SPAN style="FONT-SIZE: 10.5pt">0</SPAN>元。但是，实际情况是，南京中北<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年通过<SPAN style="FONT-SIZE: 10.5pt">104</SPAN>笔关联交易，向南京万众提供资金<SPAN style="FONT-SIZE: 10.5pt"> 1,234,195,469.14</SPAN>元，南京中北<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报未披露这些事项，具体为：南京中北多次直接向南京万众开具本票或者银行转账支票，向南京万众提供资金；南京中北多次向南京中北汽车销售分公司开具本票，并由南京中北汽车销售分公司于同日向南京万众开具等额本票或者转账支票，向南京万众提供资金；南京中北多次向苏桑汽配开具银行承兑汇票或者商业承兑汇票，由苏桑汽配将票据贴现并随即向南京万众开具本票或者银行转账支票、或者先向自身开具本票再背书给南京万众，向南京万众提供资金。在上述关联交易中，有多笔是南京中北在银行机构获得贷款后，随即将贷款获得的资金提供给南京万众。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">四、对关联方担保披露虚假。</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">南京中北<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报已披露对外担保金额<SPAN style="FONT-SIZE: 10.5pt">4,300</SPAN>万元，但是，未披露年内发生的为关联方南京万众开具的五份银行承兑汇票提供担保、担保余额合计为<SPAN style="FONT-SIZE: 10.5pt">4,000</SPAN>万元事项。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2005</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，南京第五届董事会第十七次会议通过<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年度报告，签字董事为薛乐群、李华飞、许正苟、徐益民、郭试平、周学信、陈惠怡、胡争鸣、杨荣华。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 20.6pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%; LETTER-SPACING: -0.3pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt">南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年被南京万众占用的巨额资金，除一部分用于还贷及支付到期票据，汇回南京中北、苏桑汽配，汇入南京万众持股会外，主要是用于对外投资与资金拆借。南京中北聘请的上海上会会计师事务所<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年专项审计情况表明，南京中北被南京万众占用的绝大部分资金在期末以对外拆借或者委托理财形式沉淀于“其他应收款”科目。截至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年底，南京万众占用南京中北资金余额为<SPAN style="FONT-SIZE: 10.5pt">69,566.10</SPAN>万元；至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日，南京中北已收回南京万众的全部欠款，其中以货币资金还款<SPAN style="FONT-SIZE: 10.5pt">33,577.87</SPAN>万元；依据“抵债协议”，用南京城建集团债权抵冲欠款<SPAN style="FONT-SIZE: 10.5pt">11,717.84</SPAN>万元；依据“红利抵债协议”，用应付南京万众的股利冲抵欠款<SPAN style="FONT-SIZE: 10.5pt">91.69</SPAN>万元；依据法院民事裁定书，用债权冲抵欠款<SPAN style="FONT-SIZE: 10.5pt">9,419.95</SPAN>万元，用股权冲抵欠款<SPAN style="FONT-SIZE: 10.5pt">14,758.75</SPAN>万元。<SPAN style="FONT-SIZE: 10.5pt">&nbsp;</SPAN></FONT></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt">我会认为，南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年的年报披露行为，违反了原《证券法》第六十一条的规定，构成了原《证券法》第一百七十七条第一款所述的违法行为。两年累计，南京中北未披露的银行借款金额达<SPAN style="FONT-SIZE: 10.5pt">6.55</SPAN>亿元，未披露的应付票据<SPAN style="FONT-SIZE: 10.5pt">金额超过<SPAN style="FONT-SIZE: 10.5pt">6.5</SPAN>亿元，未披露的对关联方担保金额超过<SPAN style="FONT-SIZE: 10.5pt">4,648</SPAN>万元。最为严重的是，本案中累计<SPAN style="FONT-SIZE: 10.5pt">157</SPAN>笔、累计发生金额超过<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>亿元的违规资金占用，绝大多数发生在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN>日我会与国务院国资委联合发布《关于规范上市公司与关联方资金往来及上市公司对外担保若干问题的通知》（证监发〔<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>〕<SPAN style="FONT-SIZE: 10.5pt">56</SPAN>号）不久，南京中北不仅不按通知要求予以清理、整改、披露，反而蓄意隐瞒，我行我素，变本加厉，顶风作案，情节严重，性质恶劣。</SPAN></FONT></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">时任</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">南京中北副董事长、总经理、董事会审计委员会委员<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">郭试平，</SPAN>负责南京中北的全面经营管理，分管人力资源、财务部等部门，同期在南京万众兼任董事、董事长（<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">2000</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月任南京万众董事长兼法定代表人，<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年任南京万众董事）</SPAN>，在南京中北向银行申请贷款的多份董事会决议及授权书上签字，南京中北的巨额资金又直接或间接流向南京万众，并未如实披露，且其本人在通过南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报和<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字。因此，认定郭试平是南京中北巨额资金被关联方占用、信息披露严重违法的最主要的直接负责的主管人员。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">时任南京中北副总经理、总会计师兼财务部经理</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">斯庆，<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">同期兼任南京万众董事（<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月），知悉本案信息披露违法涉及的有关事项，</SPAN>且其本人在南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年度和<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年度会计报表上签字。因此，认定斯庆是南京中北巨额资金被关联方占用、信息披露严重违法的直接负责的主管人员。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任南京中北董事许正苟，同期兼任南京万众副董事长、总经理（<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月任南京万众董事兼总经理；<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月任南京万众副董事长兼总经理），在南京中北向银行申请贷款的多份董事会决议上签字，南京中北的巨额资金又直接或间接流向南京万众，并未如实披露，且其本人在通过南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报和<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字。因此，认定许正苟是南京中北巨额资金被关联方占用、信息披露严重违法的直接负责的主管人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任南京中北董事长薛乐群，身为南京中北公司治理层的核心，未对公司重大事务实施必要的、有效的监督，且其本人在通过南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报和<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字，对南京中北公司治理上的严重问题和信息披露上的严重违法负有较大责任。因此，认定薛乐群是南京中北巨额资金被关联方占用、信息披露严重违法的直接负责的主管人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任南京中北董事李华飞、徐益民、周学信，缺乏作为上市公司董事的勤勉尽责意识，未对公司重大事务实施必要的、有效的监督，且其本人在通过南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报和<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字，对南京中北公司治理上的严重问题和信息披露上的严重违法负有一定责任。因此，认定该三人是南京中北巨额资金被关联方占用、信息披露严重违法的其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>南京中北在听证与书面申辩中提出以下理由请求免责：其一，公司的行为实际是由相关负责的自然人来具体实施的，相关责任人实施行为时未向董事会报告，更未得到董事会的授权，因此，公司本身就是受害者。其二，公司在出现关联方违规占用资金及信息披露问题后，进行了自查自纠，向相关政府部门报告，按上市公司信息披露要求进行了补充披露，并配合调查，采取了内部整改、向公安机关报案、保全相关资产以及追索占用资金等措施，此后公司未再发生违规资金占用。其三，公司一方面于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月全部更换了公司董事会成员及经营层的主要负责人，另一方面制定和完善了公司治理方面的规范性文件，进一步规范了信息披露行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，第一，证券监管部门在上市公司信息披露出现违法情形后追究公司的行政法律责任，是基于证券法的强制性规定。虽然行政处罚措施会对公司发展和股东利益产生一定影响，但是，如果公司信息披露违规的根源在于股东疏于对公司行为实施足够的、有效的监督，导致公司事务被少数内部人控制，则行政处罚措施不仅是正当的，而且是必要的。本案中，即使南京中北的违规占用、违规担保行为源于公司治理失败下少数人所作所为，也不能因此免除公司在信息披露违法上的责任。第二，在隐瞒违规占用、违规担保等侵害上市公司利益的信息披露违法案件中，公司及有关责任人员在追讨占用资金、解除违规担保上的主观努力与真实效果，固然是衡量责任时的考虑因素，同时，量罚上还要考虑违法行为本身的严重程度、信息披露虚假对证券市场广大投资者合法利益的侵害程度，以及案发后对证券市场秩序、投资者信心的负面影响程度等因素。第三，审理上已经考虑了公司案发后采取纠正、补救与整改措施等情节。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任南京中北董事长薛乐群提出，自己虽然任职南京中北董事长，但并不在公司上班，不参与公司日常经营，对公司日常事务也较少过问。时任外部董事李华飞、徐益民，职工董事周学信也表示，自己并不参与公司日常经营。这些当事人均认为，公司信息披露违法所涉及的事项，纯系少数内部人“瞒天过海”所为，自己对涉案事项既未参与、也不知悉，因此不应当承担责任。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，上市公司信息披露的真实、准确、完整、及时、有效，端赖于全体董事实施必要的、有效的监督。这种监督义务，既包括督促上市公司依照法律、法规规定和监管部门要求建立并完善信息披露制度，也包括通过日常履职和检查督促公司切实执行有关规则，还包括能够及时发现公司在信息披露上存在的问题、及时督促公司改正，对拒不改正的要及时向监管部门举报。综合审查本案违法行为涉及的具体情况和上述当事人补充提交的申辩材料，现有证据不足以证明这些当事人曾经对南京中北涉案信息披露事项实施了必要的、有效的监督。本案中，薛乐群作为上市公司董事长，是南京中北信息披露事务的主要责任人之一，应当对因董事会严重失察导致的公司信息披露重大违法承担主要责任。同时，审理上已经考虑了无证据证明薛乐群参与或者知悉涉案违规事项、案发后能够组织公司整改等情节，以及李华飞、徐益民作为外部董事、周学信作为职工董事的客观情况。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人还提出，公司内部人采取欺上瞒下的手法，年报审计机构也未发现其违法行为，董事在通过年报的董事会决议上签字，正是基于审计机构出具的标准无保留意见，因此不应当承担责任。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，上市公司董事会对公司事务的内部控制、内部审计监督，与外部监督、外部审计一样，均是上市公司合法运作、公开透明的基本保障，二者相辅相成、互相促进，但是不能相互取代。由于上市公司的会计责任与外部审计机构的审计责任是两种不同的责任，在信息披露违法情形发生时，不能以审计机构未发现、未指出为由，当然免除上市公司董事的责任。况且，我会已同时认定涉及本案的审计机构南京永华会计师事务所及其会计师未能谨慎执业、勤勉尽责，依法对其予以行政处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任职工董事周学信还提出，职工董事的履职行为是全体职工的群体行为；与对股东负责相比，职工董事更侧重于向职工代表大会负责；职工董事参与公司重大经营决策存在局限。周学信据此请求免责。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，虽然职工董事的产生方式与其他董事有区别、职工董事制度是上市公司职工参与企业民主管理的重要渠道，但是，职工董事在证券法上应当承担的义务与责任，与其他董事是同样的，在上市公司信息披露违法情形出现时，职工董事的责任并不因其产生方式的不同而当然得到豁免。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任南京中北董事许正苟在听证与书面申辩意见中提出，他的履职行为系根据组织安排、受领导指派，是南京中北、万众公司的企业行为，不是个人行为，请求减免处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，根据我国有关法律规定，上市公司董事在履职过程中，应当基于本人的学识、能力，以忠实勤勉的态度，依照法律、法规和监管规则的要求，排除来自控股股东、实际控制人、公司内部人以及其它方面的不当影响与干扰，对有关事项做出负责任的独立判断，并清楚自己行为可能产生的法律后果。因此，许正苟的减免理由于法无据。同时，审理上已经考虑了许正苟在违法情节等方面有别于本案其他主要责任人的情况。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任副总经理、总会计师兼财务部经理斯庆在听证和书面申辩意见中提出，根据其补充提供的相关证据，他没有参与或者经手未披露的涉案事项；并认为自己在整个过程中，作为集体的一员受到“个人服从组织、下级服从上级”的组织原则约束，因此，不应当被认定为直接负责的主管人员，应当从轻处罚。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，上市公司财务信息是证券市场信息披露体系中的核心内容，斯庆身为南京中北财务负责人，对南京中北财务信息的真实、准确、完整负主要责任，其知悉有关南京中北资金的外流情况、知悉南京中北披露给投资者的财务信息存在虚假与重大遗漏却参与蓄意隐瞒，既违反了作为一个财务人员的职业操守，又造成了上市公司财务信息的严重失真，因此，我会认定其为本案直接负责的主管人员，并无不当。同时，审理上已经考虑了与本案最主要责任人相比，其违法情节相对较轻，有认错与悔改表现等情况。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>本案另有三位时任独立董事，在通过南京中北<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报和<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字。经审查有关证据材料，并综合考虑以下情节，我会决定对其免予处罚：第一，从这三位独立董事多年的履职记录看，能够较好地参加董事会、审查议案材料、审慎发表意见、进行独立判断，曾经否决了经营层提出的不成熟的投资决策，并对南京中北的公司治理和内控做了一些督促工作。第二，发现南京中北存在巨额资金外流并损失的情况后，立即责成董事会质询管理层人员，督促董事会聘请江苏省外的会计师事务所对南京中北的贷款资金流向进行专项审计、就南京中北自查发现的问题立即向全体股东公开通告，同时及时向监管部门举报。第三，积极主动地督促公司追讨外流资金并进行内部整改。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条之规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、对南京中北处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对郭试平、斯庆给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、对许正苟、薛乐群给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、对李华飞、徐益民给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五、对周学信给予警告。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 22.15pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 22.15pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"></SPAN>&nbsp;</P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　 &nbsp; 中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　 </SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>　　&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二○一○年三月十九日</SPAN></FONT></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100506_180071_ext.json

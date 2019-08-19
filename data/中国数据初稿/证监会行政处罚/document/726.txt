@@ -1,0 +1,236 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（安泰期货）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-03503</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年06月29日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（安泰期货）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2009]25号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>期货 证券法 证券营业部 账户</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（安泰期货）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2009]25号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1248509971687'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1248509971687 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248509971687 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248509971687 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248509971687 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1248509971687 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 12pt" face=黑体>〔<SPAN style="FONT-SIZE: 12pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 12pt">25</SPAN>号</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">当事人：国元安泰期货经纪有限公司（现更名为国元期货有限责任公司，以下简称安泰期货），住所：安徽省合肥市芜湖路<SPAN style="FONT-SIZE: 10.5pt">168</SPAN>号同济大厦<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>层，时任法定代表人汤益民。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">依据<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对安泰期货非法利用他人账户交易股票行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人的要求，我会于<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日举行听证会，听取了当事人及其代理人的陈述和申辩。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">经查明，安泰期货存在以下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2005</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，安泰期货在国元证券合肥长江路证券营业部开立资金账户<SPAN style="FONT-SIZE: 10.5pt">21011538</SPAN>，户名“安泰期货”，之后分别于<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">23</SPAN>日将资金<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>万元、<SPAN style="FONT-SIZE: 10.5pt">700</SPAN>万元、<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>万元存入资金账户。<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日、<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日，安泰期货三次向国元证券合肥长江路证券营业部出具《挂户申请承诺书》，申请在资金账户<SPAN style="FONT-SIZE: 10.5pt">21011538</SPAN>下下挂共计<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>个上海股东账户、<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>个深圳股东账户。至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日，安泰期货资金账户<SPAN style="FONT-SIZE: 10.5pt">21011538</SPAN>及下挂股东账户销户，安泰期货获得直接收益<SPAN style="FONT-SIZE: 10.5pt">1,276,959.06</SPAN>元。</SPAN></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">上述事实，有相关董事会决议、挂户申请承诺书、营业部资料、情况说明及当事人询问笔录等证据在案证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">安泰期货的上述行为，违反了《证券法》第八十条的规定，构成了《证券法》第二百零八条所述“法人以他人名义设立账户或者利用他人账户买卖证券”的行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">在听证过程中，安泰期货提供了其与成都新阳实业投资有限公司（以下简称新阳实业）签订的《委托理财协议书》、用印登记表、证券营业部经办人证明材料等，辩称公司仅是根据理财协议履行相应的手续，并未利用他人账户实施证券买卖行为。我会认为，安泰期货在听证中提供的证据材料，能够证明安泰期货与新阳实业之间存在委托理财协议，虽然资金账户<SPAN style="FONT-SIZE: 10.5pt">21011538</SPAN>下挂自然人股东账户进行股票交易的主要责任人不是安泰期货，但是，安泰期货向营业部出具《挂户申请承诺书》的行为，为他人实施违法行为提供了便利条件，安泰期货应当承担相应的法律责任。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 28.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零八条的规定，我会决定：责令安泰期货改正违法行为，没收其违法所得<SPAN style="FONT-SIZE: 10.5pt">1,276,959.06</SPAN>元。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">新阳实业的违法行为因涉及其他违规账户，我会将另案处理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=right><FONT style="FONT-SIZE: 10.5pt">&nbsp;<SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%" align=right><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt">二○○九年六月二十九日</FONT></SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20090714_118701_ext.json

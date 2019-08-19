@@ -1,0 +1,232 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（正源所、许中祜等9名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-07057</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年07月14日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（正源所、许中祜等9名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2008〕35号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（正源所、许中祜等9名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2008〕35号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 150%" align=center>
+<P style="LINE-HEIGHT: 150%" align=center><SPAN style="FONT-SIZE: 12pt; COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>〔<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>〕<SPAN style="FONT-SIZE: 10.5pt">35</SPAN>号</FONT></SPAN></P>
+<P></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：<SPAN style="FONT-SIZE: 10.5pt">山东正源和信会计师事务所有限公司（以下简称正源所）</SPAN>，住所：山东省济南市经七路<SPAN style="FONT-SIZE: 10.5pt">88</SPAN>号，法定代表人毕建华。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>许中祜，男，<SPAN style="FONT-SIZE: 10.5pt">1940</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月出生，山东九发食用菌股份有限公司（以下简称九发股份）<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报审计报告签字注册会计师，住址：山东省济南市济大路<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>号楼西户。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>崔恒余，男，<SPAN style="FONT-SIZE: 10.5pt">1946</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月出生，九发股份<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报审计报告签字注册会计师，住址：山东省济南市槐荫区纬十二路<SPAN style="FONT-SIZE: 10.5pt">404</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>号楼<SPAN style="FONT-SIZE: 10.5pt">302</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>张立全，女，<SPAN style="FONT-SIZE: 10.5pt">1953</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月出生，九发股份<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报审计报告签字注册会计师，住址：山东省济南市市中区济大路<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>号楼<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>单元<SPAN style="FONT-SIZE: 10.5pt">502</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>刘兴寅，男，<SPAN style="FONT-SIZE: 10.5pt">1944</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，九发股份<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报审计报告签字注册会计师，住址：山东省济南市千佛山东路<SPAN style="FONT-SIZE: 10.5pt">18</SPAN>号。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">根据《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对九发股份信息披露违法案涉及的年报审计事务所和签字会计师违法行为进行了立案调查、审理，并向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，审查了当事人提出的陈述和申辩意见，现已调查、审理终结。</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">经查，当事人在本案中存在如下违法行为：</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报审计未勤勉尽责</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）九发股份<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年通过承兑汇票到期付款不入账而虚增银行存款。正源所在对九发股份<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年期末银行存款余额进行审计时，没有按照《独立审计具体准则第<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">--</SPAN>函证》规定的程序进行函证，没有发现上述虚增银行存款的事实。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）九发股份<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报财务报表少计银行借款<SPAN style="FONT-SIZE: 10.5pt">314,000,000</SPAN>元。正源所在对九发股份<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年短期借款进行审计中，没有按照《独立审计具体准则第<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">--</SPAN>函证》的规定程序进行函证；在没有收到询证对象询证回函时，没有执行有效的替代程序，没有发现九发股份<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报财务报表少计银行借款的事实。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）正源所在对九发股份<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年其他应收款进行审计时，抽查到公司虚假冲减其他应收款的凭证，但是没有关注并履行相关程序，从而没有发现九发股份虚减其他应收款的事实。在审计中，正源所取得了九发股份与正大物贸没有经营往来，却频繁发生资金往来，且累计发生额巨大的审计证据，根据《独立审计具体准则第<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">--</SPAN>函证》的规定应当给予关注并发询证函进行核查，但正源所没有按规定履行必要的审计程序。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（四）九发股份与正大物贸没有经营往来，却频繁地发生大额的资金往来，且<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月通过转账凭证将与正大物贸巨额资金往来余额转平，根据《独立审计具体准则第<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">—</SPAN>关联方及其交易》的规定，注册会计师应当关注，但正源所在抽查到部分转账凭证的情况下，未实施相关审计程序以核查识别正大物贸是否为关联方，以及与正大物贸之间的资金往来是否是关联交易。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（五）正源所进行九发股份<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报审计的项目负责人为张吉文，签发报告的副主任会计师为张炳辉，而签字注册会计师为许中祜、崔恒余，上述事实违反了财政部《关于注册会计师在审计报告上签名盖章有关问题的通知》（财会<SPAN style="FONT-SIZE: 10.5pt">[2001]1035</SPAN>号）<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>有限责任会计师事务所出具的审计报告，应当由会计师事务所主任会计师或其授权的副主任会计师和一名负责该项目的注册会计师签名盖章<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>之规定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报审计未勤勉尽责</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）九发股份与正大物贸没有经营往来，却频繁发生资金往来，且累计发生额巨大，根据《中国注册会计师审计准则第<SPAN style="FONT-SIZE: 10.5pt">1312</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">——</SPAN>函证》规定，注册会计师应当关注并进行函证，但正源所在九发股份<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年财务报表审计中，没有对“其他应收款<SPAN style="FONT-SIZE: 10.5pt">—</SPAN>正大物贸”进行函证，且对大额的虚假转账凭证没有关注。另外，正源所在抽查到九发股份虚减其他应收款的部分凭证时，没有关注并实施必要的审计程序，从而没有发现九发股份虚减其他应收款的事实。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）正源所在对九发股份<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年其他应收款进行审计时，注意到九发股份与正大物贸之间有巨额资金往来，二者之间存在票据融资关系，同时九发股份存在对正大物贸签发票据到期不入账的情况，并对此做了审计调整。根据《中国注册会计师审计准则第<SPAN style="FONT-SIZE: 10.5pt">1323</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">——</SPAN>关联方》的规定，会计师对上述情况应当予以关注并核查识别正大物贸是否为关联方。如果无法取得充分适当证据，应当根据上述准则第十六条<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>出具恰当的非无保留意见审计报告<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>，但正源所没有遵守上述准则，在九发股份没有充分披露巨额关联往来的情况下出具了标准无保留意见审计报告。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）九发股份<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报审计前，存在大量虚减负债情况，<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报审计时做了审计调整，但对九发股份虚减负债的利息没有补记，从而没有发现九发股份在财务费用信息披露虚假记载的事实。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（四）九发股份<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报审计报告签字注册会计师为张立全、刘兴寅，而张立全、刘兴寅两人同时是正源所质量监管部人员<SPAN style="FONT-SIZE: 10.5pt">,</SPAN>在九发股份年报审计项目中又是质量控制复核人员，违反了《会计师事务所质量控制准则第<SPAN style="FONT-SIZE: 10.5pt">5101</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">——</SPAN>业务质量控制》有关项目质量控制的相关规定。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">上述事实，有正源所出具的审计报告、对审计情况的说明、审计底稿及取得的审计证据、相关人员的谈话笔录等证据在案证实，证据确实、充分，足以认定。</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">在九发股份<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年和<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度财务报告审计工作中，正源所未勤勉尽责，违反了《证券法》第一百七十三条 <SPAN style="FONT-SIZE: 10.5pt">“</SPAN>证券服务机构为证券的发行、上市、交易等证券业务活动制作、出具审计报告、资产评估报告、财务顾问报告、资信评级报告或者法律意见书文件，应当勤勉尽责，对所依据的文件资料内容的真实性、准确性、完整性进行核查和验证<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>之规定，构成了《证券法》第二百二十三条所述<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>证券服务机构未勤勉尽责，所制作、出具的文件有虚假记载、误导性陈述或者重大遗漏<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>之行为。<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年年报审计报告签字会计师许中祜、崔恒余、<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报审计报告签字注册会计师张立全、刘兴寅是上述违法行为直接负责的主管人员。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 28.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百二十三条<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>证券服务机构未勤勉尽责，所制作、出具的文件有虚假记载、误导性陈述或者重大遗漏的，责令改正，没收业务收入，暂停或者撤销证券服务业务许可，并处以业务收入一倍以上五倍以下的罚款。对直接负责的主管人员和其他直接责任人员给予警告，撤销证券从业资格，并处以三万元以上十万元以下的罚款<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>之规定，我会决定如下：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、责令正源所改正违法行为，没收业务收入五十万元，并处以五十万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对许中祜、崔恒余、张立全、刘兴寅分别给予警告，并各处以三万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162,</SPAN>由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp; </FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　　 </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">二○○八年七月十四日</SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100302_177764_ext.json

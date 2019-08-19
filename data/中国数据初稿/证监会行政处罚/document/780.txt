@@ -1,0 +1,249 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（亚华种业、邹定民等9名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-07034</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年04月08日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（亚华种业、邹定民等9名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008] 21号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（亚华种业、邹定民等9名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008] 21号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt">　</P>
+<P style="LINE-HEIGHT: 29pt" align=center><SPAN style="FONT-SIZE: 12pt">[2008] 21</SPAN><SPAN style="FONT-SIZE: 12pt">号</SPAN></P>
+<P style="LINE-HEIGHT: 29pt">&nbsp;</P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：湖南亚华控股集团股份有限公司（原名：湖南亚华种业股份有限公司，以下简称亚华种业，股票代码<SPAN style="FONT-SIZE: 10.5pt">000918</SPAN>），住所：长沙市银盆南路<SPAN style="FONT-SIZE: 10.5pt">289</SPAN>号万利大厦<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>楼，法定代表人为熊再辉。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>邹定民，男，<SPAN style="FONT-SIZE: 10.5pt">1956</SPAN>年出生，时任亚华种业董事长，住址：长沙市开福区教育街<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>门<SPAN style="FONT-SIZE: 10.5pt">701</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>杨恒，男，<SPAN style="FONT-SIZE: 10.5pt">1973</SPAN>年出生，时任亚华种业副董事长、总裁，住址：长沙市雨花区劳动东路<SPAN style="FONT-SIZE: 10.5pt">179</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">904</SPAN>房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>陈建林，男，<SPAN style="FONT-SIZE: 10.5pt">1961</SPAN>年出生，时任亚华种业财务总监，住址：湖南省汨罗市屈原管理区机关宿舍。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>徐远忠，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年出生，时任亚华种业董事、董事会秘书，住址：长沙市芙蓉区韭菜园<SPAN style="FONT-SIZE: 10.5pt">106</SPAN>号北<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">602</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>周德安，男，<SPAN style="FONT-SIZE: 10.5pt">1954</SPAN>年出生，时任亚华种业副董事长，住址：湖南省城步苗族自治县儒林镇八角亭居委会周家冲<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>袁志成，男，<SPAN style="FONT-SIZE: 10.5pt">1956</SPAN>年出生，时任亚华种业董事，住址：长沙市开福区教育街<SPAN style="FONT-SIZE: 10.5pt">66</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>门<SPAN style="FONT-SIZE: 10.5pt">502</SPAN>房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>潘晓敏，男，<SPAN style="FONT-SIZE: 10.5pt">1957</SPAN>年出生，时任亚华种业独立董事，住址：长沙市南区胜利路<SPAN style="FONT-SIZE: 10.5pt">223</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>陈谦，男，<SPAN style="FONT-SIZE: 10.5pt">1969</SPAN>年出生，时任亚华种业独立董事，住址：长沙市芙蓉区恒达花园宿舍<SPAN style="FONT-SIZE: 10.5pt">7-1</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">705</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>张慧，男，时任亚华种业独立董事，住址不详。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据原《中华人民共和国证券法》（以下简称原《证券法》）的有关规定，本会对亚华种业虚假陈述及未按规定披露信息行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利，应部分当事人的要求举行了听证会，听取了当事人的陈述和申辩意见，现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，亚华种业存在以下违法行为：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.15pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">一、</SPAN><SPAN style="FONT-SIZE: 10.5pt">2003</SPAN><SPAN style="FONT-SIZE: 10.5pt">年年报未如实披露股东之间关联关系</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.15pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">亚华种业的</SPAN><SPAN style="FONT-SIZE: 10.5pt">第二、第四和第五大股东深圳市舟仁创业投资有限公司、北京世方旅游投资有限公司、怀化元亨发展有限公司均为湖南鸿仪投资发展有限公司（以下简称鸿仪投资）通过委托投资实际控制并行使相关股权和法定代表人职权的关联公司。<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>日，三家公司通过受让原股东股权形式，合计持有亚华种业<SPAN style="FONT-SIZE: 10.5pt">25.76%</SPAN>股份，超过第一大股东湖南省农业集团有限公司所持<SPAN style="FONT-SIZE: 10.5pt">25.35%</SPAN>股份，鸿仪投资成为亚华种业实质上第一大股东，并实际控制亚华种业。对上述情况，亚华种业在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中未如实披露，在</SPAN><SPAN style="FONT-SIZE: 10.5pt">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt">年年报中才予以披露。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">二、未按规定披露</SPAN><SPAN style="FONT-SIZE: 10.5pt">大股东及关联方资金占用情况</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">2003</SPAN><SPAN style="FONT-SIZE: 10.5pt">年亚华种业向实际控制人——鸿仪投资及其关联企业累计支付资金<SPAN style="FONT-SIZE: 10.5pt">31,285</SPAN>万元，截至<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日鸿仪投资及其关联企业实际占用亚华种业资金<SPAN style="FONT-SIZE: 10.5pt">11,485</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年亚华种业向鸿仪投资及其关联企业累计支付资金<SPAN style="FONT-SIZE: 10.5pt">7,372</SPAN>万元，截至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日鸿仪投资及其关联企业实际占用亚华种业资金<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">12,857</SPAN>万元。亚华种业在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年对达到临时报告披露要求的资金往来事项未履行临时披露义务，在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年报中也未按规定如实披露上述资金占用情况。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报未按规定披露银行借款<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>笔，共计<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>，<SPAN style="FONT-SIZE: 10.5pt">700</SPAN>万元。具体情况如下：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">28</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">日</SPAN>，亚华种业以鸿仪投资关联企业深圳市安隆达商贸有限公司（以下简称安隆达）的名义，在中国光大银行长沙华泰支行贷款两笔，期限为半年，金额合计<SPAN style="FONT-SIZE: 10.5pt">8,700</SPAN>万元。亚华种业对该借款及还款业务均未进行账务处理，也未在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）截至<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日亚华种业在农行长沙市城中支行银行贷款余额实际为<SPAN style="FONT-SIZE: 10.5pt">13,500</SPAN>万元。其中，有<SPAN style="FONT-SIZE: 10.5pt">5000</SPAN>万元贷款亚华种业未在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露，该笔贷款系公司虚减<SPAN style="FONT-SIZE: 10.5pt">2001</SPAN>年银行借款累计滚动形成，<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日亚华种业将该账外贷款补记入账。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日，亚华种业从湖南省农业综合开发办公室获得专项借款<SPAN style="FONT-SIZE: 10.5pt">1,000</SPAN>万元，亚华种业未进行账务处理，也未在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（四）<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日，湖南亚华置业有限公司由亚华种业提供存单质押担保向中信银行长沙红旗区支行贷款<SPAN style="FONT-SIZE: 10.5pt">2,000</SPAN>万元，期限为半年，亚华种业未将该笔贷款入账，也未在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、其他未如实披露<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报资产负债表事项</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）虚减银行借款和银行存款<SPAN style="FONT-SIZE: 10.5pt">4000</SPAN>万元。<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">22</SPAN>日，亚华种业控股子公司湖南亚华南山乳品营销有限公司（以下简称营销公司）在建行长沙市天心支行贷款<SPAN style="FONT-SIZE: 10.5pt">4,000</SPAN>万元，期限<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>年。<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日，营销公司在未归还上述未到期贷款的情况下，虚减了当期的短期借款和银行存款，致使亚华种业<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报资产负债表项目披露不实。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）虚增银行存款，虚减其他应收款<SPAN style="FONT-SIZE: 10.5pt">1,400</SPAN>万元。<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日，营销公司根据亚华种业的要求支付给安隆达<SPAN style="FONT-SIZE: 10.5pt">1,400</SPAN>万元，当期未进行账务处理，致使亚华种业<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报资产负债表披露不实。<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>日，营销公司将这笔款项补充进行账务处理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt; punctuation-wrap: simple"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五、未如实披露账外投资亏损事项</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt; punctuation-wrap: simple"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>亚华种业在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中未如实披露账外投资股票亏损事项及盈亏追溯调整情况，造成虚减年度利润<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">397</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">万元</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>六、未按规定披露重大投资事项</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>亚华种业<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日披露对深圳市亚泰生物发展有限公司（以下简称亚泰生物）投资<SPAN style="FONT-SIZE: 10.5pt">10,000</SPAN>万元，<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>日披露对亚泰生物增资<SPAN style="FONT-SIZE: 10.5pt">93,803,166.65</SPAN>元，但未按规定如实披露所出资产的过户、贷款抵押及亚泰生物的经营状况等事项。亚华种业<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年和<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报也未对上述事项进行如实披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>七、未及时披露有关担保事项</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，亚华种业<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年未及时披露担保事项<SPAN style="FONT-SIZE: 10.5pt">57,550</SPAN>万元，其中，有<SPAN style="FONT-SIZE: 10.5pt">15,650</SPAN>万元担保事项在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中也未披露；<SPAN style="FONT-SIZE: 10.5pt"> 2004</SPAN>年未及时披露担保事项<SPAN style="FONT-SIZE: 10.5pt">67,673</SPAN>万元，其中，有<SPAN style="FONT-SIZE: 10.5pt">3000</SPAN>万元的担保事项在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中也未披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">签字通过<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报及相关的董事会决议的时任董事长</SPAN><SPAN style="FONT-SIZE: 10.5pt">邹定民、副董事长兼总裁杨恒、董事兼财务总监陈建林、董事兼董事会秘书、副总裁徐远忠为上述行为的直接负责的主管人员，副董事长周德安、董事袁志成、独立董事潘晓敏、陈谦、张慧为其他直接责任人员。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt">上述事实，有</SPAN><SPAN style="FONT-SIZE: 10.5pt">相关担保合同、董事会决议、询问笔录、信息披露公告、有关人员就担保信息披露事项所作的书面说明以及<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年及<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报财务资料等证据证明。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任董事兼董事会秘书、副总裁徐远忠在陈述申辩中提出，任职期间曾向亚华种业董事长邹定民反映过鸿仪投资及其关联企业可能实际控制亚华种业以及占用亚华种业大量资金的问题，其后在追讨鸿仪投资及其关联企业占用亚华种业资金的问题上积极配合。经复核，上述情况属实，应予适当考虑。但是徐远忠身兼董事、董事会秘书及公司高级管理人员，对信息披露承担分管职责，且对部分担保、公司账外投资、鸿仪投资及其关联企业占用公司资金等事项知情，因此，对于公司信息披露违法负有不可推卸的责任。时任副董事长周德安、时任董事袁志成、时任独立董事潘晓敏在陈述申辩中提出，三人曾联名提议要求董事会调整亚华种业部分高管、聘请中介机构对大股东占用上市公司资产和资金情况进行清理、调整股东大会对董事会、董事会对经营班子的授权。经复核，上述情况属实，应予适当考虑。但是周德安、袁志成、潘晓敏至少在通过有关担保事项的董事会决议上签字，而对于该等事项应予披露一事未能勤勉履行义务，因此，对于公司有关信息披露违法仍应承担责任。时任独立董事陈谦在陈述申辩中提出，对亚华三个关联股东不知情，对资金占用及未如实披露等事项不知情，对未及时披露担保事项等问题应由管理当局及信息披露直接责任人承担。经审理，陈谦未能提出有关勤勉尽责的事实及证据，且其在通过有关担保的董事会决议上签字，而并未对披露与否表示过关注，因此，对于公司有关信息披露违法仍应承担责任。陈谦的上述理由不予采纳。时任董事兼财务总监<SPAN style="FONT-SIZE: 10.5pt">陈建林</SPAN>在陈述申辩中提出，<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年深交所已对其公开谴责，<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年财政部驻湘办事处已对其个人进行过罚款，根据“一事不二罚”的原则，申请能够减轻罚款或者只罚款免除行政警告处分。经审理，深交所的公开谴责并非行政行为，财政部驻湘办事处对其处罚与证监会处罚所适用的法律不同，因此，不存在<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>一事不二罚<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的问题。陈建林的上述理由不予采纳。<SPAN style="FONT-SIZE: 10.5pt">亚华种业在陈述</SPAN>申辩中提出，立案稽查后，公司迅速整改，调整领导班子，已解除大股东占用，对外担保问题已全部解决。经审理，公司在立案稽查后的改正行为在审理时已予相应考虑。亚华种业的上述理由不予采纳。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，亚华种业的上述行为违反了原《证券法》第五十九条所述“公司公告的股票或公司债券的发行和上市文件，必须真实、准确、完整，不得有虚假记载，误导性陈述或者重大遗漏”、第六十一条关于定期报告、第六十二条所述“发生可能对上市公司股票交易价格产生较大影响，而投资者尚未得知的重大事件时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所提交临时报告，并予以公告，说明事件的实质”的规定，构成了原《证券法》第一百七十七条所述“未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大遗漏的”行为。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节及社会危害程度，依据原《证券法》第一百七十七条有关虚假陈述行为的规定，我会决定如下：</FONT></SPAN></P>
+<P style="MARGIN: 0cm 1pt 0pt 64pt; TEXT-INDENT: -32.9pt; LINE-HEIGHT: 27pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">一、<SPAN style="FONT: 10.5pt 'Times New Roman'">　　&nbsp; </SPAN></SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">对亚华种业处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元罚款；</SPAN></FONT></FONT></P>
+<P style="MARGIN: 0cm 1pt 0pt 0cm; TEXT-INDENT: 31.1pt; LINE-HEIGHT: 27pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">二、<SPAN style="FONT: 10.5pt 'Times New Roman'">　　&nbsp; </SPAN></SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">对<A class=" FCK__AnchorC" style="FONT-SIZE: 10.5pt" name=_Hlk154996107>邹定民</A>、杨恒、陈建林分别给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>万元罚款；</SPAN></FONT></FONT></P>
+<P style="MARGIN: 0cm 1pt 0pt 0cm; TEXT-INDENT: 31.1pt; LINE-HEIGHT: 27pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">三、<SPAN style="FONT: 10.5pt 'Times New Roman'">　　&nbsp; </SPAN></SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">对徐远忠、陈谦、张慧分别给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元罚款；</SPAN></FONT></FONT></P>
+<P style="MARGIN: 0cm 1pt 0pt 0cm; TEXT-INDENT: 31.1pt; LINE-HEIGHT: 27pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">四、<SPAN style="FONT: 10.5pt 'Times New Roman'">　　&nbsp; </SPAN></SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">对周德安、袁志成、潘晓敏分别给予警告。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 25.2pt; LINE-HEIGHT: 27pt; MARGIN-RIGHT: 1pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>，并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会提出行政复议；也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 36pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 36pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 36pt"><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt; COLOR: black"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 　　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">中国证券监督管理委员会</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt" align=center><FONT style="FONT-SIZE: 10.5pt"><FONT face=宋体><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　&nbsp; 　　　　　　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">&nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">二○○八年四月八日</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 5.1pt; LINE-HEIGHT: 16pt">&nbsp;</P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100125_175867_ext.json

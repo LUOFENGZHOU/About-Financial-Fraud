@@ -1,0 +1,264 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（戴丽君、刘兴华）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2015年06月03日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（戴丽君、刘兴华）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2015〕12号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（戴丽君、刘兴华）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2015〕12号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔<FONT face="Times New Roman">2015</FONT><FONT face=方正仿宋简体>〕</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>号</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p16><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">当事人：戴丽君，女，<FONT face="Times New Roman">1964</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月出生，时任国信证券股份有限公司（以下简称国信证券）投资银行事业部业务六部总经理，住址：河北省廊坊市广阳区管道局。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p16><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">刘兴华，男，<FONT face="Times New Roman">1976</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月出生，时任国信证券投资银行事业部业务六部副总经理，住址：上海市黄浦区新永安路。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p16><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对戴丽君和刘兴华借用他人名义持有、买卖股票行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人戴丽君、刘兴华要求申辩和听证。<FONT face="Times New Roman">2015</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">16</FONT><FONT face=方正仿宋简体>日，我会依法举行听证会，听取了戴丽君和刘兴华的陈述、申辩。听证后，我会对戴丽君和刘兴华提出的申辩意见进行了复核。本案现已调查、审理终结。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p16><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，戴丽君和刘兴华存在以下借用他人名义持有、买卖股票的违法事实：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、戴丽君和刘兴华借用应某名义受让天润曲轴有限公司（以下简称天润公司）股权</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2007<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月，天润公司选择国信证券作为公司首次公开发行股票并上市（以下简称</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>）的保荐承销机构。戴丽君作为天润公司</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>项目承揽人和协调人，负责统筹安排、协调推进项目。刘兴华作为天润公司</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>项目的项目负责人，主要参与项目前期初步工作并负责项目后续事项的指导和把关。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2007<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月左右，投资人刘某初步确定以</FONT><FONT face="Times New Roman">13,040</FONT><FONT face=方正仿宋简体>万元的价格收购美林毛里求斯第二控股公司（以下简称美林公司）持有的天润公司</FONT><FONT face="Times New Roman">40%</FONT><FONT face=方正仿宋简体>的股权，并打算引入其他投资人一同收购该部分股权。刘某将上述想法告诉了戴丽君和刘兴华，并请戴丽君帮忙寻找或推荐合适的投资人。其后，戴丽君和刘兴华决定自己出资购买天润公司股权。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2007<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">14</FONT><FONT face=方正仿宋简体>日，刘某作为唯一受让方与美林公司签署《股权转让协议》，以</FONT><FONT face="Times New Roman">13,040</FONT><FONT face=方正仿宋简体>万元的价格受让天润公司</FONT><FONT face="Times New Roman">40%</FONT><FONT face=方正仿宋简体>股权。</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">21</FONT><FONT face=方正仿宋简体>日，戴丽君和刘兴华将各自筹集的</FONT><FONT face="Times New Roman">1,000</FONT><FONT face=方正仿宋简体>万元和</FONT><FONT face="Times New Roman">260</FONT><FONT face=方正仿宋简体>万元，分别通过他人银行账户转入刘某银行账户。为规避法律限制，戴丽君和刘兴华决定借用应某名义受让天润公司股权。</FONT><FONT face="Times New Roman">2007</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=方正仿宋简体>日，刘某向美林公司支付等价于</FONT><FONT face="Times New Roman">13,040</FONT><FONT face=方正仿宋简体>万元人民币的美元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2007<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=方正仿宋简体>日，按照前述实际出资比例，戴丽君以应某名义与刘某签署《股权转让协议》，由应某代戴丽君和刘兴华二人受让天润公司</FONT><FONT face="Times New Roman">3.87%</FONT><FONT face=方正仿宋简体>的股权。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2007<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日，天润公司由有限责任公司整体变更为股份有限公司，公司名称变更为天润曲轴股份有限公司（以下简称天润曲轴）。戴丽君和刘兴华以应某名义出资的</FONT><FONT face="Times New Roman">1,260</FONT><FONT face=方正仿宋简体>万元折合为股本</FONT><FONT face="Times New Roman">6,966,000</FONT><FONT face=方正仿宋简体>股，其中戴丽君实际持有</FONT><FONT face="Times New Roman">5,528,600</FONT><FONT face=方正仿宋简体>股，刘兴华实际持有</FONT><FONT face="Times New Roman">1,437,400</FONT><FONT face=方正仿宋简体>股。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2008<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>日，天润曲轴向中国证监会提交</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>申请。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">29</FONT><FONT face=方正仿宋简体>日，中国证监会核准天润曲轴</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>申请。</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">21</FONT><FONT face=方正仿宋简体>日，天润曲轴股票在深圳证券交易所上市交易。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、戴丽君和刘兴华卖出天润曲轴股票及获利情况</SPAN><SPAN style="FONT-FAMILY: '方正黑体简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">21</FONT><FONT face=方正仿宋简体>日，应某账户内的天润曲轴股票限售期满。之后，戴丽君将应某账户的账号和交易密码告诉了刘兴华，让刘兴华出售其实际持有的天润曲轴股票。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">27</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>日，刘兴华使用自有上网本，将应某账户内属于本人份额的</FONT><FONT face="Times New Roman">1,437,400</FONT><FONT face=方正仿宋简体>股天润曲轴股票全部卖出，成交金额</FONT><FONT face="Times New Roman">28,479,190.07</FONT><FONT face=方正仿宋简体>元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>日，戴丽君使用自有电脑，将应某账户内属于本人份额的</FONT><FONT face="Times New Roman">7,446,800</FONT><FONT face=方正仿宋简体>股天润曲轴股票全部卖出（包括上市前持有的</FONT><FONT face="Times New Roman">5,528,600</FONT><FONT face=方正仿宋简体>股和上市后权益分派获得的</FONT><FONT face="Times New Roman">1,918,200</FONT><FONT face=方正仿宋简体>股），成交金额</FONT><FONT face="Times New Roman">150,478,841.98</FONT><FONT face=方正仿宋简体>元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">戴丽君和刘兴华通过持有和卖出天润曲轴股票，获得税后现金股利和出售收入共计<FONT face="Times New Roman">155,476,831.81</FONT><FONT face=方正仿宋简体>元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2010<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>日至</FONT><FONT face="Times New Roman">13</FONT><FONT face=方正仿宋简体>日，按刘兴华出资比例，戴丽君将刘兴华应分得的</FONT><FONT face="Times New Roman">23,597,600</FONT><FONT face=方正仿宋简体>元资金分</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>笔转入刘兴华指定的他人银行账户。上述款项由刘兴华用于借款给他人、购房、购买理财产品等用途。除刘兴华分得的资金外，剩余资金</FONT><FONT face="Times New Roman">131,879,231.81</FONT><FONT face=方正仿宋简体>元由戴丽君实际支配和使用。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">通过借用应某名义持有和买卖天润曲轴股票，戴丽君和刘兴华合计实际获利<FONT face="Times New Roman">142,876,831.81</FONT><FONT face=方正仿宋简体>元，其中，戴丽君获利</FONT><FONT face="Times New Roman">121,879,231.81</FONT><FONT face=方正仿宋简体>元，刘兴华获利</FONT><FONT face="Times New Roman">20,997,600</FONT><FONT face=方正仿宋简体>元。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">以上事实，有相关工商登记资料、银行资料、证券账户资料、电脑信息和资料、国信证券提供的说明和资料、天润曲轴提供的说明和资料、当事人提供说明材料和当事人询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">戴丽君和刘兴华以应某名义持有、买卖天润曲轴股票的行为，违反了《证券法》第四十三条第一款关于证券公司的从业人员不得直接或者借他人名义持有、买卖股票的规定，构成了《证券法》第一百九十九条所述“法律、行政法规规定禁止参与股票交易的人员，直接或者以化名、借他人名义持有、买卖股票”的行为。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">案发后，戴丽君能够积极主动配合调查，如实供述自己的违法行为，有悔过表现，依据《中华人民共和国行政处罚法》（以下简称《行政处罚法》）第二十七条第（四）项的规定，可以酌情从轻处罚。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">听证中，戴丽君提出以下申辩意见，请求我会对其减轻或免除处罚：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其一，其借用应某名义受让天润公司股权并在天润曲轴发行上市后卖出的行为并不违法：（<FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>）《证券法》第四十三条并不禁止证券从业人员持有和买卖有限责任公司的“股权”，其受让并持有天润公司股权行为合法。（</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>）其作为天润曲轴的实际发起人之一，在天润曲轴上市后的</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>年限售期内持有天润曲轴股票，系遵从法律规定而被动持有，持有行为合法。（</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>）</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月后其已不再负责国信证券任何具体业务，实际上已离职；其于</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">8</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>日向国信证券提交辞职报告，根据《劳动合同法》有关“劳动者提前三十日以书面形式通知用人单位，可以解除劳动合同”的规定，其与国信证券的劳动合同于</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>日解除。故其卖出天润曲轴股票时已非证券从业人员，不再受《证券法》第四十三条约束，卖出行为合法。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其二，《证券法》第四十三条仅规制证券从业人员在股票二级市场上有损公平原则的内幕交易行为，并不禁止证券从业人员基于正常商业目的而买卖、持有股票。其不存在利用内幕信息进行交易的行为，故未违反该条。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其三，其实际离职或与国信证券解除劳动关系时间距我会立案时间<FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月已超过</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>年，依据《行政处罚法》第二十九条第一款有关</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>年时效的规定，其不应被行政处罚。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其四，其系通过正当途径从第三方获得投资机会，购买股权的价格公允，并未因身份原因获得任何优待。同时，其作为国信证券业务部门总经理，对涉案项目仅履行程序性、管理性职责，而无法对项目立项、承做、保荐上报等环节施加决定性影响，更无法掌控或决定项目能否上市成功。其入股行为仅出于单纯的投资判断，并不构成严重的利益冲突，未损害投资者利益，不会影响保荐机构对项目独立、客观、公正的判断。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其五，即使其行为构成违法，证监会认定的违法所得数额亦有误：（<FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>）其向他人筹资</FONT><FONT face="Times New Roman">1,000</FONT><FONT face=方正仿宋简体>万元所支付的</FONT><FONT face="Times New Roman">300</FONT><FONT face=方正仿宋简体>万元利息，应作为成本予以扣除。（</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>）因其购买股权行为合法，故该股权自购买日至上市日期间的增值属于合法收益，应予扣除。（</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>）天润曲轴上市后派发的现金股利和股份系其持有期间的合法收益，应予扣除。（</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>）其卖出天润曲轴股票行为合法，对应的收益为合法收益。（</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>）其在涉案行为发生后再次交易天润曲轴股票并严重亏损，实际获利少于</FONT><FONT face="Times New Roman">1.2</FONT><FONT face=方正仿宋简体>亿元。同时，其因身体原因已无法工作，无力支付相应罚没款。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其六，案发后，其积极配合调查，如实说明相关情况，深刻反省并悔过，根据《行政处罚法》第二十七条的规定，应当依法从轻处理。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，保荐机构从业人员在参与企业改制上市过程中，突击入股拟上市公司，待股票上市后高价卖出的行为，属于《证券法》第四十三条关于禁止证券从业人员参与股票交易的规制范畴，戴丽君的辩解理由不能成立：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其一，本案中戴丽君借用应某名义受让天润公司股权、持有天润曲轴股份（股票）、卖出天润曲轴股票，系在同一主观故意下实施的连续行为，即在拟上市公司改制阶段借他人名义突击入股，待公司股票发行上市后高价卖出获取巨大交易价差。上述连续行为共同构成了一个违法行为。（<FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>）在受让天润公司股权之前数月，戴丽君已作为天润公司</FONT><FONT face="Times New Roman">IPO</FONT><FONT face=方正仿宋简体>项目承揽人和协调人，负责统筹安排、协调推进天润公司改制上市工作。戴丽君借用应某名义受让股权以掩盖其实际出资人身份行为，表明其已充分知悉自身行为的违法性，并已着手实施《证券法》第四十三条规定的违法行为。（</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>）天润公司改制为天润曲轴后，戴丽君持有天润曲轴股份（股票）的行为，已违反《证券法》第四十三条的规定。法律对限售期的规定，与戴丽君行为是否构成违法之间，并无关联。（</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>）戴丽君卖出天润曲轴股票的行为，属于违法行为获利目的实现。该卖出行为无论是发生在其离职前，还是在其离职后，均不影响对其涉案行为违法性质的认定。根据国信证券出具的任职文件，戴丽君离职时间为</FONT><FONT face="Times New Roman">2011</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>日，而非其申辩中所称的</FONT><FONT face="Times New Roman">2009</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月或</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>日。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其二，《证券法》第四十三条并无规制证券从业人员在股票二级市场进行内幕交易的规定。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其三，<FONT face="Times New Roman">2012</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月，审计署京津冀特派办已发现戴丽君等人违法行为线索并启动核查程序，该“发现”时点距戴丽君等人涉案违法行为终了未超过</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>年。我会根据审计署建议对戴丽君等人进行查处，并不存在超过</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>年行政处罚时效的问题。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其四，我会在处理本案时，已对戴丽君在天润曲轴发行上市中的身份、地位、作用等情节予以考量。作为涉案项目的承揽人和协调人，戴丽君较一般投资者更了解天润公司何时改制、是否符合发行上市条件等信息，其在国信证券项目组已进驻天润公司开始改制辅导等工作的情况下，借用应某名义突击入股天润公司的行为，既利用了自身的信息优势，也与保荐机构专业人员独立、客观、公正的执业原则产生了严重的利益冲突，应依法予以惩处。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其五，我会认定戴丽君涉案行为的违法所得时，已依法扣除其投入的成本<FONT face="Times New Roman">1,000</FONT><FONT face=方正仿宋简体>万元。戴丽君筹资的相关支出，与本案违法所得认定没有关系，不应抵减。同时，无论是天润公司股权自购买日至上市日期间的增值额，还是天润曲轴发行上市后派发的现金股利和股份，或是天润曲轴股票卖出后的获利，均系戴丽君实施同一违法行为的获利，我会将其作为违法所得予以没收，并无不妥。其在涉案行为发生终结后再次交易天润曲轴股票的亏损以及是否有能力支付罚没款，则与本案违法所得的认定无关。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 30.05pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其六，我会在作出处理决定前，已充分考虑了戴丽君提出的配合调查、有悔过表现等情节。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">听证中，刘兴华提出以下申辩意见，请求我会对其免予处罚：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其一，应某系代程某某持有对天润公司的<FONT face="Times New Roman">260</FONT><FONT face=方正仿宋简体>万元投资。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其二，在涉案项目中其只是名义项目负责人，参与工作不多，并未承担关键角色，对天润曲轴发行上市没有决策力和影响力，更不存在组织、策划、领导的主观意图和客观能力。其与天润曲轴发行上市并无任何利益冲突。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其三，其在接受证监会调查时言辞前后不一致，主要源于当时对法律的无知、面临的巨大心理压力以及出于保护朋友目的，而并非恶意隐瞒或歪曲事实。</SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会认为，刘兴华的辩解理由不能成立：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其一，刘兴华借用应某名义持有、买卖天润曲轴股票的事实清楚、证据确凿。本案中应某<FONT face="Times New Roman">1,260</FONT><FONT face=方正仿宋简体>万元出资中</FONT><FONT face="Times New Roman">260</FONT><FONT face=方正仿宋简体>万元来源于刘兴华岳父银行账户；刘兴华本人操作应某账户卖出</FONT><FONT face="Times New Roman">260</FONT><FONT face=方正仿宋简体>万元出资对应的天润曲轴股票；卖出天润曲轴股票后回收的资金</FONT><FONT face="Times New Roman">2,359.76</FONT><FONT face=方正仿宋简体>万元由戴丽君按刘兴华的要求转入刘兴华朋友赵某某银行账户，赵某某留下其向刘兴华的</FONT><FONT face="Times New Roman">500</FONT><FONT face=方正仿宋简体>万元借款后，按刘兴华要求将剩余的</FONT><FONT face="Times New Roman">1,859.76</FONT><FONT face=方正仿宋简体>万元转入刘兴华岳母银行账户；转入刘兴华岳母银行账户的资金由刘兴华支配使用，资金用途包括以刘兴华弟弟名义在北京购买一处房产、购买银行理财产品等。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其二，作为项目负责人，刘兴华如何具体开展工作及工作量多少，均不影响我会对其违法行为的定性，其在天润曲轴发行上市中的身份、地位、作用等因素，我会已作为违法情节予以考量。刘兴华以他人名义突击入股拟上市公司的行为，既利用了自身的信息优势，也与保荐机构专业人员独立、客观、公正的执业原则产生了严重的利益冲突，应依法予以惩处。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">其三，作为资深投行人士，刘兴华有较长的从业经历，具有保荐代表人身份，曾主办或参与多个发行上市项目，知悉法律禁止证券从业人员参与股票交易的规定。其在接受调查过程中言辞前后不一致，绝非出于其自称的“对法律的无知、巨大的心理压力或者保护朋友目的”，而是为了逃避法律制裁而刻意隐瞒或编造相关事实。程某某向我会提供的说明材料所述事实，或者与客观情况不符，或者与常理不符，其相关言辞也不足以采信。</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">我会调查取得的证据显示：（<FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>）第一次接受询问，刘兴华故意隐瞒了应某账户代持股份的情况。（</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>）第二次接受询问，刘兴华称其在受让天润公司</FONT><FONT face="Times New Roman">260</FONT><FONT face=方正仿宋简体>万元股权后认为风险较大，故将其全部转让给朋友赵某某。赵某某向其岳母银行账户的转款</FONT><FONT face="Times New Roman">1,800</FONT><FONT face=方正仿宋简体>余万元系他个人向赵某某的借款。而赵某某在接受我会调查时明确表示，他从未投资过天润公司，仅向刘兴华借款</FONT><FONT face="Times New Roman">500</FONT><FONT face=方正仿宋简体>万元。（</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>）在我会已查证刘兴华所述不实的情况下，刘兴华在第三次询问中，明确承认是其本人购买天润公司股权并以应某名义代持，同时承认为规避风险，其通过赵某某银行账户将资金转入岳母银行账户供其本人支配使用。（</FONT><FONT face="Times New Roman">4</FONT><FONT face=方正仿宋简体>）</FONT><FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">7</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">11</FONT><FONT face=方正仿宋简体>日，刘兴华在向我会提供的说明材料中改称，</FONT><FONT face="Times New Roman">260</FONT><FONT face=方正仿宋简体>万元投资款中包括他本人家庭出资</FONT><FONT face="Times New Roman">175</FONT><FONT face=方正仿宋简体>万元、岳父母出资</FONT><FONT face="Times New Roman">20</FONT><FONT face=方正仿宋简体>万元、赵某某出资</FONT><FONT face="Times New Roman">30</FONT><FONT face=方正仿宋简体>万元、程某某出资</FONT><FONT face="Times New Roman">35</FONT><FONT face=方正仿宋简体>万元。（</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>）</FONT><FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">10</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">24</FONT><FONT face=方正仿宋简体>日，刘兴华再次向我会提供说明材料和程某某的证言，又改变之前说法，称</FONT><FONT face="Times New Roman">260</FONT><FONT face=方正仿宋简体>万元投资完全属于程某某，与其本人没有任何关系。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">程某某提供的证言称，其以应某名义投资<FONT face="Times New Roman">260</FONT><FONT face=方正仿宋简体>万元受让天润公司股权，上述资金来源于其父亲建筑施工时的收入，并一直以现金形式放在家里；刘兴华岳母银行卡从</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>月至调查时（</FONT><FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">19</FONT><FONT face=方正仿宋简体>日）一直由其保管。经查：（</FONT><FONT face="Times New Roman">1</FONT><FONT face=方正仿宋简体>）程某某的父亲在退休前在村委会工作，母亲则一直在务农，程某某未提供证明其父从事建筑施工并取得巨额收入的证据。（</FONT><FONT face="Times New Roman">2</FONT><FONT face=方正仿宋简体>）程某某的家庭收入亦不支持其出资</FONT><FONT face="Times New Roman">260</FONT><FONT face=方正仿宋简体>万元的说法。程某某</FONT><FONT face="Times New Roman">2013</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">5</FONT><FONT face=方正仿宋简体>月与妻子离婚时，没有共同的房产，财产分割时仅付给妻子</FONT><FONT face="Times New Roman">9</FONT><FONT face=方正仿宋简体>万元现金。（</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>）刘兴华岳母银行账户流水显示该银行卡在</FONT><FONT face="Times New Roman">2010</FONT><FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">12</FONT><FONT face=方正仿宋简体>月后有多笔在香港的消费记录，而程某某称其从未去过香港。综上，程某某的上述证言，或没有证据支持，或被查证为伪证，不足采信。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十九条的规定，我会决定：</SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、没收戴丽君违法所得<FONT face="Times New Roman">121,879,231.81</FONT><FONT face=方正仿宋简体>元，并处以</FONT><FONT face="Times New Roman">300</FONT><FONT face=方正仿宋简体>万元的罚款；</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、没收刘兴华违法所得<FONT face="Times New Roman">20,997,600</FONT><FONT face=方正仿宋简体>元，并处以</FONT><FONT face="Times New Roman">150</FONT><FONT face=方正仿宋简体>万元的罚款。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p16><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起<FONT face="Times New Roman">15</FONT><FONT face=方正仿宋简体>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：</FONT><FONT face="Times New Roman">7111010189800000162</FONT><FONT face=方正仿宋简体>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">60</FONT><FONT face=方正仿宋简体>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会&nbsp;</SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN><SPAN style="FONT-FAMILY: '方正仿宋简体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2015<FONT face=方正仿宋简体>年</FONT><FONT face="Times New Roman">6</FONT><FONT face=方正仿宋简体>月</FONT><FONT face="Times New Roman">3</FONT><FONT face=方正仿宋简体>日</FONT></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20150623_279508_ext.json

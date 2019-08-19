@@ -1,0 +1,274 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书(王建森)</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2013年09月05日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书(王建森)</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2013〕40号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书(王建森)";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2013〕40号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">〔2013〕40号</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p17><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　当事人：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">王建森，男，1981年11月出生，住址：黑龙江省哈尔滨市平房区建文街。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对王建森操纵</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">深圳中冠纺织印染股份有限公司（以下简称ST中冠A）股票价格</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">违法行为进行了立案调查、审理，并依法向王建森告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，我会根据王建森的请求举行了听证会。本案现已调查、审理终结。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">经查明，王建森存在以下违法事实：</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">一、本案所涉账户情况</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　2007年3月2日，王建森实名账户开立。2012年9月10日至2012年9月28日期间，王建森账户交易股票共使用15个IP地址，经查询均显示在黑龙江省哈尔滨市，MAC地址显示为王建森本人使用的电脑。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">王建森在其笔录中称：“王建森账户从开立至今都是由我本人操作交易，没有其他人操作，交易决策都是我自己决定，资金也都是我们家庭自有资金，账户盈亏收益都归我自己。”</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">二、王建森操纵ST中冠A股价情况</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">王建森在2012年9月10日至9月28日期间，共计买入6,789,807股“ST中冠A”，全部卖出，亏损325,340.37元。王建森采取了多种方式操纵ST中冠A股价，具体包括：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　（一）开盘期间虚假申报</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">王建森2012年9月10日至9月28日期间共计有7天交易“ST中冠A”采取开盘虚假申报手段操纵开盘价，具体为：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月11日，在集合竞价阶段9：17：01，以当日涨停价6.43元大单申报买入915,400股，9：17：20全部撤单，占集合竞价阶段市场撤单量99.46%，申报和撤单时刻间隔仅19秒，申报前一秒市场同档位其他投资者买入申报总量仅1,100股，申报前一秒市场前10档买入申报总量仅18,900股。当日该账户集合竞价阶段共申买2笔，共计申买925,400股，占集合竞价阶段市场申买量的96.71%，当日开盘价格以6.27元开盘，较前一交易日收盘价涨幅2.45%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月12日，在集合竞价阶段9：15：4498，以第2档价格6.61元申报买入172,800股，9：17：5942全部撤单，占集合竞价阶段市场撤单量100%，申报和撤单时刻间隔仅134秒，申报前一秒市场同档位其他投资者买入申报总量0股，申报前一秒市场前10档买入申报总量仅8,000股。9：23：5223以6.38元的价格在第8档申报买入692，200股，造成买盘大的假象，并于9：30：2281全部撤单，撤单时该申报尚处于买入第6档。当日该账户集合竞价阶段共申买2笔，共计申买865,000股，占集合竞价阶段市场申买量的96.66%，当日开盘价格以6.45元开盘，较前一交易日收盘价涨幅1.56%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月14日，在集合竞价阶段9：15：1902，以当日涨停价6.88元大单申报买入278,700股，占开盘集合竞价期间全部涨停价位申报买入量的93.46%，9：19：4737全部撤单。之后又于9：24：1474、9：24：4044、9：30：3961分别以6.68元至6.62元在买入的第5至第3档价格之间申报买入合计330,300股，造成买大的假象，9：33：25全部撤单。其中，集合竞价阶段，共计申报3笔，申报占全部市场申买量的74.87%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月21日，在集合竞价阶段的9：20：2635，以买入第1档申报买入83,100股，未成交并于9：43：0080撤单，撤单档位为买入第8档。集合竞价阶段账户申买量占市场申买量比例为79.36%。当日开盘价6.86元，较前一交易日收盘价跌幅-1.15%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月25日，在集合竞价阶段9：15：3936，以7元申报买入103,300股，占全部市场申买量的78.49%，9：15：4773撤单，申报和撤单时刻仅间隔8.37秒。集合竞价阶段账户撤单量占市场撤单量100%，账户申买量占市场申买量78.50%。当日开盘价6.99元，较前一交易日收盘价下跌-0.99%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月27日，在集合竞价阶段9：15：2978，以6.69元价格分别挂出164,100股买单，随后9：19：3826全部撤单。集合竞价阶段账户申买量占市场申买量79.12%，当日开盘价6.71元，较前一交易日收盘价下跌-4.68%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月28日，在集合竞价阶段9：15：3703，以当天跌停价格6.46元挂出724,700股买单，9：19：1831全部撤单，集合竞价阶段账户申买量占市场申买量84.22%。当日开盘价6.49元，较前一交易日收盘价下跌-4.55%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（二）反向交易并自成交</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">王建森2012年9月10日至9月28日期间交易“ST中冠A”共计有9天存在反向交易并自成交情况，其中当日自成交笔数超过10笔的有5天，9月14日13笔、21日15笔、24日23笔、25日17笔、27日18笔；当日自成交量占买入成交量比例超过50%的有4天，9月21日占67.83%、24日占90.49%、25日占67.32%、27日占86.11%；当日自成交量占卖出成交量比例超过50%的有5天，9月13日占100%、14日占66.57%、20日占98.14%、21日占71.67%、24日占90.52%；当日自成交量占市场成交总量比例超过50%的有1天，9月24日占69.27%。具体情况如下：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月13日，当日自成交笔数4笔，自成交量152,580股，自成交量占买入成交量比例27.28%，自成交量占卖出成交量比例100%，自成交量占市场成交总量比例26.35%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月14日，当日自成交笔数13笔，自成交量295,050股，自成交量占买入成交量比例41.77%，自成交量占卖出成交量比例66.56%，自成交量占市场成交总量比例18.68%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月20日，当日自成交笔数2笔，自成交量52,710股，自成交量占卖出成交量比例98.14%，自成交量占市场成交总量比例5.90%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月21日，当日自成交笔数15笔，自成交量818,240股，自成交量占买入成交量比例67.82%，自成交量占卖出成交量比例71.67%，自成交量占市场成交总量比例36.54%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月24日，当日自成交笔数23笔，自成交量1,175,600股，自成交量占买入成交量比例90.48%，自成交量占卖出成交量比例90.51%，自成交量占市场成交总量比例69.27%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月25日，当日自成交笔数17笔，自成交量587,488股，自成交量占买入成交量比例67.31%，自成交量占卖出成交量比例48.41%，自成交量占市场成交总量比例35.82%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月26日，当日自成交笔数9笔，自成交量130,100股，自成交量占买入成交量比例22.19%，自成交量占卖出成交量比例38.74%，自成交量占市场成交总量比例10.73%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月27日，当日自成交笔数18笔，自成交520,000股，自成交量占买入成交量比例86.11%，自成交量占卖出成交量比例41.80%，自成交量占市场成交总量比例27.85%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">（三）收盘期间虚假申报</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　王建森2012年9月10日至9月28日期间交易“ST中冠A”有6天采取尾盘虚假申报方式操纵收盘价，分别为2012年9月11日、14日、19日、20日、21日、24日、26日、27日，具体情况如下：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月11日14：58：3265至收盘，申买1笔，申买量645,600股，买入成交量809股，账户申买量占该时段市场申买量99.95%，账户申买量占收盘前15分钟市场申买量96.1%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月14日14：45：5827至14：56：5260，申买笔数12笔，申买量375,000股，买入成交量220,700股，买入成交量占该时段市场成交量91.65%，申买量占该时段市场申买量88.86%，该时段股价涨幅0.89%，当日收盘前15分钟股价涨幅1.34%，买入成交量占收盘前15分钟市场成交量88.77%，申买量占收盘前15分钟市场申买量86.66%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月19日14：45：3193至14：53：1196，申买笔数3笔，申买量78,500股，买入成交量52,500股，买入成交量占该时段市场成交量79.90%，申买量占该时段市场申买量71.42%，该时段股价涨幅1.05%，当日收盘前15分钟股价涨幅1.20%，买入成交量占收盘前15分钟市场成交量49.06%，申买量占收盘前15分钟市场申买量30.79%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月20日14：56：5455至14：59：5451，申买笔数2笔，申买量203,700股，买入成交量50,000股，买入成交量占该时段市场成交量100%，申买量占该时段市场申买量93.61%，该时段股价涨幅2.08%，当日收盘前15分钟股价涨幅1.61%，买入成交量占收盘前15分钟市场成交量31.74%，申买量占收盘前15分钟市场申买量76.43%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月21日14：54：2239至14：59：5324，申买笔数3笔，申买量302,500股，买入成交量200,000股，买入成交量占该时段市场成交量87.52%，申买量占该时段市场申买83.79%，该时段股价涨幅1.41%，当日收盘前15分钟股价涨幅0.13%，买入成交量占收盘前15分钟市场成交量63.29%，申买量占收盘前15分钟市场申买量74.43%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月24日14：48：1936至14：56：5581，申买笔数3笔，申买量300,000股，买入成交量100,000股，买入成交量占该时段市场成交量81.03%，申买量占该时段市场申买90.06%，该时段股价涨幅0.86%，当日收盘前15分钟股价涨幅1.58%，买入成交量占收盘前15分钟市场成交量42.68%，申买量占收盘前15分钟市场申买量80.60%。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　（四）连续交易</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　王建森2012年9月10日至9月28日期间连续交易“ST中冠A”情况：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月10日王建森总共买入“ST中冠A”306,150股，合计买成交量排名市场第一。该股当天涨停。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月11日9：24：5930至10：22：1356，买成交量99，900股，占账户当日买成交量比例99.19%，占同期市场成交量比例17.54%，申买17笔，申买量为3933400股，占同期市场申买量比重为79.64%，第一笔申买时刻之前的最后一笔市场成交价为6.12元，最后一笔申买时刻之后的第一笔市场成交价为6.42元，期间股价涨跌幅为4.90%。当日合计申报买入5,494,400股，占市场申买量比例为74.87%，合计申买量排名市场第一，合计买成交量100,709股，占市场成交量比例为9.91%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月12日9：30：3753至10：05：1834，买成交量48,222股，占账户当日买成交量比例100%，占同期市场成交量比例19.40%，申买9笔，申买量为966,200股，申买量占同期市场申买量比重为60.84%，第一笔申买时刻之前的最后一笔市场成交价为6.55元，最后一笔申买时刻之后的第一笔市场成交价为6.32元，期间股价涨跌幅为-3.51%。合计申报买入5,494,400股，占市场申买量比例为74.87%，合计申买量排名市场第一，合计买成交量100,709股，占市场成交量比例为9.91%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月13日，合计申报买入882,700股，占市场申买量比例42.90%，合计申买量排名市场第一，合计买成交量559,184股，占市场成交量比例96.6%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月14日9：56：2996至10：48：0974，买成交量247,599股，买成交量占账户当日买成交量比例35.05%，买成交量占同期市场成交量比例57.73%，卖成交量143,500股，卖成交量占当日卖成交量比例32.37%，卖成交量占同期市场成交量比例33.45%。申买25笔，申买量为690,400股，申买量占同期市场申买量比重为67.78%，申卖5笔，申卖量占同期市场申卖量比重40.99%，第一笔申买时刻之前的最后一笔市场成交价为6.59元，最后一笔申买时刻之后的第一笔市场成交价为6.77元，期间股价涨跌幅达2.73%。当日合计申报买入2,567,500股，占市场申买量比例59.15%，合计申买量排名市场第一，合计买成交量706,319股，占市场成交量比例44.73%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月17日，当日合计申报买入12,600股，占市场申买量比例1.64%，合计买成交量4,200股，占市场成交量比例1.35%。当日股价跌停。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月18日，当日股价跌0.47%，申报卖出262,600股，除开盘集合竞价阶段9：16：0141以卖1档申报外，其他3笔都以卖出第5、6档申报，均未成交。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月19日9：15：5264至9：18：4658挂出4笔申报卖单，均未成交全部撤单。14：30：1846至14：35：2701挂出3笔卖单，未成交全部撤单。14：17：2733至14：53：1196，在该时段内的买成交量155,600股，买成交量占账户当日买成交量比例86.87%，买成交量占同期市场成交量比例84.01%。申买22笔，申买量为193,500股，申买量占同期市场申买量比重为40.85%，申卖3笔，申卖量占同期市场申卖量比重64.07%，第一笔申买时刻之前的最后一笔市场成交价为6.50元，最后一笔申买时刻之后的第一笔市场成交价为6.73元，期间股价涨跌幅达3.53%。当日合计申报买入193,500股，占市场申买量比例18.45%，合计申买量排名市场第一，合计买成交量179100股，占市场成交量比例52.20%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月20日，9：16：0018至9：17：1855挂出3笔申报卖单共计16,100股，均未成交撤单。9：31：1221至14：43：0913，买成交量162,700股，买成交量占账户当日买成交量比例51.23%，买成交量占同期市场成交量比例23.26%，卖成交量53,710股，卖成交量占当日卖成交量比例100%，卖成交量占同期市场成交量比例7.67%。申买21笔，申买量为818，300股，申买量占同期市场申买量比重为46.44%，第一笔申买时刻之前的最后一笔市场成交价为6.8元，最后一笔申买时刻之后的第一笔市场成交价为6.74元，期间股价涨跌幅达-0.88%。当日合计申报买入1,022,000股，占市场申买量比例49.25%，合计申买量排名市场第一，合计买成交量317,550股，占市场成交量比例35.56%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月21日，9：20：2635买1档申报买入83,100股，未成交9：43：0080撤单，撤单档位买8档。9：35：5468至9：36：4586，以7.17元至7.12元的价格挂出6笔卖出申报18,000股，13：34：3143除主动撤单6,000股之外，余下12,000股全部成交。9：48：5141至14：59：5324，买成交量1,206,385股，买成交量占账户当日买成交量比例100%，买成交量占同期市场成交量比例55.24%，卖成交量1,141,630股，卖成交量占当日卖成交量比例100%。申买33笔，申买量为2,065,300股，申买量占同期市场申买量比重为42.60%，申卖49笔，申卖量占同期市场申卖量比重42.53%，第一笔申买时刻之前的最后一笔市场成交价为6.69元，最后一笔申买时刻之后的第一笔市场成交价为7.17元，期间股价涨跌幅达7.17%。当日合计申报买入2,148,400股，占市场申买量比例42.71%，合计申买量排名市场第一，合计买成交量1,206,385股，占市场成交量比例53.88%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月24日11：29：5220至13：06：0447，买成交量449,900股，买成交量占账户当日买成交量比例34.62%，买成交量占同期市场成交量比例94.75%，卖成交量435,500股，卖成交量占当日卖成交量比例33.53%，卖成交量占同期市场成交量比例91.72%。申买6笔，申买量为539,900股，申买量占同期市场申买量比重为91.27%。13：28：4335至13：30：4725，买成交量304,100股，买成交量占账户当日买成交量比例23.40%，买成交量占同期市场成交量比例99.80%，卖成交量304,000股，卖成交量占当日卖成交量比例23.40%，卖成交量占同期市场成交量比例99.77%。申买5笔，申买量为465,900股，申买量占同期市场申买量比重为99.84%，申卖2笔，申卖量占同期市场申卖量比重99.75%，第一笔申买时刻之前的最后一笔市场成交价为7.10元，最后一笔申买时刻之后的第一笔市场成交价为7.13元，期间股价涨跌幅为0.42%。14：02：0457至14：15：3339，买成交量200,000股，买成交量占账户当日买成交量比例15.39%，买成交量占同期市场成交量比例86.35%，卖成交量206,300股，卖成交量占当日卖成交量比例15.88%，卖成交量占同期市场成交量比例89.07%，申买3笔，申买量为254,300股，占同期市场申买量比重为91.77%，申卖3笔，占同期市场申卖量比重70.58%，第一笔申买时刻之前的最后一笔市场成交价为7.07元，最后一笔申买时刻之后的第一笔市场成交价为7.02元，期间股价跌0.71%；14：48：1936至14：56：5581，买成交量100,000股，买成交量占账户当日买成交量比例7.69%，买成交量占同期市场成交量比例81.03%，卖成交量79,400股，占当日卖成交量比例6.11%，卖成交量占同期市场成交量比例64.34%，申买3笔，申买量为300,000股，占同期市场申买量比重为90.06%，申卖1笔，占同期市场申卖量比重64.68%，第一笔申买时刻之前的最后一笔市场成交价为6.97元，最后一笔申买时刻之后的第一笔市场成交价为7.03元，期间股价涨跌幅为0.86%。当日合计申报买入1,822,700股，占市场申买量比例67.84%，合计申买量排名市场第一，合计买成交量1,299,200股，占市场成交量比例76.55%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月25日9：57：2164至10：36：4824，买成交量771,800股，买成交量占账户当日买成交量比例88.43%，买成交量占同期市场成交量比例73.26%，卖成交量769,800股，卖成交量占当日卖成交量比例63.43%，卖成交量占同期市场成交量比例73.07%。申买7笔，申买量为1,215,000股，申买量占同期市场申买量比重为81.17%，申卖55笔，申卖量占同期市场申卖量比重79.10%，第一笔申买时刻之前的最后一笔市场成交价为6.71元，最后一笔申买时刻之后的第一笔市场成交价为6.74元，期间股价涨跌幅0.45%。当日合计申报买入3,273,700股，占市场申买量比例79.74%，合计申买量排名市场第一，该账户合计买成交量872,688股，占市场成交量比例53.21%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月26日11：00：2852至13：34：4557，买成交量90,900股，买成交量占账户当日买成交量比例15.50%，买成交量占同期市场成交量比例55.56%。申买21笔，申买量为108,900股，申买量占同期市场申买量比重为28.03%，申卖2笔，申卖量占同期市场申卖量比重21.64%，第一笔申买时刻之前的最后一笔市场成交价为6.47元，最后一笔申买时刻之后的第一笔市场成交价为6.49元，期间股价涨跌幅0.31%。当日合计申报买入673,600股，占市场申买量比例38.26%，合计申买量排名市场第一，合计买成交量586,200股，占市场成交量比例48.36%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月27日14：55：2518至14：59：5449，申买4笔，申买量为1,540,000股，申买量占同期市场申买量比重为98.55%，第一笔申买时刻之前的最后一笔市场成交价为6.77元，最后一笔申买时刻之后的第一笔市场成交价为6.80元，期间股价涨跌幅0.44%。当日合计申报买入2,545,100股，占市场申买量比例53.65%，合计申买量排名市场第一，合计买成交量603,900股，占市场成交量比例32.34%，合计买成交量排名市场第一。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月28日，9：15：3703，王建森以6.46元当天跌停价格挂出724,700股买单，9：19：1831全部撤单，集合竞价阶段账户申买量占市场申买量84.22%。9：30：3973以6.46元价格委托买入77,300股，9：35：1370全部撤单。当日股票全部卖出，卖出价格为6.46元至6.59元。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　以上违法事实有相应书证、谈话笔录、交易数据、以及当事人确认的电子数据截屏等证据证明。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2012年9月10日至9月28日期间王建森共计有7天交易“ST中冠A”采取虚假申报手段操纵开盘价，有6天采取尾盘虚假申报方式操纵收盘价，共计有9天存在自成交情况，其中当日自成交笔数超过10笔的有5天，当日自成交量占买入成交量比例超过50%的有4天，最高达90.49%，当日自成交量占卖出成交量比例超过50%的有5天，最高达100%，当日自成交量占市场成交总量比例超过50%的有1天为69.27%。同时，王建森还利用资金或持股优势连续买卖“ST中冠A”。在王建森交易“ST中冠A”期间，该股成交量放大，日均成交116万股，之前该股日均成交量（取14个交易日）仅为28万股，之后该股日均成交量（取14个交易日）为51.86万股。“ST中冠A”的股价从2012年9月10日的5.85元（开盘价）上涨至9月28日的6.46元（收盘价），最高涨至7.22元（9月21日盘中价）。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　王建森的交易数据能够证明王建森有操纵ST中冠A股价的故意并实施了操纵行为，操纵行为对ST中冠A股价有一定的影响力。同时，王建森的交易行为对“ST中冠A”的成交量和股价产生了影响。王建森于2012年9月10日至9月28日期间利用资金或持股优势连续买卖、虚假申报、反向交易并自成交等方式交易“ST中冠A”，影响该股价格的行为构成《证券法》第七十七条规定所述的情形。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2013年6月28日我会向当事人送达《行政处罚事先告知书》。2013年7月31日，应王建森的请求召开听证会。王建森对《行政处罚事先告知书》认定的违法事实无异议，但提出以下申辩意见请求减免处罚：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　在我会调查过程中，其积极配合调查并如实讲述了买卖ST中冠A股票的全过程；其操纵ST中冠A股价只用了本人一个账号，且资金量不大，违法情节不重；其操纵ST中冠A股价没有获利，反而亏损，受到了市场的处罚；与我会以往处罚的案件相比，对其处罚偏重。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　针对王建森上述申辩意见，我会经复核认为：</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　　根据《证券法》第二百零三条的规定，操纵证券市场没有违法所得或者违法所得不足30万元的，我会可处以30万元以上300万元以下的罚款。王建森操纵ST中冠A股票，亏损325,340.37元，依法可以处以30至300万元罚款。考虑到王建森调查期间较配合，能比较坦白地交代自己的违法行为及动机，认识到自己给市场造成异常波动的后果并感到后悔，已酌情从轻处罚。王建森用以比较处罚幅度的其他处罚决定与本案属于不同案由，违法事实性质不同，不具可比性。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p18><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">据此，依照《证券法》第二百零三条之规定，我会决定：对王建森处以60万元的罚款。</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; TEXT-INDENT: 21pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起3个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; LAYOUT-GRID-MODE: char; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all" class=p0><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">2013年9月5日</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 10.5pt; mso-spacerun: 'yes'">　</SPAN><SPAN style="FONT-FAMILY: '宋体'; FONT-SIZE: 15pt; mso-spacerun: 'yes'">　　　</SPAN><SPAN style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 15pt; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20131018_236580_ext.json

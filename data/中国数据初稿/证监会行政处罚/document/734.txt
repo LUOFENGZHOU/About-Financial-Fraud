@@ -1,0 +1,267 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（德棉股份、李会江等14名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-02929</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年06月03日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（德棉股份、李会江等14名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2009]18号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（德棉股份、李会江等14名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2009]18号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1268635019375'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1268635019375 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635019375 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635019375 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635019375 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635019375 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<P class=Custom_UnionStyle align=center><SPAN><FONT style="FONT-SIZE: 12pt" face=黑体>〔<SPAN style="FONT-SIZE: 12pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 12pt">18</SPAN>号</FONT></SPAN></P>
+<P class=Custom_UnionStyle>&nbsp;</P>
+<P class=Custom_UnionStyle><SPAN>当事人：</SPAN><SPAN>山东德棉股份有限公司（以下简称德棉股份，股票代码<SPAN>002072</SPAN>），住所：山东省德州市顺河西路<SPAN>18</SPAN>号，<SPAN>法定代表人尉华。</SPAN></SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>李会江，男，<SPAN>1962</SPAN>年<SPAN>10</SPAN>月<SPAN>10</SPAN>日出生，<SPAN>2001</SPAN>年<SPAN>7</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月我会调查结束时担任德棉股份董事、总经理，<SPAN>2007</SPAN>年<SPAN>7</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月兼任山东德棉集团有限公司<SPAN>(</SPAN>以下简称德棉集团<SPAN>)</SPAN>董事长，住址：山东省德州市国棉宿舍七区<SPAN>58</SPAN>楼<SPAN>58</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>周庆春，男，<SPAN>1948</SPAN>年<SPAN>2</SPAN>月<SPAN>20</SPAN>日出生，<SPAN>2003</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份董事长、法定代表人，住址：山东省德州市三八路<SPAN>194</SPAN>号<SPAN>11</SPAN>楼<SPAN>203</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>王加毅，男，<SPAN>1963</SPAN>年<SPAN>4</SPAN>月<SPAN>10</SPAN>日出生，<SPAN>2000</SPAN>年至<SPAN>2007</SPAN>年<SPAN>10</SPAN>月担任德棉股份董事，<SPAN>2004</SPAN>年<SPAN>10</SPAN>月至<SPAN>2007</SPAN>年<SPAN>7</SPAN>月兼任德棉集团董事长、总经理，住址：山东省德州市德城区顺河西路<SPAN>18</SPAN>号<SPAN>16</SPAN>号楼<SPAN>1</SPAN>单元<SPAN>302</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>姚兴友，男，<SPAN>1963</SPAN>年<SPAN>9</SPAN>月<SPAN>24</SPAN>日出生，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份董事，<SPAN>2007</SPAN>年<SPAN>1</SPAN>月<SPAN>1</SPAN>日至<SPAN>2007</SPAN>年<SPAN>11</SPAN>月<SPAN>19</SPAN>日期间兼任德棉集团副总经理，住址：山东省德州市德城区三八路<SPAN>194</SPAN>号<SPAN>9</SPAN>排<SPAN>18</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>徐刚，男，<SPAN>1958</SPAN>年<SPAN>5</SPAN>月<SPAN>5</SPAN>日出生，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份董事，<SPAN>2007</SPAN>年<SPAN>1</SPAN>月至<SPAN>2007</SPAN>年<SPAN>4</SPAN>月<SPAN>10</SPAN>日兼任德棉集团副总经理，住址：山东省德州市德城区三八路<SPAN>194</SPAN>号<SPAN>28</SPAN>号楼<SPAN>3</SPAN>单元<SPAN>202</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>孙德荣，男，<SPAN>1953</SPAN>年<SPAN>9</SPAN>月<SPAN>8</SPAN>日出生，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份董事，<SPAN>2007</SPAN>年<SPAN>1</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月兼任德棉集团副总经理，住址：山东省德州市铁西南路<SPAN>110</SPAN>号<SPAN>1</SPAN>号楼<SPAN>102</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>张启民，男，<SPAN>1955</SPAN>年<SPAN>1</SPAN>月<SPAN>4</SPAN>日出生，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份董事，<SPAN>2007</SPAN>年<SPAN>1</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月兼任德棉集团副总经理，住址：山东省德州市德城区顺河西路<SPAN>18</SPAN>号<SPAN>24</SPAN>号楼<SPAN>2</SPAN>单元<SPAN>401</SPAN>室。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>赵全胜，男，<SPAN>1956</SPAN>年<SPAN>2</SPAN>月<SPAN>5</SPAN>日出生，<SPAN>2007</SPAN>年<SPAN>7</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉集团党委书记，<SPAN>2007</SPAN>年<SPAN>10</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月兼任德棉股份董事，住址：山东省德州市德城区新湖北路<SPAN>23</SPAN>号<SPAN>3</SPAN>号楼<SPAN>2</SPAN>单元<SPAN>402</SPAN>室。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>邓辉，男，<SPAN>1943</SPAN>年<SPAN>10</SPAN>月<SPAN>24</SPAN>日出生，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份独立董事，住址：山东省德州市德城区湖滨北路<SPAN>13</SPAN>号<SPAN>1</SPAN>号楼<SPAN>2</SPAN>单元<SPAN>201</SPAN>室。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>林洪志，男，<SPAN>1940</SPAN>年<SPAN>2</SPAN>月<SPAN>23</SPAN>日出生，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份独立董事，住址：山东省青岛市崂山区李山东路<SPAN>18</SPAN>号<SPAN>1</SPAN>号楼<SPAN>1</SPAN>单元<SPAN>402</SPAN>室。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>于涛，男，<SPAN>1956</SPAN>年<SPAN>10</SPAN>月<SPAN>26</SPAN>日出生，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份独立董事，住址：山东省济南市历下区经十路<SPAN>69</SPAN>号<SPAN>1</SPAN>号楼<SPAN>1</SPAN>单元<SPAN>1704</SPAN>室。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>石万林，男，<SPAN>1950</SPAN>年<SPAN>1</SPAN>月<SPAN>23</SPAN>日出生，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份独立董事，住址：山东省德州市德城区湖滨北路<SPAN>44</SPAN>号<SPAN>1</SPAN>号楼<SPAN>1</SPAN>单元<SPAN>401</SPAN>室。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>袁绍恕，男，<SPAN>1955</SPAN>年<SPAN>1</SPAN>月<SPAN>12</SPAN>日出生，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份监事，<SPAN>2007</SPAN>年<SPAN>11</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月兼任德棉集团总会计师，住址：山东省德州市德城区顺河西路<SPAN>18</SPAN>号<SPAN>16</SPAN>号楼<SPAN>2</SPAN>单元<SPAN>401</SPAN>室。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>段守江，男，<SPAN>1966</SPAN>年<SPAN>8</SPAN>月<SPAN>14</SPAN>日出生，<SPAN>1998</SPAN>年<SPAN>11</SPAN>月至<SPAN>2008</SPAN>年<SPAN>6</SPAN>月担任德棉股份副总经理，住址：山东省德州市德城区顺河西路国棉宿舍<SPAN>13</SPAN>楼<SPAN>19</SPAN>号。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>依据<SPAN>2006</SPAN>年<SPAN>1</SPAN>月<SPAN>1</SPAN>日起实施的《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN>德棉股份虚假陈述行为<SPAN>进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人未提出陈述、申辩意见</SPAN>，也未要求听证<SPAN>。本案现已调查、审理终结。</SPAN></SPAN></P>
+<P class=Custom_UnionStyle><SPAN>经查明，</SPAN><SPAN>德棉股份<SPAN>存在以下违法事实：</SPAN></SPAN></P>
+<P class=Custom_UnionStyle><SPAN>一、未及时履行临时信息披露义务</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2007</SPAN><SPAN>年<SPAN>3</SPAN>月<SPAN>16</SPAN>日</SPAN><SPAN>至<SPAN>2008</SPAN>年<SPAN>5</SPAN>月<SPAN>13</SPAN>日，德棉股份向其控股股东德棉集团累计提供资金<SPAN>434,615,900</SPAN>元。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>德棉股份在上述行为发生后没有按照关联交易的要求及时进行临时信息披露。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2008</SPAN><SPAN>年<SPAN>6</SPAN>月<SPAN>5</SPAN>日</SPAN><SPAN>，德棉股份发布《关于山东德棉集团有限公司违规占用资金的公告》，披露了德棉集团违规占用德棉股份资金的情况。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>截至<SPAN>2008</SPAN>年<SPAN>5</SPAN>月<SPAN>28</SPAN>日，德棉集团占用德棉股份资金全部归还。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>对上述行为直接负责的主管人员为德棉股份时任董事长周庆春，时任总经理李会江。其他直接责任人员为时任董事王加毅、姚兴友。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>二、<SPAN>2007</SPAN>年中期报告和年度报告虚假陈述</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>（一）<SPAN>2007</SPAN>年中期报告虚假陈述。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2007</SPAN><SPAN>年<SPAN>3</SPAN>月<SPAN>16</SPAN>日</SPAN><SPAN>至<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日，德棉股份向德棉集团提供资金<SPAN>54,200,000</SPAN>元，截至<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>30</SPAN>日未收回资金余额<SPAN>54,200,000</SPAN>元。为避免信息披露，德棉股份采取不将上述提供资金的情况记入会计记录的行为，造成德棉股份<SPAN>2007</SPAN>年中期报告中的财务会计报告虚假陈述，德棉股份也没有在<SPAN>2007</SPAN>年中期报告中对上述关联交易予以披露。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>对德棉股份<SPAN>2007</SPAN>年中期报告虚假陈述直接负责的主管人员为时任董事长周庆春，其他直接责任人员为时任董事李会江、姚兴友、孙德荣、张启民、徐刚，时任独立董事邓辉、林洪志、石万林。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>（二）<SPAN>2007</SPAN>年年度报告虚假陈述。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2007</SPAN><SPAN>年<SPAN>3</SPAN>月<SPAN>16</SPAN>日</SPAN><SPAN>至<SPAN>2007</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日，德棉股份向德棉集团累计提供资金<SPAN>316,700,000</SPAN>元，累计收回资金<SPAN>281,770,000</SPAN>元，截至<SPAN>2007</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日未收回资金余额<SPAN>34,930,000</SPAN>元。为避免信息披露，德棉股份采取不将上述提供资金的情况记入会计记录，以及假借与其他机构发生交易的行为，造成德棉股份<SPAN>2007</SPAN>年年度报告中的财务会计报告虚假陈述，德棉股份也没有在<SPAN>2007</SPAN>年年度报告中对上述关联交易予以披露。</SPAN></P>
+<P class=Custom_UnionStyle align=left><SPAN>对德棉股份<SPAN>2007</SPAN>年年度报告虚假陈述直接负责的主管人员为时任董事长周庆春，其他直接责任人员为时任董事李会江、姚兴友、孙德荣、张启民、徐刚、赵全胜，时任独立董事邓辉、林洪志、于涛、石万林，时任监事袁绍恕，时任副总经理段守江。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>以上违法事实和改正情况有<SPAN>2007</SPAN>年中期报告、年度报告，相关临时公告、会计记录、合同、协议、董事会决议，相关人员谈话笔录等证据证明，足以认定。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>德棉股份临时信息未及时披露的行为违反了《证券法》第六十七条的规定，德棉股份<SPAN>2007</SPAN>年中期报告、年度报告虚假陈述的行为违反了《证券法》第六十三条的规定。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据</SPAN><SPAN>《证券法》第一百九十三条<SPAN>，并考虑</SPAN>德棉股份<SPAN>主动纠正其违法行为的情况，按照《行政处罚法》第二十七条从轻及减轻处罚的相关规定，我会决定：</SPAN></SPAN></P>
+<P class=Custom_UnionStyle><SPAN>一、</SPAN><SPAN>给予德棉股份警告，并处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>二、分别给予</SPAN><SPAN>李会江<SPAN>、</SPAN>周庆春<SPAN>警告，</SPAN>并处以<SPAN>5</SPAN>万元罚款<SPAN>；</SPAN></SPAN></P>
+<P class=Custom_UnionStyle><SPAN>三、分别给予</SPAN><SPAN>王加毅、姚兴友、徐刚、孙德荣、张启民、赵全胜、邓辉、林洪志、于涛、石万林、袁绍恕、段守江<SPAN>警告。</SPAN></SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P class=Custom_UnionStyle>&nbsp;</P>
+<P class=Custom_UnionStyle>&nbsp;</P>
+<P class=Custom_UnionStyle align=right><SPAN>　　　　　　　　　　　　　&nbsp; 　　　　　&nbsp; 中国证券监督管理委员会</SPAN></P>
+<P class=Custom_UnionStyle align=right><SPAN><SPAN>　　&nbsp; </SPAN><SPAN>　　　</SPAN><SPAN>　　</SPAN><SPAN>　　　　　　　　　　　　　　　　　&nbsp; 　　　　 　&nbsp;</SPAN>　<SPAN>　　</SPAN><SPAN>　 &nbsp; &nbsp; 　</SPAN></SPAN><SPAN>二○○九年六月三日</SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20090728_119361_ext.json

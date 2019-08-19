@@ -1,0 +1,313 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（天目药业、章鹏飞等11名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-02530</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年01月06日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（天目药业、章鹏飞等11名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2011）2号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（天目药业、章鹏飞等11名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2011）2号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1305257165109'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1305257165109 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1305257165109 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1305257165109 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1305257165109 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1305257165109 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><SPAN>（<SPAN>2011</SPAN>）<SPAN>2</SPAN>号</SPAN></P>
+<P><SPAN>当</SPAN><SPAN>事人：</SPAN><SPAN>杭州天目山药业股份有限公司（以下简称天目药业），住所：浙江省临安市锦城街道苕溪南路<SPAN>78</SPAN>号，法定代表人范建国。</SPAN></P>
+<P><SPAN>章鹏飞，男，<SPAN>1963</SPAN>年<SPAN>10</SPAN>月出生，时任杭州天目药业董事长，现为天目药业实际控制人，住址：浙江省杭州市拱墅区白马公寓<SPAN>2</SPAN>幢。</SPAN></P>
+<P><SPAN>郑智强，男，<SPAN>1954</SPAN>年<SPAN>11</SPAN>月出生，时任天目药业副董事长、董事、总经理，住址：浙江省杭州市上城区冯山人巷<SPAN>5</SPAN>号。</SPAN></P>
+<P><SPAN>吴青平，男，<SPAN>1962</SPAN>年<SPAN>10</SPAN>月出生，时任天目药业财务副总监、财务负责人，住址：浙江省杭州市西湖区润达花园<SPAN>9</SPAN>幢。</SPAN></P>
+<P><SPAN>高洪，男，<SPAN>1954</SPAN>年<SPAN>11</SPAN>月出生，时任天目药业董事、总经理，住址：浙江省临安市锦城街道城中街<SPAN>370</SPAN>号。</SPAN></P>
+<P><SPAN>郑涛，男，<SPAN>1957</SPAN>年<SPAN>12</SPAN>月出生，时任天目药业副总经理、董事会秘书，住址：浙江省杭州市西湖区下宁巷<SPAN>7</SPAN>号。</SPAN></P>
+<P><SPAN>梁满初，男，<SPAN>1964</SPAN>年<SPAN>8</SPAN>月出生，香港人，港澳证件号码<SPAN>P133469</SPAN>（<SPAN>0</SPAN>），时任天目药业董事，住址：广东省深圳市南山区工业五路南水工业村<SPAN>6</SPAN>幢。</SPAN></P>
+<P><SPAN>梅欣，男，<SPAN>1972</SPAN>年<SPAN>12</SPAN>月出生，时任天目药业董事，住址：上海市徐汇区余庆路<SPAN>41</SPAN>弄<SPAN>4</SPAN>号。</SPAN></P>
+<P><SPAN>黄建宝，男，<SPAN>1946</SPAN>年<SPAN>2</SPAN>月出生，时任天目药业董事，住址：浙江省杭州市上城区光复路<SPAN>131</SPAN>号。</SPAN></P>
+<P><SPAN>管湘菂，女，<SPAN>1966</SPAN>年<SPAN>3</SPAN>月出生，时任天目药业独立董事，住址：浙江省杭州市拱墅区左家新村<SPAN>6</SPAN>幢。</SPAN></P>
+<P><SPAN>吴晓波，男，<SPAN>1960</SPAN>年<SPAN>1</SPAN>月出生，时任天目药业独立董事，住址：浙江省杭州市西湖区花园新村北<SPAN>6</SPAN>幢。</SPAN></P>
+<P><SPAN>颜春友，男，<SPAN>1945</SPAN>年<SPAN>9</SPAN>月出生，时任天目药业独立董事，住址：浙江省杭州市西湖区花园西村<SPAN>7</SPAN>幢。</SPAN></P>
+<P><SPAN>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对天目药业信息披露违法行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，所有当事人均提出了书面申辩意见，并应当事人天目药业、章鹏飞的要求举行了听证会，听取了当事人的陈述和申辩。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，天目药业存在以下信息披露违法行为：</SPAN></P>
+<P>&nbsp;</P>
+<P><SPAN>一、天目药业全资子公司通过预付贸易货款的形式，以间接手段为大股东关联方提供资金<SPAN>250</SPAN>万元</SPAN></P>
+<P><SPAN>天目药业大股东是杭州现代联合投资有限公司（以下简称现代联合），实际控制人是章鹏飞。</SPAN></P>
+<P><SPAN>2007</SPAN><SPAN>年<SPAN>5</SPAN>月<SPAN>18</SPAN>日</SPAN><SPAN>，浙江中盛担保有限公司（以下简称中盛担保）代现代联合控股集团有限公司（以下简称现代集团，系章鹏飞实际控制的企业）支付深圳京柏医疗设备有限公司（以下简称深圳京柏，系天目药业控股子公司）<SPAN>250</SPAN>万元，现代集团<SPAN>2007</SPAN>年<SPAN>5</SPAN>月<SPAN>31</SPAN>日的记账凭证记入对深圳京柏的往来款<SPAN>250</SPAN>万元。</SPAN></P>
+<P><SPAN>2007</SPAN><SPAN>年<SPAN>6</SPAN>月<SPAN>22</SPAN>日</SPAN><SPAN>，天目药业的全资子公司杭州天目医药有限公司（以下简称天目医药），以贸易预付款的形式，电汇给浙江耀阳贸易有限公司（以下简称耀阳贸易）<SPAN>250</SPAN>万元，但双方未签订书面合同，未交付货物，也未开具发票。<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>25</SPAN>日，耀阳贸易转给浙江中江控股有限公司（以下简称中江控股）<SPAN>250</SPAN>万元。</SPAN></P>
+<P><SPAN>中江控股称，中盛担保、耀阳贸易实质上归属中江控股，耀阳贸易收到天目医药的预付货款<SPAN>250</SPAN>万元，系按照章鹏飞的要求，用于归还现代集团所欠中江控股的款项。<SPAN>2008</SPAN>年<SPAN>9</SPAN>月，天目医药将该笔款项收回。</SPAN></P>
+<P><SPAN>根据时任天目药业副董事长、总经理郑智强、时任天目药业副总经理兼天目医药总经理胡志勇和时任天目医药财务经理梅庆放以及当时天目药业实际上的财务负责人李一群等人的说明，这笔汇款涉及的事项由李一群根据章鹏飞的指令具体操办。章鹏飞承认该款项发生了现代集团对天目药业资金的间接占用。郑智强承认曾对款项产生过怀疑，但没有在相关会议上就此事发表看法。</SPAN></P>
+<P><SPAN>二、天目药业全资子公司以购、销货物的形式，以间接手段为大股东关联方提供资金<SPAN>280.5</SPAN>万元</SPAN></P>
+<P><SPAN>2007</SPAN><SPAN>年<SPAN>6</SPAN>月<SPAN>23</SPAN>日</SPAN><SPAN>，天目医药与耀阳贸易签订产品购销合同，约定向耀阳贸易购买磷酸<SPAN>290</SPAN>吨，总货款<SPAN>275</SPAN>万元。<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>27</SPAN>日，天目医药电汇给耀阳贸易<SPAN>275</SPAN>万元。</SPAN></P>
+<P><SPAN>2007</SPAN><SPAN>年<SPAN>6</SPAN>月<SPAN>28</SPAN>日</SPAN><SPAN>，中江控股控制的杭州友邦香料香精有限公司（以下简称友邦香料）汇款<SPAN>275</SPAN>万元给章鹏飞实际控制的浙江现代商贸物流发展有限公司（以下简称现代商贸）。<SPAN>2007</SPAN>年<SPAN>7</SPAN>月<SPAN>27</SPAN>日，现代集团向现代商贸开出<SPAN>275</SPAN>万元的汇票，现代商贸随后背书给友邦香料，友邦香料再次背书给现代集团，并账列应收现代集团<SPAN>275</SPAN>万元。</SPAN></P>
+<P><SPAN>2007</SPAN><SPAN>年<SPAN>8</SPAN>月<SPAN>14</SPAN>日</SPAN><SPAN>，天目医药与友邦香料签订格式合同，约定友邦香料向天目医药购买<SPAN>290</SPAN>吨磷酸，总价<SPAN>280.5</SPAN>万元，合同未对质量标准、验收方法、结算方式及期限、运输方式、交货地址等进行约定。<SPAN>2007</SPAN>年<SPAN>8</SPAN>月<SPAN>16</SPAN>日，天目医药向友邦香料开出增值税发票，并记应收账款友邦香料<SPAN>280.5</SPAN>万元。<SPAN>2009</SPAN>年<SPAN>4</SPAN>月，天目医药与天目药业的记账凭证将这笔应收账款调整为对现代集团的其他应收款，并于<SPAN>2009</SPAN>年<SPAN>4</SPAN>月<SPAN>28</SPAN>日收回欠款。</SPAN></P>
+<P><SPAN>友邦香料在情况说明中称，在合同履行期间，按照章鹏飞的要求，友邦香料将应付天目医药货款<SPAN>280.5</SPAN>万元，用于冲抵<SPAN>2007</SPAN>年<SPAN>7</SPAN>月<SPAN>27</SPAN>日形成的现代集团欠友邦香料的<SPAN>275</SPAN>万元款项，因此，友邦香料未向天目药业支付<SPAN>280.5</SPAN>万元货款。</SPAN></P>
+<P><SPAN>根据时任天目药业副董事长、总经理郑智强、时任天目药业副总经理兼天目医药总经理胡志勇和时任天目医药财务经理梅庆放以及当时天目药业实际上的财务负责人李一群等人的说明，这笔汇款涉及的事项由李一群根据章鹏飞的指令具体操办。章鹏飞承认该款项发生了现代集团对天目药业资金的间接占用。</SPAN></P>
+<P><SPAN>三、天目药业通过全资子公司预付货款的形式，以间接手段为大股东关联方提供资金<SPAN>270</SPAN>万元</SPAN></P>
+<P><SPAN>2007</SPAN><SPAN>年<SPAN>12</SPAN>月<SPAN>20</SPAN>日</SPAN><SPAN>，天目药业的全资子公司杭州天目保健品有限公司（以下简称天目保健品）与杭州宏裕农产品有限公司（以下简称宏裕农产品）签订购销合同，约定向宏裕农产品购买<SPAN>50</SPAN>吨橄榄油，总价<SPAN>500</SPAN>万元。<SPAN>2008</SPAN>年<SPAN>1</SPAN>月<SPAN>9</SPAN>日，天目保健品以汇票支付给宏裕农产品<SPAN>270</SPAN>万元。当天，宏裕农产品直接将汇票背书给章鹏飞任董事的杭州东部科技投资有限公司（以下简称东部科技）。东部科技向现代联合开具收到<SPAN>270</SPAN>万元的收据，并在记账凭证中冲抵对现代联合的应收款项；现代联合也在<SPAN>2008</SPAN>年<SPAN>1</SPAN>月<SPAN>31</SPAN>日的记账凭证中，冲抵与东部科技的往来款<SPAN>270</SPAN>万元。</SPAN></P>
+<P><SPAN>天目保健品、现代联合、章鹏飞与宏裕农产品均承认，上述<SPAN>270</SPAN>万元预付款项相应的货物没有交付，也未开具销售发票，没有相关的出库、运输、入库、验收手续。宏裕农产品还说明，该款项未用于购买合同所述商品，而是按照章鹏飞的要求，背书转付给东部科技。</SPAN></P>
+<P><SPAN>根据现代集团、现代联合出纳吴航、李一群的询问笔录，天目保健品向宏裕农产品支付<SPAN>270</SPAN>万元是章鹏飞直接安排的。天目保健品总经理鲁闻称：与宏裕农产品的购销合同是我签的，但是后来货也没来，款项也没回来，我从<SPAN>2008</SPAN>年<SPAN>4</SPAN>月左右觉得情况异常，不像正常买卖；后来我跟天目药业的财务负责人，包括李一群、吴青平等非正式沟通过，他们说没办法；我没有跟董事会反映情况。章鹏飞在询问笔录和情况说明中认可该笔款项系现代集团及关联方对天目药业的资金占用。</SPAN></P>
+<P><SPAN>四、天目药业通过全资子公司与个体工商户合作经营的形式，间接为大股东关联方提供资金<SPAN>230</SPAN>万元</SPAN></P>
+<P><SPAN>2008</SPAN><SPAN>年<SPAN>9</SPAN>月<SPAN>23</SPAN>日</SPAN><SPAN>，天目保健品与个体工商户杭州近江食品市场鑫鑫食品经营部（以下简称鑫鑫经营部）签订合作经营协议，约定由天目保健品提供资金与鑫鑫经营部合作，鑫鑫经营部负责日常经营，协议签订后，天目保健品提供<SPAN>230</SPAN>万元资金，用于补充备货用流动资金。</SPAN></P>
+<P><SPAN>2008</SPAN><SPAN>年<SPAN>9</SPAN>月<SPAN>25</SPAN>日</SPAN><SPAN>，天目药业付给天目保健品<SPAN>230</SPAN>万元。同日，天目保健品电子转账<SPAN>230</SPAN>万元到鑫鑫经营部，鑫鑫经营部按章鹏飞的要求开具汇票<SPAN>230</SPAN>万元给杭州顺茹贸易有限公司（以下简称顺茹贸易）。次日，顺茹贸易按章鹏飞的要求开具汇票<SPAN>250</SPAN>万元给耀阳贸易，耀阳贸易背书给天目医药，天目医药账面冲转预付耀阳贸易的<SPAN>250</SPAN>万元款项。<SPAN>2009</SPAN>年<SPAN>3</SPAN>月<SPAN>12</SPAN>日现代集团归还该笔款项。</SPAN></P>
+<P><SPAN>鑫鑫经营部称：上述<SPAN>230</SPAN>万元款项并未按合同约定用于鑫鑫经营部补充备货用的流动资金，也未支付协议约定的收益，而是按照章鹏飞的要求将<SPAN>230</SPAN>万元支付给顺茹贸易。顺茹贸易称：按照章鹏飞的要求，把鑫鑫经营部汇入本公司的<SPAN>230</SPAN>万元连同章鹏飞的<SPAN>20</SPAN>万元共计<SPAN>250</SPAN>万元用汇票支付给耀阳贸易。时任天目药业财务负责人吴青平称：<SPAN>2008</SPAN>年<SPAN>9</SPAN>月，天目保健品会计拿用款申请单给我签字，由天目保健品支付<SPAN>230</SPAN>万元给鑫鑫经营部，再通过顺茹贸易支付给耀阳贸易，再背书给天目医药；之所以这样做，是因为<SPAN>2007</SPAN>年天目医药通过耀阳贸易代现代集团转付给中江控股<SPAN>250</SPAN>万元。</SPAN></P>
+<P><SPAN>天目保健品总经理鲁闻称：自己后来感觉到这笔业务异常，不像正常的买卖，曾就此款项与天目药业的财务负责人李一群、吴青平等非正式沟通，他们说没办法。章鹏飞在询问笔录和情况说明中认可该笔款项系现代集团及关联方对天目药业资金的占用。</SPAN></P>
+<P><SPAN>五、天目药业通过为全资子公司预付包装材料货款的形式，为大股东关联方提供资金<SPAN>450</SPAN>万元</SPAN></P>
+<P><SPAN>2008</SPAN><SPAN>年<SPAN>8</SPAN>月<SPAN>5</SPAN>日</SPAN><SPAN>，天目药业网银转账给杭州金腾印刷有限公司（以下简称金腾印刷）款项<SPAN>450</SPAN>万元，用于天目药业全资子公司杭州天目山制药有限公司（以下简称天目山制药）采购包装材料。当天，金腾印刷电汇给章鹏飞实际控制的浙江四通汽车有限公司（以下简称四通汽车）<SPAN>450</SPAN>万元。<SPAN>2009</SPAN>年<SPAN>4</SPAN>月<SPAN>28</SPAN>日，现代联合归还该笔款项。</SPAN></P>
+<P><SPAN>金腾印刷称：金腾印刷于<SPAN>2008</SPAN>年<SPAN>8</SPAN>月<SPAN>5</SPAN>日收到天目药业支付的<SPAN>450</SPAN>万元，未向天目山制药交付与上述<SPAN>450</SPAN>万元款项相应的合同中约定的包装材料，也未开具发票，也无出库单，而是按照章鹏飞的要求将<SPAN>450</SPAN>万元直接电汇至四通汽车。</SPAN></P>
+<P><SPAN>时任天目药业财务负责人吴青平称：<SPAN>2008</SPAN>年<SPAN>7</SPAN>月，章鹏飞打电话给我，说现代集团要还贷，且资金一天内就回来，我就通知出纳去办，手续事后再补，即天目药业支付<SPAN>450</SPAN>万元给金腾印刷。但这笔资金一天内没回来，我事后在付款单上补签字，而郑智强没签字，章鹏飞签字。章鹏飞在询问笔录和情况说明中认可该笔款项系现代集团及关联方对天目药业的资金占用。</SPAN></P>
+<P><SPAN>六、天目药业全资子公司直接为大股东关联方提供资金累计<SPAN>29</SPAN>万元</SPAN></P>
+<P><SPAN>2008</SPAN><SPAN>年<SPAN>10</SPAN>月<SPAN>14</SPAN>日</SPAN><SPAN>，天目保健品按现代集团的委托，转给章鹏飞实际控制的山东现代家电市场有限公司<SPAN>24</SPAN>万元。<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>24</SPAN>日，天目保健品按现代集团委托，转给章鹏飞实际控制的现代商贸<SPAN>5</SPAN>万元。</SPAN></P>
+<P><SPAN>章鹏飞在询问笔录和情况说明中认可该笔款项系现代集团对天目药业的资金占用。</SPAN></P>
+<P><SPAN>七、天目药业通过参股子公司向大股东关联方提供资金<SPAN>150</SPAN>万元</SPAN></P>
+<P><SPAN>2009</SPAN><SPAN>年<SPAN>1</SPAN>月<SPAN>24</SPAN>日</SPAN><SPAN>，天目药业根据参股子公司杭州天目商贸有限公司（以下简称天目商贸）签订的借款合同，开具<SPAN>150</SPAN>万元的汇票给天目商贸。当天，天目商贸直接将该汇票背书转让给杭州天坤贸易有限公司（以下简称天坤贸易），天坤贸易将<SPAN>150</SPAN>万元转账支票支付给现代集团。<SPAN>2009</SPAN>年<SPAN>3</SPAN>月<SPAN>12</SPAN>日现代集团通过天坤贸易、天目商贸归还该笔借款。</SPAN></P>
+<P><SPAN>天目商贸称：天目商贸按照章鹏飞的要求，帮现代集团与天目药业签订了<SPAN>150</SPAN>万元的借款合同，并约定该借款由现代集团使用并归还；<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>24</SPAN>日，天目商贸收到<SPAN>150</SPAN>万元借款，按章鹏飞的要求于当日将<SPAN>150</SPAN>万元背书给天坤贸易。天坤贸易称：本公司按现代集团章鹏飞的要求，把天目药业以汇票支付给本公司的<SPAN>150</SPAN>万元，支付给现代集团。天目药业、现代集团和章鹏飞在情况说明中承认这些情况，章鹏飞在询问笔录和情况说明中承认该笔款项系现代集团对天目药业的资金占用。</SPAN></P>
+<P><SPAN>时任天目药业总经理高洪称：<SPAN>2009</SPAN>年<SPAN>1</SPAN>月，天目商贸由于资金紧张向天目药业拆借<SPAN>150</SPAN>万元，当时是财务总监吴青平找到我，说天目商贸资金短缺向天目药业借钱，我知道它是现代集团的控股子公司，我签过字并由吴青平向董事长范建国审批，之后钱的流向我并不清楚。吴青平称：天目药业支付给天目商贸<SPAN>150</SPAN>万元，是根据章鹏飞指示，申请单上有我和高洪签字；这笔钱有借款合同，最终转入现代集团。</SPAN></P>
+<P><SPAN>八、天目药业控股子公司以借款形式，间接向大股东关联方提供资金<SPAN>200</SPAN>万元</SPAN></P>
+<P><SPAN>2009</SPAN><SPAN>年<SPAN>1</SPAN>月<SPAN>7</SPAN>日</SPAN><SPAN>，天目药业的控股子公司浙江天目康业投资管理有限公司（以下简称天目康业）根据借款协议，电汇给天坤贸易<SPAN>200</SPAN>万元。<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>15</SPAN>日，天坤贸易转账支票支付给现代集团<SPAN>200</SPAN>万元。</SPAN></P>
+<P><SPAN>天坤贸易在情况说明中称，天坤贸易按照章鹏飞的要求，帮现代集团与天目康业签订了<SPAN>200</SPAN>万元的借款合同，并约定该笔借款由现代集团使用并向天目康业偿还；<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>7</SPAN>日收到天目康业电汇的<SPAN>200</SPAN>万元借款，并于<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>15</SPAN>日将<SPAN>200</SPAN>万元以转账支票方式支付给现代集团。天目康业、现代集团和章鹏飞承认上述情况。</SPAN></P>
+<P><SPAN>吴青平称：他在天目康业借款给天坤贸易的资金<SPAN>200</SPAN>万元领付款凭证上签字，最终流向是与大股东和现代集团有关，但经手之时不知情。</SPAN></P>
+<P><SPAN>九、天目药业通过天目山制药以预付广告款的形式为现代集团提供资金<SPAN>120</SPAN>万元</SPAN></P>
+<P><SPAN>2009</SPAN><SPAN>年<SPAN>1</SPAN>月<SPAN>20</SPAN>日</SPAN><SPAN>，天目山制药与杭州天扬广告有限公司（以下简称天扬广告）签订广告承揽合同。<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>24</SPAN>日，天目山制药网上银行转给天扬广告<SPAN>120</SPAN>万元。当天，天扬广告转给现代集团<SPAN>120</SPAN>万元。</SPAN></P>
+<P><SPAN>天扬广告称：天扬广告收到<SPAN>120</SPAN>万元预付款后，并未履行合同约定的广告发布服务，而是按照章鹏飞的要求，将<SPAN>120</SPAN>万元转付给现代集团。天目山制药、现代集团和章鹏飞在情况说明中承认这些情况。</SPAN></P>
+<P><SPAN>十、天目药业未及时披露资金占用的情况</SPAN></P>
+<P><SPAN>根据上述第一项至第九项事实，<SPAN>2007</SPAN>年<SPAN>6</SPAN>月至<SPAN>2009</SPAN>年<SPAN>4</SPAN>月，天目药业在实际控制人操控下，被大股东现代联合及其关联企业现代集团等累计占用资金<SPAN>1,979.5</SPAN>万元。截至<SPAN>2009</SPAN>年<SPAN>3</SPAN>月<SPAN>12</SPAN>日，占用资金余额为<SPAN>1,719.5</SPAN>万元。天目药业未对这些事项进行临时披露。</SPAN></P>
+<P><SPAN>天目药业在<SPAN>2007</SPAN>年中期报告、<SPAN>2007</SPAN>年年度报告中未对上述第一项与第二项资金占用情况进行披露。章鹏飞、郑智强、高洪、黄玉如、黄建宝、梁满初、管湘菂、吴晓波、颜春友在通过<SPAN>2007</SPAN>年中期报告的董事会决议上签字，章鹏飞、郑智强、高洪、梁满初、黄建宝、颜春友、管湘菂、吴晓波、郑涛在通过<SPAN>2007</SPAN>年年度报告的董事会决议上签字。</SPAN></P>
+<P><SPAN>天目药业在<SPAN>2008</SPAN>年中期报告中披露“本公司不存在大股东资金占用问题”，未对上述第一项至第三项资金占用情况进行披露。章鹏飞、郑智强、高洪、梅欣、黄建宝、梁满初（章鹏飞代）、管湘菂、吴晓波、颜春友在审议通过<SPAN>2008</SPAN>年中期报告的董事会决议上签字。</SPAN></P>
+<P><SPAN>2009</SPAN><SPAN>年<SPAN>4</SPAN>月<SPAN>30</SPAN>日</SPAN><SPAN>，天目药业在<SPAN>2008</SPAN>年年度报告中对资金占用情况予以了披露。</SPAN></P>
+<P><SPAN>十一、天目药业未披露关联方所欠重大债务到期未获清偿的情况</SPAN></P>
+<P><SPAN>2006</SPAN><SPAN>年<SPAN>12</SPAN>月，天目药业与章鹏飞实际控制的山东现代物流中心发展有限公司（以下简称山东现代物流）共同投资设立了山东天目现代医药物流发展有限公司（以下简称山东天目），天目药业持股<SPAN>51%</SPAN>。<SPAN>2008</SPAN>年<SPAN>7</SPAN>月，山东现代物流同意承接天目药业所持山东天目项目，并承诺于<SPAN>2008</SPAN>年<SPAN>11</SPAN>月<SPAN>30</SPAN>日前支付股权转让款及债权转让款共计<SPAN>2,882</SPAN>万元。该款项数额超过了天目药业<SPAN>2007</SPAN>年末经审计的净资产（<SPAN>22,807.40</SPAN>万元）的<SPAN>10%</SPAN>。</SPAN></P>
+<P><SPAN>天目药业<SPAN>2008</SPAN>年<SPAN>12</SPAN>月<SPAN>3</SPAN>日发布的公告称：截至<SPAN>2008</SPAN>年<SPAN>11</SPAN>月<SPAN>30</SPAN>日，天目药业未收到上述款项；天目药业董事会于<SPAN>2008</SPAN>年<SPAN>12</SPAN>月<SPAN>3</SPAN>日向山东现代物流及关联方发出《催款函》；当日，山东现代物流及关联方作了书面说明，对延期付款表示歉意，并同意于<SPAN>2008</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日前全部支付股权转让款及债权转让款。</SPAN></P>
+<P><SPAN>2008</SPAN><SPAN>年<SPAN>12</SPAN>月<SPAN>24</SPAN>日</SPAN><SPAN>，章鹏飞未经内部决策程序，擅自代表天目药业与山东现代物流签订协议，约定山东现代物流在协议签订后七天内向天目药业支付<SPAN>700</SPAN>万元，剩余款项<SPAN>2,182</SPAN>万元于<SPAN>2009</SPAN>年<SPAN>3</SPAN>月<SPAN>31</SPAN>日付清。合同上天目药业与山东现代物流的签字代表均是章鹏飞。<SPAN>2008</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日，山东现代物流支付天目药业<SPAN>700</SPAN>万元。山东现代物流未在<SPAN>2008</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日前归还全部款项，也没有对外公告，尚余的<SPAN>2,182</SPAN>万元在<SPAN>2009</SPAN>年<SPAN>5</SPAN>月<SPAN>19</SPAN>日付清。而在此前，山东天目的股权已在章鹏飞操办下从天目药业过户至山东现代物流。</SPAN></P>
+<P><SPAN>十二、天目药业未及时披露控股子公司深圳京柏拆借资金<SPAN>449</SPAN>万元给关联方的情况</SPAN></P>
+<P><SPAN>2007</SPAN><SPAN>年<SPAN>6</SPAN>月<SPAN>4</SPAN>日</SPAN><SPAN>，天目药业增资控股深圳京柏。<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>8</SPAN>日，深圳京柏拆借给博罗县园洲镇好顺景贸易有限公司好顺景食品厂（以下简称好顺景食品厂，由时任天目药业董事、深圳京柏总经理梁满初投资）<SPAN>229</SPAN>万元，同日，深圳京柏拆借给顾小枫（梁满初妻子）<SPAN>220</SPAN>万元。天目药业在<SPAN>2007</SPAN>年年度报告中将上述款项作为其他应收款予以披露，未披露关联关系，在<SPAN>2008</SPAN>年年度报告中将其作为关联方交易予以披露。</SPAN></P>
+<P><SPAN>根据天目药业、深圳京柏及梁满初等人出具的证明材料，上述款项出自天目药业增资深圳京柏前深圳京柏留存给原股东的未分配利润。</SPAN></P>
+<P><SPAN>十三、其他相关情况</SPAN></P>
+<P><SPAN>天目药业<SPAN>2006</SPAN>年末经审计的净资产为<SPAN>20,960.55</SPAN>万元，其绝对值的<SPAN>0.5%</SPAN>为<SPAN>105</SPAN>万元；天目药业<SPAN>2007</SPAN>年末经审计的净资产为<SPAN>22,807.40</SPAN>万元，其绝对值的<SPAN>0.5%</SPAN>为<SPAN>114</SPAN>万元；天目药业<SPAN>2008</SPAN>年末经审计的净资产为<SPAN>22,483.82</SPAN>万元，其绝对值的<SPAN>0.5%</SPAN>为<SPAN>112</SPAN>万元。</SPAN></P>
+<P><SPAN>自<SPAN>2009</SPAN>年<SPAN>3</SPAN>月<SPAN>12</SPAN>日至<SPAN>4</SPAN>月<SPAN>28</SPAN>日，天目药业累计收到现代联合及关联方归还的资金占用款项<SPAN>1,714</SPAN>万元，利息<SPAN>128.99</SPAN>万元。截至<SPAN>2009</SPAN>年<SPAN>5</SPAN>月<SPAN>19</SPAN>日，现代联合及关联方占用上市公司资金余额为<SPAN>0</SPAN>。天目药业分别于<SPAN>2009</SPAN>年<SPAN>4</SPAN>月<SPAN>29</SPAN>日、<SPAN>5</SPAN>月<SPAN>8</SPAN>日和<SPAN>5</SPAN>月<SPAN>21</SPAN>日对上述资金占用归还情况进行了临时公告。</SPAN></P>
+<P><SPAN>在调查中，天目药业、现代联合、现代集团及相关人员能够配合案件调查。</SPAN></P>
+<P><SPAN>我会认为，根据上述第一项至第十项事实，对照《证券法》与《上海证券交易所股票上市规则》（以下简称《股票上市规则》）有关规定，按累计关联交易金额绝对值与占上市公司净资产相对比例计算，天目药业在多个时点应当履行临时报告与披露义务，但一直没有履行。同时，天目药业还在多个定期报告时点隐瞒了公司资金被大股东及其关联方占用的情况。这些信息披露违法行为，发生次数多，持续时间长，属于连续性、习惯性的违法行为。证据表明，时任天目药业董事长、实际控制人章鹏飞作为有关涉案事项的策划者、指挥者和具体经办人，是这些信息披露违法事项最主要的直接负责的主管人员。同时，天目药业董事会的其他成员，包括时任内部董事郑智强、高洪、梁满初，外部董事梅欣、黄建宝，独立董事管湘菂、吴晓波、颜春友，分别、多次在涉案的<SPAN>2007</SPAN>年中期报告、<SPAN>2007</SPAN>年年度报告、<SPAN>2008</SPAN>年中期报告董事会决议上签字，没有证据证明这些董事曾经督促、监督天目药业形式上的公司治理机制、内部控制制度真正发挥作用，也没有证据证明这些董事曾经对章鹏飞的行为实施必要的、有效的监督与制约，因此，这些董事应当对天目药业因公司治理失败、内部控制失灵而发生的信息披露违法行为承担一定的失察之责，不能单纯以涉案事项系实际控制人一手操控、自己“不知情”、“未参与”，或者案发后曾对公司与有关人员严厉批评、督促公司整改而免责。时任天目药业财务负责人吴青平，负有完善财务管理、加强财务监督、实施有效内控之责，同时是《上市公司信息披露管理办法》规定的信息披露事务主要责任人之一，有证据证明其在天目药业与大股东及其关联方发生的<SPAN>2</SPAN>笔共计<SPAN>680</SPAN>万元的关联交易中知情且起辅助作用，未督促公司进行信息披露，应当承担一定的责任。时任天目药业副总经理、董事会秘书郑涛，作为《上市公司信息披露管理办法》规定的信息披露事务的主要责任人之一和信息披露事务的主要经办者，未能提供其已经尽职尽责的有效证据，也应承担一定的责任。</SPAN></P>
+<P><SPAN>根据上述第十一项事实，在章鹏飞实际控制的山东现代物流尚未按天目药业董事会通过并公告的条件支付山东天目项目股权转让款及债权转让款的情况下，山东天目的股权已在章鹏飞操办下从天目药业过户至山东现代物流。进而，章鹏飞不顾天目药业董事会关于山东现代物流不按约支付款项发布的公告，未经公司内部决策程序，也不进行披露，擅自代表天目药业与山东现代物流签订协议，同意山东现代物流延期付款，在协议上代表天目药业与代表山东现代物流签字的均是章鹏飞。章鹏飞擅自同意山东现代物流延期支付所欠天目药业的重大债务，导致主要欠款金额拖延近半年才完成支付。同时，天目药业未披露重大关联债权未按期收回的重大风险事项，构成了信息披露上的重大遗漏。章鹏飞作为天目药业、山东现代物流的实际控制人和该事项的直接操办者，是最主要的直接负责的主管人员。天目药业董事会的其他成员，包括时任内部董事郑智强、高洪、梁满初，外部董事梅欣、黄建宝，独立董事管湘菂、吴晓波、颜春友，对于如此明显的上市公司重大债权未按期收回事项，不问不管，未对天目药业实际控制人的行为实施必要的、有效的监督与制约，缺乏应有的勤勉尽责意识，应当承担一定的责任。时任天目药业财务负责人吴青平，负有完善财务管理、加强财务监督、实施有效内控之责，同时是上市公司信息披露事务的主要责任人之一，未能恪尽职守，应当承担一定的责任。时任天目药业副总经理、董事会秘书郑涛，作为天目药业信息披露事务的主要责任人之一和信息披露事务的主要经办者，应当对天目药业重大债权未收回事项保持高度关注，避免信息披露上的重大遗漏，未能恪尽职守，也应当承担一定的责任。</SPAN></P>
+<P><SPAN>根据上述第十二项事实，对照《股票上市规则》的规定，该事项构成了应当及时披露的关联交易，但没有及时披露。时任天目药业董事长章鹏飞、董事梁满初作为天目药业投资深圳京柏的决策者并作为深圳京柏董事会成员，是该项信息披露违法行为的直接负责的主管人员。</SPAN></P>
+<P><SPAN>我会还特别关注到，天目药业曾于<SPAN>2006</SPAN>年<SPAN>11</SPAN>月至<SPAN>2007</SPAN>年<SPAN>4</SPAN>月间向控股股东及关联方提供资金资助，累计金额高达<SPAN>1.2</SPAN>亿元，未按相关规定予以披露；<SPAN>2009</SPAN>年<SPAN>2</SPAN>月<SPAN>5</SPAN>日，天目药业受到了我会警告、罚款<SPAN>40</SPAN>万元的处罚，章鹏飞受到了警告、罚款<SPAN>30</SPAN>万元的处罚，郑智强受到了警告、罚款<SPAN>3</SPAN>万元的处罚。本案涉及的违法事项，有的在前案调查、审理之前就已经发生了，但被章鹏飞隐瞒；有的发生在前案调查、审理过程中，因此，本案已构成多次重复违法。当事人漠视证券法律、漠视证券监管、漠视投资者利益的主观恶性较强，违法行为的社会危害性较大，应当予以从重处罚。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P><SPAN>一、对天目药业给予警告，并处以<SPAN>40</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>二、对章鹏飞给予警告，并处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>三、对郑智强给予警告，并处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>四、对吴青平、高洪、郑涛、梁满初给予警告，并分别处以<SPAN>3</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>五、对梅欣、黄建宝、管湘菂、吴晓波、颜春友给予警告。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P align=center>&nbsp;</P>
+<P align=center>&nbsp;</P>
+<P align=center>&nbsp;</P>
+<P><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 　 中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN>&nbsp;<SPAN>　 </SPAN>&nbsp;<SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN><SPAN>　</SPAN>　　　　　　　　　　　　　　　　　　　　　 </SPAN><SPAN>　 二○一一年一月六日</SPAN></P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110513_195426_ext.json

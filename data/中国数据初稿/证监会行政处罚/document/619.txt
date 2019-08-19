@@ -1,0 +1,264 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（钱江摩托、林华中等4名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-03782</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年06月09日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（钱江摩托、林华中等4名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2011〕22号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（钱江摩托、林华中等4名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2011〕22号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1311150416593'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1311150416593 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1311150416593 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1311150416593 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1311150416593 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1311150416593 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><SPAN>〔<SPAN>2011</SPAN>〕<SPAN>22</SPAN>号</SPAN></P>
+<P><SPAN>当事人：浙江钱江摩托股份有限公司（以下简称钱江摩托），住所：浙江省温岭市经济开发区，法定代表人：林华中。</SPAN></P>
+<P><SPAN>林华中，男，<SPAN>1955</SPAN>年<SPAN>6</SPAN>月出生，时任钱江摩托董事长，住址：浙江省温岭市太平街道中央园巷<SPAN>11</SPAN>号。</SPAN></P>
+<P><SPAN>陈筱根，男，<SPAN>1955</SPAN>年<SPAN>3</SPAN>月出生，时任钱江摩托副董事长兼总会计师，住址：浙江省温岭市太平街道万昌中路<SPAN>193</SPAN>号太宇大厦<SPAN>9</SPAN>单元<SPAN>216</SPAN>室。</SPAN></P>
+<P><SPAN>林先进，男，<SPAN>1961</SPAN>年<SPAN>11</SPAN>月出生，时任钱江摩托董事会秘书，住址：浙江省温岭市太平街道竹园新村<SPAN>9</SPAN>幢<SPAN>402</SPAN>室。</SPAN></P>
+<P><SPAN>郭东劭，男，<SPAN>1973</SPAN>年<SPAN>7</SPAN>月出生，时任钱江摩托总经理兼总工程师，住址：浙江省杭州市下城区武林新村<SPAN>104</SPAN>号。</SPAN></P>
+<P><SPAN>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对钱江摩托信息披露违法行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，钱江摩托信息披露违法行为的事实如下：</SPAN></P>
+<P><SPAN>2009</SPAN><SPAN>年<SPAN>5</SPAN>月<SPAN>18</SPAN>日上午，温岭市召开市政府常务会议，对钱江摩托迁建有关政策进行讨论和研究，明确了补偿政策标准。当日下午，温岭市政府电话告知钱江摩托，公司的部分厂区将列入城区“退二进三”规划并可享受《温岭市人民政府关于中心城区“退二进三”工作的实施意见》（温政发〔<SPAN>2007</SPAN>〕<SPAN>13</SPAN>号，以下简称《实施意见》）规定的政策。上述迁建工作和补偿事宜涉及钱江摩托全资子公司浙江美可达摩托车有限公司（以下简称美可达公司）和浙江益鹏发动机配件有限公司（以下简称益鹏公司）。钱江摩托接获通知后即开始研究和评估《实施意见》相关规定和政策对本公司的影响。</SPAN></P>
+<P><SPAN>5</SPAN><SPAN>月<SPAN>18</SPAN>日，温岭当地媒体对上述市政府常务会议进行了报道。有媒体报道：“常务会议对钱江摩托万昌厂区迁建资产处置工作有关政策进行讨论研究。会议确定了钱江摩托万昌厂区‘退二进三’有关资金补偿政策。”该节目中还对会议文件《钱江摩托万昌厂区迁建资产处置工作有关政策说明》做了特写镜头。<SPAN>5</SPAN>月<SPAN>19</SPAN>日，有媒体头版中以“十四届市政府第二十次常务会议昨召开”为标题对此次常务会议内容进行了报道，其中写明“会议研究了钱江摩托股份有限公司老厂区迁建有关政策”。<SPAN>5</SPAN>月<SPAN>19</SPAN>日后，互联网出现了关于温岭市人民政府确定钱江摩托老厂区迁建政策的信息。</SPAN></P>
+<P><SPAN>钱江摩托于<SPAN>5</SPAN>月<SPAN>18</SPAN>日下午收到市政府的电话通知及<SPAN>5</SPAN>月<SPAN>18</SPAN>日、<SPAN>19</SPAN>日媒体报道市政府会议内容之后，未按照规定履行披露义务。至<SPAN>2009</SPAN>年<SPAN>9</SPAN>月<SPAN>17</SPAN>日，钱江摩托才发布《关于全资子公司部分厂区搬迁的公告》，将美可达公司和益鹏公司涉及搬迁及补偿事宜予以披露。</SPAN></P>
+<P><SPAN>钱江摩托未及时履行信息披露义务的行为，违反了《证券法》第六十七条的规定和《上市公司信息披露管理办法》第三十一条的规定，构成《证券法》第一百九十三条所述的行为；但考虑其情节比较轻微，依法予以从轻处理。</SPAN></P>
+<P><SPAN>时任钱江摩托董事长林华中，是钱江摩托未及时履行信息披露义务的直接负责的主管人员；时任钱江摩托副董事长兼总会计师陈筱根、时任钱江摩托董事会秘书林先进和总经理郭东劭，是钱江摩托未及时履行信息披露义务的其他直接责任人员。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P><SPAN>一、对钱江摩托给予警告，并处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>二、对林华中给予警告，并处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>三、对陈筱根、林先进给予警告，并分别处以<SPAN>3</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>四、对郭东劭给予警告。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp; </P>
+<P><SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　&nbsp; </SPAN></SPAN><SPAN>中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN><SPAN>　　&nbsp; </SPAN><SPAN>　　　</SPAN>　&nbsp;<SPAN>　　　　　　　　　 </SPAN><SPAN>　　</SPAN></SPAN><SPAN>二○一一年六月九日</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20110718_197604_ext.json

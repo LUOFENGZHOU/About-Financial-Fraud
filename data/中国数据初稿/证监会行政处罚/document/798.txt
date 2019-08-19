@@ -1,0 +1,537 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（远东化纤、夏建兴、刘君）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-00037</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年01月02日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（远东化纤、夏建兴、刘君）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]3号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>处罚 浙江省 证券法 账户</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（远东化纤、夏建兴、刘君）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]3号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1247118454843'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1247118454843 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247118454843 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247118454843 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247118454843 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247118454843 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+
+
+--**/</style>
+<DIV class=Section0 style="LAYOUT-GRID:  15.6pt none">
+<P class=16 style="TEXT-INDENT: 21pt; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">[2008]3<FONT face=黑体>号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN class=15 style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人</SPAN></FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>：浙江远东化纤集团有限公司（以下简称远东化纤），住所：浙江省绍兴县马鞍镇东街1号，法定代表人夏建兴。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>夏建兴，男，1968年出生，时任远东化纤法定代表人，住址：浙江省绍兴县马鞍镇大源村2队。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>刘君，男，1962年出生，时任远东化纤副总经理，住址：浙江省绍兴市越城区试弄住宅6幢307室。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，本会对远东化纤非法利用他人账户从事证券交易行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利，当事人均未提出陈述、申辩意见，远东化纤也未要求听证。本案现已调查、审理终结。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>经查明，远东化纤存在以下违法行为：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>自2006年2月7日至4月14日，远东化纤合计向“徐茂根”等33个资金账户（下挂40个个人股东账户）打入资金2630万元，且逐笔给银河证券绍兴营业部出具证明，称上述款项为远东化纤的自有资金并合法拥有，由此引起的一切责任和风险均由其全部承担。2006年3月6日，远东化纤向银河证券绍兴营业部出具委托书，授权公司分管对外投资及证券投资的常务副总经理刘君全权代理公司下挂股票账户项下的一切事宜，包括股票买卖及资金的存入和取出。据统计，远东化纤于2001年8月15日至2007年3月15日期间，利用40个个人股东账户交易“浙江震元”股票，累计买入7,245,367股，买入金额为26,689,598元，至2007年3月15日全部卖出，实现盈利18,598,039元。远东化纤能够积极配合中国证监会的调查。上述违法行为直接负责的主管人员是夏建兴，其他直接责任人员是刘君。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>上述事实，有公司证明、授权委托书、银行进账单、相关交易记录及当事人询问笔录等证据证明。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>远东化纤的上述行为违反了《证券法》第八十条“禁止法人非法利用他人账户从事证券交易”的规定，构成了第二百零八条“法人以他人名义设立账户或者利用他人账户买卖证券”的行为。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零八条及《行政处罚法》第二十七条的规定，本会决定如下：</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（一）责令远东化纤改正上述违法行为，自收到本处罚决定书之日起3个月内清理以他人名义设立的账户或者利用的他人账户（清单附后）；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（二）没收远东化纤违法所得18,598,039元；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（三）对夏建兴给予警告，并处以3万元罚款；</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>（四）对刘君给予警告，并处以3万元罚款。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如对本处罚决定不服，可在收到本处罚决定之日起60日内向中国证券监督管理委员会提出行政复议，也可以在收到本处罚决定之日起3个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>附件：违规账户清单</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; MARGIN-RIGHT: 31.5pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>中国证券监督管理委员会</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=17 style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%; MARGIN-RIGHT: 42pt; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>二○○八年一月二日</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="TEXT-INDENT: 21pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>附件：</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=16 style="TEXT-INDENT: 21pt; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>违规账户清单</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<TABLE class=" FCK__ShowTableBorders2" style="BORDER-COLLAPSE: collapse; mso-table-layout-alt: fixed" align=center>
+<TBODY>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: rgb(0,0,0) 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>序号</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: rgb(0,0,0) 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>股东代码</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: rgb(0,0,0) 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=16><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=黑体>股东名称</FONT></SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">1</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0085949852</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>徐茂根</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">2</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0085949853</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>蒋志根</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">3</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0085949854</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>夏杏娟</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">4</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0085949857</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陈芝琴</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">5</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0085949858</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>李玉</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">6</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0085949860</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陆国娟</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">7</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0085949874</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>朱利海</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">8</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0085949872</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>俞剑龙</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">9</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103018758</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>汪小军</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">10</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103050665</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>周荷娟</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">11</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103079498</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>徐兆安</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">12</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103079552</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>沈观良</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">13</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103079771</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>俞志法</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">14</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103142512</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陆宝荣</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">15</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103142565</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>金莹峰</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">16</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103142609</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>黄秋炎</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">17</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103142647</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>田启东</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">18</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103065434</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>王伟峰</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">19</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103066204</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陈青</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">20</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103019071</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陈利建</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">21</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103019905</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>寿新芳</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">22</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103095636</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>韩洪良</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">23</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103050378</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>冯芬</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">24</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103057210</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>李宝兴</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">25</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103067676</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>杨勇</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">26</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103068173</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>裘新华</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">27</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103092297</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陆建桥</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">28</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103092316</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陈桂英</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">29</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103092322</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>王国平</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">30</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103093596</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>童非</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">31</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103111035</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>李来江</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">32</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103111068</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>杨志行</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">33</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103111407</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>宋书峰</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">34</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103111441</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>童小芳</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">35</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103149335</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>潘小飞</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">36</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103149378</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>宋魁</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">37</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103149404</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>傅兴昌</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">38</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103149438</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>王国和</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">39</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103149470</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>陈培丰</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR>
+<TR style="HEIGHT: 28.3pt">
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: rgb(0,0,0) 0.5pt solid; WIDTH: 55.2pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=73>
+<P class=16 style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">40</SPAN><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 130.65pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=174>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">0103195581</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD>
+<TD style="BORDER-RIGHT: rgb(0,0,0) 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0pt; BORDER-LEFT: medium none; WIDTH: 240.25pt; PADDING-TOP: 0pt; BORDER-BOTTOM: rgb(0,0,0) 0.5pt solid" vAlign=center width=320>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><FONT face=宋体>李纪明</FONT></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P></TD></TR></TBODY></TABLE>
+<P class=17><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P></DIV><!--{PS..0}-->
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20080430_23016_ext.json

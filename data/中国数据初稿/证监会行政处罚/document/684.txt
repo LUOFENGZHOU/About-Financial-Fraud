@@ -1,0 +1,225 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（泰阳期货、刘丹岳、王强、陈淼）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-01571</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年02月11日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（泰阳期货、刘丹岳、王强、陈淼）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2010〕3号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（泰阳期货、刘丹岳、王强、陈淼）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2010〕3号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 150%" align=center><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>〔<SPAN style="FONT-SIZE: 10.5pt">2010</SPAN>〕<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>号</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　&nbsp; </FONT><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：湖南泰阳期货经纪有限公司（现更名为方正期货有限公司，以下称泰阳期货或方正期货），住所：湖南省长沙市芙蓉北路<SPAN style="FONT-SIZE: 10.5pt">538</SPAN>号，法定代表人严若中。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>刘丹岳，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月出生，住址：湖南省长沙市芙蓉区文艺村<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>栋附<SPAN style="FONT-SIZE: 10.5pt">102</SPAN>号，时任泰阳期货总经理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>王强，男，<SPAN style="FONT-SIZE: 10.5pt">1974</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月出生，住址：湖南省长沙市雨花区韶山中路<SPAN style="FONT-SIZE: 10.5pt">376</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>门<SPAN style="FONT-SIZE: 10.5pt">101</SPAN>房，时任泰阳期货深圳营业部负责人。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>陈淼，男，<SPAN style="FONT-SIZE: 10.5pt">1974</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月出生，住址：广东省深圳市福田区杰恩大厦<SPAN style="FONT-SIZE: 10.5pt">902</SPAN>房，时任泰阳期货深圳营业部负责人。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>日前，泰阳期货任用不具备资格的从业人员一案已由我会调查、审理完毕。我会依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，方正期货、刘丹岳、王强进行了申辩，当事人陈淼放弃陈述和申辩的权利。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，泰阳期货存在以下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2005</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月，泰阳期货深圳营业部先后聘任叶刚、刘忠亚、芮清峰、潘冬明等<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>人作为市场部客户经理，从事客户开发业务。经向中国期货业协会查询，叶刚等<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>人在其上述任职期间均不具有期货从业资格，具体情况为：叶刚于<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月至今在泰阳期货深圳营业部任职，其虽于<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年通过期货从业人员资格考试，但在<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>日之前并未取得期货从业资格；刘忠亚于<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月在泰阳期货深圳营业部任职，但其直至<SPAN style="FONT-SIZE: 10.5pt">2008</SPAN>年方通过期货从业人员资格考试并于<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">27</SPAN>日取得期货从业资格；芮清峰于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月在泰阳期货深圳营业部任职，在此期间，芮清峰未通过期货从业人员资格考试，不具有期货从业资格；潘东明于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月在泰阳期货深圳营业部任职，在此期间，潘东明未通过期货从业人员资格考试，不具有期货从业资格。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>在上述泰阳期货任用不具备期货从业资格的叶刚等人从事客户开发业务期间，刘丹岳担任泰阳期货总经理，王强、陈淼先后担任泰阳期货深圳营业部负责人。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实，有相关营业部情况说明、管理制度、员工登记资料、劳动合同、工资统计表、客户经理提成表、业务报表、社保记录、中国期货业协会复函、工商登记资料及当事人询问笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>泰阳期货任用不具备期货从业资格的叶刚等<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>人从事客户开发业务的行为，违反了《期货交易管理暂行条例》（国务院令第<SPAN style="FONT-SIZE: 10.5pt">267</SPAN>号）第五十四条和《期货交易管理条例》（国务院令第<SPAN style="FONT-SIZE: 10.5pt">489</SPAN>号）第五十七条的规定，构成了《期货交易管理暂行条例》第五十九条和《期货交易管理条例》第七十条所述期货公司“任用不具备资格的期货从业人员”的行为。对泰阳期货的上述行为，时任泰阳期货总经理刘丹岳和深圳营业部负责人王强、陈淼是直接负责的主管人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>方正期货提出以下申辩理由，请求我会对其免予处罚：其一，叶刚应聘时提供了期货从业考试合格证明，故不宜认定叶刚不具备从业资格；其二、刘忠亚、芮清峰、潘冬明等<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>人虽不具有从业资格，但公司仅把<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>人作为后备辅助人员管理和使用，是在具有从业资格人员的指导下辅助开发客户，期间没有发生违规行为，也没有造成不良后果；其三，在被我会调查前，公司已将未在规定时间内取得从业资格的刘忠亚、芮清峰、潘冬明等<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>位后备辅助人员分别予以辞退，有主动纠正的情节；其四，违规行为发生在泰阳期货存续期间，如因该历史遗留问题而对实际控制人和经营层均已实质变更的方正期货进行处罚，有失公平。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>刘丹岳提出以下申辩理由，请求我会对其免予处罚：其一，在当时特定的历史条件下，公司招聘不具备从业资格的人员主要是为了培育后备人员，其工作内容是在具备从业资格人员的指导下进行客户开发辅助工作，此类人员的业务量少，没有对公司业务形成影响力；其二，违规行为发生后，公司进行了及时整改，对未在规定时间内考取从业资格的芮清峰、潘冬明予以了清退；其三，本人对违规行为的认识态度好，能够积极配合调查，及时、主动纠正错误，且该违法行为没有造成任何危害后果。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>王强提出以下申辩理由，请求我会酌情对其减轻或免予处罚：其一，违法行为发生在泰阳期货深圳营业部两任总经理交接的特殊时期，在公司总部和新任营业部总经理的插手和干预下，其作为前任营业部总经理在人员任用及核查上已经无法正常履行职务；其二，涉案业务在运行过程中没有给公司带来经济损失，本人的违规行为也没有造成危害性后果。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，当事人的申辩理由不能成立：其一，叶刚等<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>人不具有期货从业资格的事实清楚。虽然叶刚确已通过期货从业人员资格考试，但其并未按规定申请取得从业资格，因此叶刚仍属于不得从事期货业务的人员。其二，虽然期货公司可以聘用无从业资格的人员作为期货业务辅助人员，但《期货交易管理暂行条例》和《期货交易管理条例》均禁止未取得从业资格的人员对外开展期货业务。本案中叶刚等<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>人作为客户经理，都实际从事了客户开发工作，并不属于当事人所谓的“客户开发辅助工作”。其三，潘东明在开展业务过程中违规操作，造成了不良影响。其四，公司法人名称、股东和经营层等的变更，不能否定其应当承担的法律责任。其五，王强作为深圳营业部总经理，其任内已有不具备从业资格的叶刚、刘忠亚在营业部工作。在两任营业部总经理任职过渡期间，王强作为仍在职的总经理，实际履行了包括风险控制、财务等在内的部分职权，并审批了潘东明、芮清峰的报到单。其六，对当事人提出的主动整改、积极配合调查等情节，我会在审理时已依据《中华人民共和国行政处罚法》第二十七条的规定予以充分考虑。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《期货交易管理暂行条例》第五十九条、《期货交易管理条例》第七十条和《中华人民共和国行政处罚法》第二十七条的规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、对泰阳期货给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对刘丹岳给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、对王强、陈淼给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 11pt"><SPAN style="COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会　 </FONT></SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black"><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN>　&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">二○一○年二月十一日</SPAN></FONT></FONT><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体> </FONT></SPAN></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100420_179469_ext.json

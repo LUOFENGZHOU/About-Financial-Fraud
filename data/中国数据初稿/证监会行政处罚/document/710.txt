@@ -1,0 +1,240 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（天健所、姚立忠、周俊超）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-07764</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年10月14日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（天健所、姚立忠、周俊超）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2009〕41号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（天健所、姚立忠、周俊超）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2009〕41号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt" align=center><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>〔<SPAN style="FONT-SIZE: 10.5pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 10.5pt">41</SPAN>号</FONT></SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：天健华证中洲（北京）会计师事务所有限公司（现更名为天健光华（北京）会计师事务所有限公司），住所：北京市东城区北三环东路<SPAN style="FONT-SIZE: 10.5pt">36</SPAN>号环球贸易中心<SPAN style="FONT-SIZE: 10.5pt">A</SPAN>座<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>层，法定代表人陈箭深。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>姚立中，男，<SPAN style="FONT-SIZE: 10.5pt">1941</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，住址：厦门市天湖路<SPAN style="FONT-SIZE: 10.5pt">63</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">701</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>周俊超，男，<SPAN style="FONT-SIZE: 10.5pt">1971</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月出生，住址：厦门市湖里区金尚路<SPAN style="FONT-SIZE: 10.5pt">1388</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">503</SPAN>室。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会依法对夏新电子股份有限公司（以下简称夏新电子）违反证券法律法规案中审计机构涉及的违法行为进行了立案调查、审理，并向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人的要求，我会依法举行了听证会，听取了当事人及其代理人的陈述和申辩。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，天健华证中洲（北京）会计师事务所有限公司（以下简称天健所）为夏新电子<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告出具了无保留意见审计报告。天健所在对夏新电子年报审计过程中，未实施必要的审计程序，收集充分的审计证据，导致出具了含有虚假内容的审计报告。夏新电子<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度审计报告签字会计师为姚立中、周俊超。具体违法事实如下：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、天健所未按照《中国注册会计师审计准则第<SPAN style="FONT-SIZE: 10.5pt">1101</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">--</SPAN>财务报表审计的目标和一般原则》第十一条<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>在计划和实施审计工作时，注册会计师应当保持职业怀疑态度，充分考虑可能存在导致财务报表发生重大错报的情形<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的规定，对夏新电子<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>应收票据<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>科目未区分<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>银行承兑汇票<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>商业承兑汇票<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>保持应有的关注。在对应收票据进行审计时，所抽查的凭证号为<SPAN style="FONT-SIZE: 10.5pt">5000045266</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">5000045095</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">5000045083</SPAN>的记账凭证所附的票据号为<SPAN style="FONT-SIZE: 10.5pt">03151018</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">05939918</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">06422551</SPAN>的应收票据均为商业承兑汇票，但抽查结论仍为<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>未见异常<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>可以确认<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>，从而未发现夏新电子商业承兑汇票披露存在误导性陈述。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、天健所未按照《中国注册会计师审计准则第<SPAN style="FONT-SIZE: 10.5pt">1332</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">--</SPAN>期后事项》第五条<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>注册会计师应当实施必要的审计程序，获取充分、适当的审计证据，以确定截至审计报告日发生的、需要在财务报表中调整或披露的事项是否均已得到识别<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的规定，对夏新电子资产负债表日后销售退回事项予以关注。在对资产负债表日后销售退回进行审计时，未对期后退回事项进行充分的内控程序测试；在<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>主营业务收入<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>底稿中，针对审计程序<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>检查决算日后所有在决算日前销售的退回记录<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>，天健所标注<SPAN style="FONT-SIZE: 10.5pt">“N/A”</SPAN>，即不适用；抽查<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>主营业务收入<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>项目凭证中，天健所仅抽查了<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>、<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月的退货凭证，未对<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1-3</SPAN>月的退货进行抽查；在资产负债表日前后进行截止性测试时，仅抽查了夏新电子<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度凭证，未对<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1-3</SPAN>月凭证进行抽查；在其他相关审计底稿中，也未见天健所针对期后销售退回所实施的相应审计程序<SPAN style="FONT-SIZE: 10.5pt; COLOR: blue">，</SPAN>导致天健所未发现夏新电子未在<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年财务报表中对资产负债表日后销售退回进行恰当的会计处理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、天健所未按照《中国注册会计师审计准则第<SPAN style="FONT-SIZE: 10.5pt">1101</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">--</SPAN>财务报表审计的目标和一般原则》第二十二条<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>注册会计师应当获取认定层次充分、适当的审计证据，以便在完成审计工作时，能够以可接受的低审计风险对财务报表整体发表审计意见<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的规定，对夏新电子<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度预提的返利价保的完整性获取充分、适当的审计证据，并实施充分的审计程序。在对<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度返利价保预提事项审计时，未进一步采取其他替代性程序，去关注期后进维护核算系统的相关记录。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实，有相关情况说明、<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年度报告、审计报告、审计工作底稿等证据证明，证据确凿充分，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>天健所的上述行为违反了《证券法》第一百七十三条关于<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>证券服务机构为证券的发行、上市、交易等证券业务活动制作、出具审计报告、资产评估报告、财务顾问报告、资信评级报告或者法律意见文书等文件，应当勤勉尽责，对所依据的文件资料内容的真实性、准确性、完整性进行核查和验证<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的规定，构成了《证券法》第二百二十三条所述<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>证券服务机构未勤勉尽责，所制作、出具的文件有虚假记载、误导性陈述或者重大遗漏<SPAN style="FONT-SIZE: 10.5pt">” </SPAN>的违法行为。天健所上述行为责任人为姚立中、周俊超。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>在听证过程中，天健所提供了应收票据执行程序表、管理当局声明书、库存商品<SPAN style="FONT-SIZE: 10.5pt">-</SPAN>退货科目审计底稿、已回函相符并追溯调整的代理商清单、询证函等，并提出了申辩意见。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>天健所申辩称，夏新电子在财务报表附注中对应收票据的分类没有做出恰当的披露，是夏新电子的会计责任问题；对应收票据审核时已执行了监盘、函证等审计程序；应收票据未适当分类不足以影响或改变财务报表使用者的相关决策，不影响注册会计师对审计报告意见类型确定，并不属于重大错报。我会认为，商业承兑汇票与银行承兑汇票的信用、风险等级、可回收性都存在很大差异。夏新电子<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报将<SPAN style="FONT-SIZE: 10.5pt">2.8</SPAN>亿商业承兑汇票披露为银行承兑汇票，占全部应收票据余额的<SPAN style="FONT-SIZE: 10.5pt">40</SPAN>％，且在到期日均未变现<SPAN style="FONT-SIZE: 10.5pt">,</SPAN>全部转为公司应收账款。天健所在对应收票据实施监盘的过程中，已抽查到<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>张金额<SPAN style="FONT-SIZE: 10.5pt; LETTER-SPACING: -1pt">分别为<SPAN style="FONT-SIZE: 10.5pt">5000</SPAN>万、<SPAN style="FONT-SIZE: 10.5pt">4000</SPAN>万、<SPAN style="FONT-SIZE: 10.5pt">2000</SPAN>万</SPAN>商业承兑汇票但未给予合理关注，错误得出<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>盘点未见异常<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>和<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>期末应收票据均为银行承兑汇票，无商业承兑汇票<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的盘点结论，因此，可以认定天健所未保持应有的职业谨慎态度，导致未发现夏新电子商业承兑汇票披露存在误导性陈述。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>天健所申辩称，天健所对夏新电子期后销售退回事项已按照《期后事项》准则的要求履行了必要的程序，函证、检查<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1-2</SPAN>月的存货科目等，已针对期后销售退回事项执行了相关程序，审计程序是充分、适当的。我会认为，天健所实施的审计程序不足以发现期后销售退回事项。首先，天健所审计的<SPAN style="FONT-SIZE: 10.5pt"> “</SPAN>存货<SPAN style="FONT-SIZE: 10.5pt">——</SPAN>退货<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>科目并非通常意义上所认为的销售退回，该科目主要核算的是分公司、子公司退货及小部分暂无退货证明的退货，远未涵盖全部退货。因此<SPAN style="FONT-SIZE: 10.5pt">,</SPAN>检查该科目对于发现期后销售退回事项的作用不大。天健所仅对该科目实施了资产负债表日后事项的审计，并以此作为其在期后销售退回事项上勤勉尽责的证据是不充分的。其次，天健所实施的函证程序，也并不能发现期后事项。应收账款函证的金额为<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日的金额，在询证函未作特别设计的情况下，客户一般仅核对年末余额，并非天健所所述的<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>报表日前发生的销售如在日后发生退货，回函客户都会在回函中予以明确说明<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>。第三，天健所对杭州分公司期后销售退回的审计并不能替代本部及其他多家分公司的审计，天健所发现杭州分公司存在销售退回后，也未扩大审计范围，采取进一步的审计程序。此外，天健所实施的其他审计程序也都是只针对<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度会计记录，不足以发现期后销售退回事项。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>天健所申辩称，天健所已针对返利价保计提的真实性和完整性实施了函证获取外部证据和从原始单据到记账凭证的检查两个程序，审计程序充分，获取了充分、适当的审计证据，无需执行其他替代性程序，进一步关注期后事项<B style="FONT-SIZE: 10.5pt">。</B>我会认为，第一，天健所函证的是<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日已录入夏新电子<SPAN style="FONT-SIZE: 10.5pt">SAP</SPAN>系统已计提的返利价保。对于资产负债表日后维护进入<SPAN style="FONT-SIZE: 10.5pt">SAP</SPAN>系统，应归属于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度的返利价保，天健所依赖函证程序是难以发现的。第二，天健所实施的将账面数与系统维护数进行核对、选取<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月主要调价型号追查返利价保计提依据等程序都是针对返利价保<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>存在和发生<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>认定的检查，并非针对返利价保计提<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>完整性<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>的检查；天健所实施的将<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月的调价补差通知单与系统维护数进行核对的程序，虽然是针对<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>完整性<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>认定的检查，但从审计底稿和天健所提交的证据材料中，未见其索引号标注所对应的内容。此外，天健所申辩，由于夏新电子<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年返利价保存在有意推迟及人为删除返利价保系统数据的情况，导致其未能发现返利价保事项存在重大错报，根据夏新电子核算系统自动生成的<SPAN style="FONT-SIZE: 10.5pt">“</SPAN>计算单号<SPAN style="FONT-SIZE: 10.5pt">”</SPAN>显示，应归属于<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年度的<SPAN style="FONT-SIZE: 10.5pt">2043</SPAN>万返利价保已于<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>至<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月维护进核算系统。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>另外，天健所还提出夏新电子财务报表的会计责任不能连带推定注册会计师一定要承担相应的审计责任；应根据全部工作底稿判断审计工作质量，不应当根据某个项目的工作底稿或某个程序执行与否，来评价审计结论的适当性及总体的审计工作质量；认定审计责任必须充分考虑公司管理层舞弊及对审计的重要影响。我会认为，会计责任和审计责任是两种性质完全不同的责任，二者不可替代和混淆，公司会计责任并不能消除会计师审计责任；审计工作的整体质量是建立在对每一个会计科目审计程序的规范执行上，整体审计质量离不开勤勉尽责的项目审计；审计工作的计划和实施过程中，注册会计师都应当保持职业怀疑态度，充分考虑可能存在导致财务报表发生重大错报的情形；注册会计师应当在整个审计过程中保持职业怀疑态度，考虑管理层凌驾于控制之上的可能性，并应当意识到，可以有效发现错误的审计程序未必适用于发现舞弊导致的重大错报。因此，天健所针对夏新电子<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年年报未保持应有的职业怀疑态度，未勤勉尽责，应承担相应的审计责任。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百二十三条的规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、没收天健所业务收入<SPAN style="FONT-SIZE: 10.5pt">75</SPAN>万元，并处以<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对<SPAN style="FONT-SIZE: 10.5pt; LETTER-SPACING: -1pt">姚立中、周俊超给予警告</SPAN>，并<SPAN style="FONT-SIZE: 10.5pt; LETTER-SPACING: -1pt">分别</SPAN>处以<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><SPAN style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可以在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 30pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><SPAN style="COLOR: black"><SPAN><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　&nbsp;</FONT></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 271.3pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 24pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black"><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">二○○九年十月十四日</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 16pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100225_177400_ext.json

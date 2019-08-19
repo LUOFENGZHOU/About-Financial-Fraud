@@ -1,0 +1,661 @@
+
+
+ create table `15d` as select * from rawtime where DisposalYear=2015
+create table `15i` as select Nonfraud_Stkcd from `15d`
+    alter table `15i` change Nonfraud_Stkcd Stkcd int(11)
+create table `15y` as select * from `data15` where `data15`.Stkcd in (select * from `15i`)
+create table `sn15_00` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_01` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+1`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_02` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+2`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_03` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+3`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_04` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+4`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_05` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+5`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_06` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+6`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_07` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+7`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_08` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+8`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_09` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+9`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_10` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+10`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_11` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+11`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_12` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+12`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_13` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+13`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_14` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+14`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_15` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+15`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_16` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+16`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_17` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+17`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_18` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+18`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_19` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+19`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_20` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+20`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_21` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+21`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_22` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+22`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_23` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+23`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_24` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+24`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_25` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+25`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_26` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+26`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_27` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+27`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_28` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+28`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_29` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+29`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_30` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+30`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_31` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+31`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_32` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+32`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_33` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+33`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_34` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+34`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_35` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+35`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_36` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+36`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_37` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+37`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_38` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+38`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_39` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+39`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_40` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+40`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_41` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+41`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_42` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+42`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_43` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+43`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_44` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+44`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_45` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+45`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_46` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+46`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_47` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+47`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_48` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+48`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_49` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+49`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_50` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+50`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_51` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+51`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_52` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+52`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_53` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+53`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_54` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+54`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_55` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+55`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_56` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+56`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_57` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+57`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_58` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+58`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_59` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+59`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_60` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt+60`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m01` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-1`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m02` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-2`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m03` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-3`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m04` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-4`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m05` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-5`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m06` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-6`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m07` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-7`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m08` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-8`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m09` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-9`) and (`15d`.Stkcd=`15y`.Stkcd)
+create table `sn15_m10` as  select `15d`.IDD,`15y`.Dretwd from `15d` left join `15y` on (`15y`.Trddt=`15d`.`Trddt-10`) and (`15d`.Stkcd=`15y`.Stkcd)
+
+ create table `16d` as select * from rawtime where DisposalYear=2016
+create table `16i` as select Nonfraud_Stkcd from `16d`
+    alter table `16i` change Nonfraud_Stkcd Stkcd int(11)
+create table `16y` as select * from `data16` where `data16`.Stkcd in (select * from `16i`)
+create table `sn16_00` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_01` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+1`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_02` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+2`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_03` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+3`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_04` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+4`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_05` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+5`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_06` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+6`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_07` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+7`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_08` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+8`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_09` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+9`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_10` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+10`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_11` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+11`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_12` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+12`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_13` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+13`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_14` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+14`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_15` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+15`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_16` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+16`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_17` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+17`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_18` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+18`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_19` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+19`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_20` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+20`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_21` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+21`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_22` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+22`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_23` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+23`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_24` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+24`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_25` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+25`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_26` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+26`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_27` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+27`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_28` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+28`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_29` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+29`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_30` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+30`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_31` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+31`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_32` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+32`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_33` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+33`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_34` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+34`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_35` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+35`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_36` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+36`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_37` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+37`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_38` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+38`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_39` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+39`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_40` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+40`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_41` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+41`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_42` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+42`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_43` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+43`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_44` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+44`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_45` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+45`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_46` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+46`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_47` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+47`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_48` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+48`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_49` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+49`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_50` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+50`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_51` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+51`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_52` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+52`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_53` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+53`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_54` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+54`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_55` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+55`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_56` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+56`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_57` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+57`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_58` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+58`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_59` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+59`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_60` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt+60`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m01` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-1`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m02` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-2`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m03` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-3`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m04` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-4`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m05` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-5`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m06` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-6`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m07` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-7`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m08` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-8`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m09` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-9`) and (`16d`.Stkcd=`16y`.Stkcd)
+create table `sn16_m10` as  select `16d`.IDD,`16y`.Dretwd from `16d` left join `16y` on (`16y`.Trddt=`16d`.`Trddt-10`) and (`16d`.Stkcd=`16y`.Stkcd)
+
+ create table `17d` as select * from rawtime where DisposalYear=2017
+create table `17i` as select Nonfraud_Stkcd from `17d`
+    alter table `17i` change Nonfraud_Stkcd Stkcd int(11)
+create table `17y` as select * from `data17` where `data17`.Stkcd in (select * from `17i`)
+create table `sn17_00` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_01` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+1`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_02` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+2`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_03` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+3`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_04` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+4`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_05` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+5`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_06` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+6`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_07` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+7`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_08` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+8`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_09` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+9`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_10` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+10`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_11` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+11`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_12` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+12`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_13` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+13`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_14` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+14`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_15` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+15`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_16` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+16`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_17` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+17`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_18` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+18`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_19` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+19`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_20` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+20`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_21` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+21`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_22` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+22`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_23` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+23`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_24` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+24`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_25` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+25`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_26` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+26`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_27` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+27`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_28` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+28`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_29` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+29`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_30` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+30`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_31` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+31`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_32` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+32`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_33` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+33`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_34` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+34`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_35` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+35`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_36` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+36`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_37` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+37`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_38` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+38`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_39` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+39`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_40` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+40`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_41` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+41`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_42` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+42`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_43` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+43`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_44` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+44`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_45` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+45`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_46` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+46`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_47` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+47`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_48` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+48`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_49` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+49`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_50` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+50`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_51` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+51`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_52` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+52`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_53` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+53`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_54` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+54`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_55` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+55`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_56` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+56`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_57` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+57`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_58` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+58`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_59` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+59`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_60` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt+60`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m01` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-1`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m02` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-2`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m03` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-3`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m04` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-4`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m05` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-5`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m06` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-6`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m07` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-7`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m08` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-8`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m09` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-9`) and (`17d`.Stkcd=`17y`.Stkcd)
+create table `sn17_m10` as  select `17d`.IDD,`17y`.Dretwd from `17d` left join `17y` on (`17y`.Trddt=`17d`.`Trddt-10`) and (`17d`.Stkcd=`17y`.Stkcd)
+
+alter table `sn17_00` change  `Dretwd` `Trddt` double
+alter table `sn17_01` change  `Dretwd` `Trddt+1` double
+alter table `sn17_02` change  `Dretwd` `Trddt+2` double
+alter table `sn17_03` change  `Dretwd` `Trddt+3` double
+alter table `sn17_04` change  `Dretwd` `Trddt+4` double
+alter table `sn17_05` change  `Dretwd` `Trddt+5` double
+alter table `sn17_06` change  `Dretwd` `Trddt+6` double
+alter table `sn17_07` change  `Dretwd` `Trddt+7` double
+alter table `sn17_08` change  `Dretwd` `Trddt+8` double
+alter table `sn17_09` change  `Dretwd` `Trddt+9` double
+alter table `sn17_10` change  `Dretwd` `Trddt+10` double
+alter table `sn17_11` change  `Dretwd` `Trddt+11` double
+alter table `sn17_12` change  `Dretwd` `Trddt+12` double
+alter table `sn17_13` change  `Dretwd` `Trddt+13` double
+alter table `sn17_14` change  `Dretwd` `Trddt+14` double
+alter table `sn17_15` change  `Dretwd` `Trddt+15` double
+alter table `sn17_16` change  `Dretwd` `Trddt+16` double
+alter table `sn17_17` change  `Dretwd` `Trddt+17` double
+alter table `sn17_18` change  `Dretwd` `Trddt+18` double
+alter table `sn17_19` change  `Dretwd` `Trddt+19` double
+alter table `sn17_20` change  `Dretwd` `Trddt+20` double
+alter table `sn17_21` change  `Dretwd` `Trddt+21` double
+alter table `sn17_22` change  `Dretwd` `Trddt+22` double
+alter table `sn17_23` change  `Dretwd` `Trddt+23` double
+alter table `sn17_24` change  `Dretwd` `Trddt+24` double
+alter table `sn17_25` change  `Dretwd` `Trddt+25` double
+alter table `sn17_26` change  `Dretwd` `Trddt+26` double
+alter table `sn17_27` change  `Dretwd` `Trddt+27` double
+alter table `sn17_28` change  `Dretwd` `Trddt+28` double
+alter table `sn17_29` change  `Dretwd` `Trddt+29` double
+alter table `sn17_30` change  `Dretwd` `Trddt+30` double
+alter table `sn17_31` change  `Dretwd` `Trddt+31` double
+alter table `sn17_32` change  `Dretwd` `Trddt+32` double
+alter table `sn17_33` change  `Dretwd` `Trddt+33` double
+alter table `sn17_34` change  `Dretwd` `Trddt+34` double
+alter table `sn17_35` change  `Dretwd` `Trddt+35` double
+alter table `sn17_36` change  `Dretwd` `Trddt+36` double
+alter table `sn17_37` change  `Dretwd` `Trddt+37` double
+alter table `sn17_38` change  `Dretwd` `Trddt+38` double
+alter table `sn17_39` change  `Dretwd` `Trddt+39` double
+alter table `sn17_40` change  `Dretwd` `Trddt+40` double
+alter table `sn17_41` change  `Dretwd` `Trddt+41` double
+alter table `sn17_42` change  `Dretwd` `Trddt+42` double
+alter table `sn17_43` change  `Dretwd` `Trddt+43` double
+alter table `sn17_44` change  `Dretwd` `Trddt+44` double
+alter table `sn17_45` change  `Dretwd` `Trddt+45` double
+alter table `sn17_46` change  `Dretwd` `Trddt+46` double
+alter table `sn17_47` change  `Dretwd` `Trddt+47` double
+alter table `sn17_48` change  `Dretwd` `Trddt+48` double
+alter table `sn17_49` change  `Dretwd` `Trddt+49` double
+alter table `sn17_50` change  `Dretwd` `Trddt+50` double
+alter table `sn17_51` change  `Dretwd` `Trddt+51` double
+alter table `sn17_52` change  `Dretwd` `Trddt+52` double
+alter table `sn17_53` change  `Dretwd` `Trddt+53` double
+alter table `sn17_54` change  `Dretwd` `Trddt+54` double
+alter table `sn17_55` change  `Dretwd` `Trddt+55` double
+alter table `sn17_56` change  `Dretwd` `Trddt+56` double
+alter table `sn17_57` change  `Dretwd` `Trddt+57` double
+alter table `sn17_58` change  `Dretwd` `Trddt+58` double
+alter table `sn17_59` change  `Dretwd` `Trddt+59` double
+alter table `sn17_60` change  `Dretwd` `Trddt+60` double
+alter table `sn17_m01` change  `Dretwd` `Trddt+m1` double
+alter table `sn17_m02` change  `Dretwd` `Trddt+m2` double
+alter table `sn17_m03` change  `Dretwd` `Trddt+m3` double
+alter table `sn17_m04` change  `Dretwd` `Trddt+m4` double
+alter table `sn17_m05` change  `Dretwd` `Trddt+m5` double
+alter table `sn17_m06` change  `Dretwd` `Trddt+m6` double
+alter table `sn17_m07` change  `Dretwd` `Trddt+m7` double
+alter table `sn17_m08` change  `Dretwd` `Trddt+m8` double
+alter table `sn17_m09` change  `Dretwd` `Trddt+m9` double
+alter table `sn17_m10` change  `Dretwd` `Trddt+m10` double
+
+alter table `sn16_00` change  `Dretwd` `Trddt` double
+alter table `sn16_01` change  `Dretwd` `Trddt+1` double
+alter table `sn16_02` change  `Dretwd` `Trddt+2` double
+alter table `sn16_03` change  `Dretwd` `Trddt+3` double
+alter table `sn16_04` change  `Dretwd` `Trddt+4` double
+alter table `sn16_05` change  `Dretwd` `Trddt+5` double
+alter table `sn16_06` change  `Dretwd` `Trddt+6` double
+alter table `sn16_07` change  `Dretwd` `Trddt+7` double
+alter table `sn16_08` change  `Dretwd` `Trddt+8` double
+alter table `sn16_09` change  `Dretwd` `Trddt+9` double
+alter table `sn16_10` change  `Dretwd` `Trddt+10` double
+alter table `sn16_11` change  `Dretwd` `Trddt+11` double
+alter table `sn16_12` change  `Dretwd` `Trddt+12` double
+alter table `sn16_13` change  `Dretwd` `Trddt+13` double
+alter table `sn16_14` change  `Dretwd` `Trddt+14` double
+alter table `sn16_15` change  `Dretwd` `Trddt+15` double
+alter table `sn16_16` change  `Dretwd` `Trddt+16` double
+alter table `sn16_17` change  `Dretwd` `Trddt+17` double
+alter table `sn16_18` change  `Dretwd` `Trddt+18` double
+alter table `sn16_19` change  `Dretwd` `Trddt+19` double
+alter table `sn16_20` change  `Dretwd` `Trddt+20` double
+alter table `sn16_21` change  `Dretwd` `Trddt+21` double
+alter table `sn16_22` change  `Dretwd` `Trddt+22` double
+alter table `sn16_23` change  `Dretwd` `Trddt+23` double
+alter table `sn16_24` change  `Dretwd` `Trddt+24` double
+alter table `sn16_25` change  `Dretwd` `Trddt+25` double
+alter table `sn16_26` change  `Dretwd` `Trddt+26` double
+alter table `sn16_27` change  `Dretwd` `Trddt+27` double
+alter table `sn16_28` change  `Dretwd` `Trddt+28` double
+alter table `sn16_29` change  `Dretwd` `Trddt+29` double
+alter table `sn16_30` change  `Dretwd` `Trddt+30` double
+alter table `sn16_31` change  `Dretwd` `Trddt+31` double
+alter table `sn16_32` change  `Dretwd` `Trddt+32` double
+alter table `sn16_33` change  `Dretwd` `Trddt+33` double
+alter table `sn16_34` change  `Dretwd` `Trddt+34` double
+alter table `sn16_35` change  `Dretwd` `Trddt+35` double
+alter table `sn16_36` change  `Dretwd` `Trddt+36` double
+alter table `sn16_37` change  `Dretwd` `Trddt+37` double
+alter table `sn16_38` change  `Dretwd` `Trddt+38` double
+alter table `sn16_39` change  `Dretwd` `Trddt+39` double
+alter table `sn16_40` change  `Dretwd` `Trddt+40` double
+alter table `sn16_41` change  `Dretwd` `Trddt+41` double
+alter table `sn16_42` change  `Dretwd` `Trddt+42` double
+alter table `sn16_43` change  `Dretwd` `Trddt+43` double
+alter table `sn16_44` change  `Dretwd` `Trddt+44` double
+alter table `sn16_45` change  `Dretwd` `Trddt+45` double
+alter table `sn16_46` change  `Dretwd` `Trddt+46` double
+alter table `sn16_47` change  `Dretwd` `Trddt+47` double
+alter table `sn16_48` change  `Dretwd` `Trddt+48` double
+alter table `sn16_49` change  `Dretwd` `Trddt+49` double
+alter table `sn16_50` change  `Dretwd` `Trddt+50` double
+alter table `sn16_51` change  `Dretwd` `Trddt+51` double
+alter table `sn16_52` change  `Dretwd` `Trddt+52` double
+alter table `sn16_53` change  `Dretwd` `Trddt+53` double
+alter table `sn16_54` change  `Dretwd` `Trddt+54` double
+alter table `sn16_55` change  `Dretwd` `Trddt+55` double
+alter table `sn16_56` change  `Dretwd` `Trddt+56` double
+alter table `sn16_57` change  `Dretwd` `Trddt+57` double
+alter table `sn16_58` change  `Dretwd` `Trddt+58` double
+alter table `sn16_59` change  `Dretwd` `Trddt+59` double
+alter table `sn16_60` change  `Dretwd` `Trddt+60` double
+alter table `sn16_m01` change  `Dretwd` `Trddt+m1` double
+alter table `sn16_m02` change  `Dretwd` `Trddt+m2` double
+alter table `sn16_m03` change  `Dretwd` `Trddt+m3` double
+alter table `sn16_m04` change  `Dretwd` `Trddt+m4` double
+alter table `sn16_m05` change  `Dretwd` `Trddt+m5` double
+alter table `sn16_m06` change  `Dretwd` `Trddt+m6` double
+alter table `sn16_m07` change  `Dretwd` `Trddt+m7` double
+alter table `sn16_m08` change  `Dretwd` `Trddt+m8` double
+alter table `sn16_m09` change  `Dretwd` `Trddt+m9` double
+alter table `sn16_m10` change  `Dretwd` `Trddt+m10` double
+
+alter table `sn15_00` change  `Dretwd` `Trddt` double
+alter table `sn15_01` change  `Dretwd` `Trddt+1` double
+alter table `sn15_02` change  `Dretwd` `Trddt+2` double
+alter table `sn15_03` change  `Dretwd` `Trddt+3` double
+alter table `sn15_04` change  `Dretwd` `Trddt+4` double
+alter table `sn15_05` change  `Dretwd` `Trddt+5` double
+alter table `sn15_06` change  `Dretwd` `Trddt+6` double
+alter table `sn15_07` change  `Dretwd` `Trddt+7` double
+alter table `sn15_08` change  `Dretwd` `Trddt+8` double
+alter table `sn15_09` change  `Dretwd` `Trddt+9` double
+alter table `sn15_10` change  `Dretwd` `Trddt+10` double
+alter table `sn15_11` change  `Dretwd` `Trddt+11` double
+alter table `sn15_12` change  `Dretwd` `Trddt+12` double
+alter table `sn15_13` change  `Dretwd` `Trddt+13` double
+alter table `sn15_14` change  `Dretwd` `Trddt+14` double
+alter table `sn15_15` change  `Dretwd` `Trddt+15` double
+alter table `sn15_16` change  `Dretwd` `Trddt+16` double
+alter table `sn15_17` change  `Dretwd` `Trddt+17` double
+alter table `sn15_18` change  `Dretwd` `Trddt+18` double
+alter table `sn15_19` change  `Dretwd` `Trddt+19` double
+alter table `sn15_20` change  `Dretwd` `Trddt+20` double
+alter table `sn15_21` change  `Dretwd` `Trddt+21` double
+alter table `sn15_22` change  `Dretwd` `Trddt+22` double
+alter table `sn15_23` change  `Dretwd` `Trddt+23` double
+alter table `sn15_24` change  `Dretwd` `Trddt+24` double
+alter table `sn15_25` change  `Dretwd` `Trddt+25` double
+alter table `sn15_26` change  `Dretwd` `Trddt+26` double
+alter table `sn15_27` change  `Dretwd` `Trddt+27` double
+alter table `sn15_28` change  `Dretwd` `Trddt+28` double
+alter table `sn15_29` change  `Dretwd` `Trddt+29` double
+alter table `sn15_30` change  `Dretwd` `Trddt+30` double
+alter table `sn15_31` change  `Dretwd` `Trddt+31` double
+alter table `sn15_32` change  `Dretwd` `Trddt+32` double
+alter table `sn15_33` change  `Dretwd` `Trddt+33` double
+alter table `sn15_34` change  `Dretwd` `Trddt+34` double
+alter table `sn15_35` change  `Dretwd` `Trddt+35` double
+alter table `sn15_36` change  `Dretwd` `Trddt+36` double
+alter table `sn15_37` change  `Dretwd` `Trddt+37` double
+alter table `sn15_38` change  `Dretwd` `Trddt+38` double
+alter table `sn15_39` change  `Dretwd` `Trddt+39` double
+alter table `sn15_40` change  `Dretwd` `Trddt+40` double
+alter table `sn15_41` change  `Dretwd` `Trddt+41` double
+alter table `sn15_42` change  `Dretwd` `Trddt+42` double
+alter table `sn15_43` change  `Dretwd` `Trddt+43` double
+alter table `sn15_44` change  `Dretwd` `Trddt+44` double
+alter table `sn15_45` change  `Dretwd` `Trddt+45` double
+alter table `sn15_46` change  `Dretwd` `Trddt+46` double
+alter table `sn15_47` change  `Dretwd` `Trddt+47` double
+alter table `sn15_48` change  `Dretwd` `Trddt+48` double
+alter table `sn15_49` change  `Dretwd` `Trddt+49` double
+alter table `sn15_50` change  `Dretwd` `Trddt+50` double
+alter table `sn15_51` change  `Dretwd` `Trddt+51` double
+alter table `sn15_52` change  `Dretwd` `Trddt+52` double
+alter table `sn15_53` change  `Dretwd` `Trddt+53` double
+alter table `sn15_54` change  `Dretwd` `Trddt+54` double
+alter table `sn15_55` change  `Dretwd` `Trddt+55` double
+alter table `sn15_56` change  `Dretwd` `Trddt+56` double
+alter table `sn15_57` change  `Dretwd` `Trddt+57` double
+alter table `sn15_58` change  `Dretwd` `Trddt+58` double
+alter table `sn15_59` change  `Dretwd` `Trddt+59` double
+alter table `sn15_60` change  `Dretwd` `Trddt+60` double
+alter table `sn15_m01` change  `Dretwd` `Trddt+m1` double
+alter table `sn15_m02` change  `Dretwd` `Trddt+m2` double
+alter table `sn15_m03` change  `Dretwd` `Trddt+m3` double
+alter table `sn15_m04` change  `Dretwd` `Trddt+m4` double
+alter table `sn15_m05` change  `Dretwd` `Trddt+m5` double
+alter table `sn15_m06` change  `Dretwd` `Trddt+m6` double
+alter table `sn15_m07` change  `Dretwd` `Trddt+m7` double
+alter table `sn15_m08` change  `Dretwd` `Trddt+m8` double
+alter table `sn15_m09` change  `Dretwd` `Trddt+m9` double
+alter table `sn15_m10` change  `Dretwd` `Trddt+m10` double
+
+
+
+create table `u15_m09` as select * from `sn15_m10` natural join `sn15_m09`
+create table `u15_m08` as select * from `u15_m09` natural join `sn15_m08`
+create table `u15_m07` as select * from `u15_m08` natural join `sn15_m07`
+create table `u15_m06` as select * from `u15_m07` natural join `sn15_m06`
+create table `u15_m05` as select * from `u15_m06` natural join `sn15_m05`
+create table `u15_m04` as select * from `u15_m05` natural join `sn15_m04`
+create table `u15_m03` as select * from `u15_m04` natural join `sn15_m03`
+create table `u15_m02` as select * from `u15_m03` natural join `sn15_m02`
+create table `u15_m01` as select * from `u15_m02` natural join `sn15_m01`
+create table `u15_00` as select * from `u15_m01` natural join `sn15_00`
+create table `u15_01` as select * from `u15_00` natural join `sn15_01`
+create table `u15_02` as select * from `u15_01` natural join `sn15_02`
+create table `u15_03` as select * from `u15_02` natural join `sn15_03`
+create table `u15_04` as select * from `u15_03` natural join `sn15_04`
+create table `u15_05` as select * from `u15_04` natural join `sn15_05`
+create table `u15_06` as select * from `u15_05` natural join `sn15_06`
+create table `u15_07` as select * from `u15_06` natural join `sn15_07`
+create table `u15_08` as select * from `u15_07` natural join `sn15_08`
+create table `u15_09` as select * from `u15_08` natural join `sn15_09`
+create table `u15_10` as select * from `u15_09` natural join `sn15_10`
+create table `u15_11` as select * from `u15_10` natural join `sn15_11`
+create table `u15_12` as select * from `u15_11` natural join `sn15_12`
+create table `u15_13` as select * from `u15_12` natural join `sn15_13`
+create table `u15_14` as select * from `u15_13` natural join `sn15_14`
+create table `u15_15` as select * from `u15_14` natural join `sn15_15`
+create table `u15_16` as select * from `u15_15` natural join `sn15_16`
+create table `u15_17` as select * from `u15_16` natural join `sn15_17`
+create table `u15_18` as select * from `u15_17` natural join `sn15_18`
+create table `u15_19` as select * from `u15_18` natural join `sn15_19`
+create table `u15_20` as select * from `u15_19` natural join `sn15_20`
+create table `u15_21` as select * from `u15_20` natural join `sn15_21`
+create table `u15_22` as select * from `u15_21` natural join `sn15_22`
+create table `u15_23` as select * from `u15_22` natural join `sn15_23`
+create table `u15_24` as select * from `u15_23` natural join `sn15_24`
+create table `u15_25` as select * from `u15_24` natural join `sn15_25`
+create table `u15_26` as select * from `u15_25` natural join `sn15_26`
+create table `u15_27` as select * from `u15_26` natural join `sn15_27`
+create table `u15_28` as select * from `u15_27` natural join `sn15_28`
+create table `u15_29` as select * from `u15_28` natural join `sn15_29`
+create table `u15_30` as select * from `u15_29` natural join `sn15_30`
+create table `u15_31` as select * from `u15_30` natural join `sn15_31`
+create table `u15_32` as select * from `u15_31` natural join `sn15_32`
+create table `u15_33` as select * from `u15_32` natural join `sn15_33`
+create table `u15_34` as select * from `u15_33` natural join `sn15_34`
+create table `u15_35` as select * from `u15_34` natural join `sn15_35`
+create table `u15_36` as select * from `u15_35` natural join `sn15_36`
+create table `u15_37` as select * from `u15_36` natural join `sn15_37`
+create table `u15_38` as select * from `u15_37` natural join `sn15_38`
+create table `u15_39` as select * from `u15_38` natural join `sn15_39`
+create table `u15_40` as select * from `u15_39` natural join `sn15_40`
+create table `u15_41` as select * from `u15_40` natural join `sn15_41`
+create table `u15_42` as select * from `u15_41` natural join `sn15_42`
+create table `u15_43` as select * from `u15_42` natural join `sn15_43`
+create table `u15_44` as select * from `u15_43` natural join `sn15_44`
+create table `u15_45` as select * from `u15_44` natural join `sn15_45`
+create table `u15_46` as select * from `u15_45` natural join `sn15_46`
+create table `u15_47` as select * from `u15_46` natural join `sn15_47`
+create table `u15_48` as select * from `u15_47` natural join `sn15_48`
+create table `u15_49` as select * from `u15_48` natural join `sn15_49`
+create table `u15_50` as select * from `u15_49` natural join `sn15_50`
+create table `u15_51` as select * from `u15_50` natural join `sn15_51`
+create table `u15_52` as select * from `u15_51` natural join `sn15_52`
+create table `u15_53` as select * from `u15_52` natural join `sn15_53`
+create table `u15_54` as select * from `u15_53` natural join `sn15_54`
+create table `u15_55` as select * from `u15_54` natural join `sn15_55`
+create table `u15_56` as select * from `u15_55` natural join `sn15_56`
+create table `u15_57` as select * from `u15_56` natural join `sn15_57`
+create table `u15_58` as select * from `u15_57` natural join `sn15_58`
+create table `u15_59` as select * from `u15_58` natural join `sn15_59`
+create table `u15` as select * from `u15_59` natural join `sn15_60`
+
+create table `u16_m09` as select * from `sn16_m10` natural join `sn16_m09`
+create table `u16_m08` as select * from `u16_m09` natural join `sn16_m08`
+create table `u16_m07` as select * from `u16_m08` natural join `sn16_m07`
+create table `u16_m06` as select * from `u16_m07` natural join `sn16_m06`
+create table `u16_m05` as select * from `u16_m06` natural join `sn16_m05`
+create table `u16_m04` as select * from `u16_m05` natural join `sn16_m04`
+create table `u16_m03` as select * from `u16_m04` natural join `sn16_m03`
+create table `u16_m02` as select * from `u16_m03` natural join `sn16_m02`
+create table `u16_m01` as select * from `u16_m02` natural join `sn16_m01`
+create table `u16_00` as select * from `u16_m01` natural join `sn16_00`
+create table `u16_01` as select * from `u16_00` natural join `sn16_01`
+create table `u16_02` as select * from `u16_01` natural join `sn16_02`
+create table `u16_03` as select * from `u16_02` natural join `sn16_03`
+create table `u16_04` as select * from `u16_03` natural join `sn16_04`
+create table `u16_05` as select * from `u16_04` natural join `sn16_05`
+create table `u16_06` as select * from `u16_05` natural join `sn16_06`
+create table `u16_07` as select * from `u16_06` natural join `sn16_07`
+create table `u16_08` as select * from `u16_07` natural join `sn16_08`
+create table `u16_09` as select * from `u16_08` natural join `sn16_09`
+create table `u16_10` as select * from `u16_09` natural join `sn16_10`
+create table `u16_11` as select * from `u16_10` natural join `sn16_11`
+create table `u16_12` as select * from `u16_11` natural join `sn16_12`
+create table `u16_13` as select * from `u16_12` natural join `sn16_13`
+create table `u16_14` as select * from `u16_13` natural join `sn16_14`
+create table `u16_15` as select * from `u16_14` natural join `sn16_15`
+create table `u16_16` as select * from `u16_15` natural join `sn16_16`
+create table `u16_17` as select * from `u16_16` natural join `sn16_17`
+create table `u16_18` as select * from `u16_17` natural join `sn16_18`
+create table `u16_19` as select * from `u16_18` natural join `sn16_19`
+create table `u16_20` as select * from `u16_19` natural join `sn16_20`
+create table `u16_21` as select * from `u16_20` natural join `sn16_21`
+create table `u16_22` as select * from `u16_21` natural join `sn16_22`
+create table `u16_23` as select * from `u16_22` natural join `sn16_23`
+create table `u16_24` as select * from `u16_23` natural join `sn16_24`
+create table `u16_25` as select * from `u16_24` natural join `sn16_25`
+create table `u16_26` as select * from `u16_25` natural join `sn16_26`
+create table `u16_27` as select * from `u16_26` natural join `sn16_27`
+create table `u16_28` as select * from `u16_27` natural join `sn16_28`
+create table `u16_29` as select * from `u16_28` natural join `sn16_29`
+create table `u16_30` as select * from `u16_29` natural join `sn16_30`
+create table `u16_31` as select * from `u16_30` natural join `sn16_31`
+create table `u16_32` as select * from `u16_31` natural join `sn16_32`
+create table `u16_33` as select * from `u16_32` natural join `sn16_33`
+create table `u16_34` as select * from `u16_33` natural join `sn16_34`
+create table `u16_35` as select * from `u16_34` natural join `sn16_35`
+create table `u16_36` as select * from `u16_35` natural join `sn16_36`
+create table `u16_37` as select * from `u16_36` natural join `sn16_37`
+create table `u16_38` as select * from `u16_37` natural join `sn16_38`
+create table `u16_39` as select * from `u16_38` natural join `sn16_39`
+create table `u16_40` as select * from `u16_39` natural join `sn16_40`
+create table `u16_41` as select * from `u16_40` natural join `sn16_41`
+create table `u16_42` as select * from `u16_41` natural join `sn16_42`
+create table `u16_43` as select * from `u16_42` natural join `sn16_43`
+create table `u16_44` as select * from `u16_43` natural join `sn16_44`
+create table `u16_45` as select * from `u16_44` natural join `sn16_45`
+create table `u16_46` as select * from `u16_45` natural join `sn16_46`
+create table `u16_47` as select * from `u16_46` natural join `sn16_47`
+create table `u16_48` as select * from `u16_47` natural join `sn16_48`
+create table `u16_49` as select * from `u16_48` natural join `sn16_49`
+create table `u16_50` as select * from `u16_49` natural join `sn16_50`
+create table `u16_51` as select * from `u16_50` natural join `sn16_51`
+create table `u16_52` as select * from `u16_51` natural join `sn16_52`
+create table `u16_53` as select * from `u16_52` natural join `sn16_53`
+create table `u16_54` as select * from `u16_53` natural join `sn16_54`
+create table `u16_55` as select * from `u16_54` natural join `sn16_55`
+create table `u16_56` as select * from `u16_55` natural join `sn16_56`
+create table `u16_57` as select * from `u16_56` natural join `sn16_57`
+create table `u16_58` as select * from `u16_57` natural join `sn16_58`
+create table `u16_59` as select * from `u16_58` natural join `sn16_59`
+create table `u16` as select * from `u16_59` natural join `sn16_60`
+
+create table `u17_m09` as select * from `sn17_m10` natural join `sn17_m09`
+create table `u17_m08` as select * from `u17_m09` natural join `sn17_m08`
+create table `u17_m07` as select * from `u17_m08` natural join `sn17_m07`
+create table `u17_m06` as select * from `u17_m07` natural join `sn17_m06`
+create table `u17_m05` as select * from `u17_m06` natural join `sn17_m05`
+create table `u17_m04` as select * from `u17_m05` natural join `sn17_m04`
+create table `u17_m03` as select * from `u17_m04` natural join `sn17_m03`
+create table `u17_m02` as select * from `u17_m03` natural join `sn17_m02`
+create table `u17_m01` as select * from `u17_m02` natural join `sn17_m01`
+create table `u17_00` as select * from `u17_m01` natural join `sn17_00`
+create table `u17_01` as select * from `u17_00` natural join `sn17_01`
+create table `u17_02` as select * from `u17_01` natural join `sn17_02`
+create table `u17_03` as select * from `u17_02` natural join `sn17_03`
+create table `u17_04` as select * from `u17_03` natural join `sn17_04`
+create table `u17_05` as select * from `u17_04` natural join `sn17_05`
+create table `u17_06` as select * from `u17_05` natural join `sn17_06`
+create table `u17_07` as select * from `u17_06` natural join `sn17_07`
+create table `u17_08` as select * from `u17_07` natural join `sn17_08`
+create table `u17_09` as select * from `u17_08` natural join `sn17_09`
+create table `u17_10` as select * from `u17_09` natural join `sn17_10`
+create table `u17_11` as select * from `u17_10` natural join `sn17_11`
+create table `u17_12` as select * from `u17_11` natural join `sn17_12`
+create table `u17_13` as select * from `u17_12` natural join `sn17_13`
+create table `u17_14` as select * from `u17_13` natural join `sn17_14`
+create table `u17_15` as select * from `u17_14` natural join `sn17_15`
+create table `u17_16` as select * from `u17_15` natural join `sn17_16`
+create table `u17_17` as select * from `u17_16` natural join `sn17_17`
+create table `u17_18` as select * from `u17_17` natural join `sn17_18`
+create table `u17_19` as select * from `u17_18` natural join `sn17_19`
+create table `u17_20` as select * from `u17_19` natural join `sn17_20`
+create table `u17_21` as select * from `u17_20` natural join `sn17_21`
+create table `u17_22` as select * from `u17_21` natural join `sn17_22`
+create table `u17_23` as select * from `u17_22` natural join `sn17_23`
+create table `u17_24` as select * from `u17_23` natural join `sn17_24`
+create table `u17_25` as select * from `u17_24` natural join `sn17_25`
+create table `u17_26` as select * from `u17_25` natural join `sn17_26`
+create table `u17_27` as select * from `u17_26` natural join `sn17_27`
+create table `u17_28` as select * from `u17_27` natural join `sn17_28`
+create table `u17_29` as select * from `u17_28` natural join `sn17_29`
+create table `u17_30` as select * from `u17_29` natural join `sn17_30`
+create table `u17_31` as select * from `u17_30` natural join `sn17_31`
+create table `u17_32` as select * from `u17_31` natural join `sn17_32`
+create table `u17_33` as select * from `u17_32` natural join `sn17_33`
+create table `u17_34` as select * from `u17_33` natural join `sn17_34`
+create table `u17_35` as select * from `u17_34` natural join `sn17_35`
+create table `u17_36` as select * from `u17_35` natural join `sn17_36`
+create table `u17_37` as select * from `u17_36` natural join `sn17_37`
+create table `u17_38` as select * from `u17_37` natural join `sn17_38`
+create table `u17_39` as select * from `u17_38` natural join `sn17_39`
+create table `u17_40` as select * from `u17_39` natural join `sn17_40`
+create table `u17_41` as select * from `u17_40` natural join `sn17_41`
+create table `u17_42` as select * from `u17_41` natural join `sn17_42`
+create table `u17_43` as select * from `u17_42` natural join `sn17_43`
+create table `u17_44` as select * from `u17_43` natural join `sn17_44`
+create table `u17_45` as select * from `u17_44` natural join `sn17_45`
+create table `u17_46` as select * from `u17_45` natural join `sn17_46`
+create table `u17_47` as select * from `u17_46` natural join `sn17_47`
+create table `u17_48` as select * from `u17_47` natural join `sn17_48`
+create table `u17_49` as select * from `u17_48` natural join `sn17_49`
+create table `u17_50` as select * from `u17_49` natural join `sn17_50`
+create table `u17_51` as select * from `u17_50` natural join `sn17_51`
+create table `u17_52` as select * from `u17_51` natural join `sn17_52`
+create table `u17_53` as select * from `u17_52` natural join `sn17_53`
+create table `u17_54` as select * from `u17_53` natural join `sn17_54`
+create table `u17_55` as select * from `u17_54` natural join `sn17_55`
+create table `u17_56` as select * from `u17_55` natural join `sn17_56`
+create table `u17_57` as select * from `u17_56` natural join `sn17_57`
+create table `u17_58` as select * from `u17_57` natural join `sn17_58`
+create table `u17_59` as select * from `u17_58` natural join `sn17_59`
+create table `u17` as select * from `u17_59` natural join `sn17_60`
+

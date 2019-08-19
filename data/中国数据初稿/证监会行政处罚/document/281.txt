@@ -1,0 +1,287 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（孙国栋）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2015年11月12日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（孙国栋）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2015〕73号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（孙国栋）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2015〕73号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔2015〕73号</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：孙国栋</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，男，1970年10月出生，住址：浙江省杭州市余杭区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋操纵广东全通教育股份有限公司（以下简称全通教育）、北京中科金财科技股份有限公司（以下简称中科金财）、连云港如意集团股份有限公司（以下简称如意集团）、西部证券股份有限公司（以下简称西部证券）、长沙开元仪器股份有限公司（以下简称开元仪器）、深圳市奋达科技股份有限公司（以下简称奋达科技）、鼎捷软件股份有限公司（以下简称鼎捷软件）、北京暴风科技股份有限公司（以下简称暴风科技）、深圳雷曼光电科技股份有限公司（以下简称雷曼股份）、深圳华强实业股份有限公司（以下简称深圳华强）、山东仙坛股份有限公司（以下简称仙坛股份）、江苏新宁现代物流股份有限公司（以下简称新宁物流）和深圳市银之杰科技股份有限公司（以下简称银之杰）等13支股票价格一案</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">进行了立案调查、审理，并依法向孙国栋告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人提出了陈述、申辩意见，未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，孙国栋存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年12月至2015年5月期间，孙国栋通过其实际控制的“徐某”和“胡某”等证券账户（以下简称账户组），在开盘集合竞价阶段、连续竞价阶段、尾市阶段通过虚假申报、连续申报抬高股价等方式影响“全通教育”、“中科金财”、“如意集团”、“西部证券”、“开元仪器”、“奋达科技”、“鼎捷软件”、“暴风科技”、“雷曼股份”、“深圳华强”、“仙坛股份”、“新宁物流”和“银之杰”等13支股票价格，并于当日或次日反向卖出。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、账户组2015年3月16日及3月20日交易“全通教育”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用账户组于2015年3月16日和3月20日，在连续竞价阶段和尾市阶段通过虚假申报、连续申报抬高股价等方式影响“全通教育”股票价格，并于当日或次日反向卖出持有的股票。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）账户组2015年3月16日的交易情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9:53:12，账户组以涨停价244.54元申报买入“全通教育”股票70,000股，申买前一笔该股的市场成交价是242.96元；9:53:20，申报撤单70,000股，撤单时间距同笔申报买入时间8秒，申报撤单时已成交32,490股，撤单申报比例为53.59%；9:53:12-9:53:20，账户组申报买入量占同时段市场涨停价申报买入量的97.77%。9:53:32，账户组又以涨停价244.54元申报买入37,600股；9:53:39，申报撤单37,600股，撤单时间距同笔申报买入时间7秒，申报撤单时已成交9,378股，撤单申报比例为75.06%；9:53:32-9:53:39，账户组申报买入量占同时段市场涨停价申报买入量的93.77%。9:54:42-9:54:57，账户组以涨停价244.54元申报买入合计5,300股并成交。10:05:44，账户组撤销2,000股申报买入，该笔的申报买入价是243.06元，市场当时成交价是243.99元，申报买入价低于市场成交价。10:05:55-10:06:08，账户组以涨停价244.54元申报买入合计3,500股并成交。10:06:44，账户组以涨停价244.54元申报买入50,000股，申报买入前一笔市场成交价是244.54元；10:07:11，申报撤单50,000股，撤单时间距同笔申报买入时间27秒，申报撤单时已实际成交50,000股。10:06:44-10:07:11，账户组申买量占同时段市场涨停价申买量的17.43%。撤单后5秒即10:07:16，账户组又以涨停价244.54元申报买入15,900股，申报买入前一笔市场成交价为244.54元；10:07:22，申报撤单15,900股，撤单时间距同笔申报买入时间6秒，申报撤单时在委买队列中排第1位，全部撤单成功，撤单申报比例为100%；10:07:16-10:07:22，账户组申买量占同时段市场涨停价申买量的59.33%。9:53:12-10:07:22，账户组实际成交买入量占该期间账户组申报买入量的54.62%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">10:07:29-10:07:49，账户组以涨停价244.54元卖出“全通教育”股票198,500股，卖出金额合计48,541,190元，申报卖出量占卖出前账户组持有的“全通教育”可卖出股票的100%。“全通教育”股票当日开盘价235元，最低价233.85元，收盘价244.54元，当日涨幅10.00%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）账户组2015年3月20日的交易情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组在3月20日（周五）收盘前5分钟内即14:55:35-14:57:09，以涨停价270元申报买入“全通教育”股票共19笔合计93,500股，实际成交93,500股，占同时段该股市场申报买入量的79.30%，占同时段该股市场买入成交量的92.98%，申报价270元比申报买入前一笔市场成交价259.99元高3.85%。14:55:35-14:57:09，“全通教育”股价从260元上涨到265元，涨幅为1.92%，该股当日涨幅为7.72%。账户组在14:55:35前持有“全通教育”129,209股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">14:59:58，账户组以265.99元申报卖出22,300股“全通教育”，占当时账户组持有“全通教育”可卖出股票的42.64%，但未能成交。“全通教育”在14:56:59达到当日最高价266元，当日收盘价265元。3月23日（下一个交易日）9:28:49-9:54:00，账户组以均价280.27元卖出“全通教育”164,409股，占当时账户组持有“全通教育”可卖出股票的73.82%，卖出成交金额合计45,725,305.28元。“全通教育”当日开盘价265元，最低价263.9元，收盘价291.5元，当日涨幅10.00%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、账户组2015年5月11日至5月12日交易“中科金财”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用账户组于</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年5月11日至5月12日，在尾市和开盘集合竞价阶段通过</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">虚假申报、连续申报抬高股价等方式影响“中科金财”股价，并于5月12日反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）账户组2015年5月11日的交易情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组在5月11日14:55:24-14:59:08，以150.05元至155.22元（涨停价）逐笔申报买入“中科金财”共计21笔，合计1,380,200股，实际成交221,020股，占同时段该股市场买入申报量的77.90%，14:55:24-14:59:08，该股市场成交价由账户组申报前的152元上涨到155.22元，涨幅为2.28%。14:56:38、14:56:44、14:56:53，账户组分3笔以涨停价155.22元分别申报买入90,000股、79,000股、92,000股，合计261,000股，实际成交148,720股。14:57:05-14:57:06，账户组撤销上述3笔申报买入，由于已过连续竞价时间，该3笔撤单委托无效。14:57:29-14:59:08，账户组分8笔连续以涨停价155.22元申报买入860,000股，均未成交。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）账户组2015年5月12日的交易情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5月12日6:10:21-9:16:46，账户组以170.74元申报买入“中科金财”股票5笔，合计105,000股，申报量占9:15:00-9:20:00市场申买量的54.63%，占集合竞价阶段全市场涨停价位申买量的98.59%。9:16:21和9:16:24，账户组撤单2笔，合计60,000股，撤单比例57.14%，撤单量占9:15:00-9:20:00市场撤单量的81.74%。该股以155.99元开盘，较前一日收盘价涨幅0.50%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9:41:06-13:55:58，账户组将其持有的“中科金财”分103笔申报卖出，申报931,303股，成交924,103股，卖出成交量占当日账户组可卖出量的83.46%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">三、账户组2015年1月30日、2月25日、2月26日、3月5日交易“如意集团”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用账户组</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">于1月30日、2月25日、2月26日、3月5日，通过在</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">开盘集合竞价阶段、连续竞价阶段虚假申报等方式影响“如意集团”股价，并于当日或次日反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）账户组2015年1月30日的交易情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1月30日14:33:09，账户组持有“如意集团”1,029,294股。14:33:09，账户组以涨停价24.55元申报买入1,000,000股。14:33:33，账户组撤销全部买入申报，撤单时间距申报时间24秒，撤单时该买入申报在委买队列中排第1位，撤单时已实际成交231,990股，撤单比例76.80%。14:34:03-14:34:11，账户组继续以涨停价24.55元分2笔申报买入500,000股、300,000股，成交500,000股；14:34:42，将后一笔未成交申报买入撤单，撤单时间距申报时间31秒，撤单时该买入申报在委买队列中排第1位。14:33:09-14:34:42，账户组实际成交比例为40.67%。此后，“如意集团”股价一直维持涨停价位至当日收盘。14:46:12-14:59:34，账户组继续以24.55元申报36笔买入“如意集团”912,300股，未能成交，也未撤单。“如意集团”当日开盘价22.90元，最高价24.55元，最低价22.81元，收盘价24.55元，当日涨幅9.99%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2月2日8:09:00，账户组以涨停价27元申报买入58,000股，并以25.49元全部成交。9:33:13-9:47:06，账户组申报卖出“如意集团”1,215,784股，实际成交1,206,284股，卖出金额合计32,229,844.48元，申报卖出量占卖出前账户组持有“如意集团”可卖出股数的69.03%。“如意集团”当日开盘价25.49元，最高价27.01元，最低价25.00元，收盘价27.01元，当日涨幅10.02%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）账户组2015年2月25日至2月26日的交易情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2月25日10:54:39，账户组持有“如意集团”162,828股。10:54:39，账户组以涨停价32.68元申报买入600,000股。10:54:59，账户组撤销全部申报买入单，撤单时间距申报时间20秒，撤单时该申报买入在委买队列中排第1位，撤单时已实际成交106,820股，撤单比例82.20%。10:58:35-11:05:18，账户组继续以涨停价32.68元分5笔申报买入共计457,000股，实际成交203,050股。期间，账户组买入申报撤单4笔，撤单时间距申报时间在5分钟内，撤单时该买入申报在委买队列中均排名第1位。11:05:18，账户组完成最后一笔撤单。10:54:39-11:05:18，账户组交易“如意集团”实际成交比例为29.32%。11:05:35即距最后一笔撤单17秒，账户组以32.68元申报卖出“如意集团”41,500股，实际成交41,500股，卖出金额合计1,356,220元。账户组在卖出前持有“如意集团”股票472,698股，申报卖出量占卖出前账户组持有“如意集团”可卖出股票的100%。“如意集团”当日开盘价32.68元，最高价32.68元，最低价30.44元，收盘价32.68元，当日涨幅10.00%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2月25日14:31:01，账户组持有“如意集团”717,998股。14:31:01，账户组以涨停价32.68元申报买入5,000股，该股在这一时点已涨停；14:31:08，撤销全部申报买入单，撤单时间距申报时间7秒，撤单时该申报买入在委买队列中排第1位，撤单时已实际成交3,972股，撤单比例20.56%。14:31:01-14:31:08，账户组申报买入量占同时段涨停价全市场申买量的90.91%。14:32:09-14:51:20，账户组继续以涨停价32.68元申报买入625,300股，实际成交10,000股。14:33:39和14:33:50，账户组撤销2笔申报买入单，撤单时间距申报时间在1分钟内，撤单时该申报买入在委买队列中均排名第1位。14:31:01-14:51:20，账户组交易“如意集团”实际成交比例为2.22%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2月26日8:05:25-9:15:39，账户组以35元申报2笔买入“如意集团”股票合计54,000股。9:15:42，账户组撤销第1笔申买单，即撤销35,000股申买量，最终实际成交19,000股，成交金额627,000元，</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">撤单比例为64.81%，申报量占9:15:00-9:20:00市场有效申买量的9.23%，撤单量占9:15:00-9:20:00市场撤单量的9.04%。该股以</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">33.00</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">元开盘，较前一日收盘价涨幅0.98%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9:35:18-10:39:19，账户组申报卖出“如意集团”761,270股，实际成交731,970股，卖出金额合计23,272,180.27元，申报卖出量占卖出前账户组持有“如意集团”可卖出股票的100%。“如意集团”股票当日开盘价33.00元，最高价33.99元，最低价30.45元，收盘价31.77元，当日跌幅2.78%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）账户组2015年3月5日的交易情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3月5日7:52:08-7:52:10，账户组以涨停价51.18元申报买入“如意集团”2笔，合计100,000股；9:16:36-9:17:33，账户组撤单2笔，合计100,000股，撤单比例为100%，申报量占撤单时市场以涨停价申报的有效申买量的5.43%，撤单量占9:15:00-9:20:00市场撤单量的8.44%。该股以51.17元开盘，较前一日收盘价涨幅9.97%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9:24:59，集合竞价撮合阶段接近结束时，账户组以50.89元申报卖出“如意集团”194,000股，成交194,000股，成交均价51.17元，成交金额9,926,980.00元。9:26:16，账户组继续以50.99元申报卖出“如意集团”98,300股，成交股数98,300股，成交均价50.99元，成交金额5,012,317.00元。上述两笔申卖成交量占2015年3月5日9:24:59前账户组可卖出股票的17.42%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">四、账户组2015年4月13日交易“西部证券”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用账户组于2015年4月13日，在开盘集合竞价阶段通过虚假申报等方式影响“西部证券”价格，后反向卖出。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9:01:26-9:05:52，账户组以涨停价62.69元申报买入“西部证券”3笔，合计1,987,100股。9:06:15撤单1笔合计500,000股；9:18:08-9:18:29撤单2笔，合计1,487,100股，撤单比例100%。账户组在9:15:00-9:20:00的撤单量占同期间市场撤单量的28.59%。该股当日以60.1元开盘，较前一日收盘价涨幅5.46%；有效申买量占9:15:00-9:20:00市场有效申买量的20.39%，占市场全部涨停价位有效申买量的26.28%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9:48:00-10:15:46，账户组将其持有的“西部证券”分56笔申报卖出，申报卖出合计1,611,000股，申报价格范围从58元至60.72元，成交1,293,300股，卖出成交量占当日账户组可卖出量的34.06%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">五、账户组2015年3月17日交易“开元仪器”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2015年3月17日，在</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">集合竞价阶段通过虚假申报等方式影响</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“开元仪器”价格，当日</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5:40:12，账户组以33.91元（涨停价）申报买入“开元仪器”1笔200,000股，9:18:03撤单。5:40:13，账户组以33.91元（涨停价）申报买入“开元仪器”1笔200,000股；7:06:53撤单（该时点撤单使该笔申报买入未进入集合竞价系统，对市场未产生影响，此后的统计未将该笔计算在内），撤单比例为100%，撤单量占9:15:00-9:20:00市场撤单量的12.46%，账户组申报买入量占9:15:00-9:20:00市场有效申买量的比例为9.99%，账户组申报买入量占集合竞价阶段全部涨停价位申报买入量的11.37%。该股以32.90元开盘，较前一日收盘价涨幅为6.71%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">9:35:17，账户组将其持有的“开元仪器”申报卖出1笔200,000股，申报价格为33.91元，成交200,000股，卖出成交量占当日账户组持有“开元仪器”可卖出股票的20.66%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">六、账户组2015年2月3日交易“奋达科技”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2015年2月3日，在</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">连续竞价阶段通过虚假申报等方式影响“奋达科技”价格，次日反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">11:03:55，该股在这一时点已涨停，账户组以涨停价46.24元申报买入1,000,000股，成交703,256股。11:29:25-14:37:50，账户组共申报买入12笔合计1,550,800股，共成交0股。14:37:54，账户组撤销11:03:55申报买入1,000,000股的买单，该笔买单当时正在成交，已成交703,256股，成交金额32,518,557.44元。撤销该笔买入申报时间距上一笔申报买入的时间为4秒。14:41:14-14:43:32，账户组申报买入3笔合计618,300股，成交0股，第一笔申报买入时间距上笔撤单时间3分18秒。14:43:42-14:47:54，账户组撤销之前申报买入的5笔合计380,200股，第一笔撤单时间距上一笔申报买入时间为10秒。14:53:45，账户组申报买入1笔398,000股，成交0股，距上一笔申报撤单的时间5分50秒。14:53:49-14:54:24，账户组撤销3笔之前的申报买单合计365,100股，第一笔申报撤单距上一笔申报买单的时间为4秒。11:03:55至收盘，该股一直维持涨停价位。11:03:55至收盘期间，账户组撤单比例为29.21%，成交比例为19.72%，申报买入量占同时段市场申报买入量的73.16%，申报买入量占同时段涨停价申报量的74.90%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2月4日9:29:44-13:52:52，账户组以44.65-48.05元的价格将持有的“奋达科技”全部卖出，共成交703,256股，卖出金额合计32,194,475.56元。“奋达科技”当日开盘价48元，最高价48.20元，最低价44.62元，收盘价44.86元，当日涨幅-2.98%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">七、账户组2015年2月16日交易“鼎捷软件”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2015年2月16日，在连续竞价阶段通过</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">连续申报抬高股价</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">等方式影响“鼎捷软件”价格，</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当日反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">13:35:05至13:38:12，账户组以77.20元至79.96元（涨停价）的价格申报买入“鼎捷软件”共22笔合计243,500股，实际成交157,902股，占同时段该股市场买入申报量的71.51%，占同时段该股市场买入成交量的88.93%。上述期间内，“鼎捷软件”的成交价由账户组申报前的77.20元上升到申报后的79.96元（涨停价），涨幅为3.58%。13:35:05，账户组交易“鼎捷软件”前持有“鼎捷软件”801,457股。13:39:44至13:39:45，“鼎捷软件”股价维持在涨停价位79.96元，账户组撤销申报价为79.18元的2笔买入申报。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">13:40:41-13:41:19，账户组以79.96元（涨停价）申报卖出“鼎捷软件”股票共5笔合计250,000股，实际成交208,000股，申卖量占当时账户组持有“鼎捷软件”的可卖出股票的69.56%。“鼎捷软件”股票当日开盘价73.90元，最高价79.96元，最低价72.05元，收盘价79.96元，当日涨幅10.00%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">八、账户组2015年5月6日交易“暴风科技”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2015年5月6日，在</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">连续竞价阶段通过虚假申报的方式影响</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“暴风科技”价格，</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">次日反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5月6日，账户组首次买入成交“暴风科技”。14:54:58，账户组以当日涨停价163.1元申报买入84,000股，14:55:04，账户组将上述申报全部撤单，撤单时间距申报时间6秒，撤单时该笔买入申报在委买队列中排名为第1位，撤单时已实际成交25,097股，撤单比例70.12%。14:56:51、14:58:39和14:58:43，账户组分3笔以163.09元、157元、157元的价格申报买入59,000股、95,000股和128,900股，实际成交102,950股。14:54:58-14:58:43，账户组交易“暴风科技”实际成交比例为35%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5月7日9:36:02-9:46:02，账户组分33笔以150-152元的价格申报卖出“暴风科技”合计525,897股并全部成交，成交均价155.10元，卖出金额合计81,467,441.28元，申报卖出量占卖出前账户组持有“暴风科技”可卖出股票的39.81%。“暴风科技”当日开盘价160元，最高价172.70元，最低价149.99元，收盘价172.70元，当日涨幅10.00%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">九、账户组2014年12月3日交易“雷曼股份”的情况</SPAN><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2014年12月3日，在连续竞价阶段</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">通过虚假申报、连续申报抬高股价的方式影响“雷曼股份”价格，当日反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">14:05:37-14:07:17，账户组以52至54元申报买入“雷曼股份”共11笔合计76,800股，实际成交76,800股，占同时段该股市场申报买入量的90.04%，占同时段该股市场买入成交量的97.05%。14:05:37-14:07:17，“雷曼股份”价格从51.22元上涨至54元，涨幅为5.59%。14:05:37，账户组交易“雷曼股份”前持有“雷曼股份”1,017,633股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">14:07:50-14:08:16，账户组以53.80至53.98元的价格委托卖出“雷曼股份”共4笔合计9,000股，实际成交4,850股，占当时账户组持有“雷曼股份”可卖出股票的1.54%。14:08:33-14:08:35，账户组撤销其中2笔申卖单，合计4,500股。“雷曼股份”当日开盘价51.01元，最高价54.71元，最低价48.00元，收盘价54.71元，当日涨幅9.99%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">十、账户组2015年3月3日交易“深圳华强”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2015年3月3日，在</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">连续竞价阶段通过虚假申报等方式影响</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“深圳华强”价格，</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">次日反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">13:31:28-13:54:02，账户组以涨停价28.33元申报买入“深圳华强”8笔合计1,318,300股，该股从13:04:00至当日收盘一直维持涨停价位。13:54:09-13:54:21，账户组申报撤单3笔合计311,100股（即13:36:56、13:47:19和13:53:36的3笔申报买入），3笔申报买入撤单时在委买队列中均排第1位，3笔申报买入均撤单成功，撤单比例23.6%。13:55:38-14:50:57，账户组又以涨停价28.33元申报买入“深圳华强”3,524,200股；14:51:03-14:51:53，申报撤单3笔合计423,100股（即13:31:28、13:31:57、13:41:34的3笔申报买入），3笔申报买入撤单时在委买队列中均排第1位，实际成交231,493股，撤单比例93.43%。14:52:23，账户组再次以涨停价28.33元申报买入159,000股；14:52:26，申报撤单84,100股（申报撤单的是13:44:19的申报买入），申报买入撤单时在委买队列中排第1位，撤单比例100%。14:57:05-14:57:22，账户组以涨停价28.33元申报买入174,400股。13:31:28-14:57:22，账户组申买量占同时段市场涨停价申买量的74.07%，该期间账户组实际买入“深圳华强”量占申报买入量的10.39%。“深圳华强”股票当日开盘价26.77元，最低价26.16元，收盘价28.33元，当日涨幅10.02%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3月4日9:22:14-13:13:32，账户组以均价28.72元申报卖出“深圳华强”3,698,293股，卖出金额合计106,448,801.41元，申报卖出量占卖出前账户组持有的“深圳华强”可卖出股票的100%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">十一、账户组2015年3月19日交易“仙坛股份”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2015年3月19日，在</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">连续竞价阶段通过虚假申报等方式影响</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“仙坛股份”价格，</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">次日反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3月19日14:44:03，账户组持有“仙坛股份”1,398,515股。14:44:03-14:45:11，账户组以25.99至26.06元的价格申报买入668,100股，实际成交22,495股，该股在这一时点已接近涨停。账户组申报买入量占同时段全市场申买量的44.47%。14:45:16-14:45:23，账户组撤单5笔合计519,700股；撤单时间距申报时间最长仅为46秒，撤单时该申报买入在委买队列中分别排第1位或第3位，撤单时已实际成交13,400股。14:45:30，账户组继续以涨停价26.06元申报买入“仙坛股份”519,700股，实际成交49,800股，成交金额合计1,297,788元。14:45:37-14:45:52，账户组撤单6笔合计184,905股。撤单时间距申报时间最长不超过2分钟，撤单时该申报买入在委买队列中分别排第4位、第7位、第8位和第10位（上述撤单对应的申报价格已低于当时成交价格），撤单时已实际成交9,095股。14:46:53-14:56:45，账户组继续以涨停价26.06元申报买入10笔“仙坛股份”合计1,244,500股，该股已涨停，上述申报均未能成交。“仙坛股份”股票当日开盘价24.35元，最高价26.06元，最低价23.75元，收盘价26.06元，当日涨幅10.00%。14:44:03-14:56:45期间，账户组交易“仙坛股份”股票实际成交比例为2.97%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3月20日9:26:33-10:54:03，账户组将前一交易日买入的“仙坛股份”全部卖出，合计卖出1,470,810股，成交均价25.29元，成交金额37,197,938.82元。“仙坛股份”股票当日开盘价26元，最高价26元，最低价24.80元，收盘价25.44元，当日涨幅-2.38%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">十二、账户组2015年3月17日交易“新宁物流”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">账户组于2015年3月17日，在</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">连续竞价阶段通过虚假申报等方式影响“新宁物流”价格，当日反向卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3月17日10:09:37，账户组持有“新宁物流”2,019,109股。10:09:37-10:10:08，账户组以涨停价27.69元申报买入1,749,000股，该股在这一时点已接近涨停。10:10:12，账户组撤单已部分成交的申报买入（560,000股），撤单时间距申报时间35秒，撤单时该申报买入在委买队列中排第1位，撤单时已实际成交164,360股，撤单比例70.65%。10:09:37-10:10:08，账户组申报买入量占同时段全市场涨停价申买量的75.42%。10:10:31-10:10:50，继续以涨停价27.69元申报买入“新宁物流”377,000股，而“新宁物流”股价已涨停。10:11:00，分5笔申报撤单（包括10:09:37-10:10:08部分申买单），账户组合计撤单1,566,000股，撤单时点距申报时点的最长时间58秒，撤单时该申报买入在委买队列中排第1位。“新宁物流”股价一直维持涨停价位至收盘。10:09:37-10:11:00，账户组交易“新宁物流”实际成交比例为7.73%。10:11:07-10:11:13，距最后一笔撤单7秒，账户组以涨停价27.69元申报卖出“新宁物流”450,000股，实际成交309,000股，卖出金额合计8,556,210元，申报卖出量占卖出前账户组持有“新宁物流”可卖出股票的56.18%。10:11:17-10:11:18，账户组撤单申报卖出180,000股。“新宁物流”当日开盘价27.69元，最高价27.69元，最低价26.69元，收盘价27.69元，当日涨幅10.01%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">十三、账户组2015年1月20日交易“银之杰”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋利用账户组于2015年1月20日，在连续竞价阶段通过虚假申报的方式影响“银之杰”价格，当日反向卖出。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">14:02:02，账户组持有“银之杰”660,527股。14:02:02、14:02:09和14:02:13，账户组分3笔以接近涨停价的65.2元、65.2元、65.23元的价格（当日涨停价为65.45元）申报买入9,000股、16,200股、15,000股，合计40,200股；14:02:30、14:02:34和14:02:37，账户组将上述3笔申报全部撤单，撤单时该3笔买入申报在委买队列中的排名分别为第2位、第2位和第1位，撤单时已实际成交19,844股，撤单量为20,356股，撤单比例50.64%。14:02:45、14:02:50，账户组以涨停价65.45元分2笔各分别申报买入500股并全部成交。14:02:02-14:02:50，账户组交易“银之杰”实际成交比例为51%。14:17:13-14:19:51，账户组分12笔以64.5元-65.3元的价格区间卖出并全部成交，卖出金额合计1,256,231元，申报卖出量占卖出前账户组持有的“银之杰”可卖出股票的6.02%。“银之杰”当日开盘价58.99元，最高价65.45元，最低价58.50元，收盘价65.45元，当日涨幅10.00%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">14:38:46-14:40:10，账户组以接近涨停价或涨停价分12笔申报买入“银之杰”416,600股，其中以涨停价65.45元申报买入293,300股，其中以65.18元成交300股，以65.38元成交5,400股。14:40:14和14:40:15，账户组撤销上述以65.45元、65.38元申报的2笔申报买入单，共计124,200股，撤单时间距申报时间分别为89秒、25秒，撤单时该2笔申报买入在委买队列中的排名分别为第1位、第10位，撤单时已实际成交5,700股，撤单比例30%。其中，14:40:01-14:40:16，“银之杰”已达到涨停价位，账户组将14:38:46之前的6笔低于涨停价的买入申报撤单，并在14:38:46将未能成交的剩余29,500股申报撤单，撤单量合计55,500股。14:38:46-14:40:10，账户组交易“银之杰”实际成交比例为1%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">14:40:20，账户组再次以涨停价65.45元申报买入138,200股，该股在这一时点已涨停。14:40:23-14:40:34，“银之杰”股价此时已涨停，账户组将7笔以低于涨停价买入的申报撤单；14:40:47-14:40:48，账户组将2笔以涨停价买入的申报撤单，撤单比例100%。14:40:20-14:40:48期间，账户组申报买入量占同时段涨停价申买量的99.28%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">14:40:59、14:41:03和14:41:06，账户组分3笔以涨停价65.45元申报卖出49,000股、59,000股和59,000股，合计167,000股，成交105,200股，成交价格65.45元，卖出金额合计6,885,340元，申报卖出量占卖出前账户组持有“银之杰”可卖出股数的55.13%。“银之杰”当日开盘价58.99元，最高价65.45元，最低价58.50元，收盘价65.45元，当日涨幅10.00%。14:41:13、14:41:15和14:51:54，账户组在上述卖出之后，将14:38:58、14:39:11和14:39:14以65.18元、65.38元申报的申买单合计28,000股撤单。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">综上，</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年12月至2015年5月期间，孙国栋通过其实际控制的账户组，在开盘集合竞价阶段、连续竞价阶段、尾市阶段通过虚假申报、连续申报抬高股价等方式影响“全通教育”、“中科金财”、“如意集团”、“西部证券”、“开元仪器”、“奋达科技”、“鼎捷软件”、“暴风科技”、“雷曼股份”、“深圳华强”、“仙坛股份”、“新宁物流”和“银之杰”等13支股票价格，并于当日或次日反向卖出，获利11,298,908.14元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实，有</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">“徐某”</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">等证券账户资料、银行账户资料，电脑硬件信息、相关交易数据、交易所计算数据以及相关人员询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋的上述行为违反了《证券法》第七十七条第一款第（四）项的规定</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">构成《证券法》第二百零三条所述操纵证券市场行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">孙国栋在陈述申辩意见中提出，其没有操纵的主观恶意，也没有造成严重的危害后果，且有配合调查的情节，请求减轻或从轻处罚。我会已对此予以充分考虑。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">第二百零三条</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">的规定，我会决定：</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">没收孙国栋违法所得</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">11,298,908.14元</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">，并处以33,896,724.42元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起15日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起6个月内向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年11月12日　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20160519_297499_ext.json

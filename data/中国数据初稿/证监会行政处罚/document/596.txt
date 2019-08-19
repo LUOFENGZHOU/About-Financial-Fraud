@@ -1,0 +1,255 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（江苏三友、张璞、葛秋等8名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-08192</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年11月04日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（江苏三友、张璞、葛秋等8名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2011〕46号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（江苏三友、张璞、葛秋等8名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2011〕46号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1324952844187'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1324952844187 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1324952844187 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1324952844187 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1324952844187 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1324952844187 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><SPAN>〔<SPAN>2011</SPAN>〕<SPAN>46</SPAN>号</SPAN></P>
+<P><SPAN>当事人：江苏三友集团股份有限公司（以下简称江苏三友），住所：江苏省南通市人民东路<SPAN>218</SPAN>号，法定代表人葛秋。</SPAN></P>
+<P><SPAN>张璞，男，<SPAN>1958</SPAN>年<SPAN>2</SPAN>月出生，时任江苏三友董事长，住址：江苏省南通市崇川区湾子头新寓。</SPAN></P>
+<P><SPAN>葛秋，男，<SPAN>1954</SPAN>年<SPAN>11</SPAN>月出生，时任江苏三友董事、副总经理，住址：江苏省南通市崇川区学田苑。</SPAN></P>
+<P><SPAN>盛东林，男，<SPAN>1966</SPAN>年<SPAN>12</SPAN>月出生，时任江苏三友董事会秘书、董事、副总经理、总经理，住址：江苏省南通市崇川区学田苑。</SPAN></P>
+<P><SPAN>谢金华，女，<SPAN>1955</SPAN>年<SPAN>5</SPAN>月出生，时任江苏三友监事，住址：江苏省南通市崇川区中南苑。</SPAN></P>
+<P><SPAN>周静雯，女，<SPAN>1958</SPAN>年<SPAN>3</SPAN>月出生，时任江苏三友监事，住址：江苏省南通市崇川区学田苑。</SPAN></P>
+<P><SPAN>沈永炎，男，<SPAN>1955</SPAN>年<SPAN>9</SPAN>月出生，时任江苏三友副总经理，住址：江苏省南通市崇川区学田苑。</SPAN></P>
+<P><SPAN>成建良，男，<SPAN>1960</SPAN>年<SPAN>8</SPAN>月出生，时任江苏三友副总经理，住址：江苏省南通市崇川区恒基花苑。</SPAN></P>
+<P><SPAN>帅建，男，<SPAN>1967</SPAN>年<SPAN>11</SPAN>月出生，时任江苏三友总会计师、财务负责人，住址：江苏省南通市崇川区龙王桥新村。</SPAN></P>
+<P><SPAN>依据<SPAN>1999</SPAN>年<SPAN>7</SPAN>月<SPAN>1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）以及<SPAN>2006</SPAN>年<SPAN>1</SPAN>月<SPAN>1</SPAN>日起施行的《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN>江苏三友</SPAN><SPAN>违法违规</SPAN><SPAN>一案</SPAN><SPAN>进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人葛秋、盛东林的要求，我会举行了听证会，听取了当事人的陈述、申辩。当事人</SPAN><SPAN>江苏三友、张璞、谢金华、周静雯、沈永炎、成建良、帅建未</SPAN><SPAN>提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，江苏三友存在以下违法事实：</SPAN></P>
+<P><SPAN>江苏三友成立于<SPAN>1991</SPAN>年<SPAN>1</SPAN>月<SPAN>22</SPAN>日。<SPAN>2003</SPAN>年<SPAN>10</SPAN>月下旬，江苏三友首次公开发行股票的申请材料上报我会。<SPAN>2004</SPAN>年<SPAN>6</SPAN>月<SPAN>5</SPAN>日，江苏三友实际控制人南通市纺织工业联社（以下简称纺织工业联社）与张璞、常晓钢（已过世）、谢金华、葛秋、沈永炎、成建良、帅建、周静雯以及盛东林等<SPAN>9</SPAN>名时任江苏三友董事、监事、高级管理人员以及董事会秘书职务的自然人签订股权转让协议，约定纺织工业联社将其持有的江苏三友第一大股东南通友谊实业有限公司（以下简称友谊实业）<SPAN>53.125%</SPAN>的股权作价<SPAN>7,922.04</SPAN>万元转让给张璞等前述<SPAN>9</SPAN>人。<SPAN>2004</SPAN>年<SPAN>9</SPAN>月<SPAN>30</SPAN>日，上述股权转让交割完毕，张璞成为友谊实业的第一大股东，为江苏三友的实际控制人。</SPAN></P>
+<P><SPAN>2004</SPAN><SPAN>年<SPAN>6</SPAN>月<SPAN>15</SPAN>日</SPAN><SPAN>，江苏三友首发上市的申请获我会发行审核委员会通过。<SPAN>2005</SPAN>年<SPAN>4</SPAN>月<SPAN>6</SPAN>日，江苏三友获我会核准向社会公开发行人民币普通股股票不超过<SPAN>4,500</SPAN>万股。<SPAN>2005</SPAN>年<SPAN>4</SPAN>月<SPAN>21</SPAN>日，江苏三友在其《首次公开发行<SPAN>A</SPAN>股招股说明书》中披露，友谊实业持有江苏三友<SPAN>53.344%</SPAN>的股份，纺织工业联社持有友谊实业的股权比例为<SPAN>82.9%</SPAN>。其后，江苏三友在其<SPAN>2005</SPAN>年至<SPAN>2008</SPAN>年的年报以及<SPAN>2009</SPAN>年中报中一直披露纺织工业联社是公司的实际控制人，直到<SPAN>2010</SPAN>年<SPAN>3</SPAN>月<SPAN>27</SPAN>日，江苏三友在《江苏三友股份有限公司详式权益变动报告书》中披露，友谊实业于<SPAN>2006</SPAN>年<SPAN>5</SPAN>月<SPAN>19</SPAN>日完成工商变更登记，张璞持有友谊实业<SPAN>30%</SPAN>的股权，其对于上市公司的控制关系为：张璞持有<SPAN>30%</SPAN>股权控制友谊实业，友谊实业持有江苏三友<SPAN>27.4%</SPAN>的股份。<SPAN>2010</SPAN>年<SPAN>3</SPAN>月<SPAN>31</SPAN>日，江苏三友发布<SPAN>2009</SPAN>年年报称，公司的实际控制人由纺织工业联社变更为张璞。</SPAN></P>
+<P><SPAN>综上，<SPAN>2004</SPAN>年<SPAN>9</SPAN>月江苏三友的实际控制人已由纺织工业联社实际变更为张璞，但江苏三友在其<SPAN>2005</SPAN>年<SPAN>4</SPAN>月<SPAN>21</SPAN>日的招股说明书、<SPAN>2005</SPAN>年至<SPAN>2008</SPAN>年年报和<SPAN>2009</SPAN>年中报中一直披露纺织工业联社是实际控制人，与事实明显不符，存在虚假陈述。</SPAN></P>
+<P><SPAN>以上事实，有江苏三友招股说明书、有关定期报告、情况说明和当事人的询问笔录等证据证明，足以认定。</SPAN></P>
+<P><SPAN>当事人上述行为，违反了原《证券法》第五十九条以及《证券法》第六十三条、第六十五条、第六十六条、第六十八条的规定，构成了原《证券法》第一百七十七条以及《证券法》第一百九十三条所述违法行为。</SPAN></P>
+<P><SPAN>当事人张璞长期担任江苏三友董事长，在江苏三友<SPAN>2005</SPAN>年<SPAN>4</SPAN>月<SPAN>21</SPAN>日的招股说明书、<SPAN>2005</SPAN>年至<SPAN>2008</SPAN>年年报和<SPAN>2009</SPAN>年中报上签字同意，是江苏三友发行上市的主要负责人，对江苏三友实际控制人变更知情，其本人即是变更后的实际控制人，是对违法行为直接负责的主管人员；葛秋在江苏三友<SPAN>2005</SPAN>年<SPAN>4</SPAN>月<SPAN>21</SPAN>日的招股说明书、<SPAN>2005</SPAN>年至<SPAN>2008</SPAN>年年报和<SPAN>2009</SPAN>年中报上签字同意，对江苏三友实际控制人变更知情，是对违法行为负责的其他直接责任人员；盛东林在<SPAN>2005</SPAN>年至<SPAN>2008</SPAN>年年报、<SPAN>2009</SPAN>年中报上签字同意，协助张璞负责江苏三友发行上市工作，对江苏三友实际控制人变更知情，是对违法行为负责的其他直接责任人员；谢金华、周静雯、沈永炎、成建良、帅建在<SPAN>2005</SPAN>年至<SPAN>2008</SPAN>年年报和<SPAN>2009</SPAN>年中报上签字同意，对江苏三友实际控制人变更知情，是对违法行为负责的其他直接责任人员。</SPAN></P>
+<P><SPAN>当事人葛秋、盛东林对本案事先告知认定的江苏三友信息披露违法行为不持异议，但申辩称，<SPAN>2006</SPAN>年<SPAN>5</SPAN>月<SPAN>19</SPAN>日友谊实业完成股权转让工商变更登记，江苏三友随即向有关证券交易所汇报了此事。<SPAN>2010</SPAN>年<SPAN>3</SPAN>月，江苏三友再次主动赴有关证券交易所汇报实际控制人变更披露事宜。当事人认为，有关问题发生后，其主动汇报并予纠正，公开致歉消除影响，江苏三友相关定期报告中未如实披露实际控制人变更的主要原因和责任并不在公司；此外，当事人还积极配合了调查工作，请求对其减轻处罚。</SPAN></P>
+<P><SPAN>关于当事人提出的江苏三友曾在<SPAN>2006</SPAN>年<SPAN>5</SPAN>月主动向有关证券交易所汇报股权转让一事，经核查，缺乏充分的证据支持。<SPAN>2010</SPAN>年<SPAN>3</SPAN>月，江苏三友时任总经理盛东林、董事会秘书陈坚到有关证券交易所报告了股权转让事宜并出具了相关协议和政府批复文件。上述情况以及当事人主动纠正违法、积极配合调查工作的情节，我会在审理时已做充分考虑。综上，鉴于当事人未就有关其违法行为的认定提出新的事实以及充分的证据，我会对当事人有关申辩意见不予采纳。</SPAN></P>
+<P><SPAN>根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条以及《证券法》第一百九十三条的规定，我会决定：</SPAN></P>
+<P><SPAN>一、对江苏三友给予警告，并处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>二、对张璞给予警告，并处以<SPAN>20</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>三、对葛秋、盛东林给予警告，并分别处以<SPAN>10</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>四、对谢金华、周静雯、沈永炎、成建良、帅建给予警告，并分别处以<SPAN>5</SPAN>万元罚款。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P><SPAN><SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　</SPAN></SPAN><SPAN>中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN><SPAN>　　　 </SPAN><SPAN>　　　</SPAN><SPAN>　&nbsp;</SPAN>&nbsp;<SPAN>　&nbsp;</SPAN><SPAN>　</SPAN>　</SPAN><SPAN>二○一一年十一月四日</SPAN></P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20111227_204195_ext.json

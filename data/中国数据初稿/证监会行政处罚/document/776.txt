@@ -1,0 +1,259 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（金荔科技、刘作超等7名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2008-07059</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2008年05月07日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（金荔科技、刘作超等7名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2008]26号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（金荔科技、刘作超等7名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2008]26号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 40pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">[2008]26</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">号</SPAN></FONT></FONT></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 28pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：衡阳市金荔科技农业股份有限公司（以下简称金荔科技），住所：湖南省衡阳市解放路<SPAN style="FONT-SIZE: 10.5pt">131</SPAN>号，时任法定代表人为刘作超。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt" align=left><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>刘作超，男，<SPAN style="FONT-SIZE: 10.5pt">1955</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>月出生，时任金荔科技董事长，法定代表人，住址：广东省广州市天河区龙口西路<SPAN style="FONT-SIZE: 10.5pt">96</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">2604</SPAN>房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt" align=left><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>欧阳述安，男，<SPAN style="FONT-SIZE: 10.5pt">1961</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月出生，时任金荔科技董事、副总经理，住址：湖南省衡阳市城南区雁城路付<SPAN style="FONT-SIZE: 10.5pt">76</SPAN>号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt" align=left><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>管志宽，男，<SPAN style="FONT-SIZE: 10.5pt">1944</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月出生，时任金荔科技董事，住址：广东省广州市天河区天河北路<SPAN style="FONT-SIZE: 10.5pt">594</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">1207</SPAN>房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt" align=left><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>许梦阳，男，<SPAN style="FONT-SIZE: 10.5pt">1959</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月出生，时任金荔科技董事，住址：广东省广州市东山区东皋大道<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>号大院<SPAN style="FONT-SIZE: 10.5pt">62</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">301</SPAN>房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt" align=left><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>陈江浩，男，<SPAN style="FONT-SIZE: 10.5pt">1971</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月出生，时任金荔科技董事，住址：广东省广州市天河区华工南秀村<SPAN style="FONT-SIZE: 10.5pt">21</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">203</SPAN>房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt" align=left><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>叶树稳，男，<SPAN style="FONT-SIZE: 10.5pt">1956</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月出生，时任金荔科技董事，住址：广东省广州市东山区较场西路<SPAN style="FONT-SIZE: 10.5pt">13</SPAN>号大院<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>号之一<SPAN style="FONT-SIZE: 10.5pt">101</SPAN>房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt" align=left><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>马辉，男，<SPAN style="FONT-SIZE: 10.5pt">1955</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月出生，时任金荔科技独立董事，住址：广东省广州市荔湾区逢源大街<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">102</SPAN>房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据原《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对金荔科技（股票代码<SPAN style="FONT-SIZE: 10.5pt">600762</SPAN>）虚假陈述及未按规定披露信息行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚决定的事实、理由、依据及当事人依法享有的权利，应部分当事人的要求举行了听证会，听取了当事人的陈述和申辩意见，现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，金荔科技存在以下违法行为：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、金荔科技在<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报及<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年中报中披露虚假的主营业务收入与利润</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">2002</SPAN><SPAN style="FONT-SIZE: 10.5pt">年至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月，金荔科技通过伪造购销合同、虚开销售发票、入库单、出库单、领料单、转帐通知收据，伪造银行进帐单等方式，虚增主营业务收入<SPAN style="FONT-SIZE: 10.5pt">33,204.83</SPAN>万元，虚增净利润<SPAN style="FONT-SIZE: 10.5pt">17,700.05</SPAN>万元。其中，<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报虚增主营业务收入<SPAN style="FONT-SIZE: 10.5pt">12,703.51</SPAN>万元，虚增净利润<SPAN style="FONT-SIZE: 10.5pt">7,412.28</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报虚增主营业务收入<SPAN style="FONT-SIZE: 10.5pt">13,207.61</SPAN>万元，虚增净利润<SPAN style="FONT-SIZE: 10.5pt">6,789.59</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年中报虚增主营业务收入<SPAN style="FONT-SIZE: 10.5pt">7,293.71</SPAN>万元，虚增净利润<SPAN style="FONT-SIZE: 10.5pt">3,498.18</SPAN>万元。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">上述事实，有</SPAN><SPAN style="FONT-SIZE: 10.5pt">金荔科技公开披露的<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报，<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报，<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年中报，公司相关财务资料，相关银行帐户资料，相关董事会决议及会议记录、相关责任人询问笔录，相关信息披露公告等证据证明。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任董事长刘作超、副董事长何雪梅是上述信息披露违法行为直接负责的主管人员，其他在审议<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年中报的董事决议上签字表示同意的时任董事欧阳述安、管志宽、许梦阳、陈江浩、叶树稳、独立董事马辉为其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、巨额对外担保事项未及时披露</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">2001</SPAN><SPAN style="FONT-SIZE: 10.5pt">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月，金荔科技为关联方广东进益科技发展有限公司在广东发展银行的<SPAN style="FONT-SIZE: 10.5pt">22,000</SPAN>万元贷款提供担保，担保期限为<SPAN style="FONT-SIZE: 10.5pt">2001</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月。该笔担保未及时对外披露，也未在<SPAN style="FONT-SIZE: 10.5pt">2001</SPAN>年、<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年及<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露，直到<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">17</SPAN>日才临时补充披露，并在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中披露。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">2003</SPAN><SPAN style="FONT-SIZE: 10.5pt">年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月，金荔科技为关联方广东劲业科技发展有限公司在工商银行广州天平架支行的<SPAN style="FONT-SIZE: 10.5pt">3,792</SPAN>万元贷款提供担保；<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月为非关联方广州博澳医疗电子发展有限公司在中国银行广州市广东国际大厦支行<SPAN style="FONT-SIZE: 10.5pt">2,990</SPAN>万元贷款提供担保，<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月为该笔<SPAN style="FONT-SIZE: 10.5pt">2,990</SPAN>万贷款续保。上述担保均未及时披露，也未在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露，直到<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日才临时补充披露，并在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中披露。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">2003</SPAN><SPAN style="FONT-SIZE: 10.5pt">年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月，金荔科技为非关联方上海兴昆建材有限公司在上海工商银行普陀支行的<SPAN style="FONT-SIZE: 10.5pt">1,700</SPAN>万元贷款提供担保，未及时披露，也未在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露，直至<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日才补充披露，并在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中披露；<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月为非关联方武汉巨力投资有限公司在中国银行武汉市硚口支行的两笔金额均为<SPAN style="FONT-SIZE: 10.5pt">2,000</SPAN>万元的贷款提供担保，未及时披露，也未在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露，直至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日才补充披露，并在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中披露。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 28.5pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">2003</SPAN><SPAN style="FONT-SIZE: 10.5pt">年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月，金荔科技为关联方广东进益科技开发有限公司在华夏银行广州分行的<SPAN style="FONT-SIZE: 10.5pt">2,000</SPAN>万元贷款提供担保，未及时披露，也未在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中披露。<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月金荔科技为该笔<SPAN style="FONT-SIZE: 10.5pt">2,000</SPAN>万元贷款续保，该笔续保未及时披露，也未在<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中披露。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 28.5pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>截至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">25</SPAN>日，金荔科技未及时披露的对外担保余额为<SPAN style="FONT-SIZE: 10.5pt">36,482</SPAN>万元，其中<SPAN style="FONT-SIZE: 10.5pt">27,792</SPAN>万元系为关联方提供担保。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">上述事实，有</SPAN><SPAN style="FONT-SIZE: 10.5pt">相关担保合同、相关董事会决议、相关询问笔录、相关信息披露公告、<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年、<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年及<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报、有关人员就担保信息披露事项所作的书面说明等证据证明。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任董事长刘作超是上述信息披露违法行为直接负责的主管人员，其他在审议上述担保事项和<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字表示同意的董事何雪梅、欧阳述安、管志宽、许梦阳、陈江浩、叶树稳、独立董事马辉为其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、大股东及关联方资金占用情况披露不实</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>金荔科技大股东及关联方通过上市公司为其他公司提供担保，<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年占用上市公司资金总计<SPAN style="FONT-SIZE: 10.5pt">1,293</SPAN>万元，<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年占用上市公司资金总计<SPAN style="FONT-SIZE: 10.5pt">160</SPAN>万元。占用情况具体为：<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年及<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年金荔科技为武汉全库投资有限公司和武汉巨力生物工程有限公司共计<SPAN style="FONT-SIZE: 10.5pt">7,000</SPAN>万元的贷款提供担保，后金荔科技分得资金<SPAN style="FONT-SIZE: 10.5pt">2,018</SPAN>万元。金荔科技所分得资金<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年被大股东及关联方占用<SPAN style="FONT-SIZE: 10.5pt">510</SPAN>万元，<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年被大股东及关联方占用<SPAN style="FONT-SIZE: 10.5pt">160</SPAN>万元；<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年金荔科技为广州博澳医疗电子发展有限公司<SPAN style="FONT-SIZE: 10.5pt">2,990</SPAN>万贷款提供担保，后金荔科技分得资金<SPAN style="FONT-SIZE: 10.5pt">1,200</SPAN>万元。金荔科技所分得资金于<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年被关联方占用<SPAN style="FONT-SIZE: 10.5pt">783</SPAN>万元。以上资金占用情况未在<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年及<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报中披露。直至<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>日，金荔科技才就相关情况进行补充披露。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">上述事实，有</SPAN><SPAN style="FONT-SIZE: 10.5pt">相关担保合同、相关借款合同、相关汇款银行凭证及资金支付证据、<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年及<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报、相关信息披露公告等证据证明。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任董事长刘作超是上述信息披露违法行为直接负责的主管人员，其他在审议<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字表示同意的董事欧阳述安、管志宽、许梦阳、叶树稳、独立董事马辉为其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、金荔科技实际控制权转移未及时披露</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">2004</SPAN><SPAN style="FONT-SIZE: 10.5pt">年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月，刘作超将其与何雪梅持有的及实际控制的金荔投资共计<SPAN style="FONT-SIZE: 10.5pt">95%</SPAN>的股份转让给东方物产（集团）有限公司（以下简称东方物产公司）、陈东升、许明、刘作城，刘作超自留<SPAN style="FONT-SIZE: 10.5pt">5%</SPAN>的股份。<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日金荔投资进行股权工商登记变更，其股权结构变更为：东方物产公司持股<SPAN style="FONT-SIZE: 10.5pt">35%</SPAN>，许明持股<SPAN style="FONT-SIZE: 10.5pt">16%</SPAN>，刘作城持股<SPAN style="FONT-SIZE: 10.5pt">19%</SPAN>，陈东升持股<SPAN style="FONT-SIZE: 10.5pt">25%</SPAN>，刘作超持股<SPAN style="FONT-SIZE: 10.5pt">5%</SPAN>。由于东方物产公司将所持有的金荔投资<SPAN style="FONT-SIZE: 10.5pt">35%</SPAN>的股份交给许明托管，许明与东方物产公司之间构成一致行动人，控制了金荔投资所持有的金荔科技<SPAN style="FONT-SIZE: 10.5pt">45.16%</SPAN>的股权，因而金荔投资的股权转让构成上市公司实际控制权的转移。金荔科技未对上述事项及时披露。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">上述事实，有</SPAN><SPAN style="FONT-SIZE: 10.5pt">相关股权转让协议及补充协议、相关股权托管协议、相关银行汇款凭证、企业变更登记通知书、相关询问笔录等证据证明。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任董事长刘作超是上述信息披露违法行为直接负责的主管人员，其他在审议<SPAN style="FONT-SIZE: 10.5pt">2004</SPAN>年年报的董事会决议上签字表示同意的董事管志宽、许梦阳、叶树稳、独立董事马辉为其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五、金荔科技总经理长期不在位情况未披露</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>金荔科技<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年与<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报披露，公司总经理为余伟雄。余伟雄已于<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月被刘作超宣布停职并实际离任，但金荔科技董事会一直没有正式解聘余伟雄，总经理职位<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月至今空缺，金荔科技在<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报和<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报中未披露上述情况。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">上述事实，有</SPAN><SPAN style="FONT-SIZE: 10.5pt">金荔科技公开披露的<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报，<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报，相关询问笔录等证据证明。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任董事长刘作超是上述信息披露违法行为直接负责的主管人员，其他在审议<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报、<SPAN style="FONT-SIZE: 10.5pt">2003</SPAN>年年报的董事会决议上签字表示同意的董事欧阳述安、管志宽、许梦阳、陈江浩、叶树稳、独立董事马辉为其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>六、<SPAN style="FONT-SIZE: 10.5pt">2002</SPAN>年年报中虚列金荔科技园在建工程</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">2002</SPAN><SPAN style="FONT-SIZE: 10.5pt">年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月，何雪梅等人通过直接虚列购入电缆等物资<SPAN style="FONT-SIZE: 10.5pt">856</SPAN>万以及购买假发票虚列购买化肥<SPAN style="FONT-SIZE: 10.5pt">2,268</SPAN>万的手段虚构金荔科技广州分公司在建工程<SPAN style="FONT-SIZE: 10.5pt">3,124</SPAN>万元。上述违法行为由何雪梅组织，财务总监周振清实施。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述事实，有金荔科技的会计凭证、相关责任人员的谈话笔录等证据证明。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>时任副董事长何雪梅是上述违法行为直接负责的主管人员，时任财务总监周振清为其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt">在陈述申辩意见中<SPAN style="FONT-SIZE: 10.5pt">,</SPAN>当事人管志宽、许梦阳提出曾在董事会上多次提请公司按规定信息披露，并提供了两人就公司资金管理曾向董事长和董事局质疑的证据。我会认为，尽管管志宽、许梦阳是公司违规行为的其他直接责任人员，但两人提供的相关证据能够证明其已基本履行董事职责。<SPAN style="FONT-SIZE: 10.5pt; COLOR: black">对此，我会决定予以考虑。</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 31.6pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>金荔科技的上述行为违反了原《证券法》第五十九条所述“公司公告的股票或公司债券的发行和上市文件，必须真实、准确、完整，不得有虚假记载、误导性陈述或者重大遗漏”、第六十条关于中期报告、第六十一条关于年度报告、第六十二条所述“发生可能对上市公司股票交易价格产生较大影响，而投资者尚未得知的重大事件时，上市公司应当立即将有关该重大事件的情况向国务院证券监督管理机构和证券交易所提交临时报告，并予以公告，说明事件的实质”的规定，构成了原《证券法》第一百七十七条所述“未按照有关规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者有重大遗漏的”行为。对何雪梅、周振清，我会已另行作出市场禁入决定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt">根据金荔科技违法行为的事实、性质、情节以及社会危害程度，依照原《证券法》第一百七十七条的规定，我会决定如下<SPAN style="FONT-SIZE: 10.5pt">:</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt">一、对金荔科技处以<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>万元的罚款<SPAN style="FONT-SIZE: 10.5pt">;</SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、对时任董事长刘作超给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、对时任董事欧阳述安给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 24.8pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、对时任董事管志宽、许梦阳、陈江浩、叶树稳、独立董事马辉分别给予警告。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 37.25pt; LINE-HEIGHT: 27pt"><SPAN style="FONT-SIZE: 12pt; COLOR: black"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>，并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 11pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 36pt"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">中国证券监督管理委员会</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 28pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black"><SPAN style="FONT-SIZE: 10.5pt">　　　 </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　</SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　&nbsp; 　</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black">二○○八年五月七日</SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 12pt"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20100304_177900_ext.json

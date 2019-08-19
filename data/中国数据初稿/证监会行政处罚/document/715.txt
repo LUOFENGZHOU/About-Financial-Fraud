@@ -1,0 +1,278 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（荣华实业、张严德等20名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-05032</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年09月10日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（荣华实业、张严德等20名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2009]36号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（荣华实业、张严德等20名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2009]36号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1268635665718'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1268635665718 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635665718 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635665718 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635665718 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1268635665718 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<DIV class=Custom_UnionStyle>
+<P align=center><FONT style="FONT-SIZE: 12pt"><FONT face=黑体>&nbsp;<SPAN style="FONT-SIZE: 12pt">〔<SPAN style="FONT-SIZE: 12pt">2009</SPAN>〕<SPAN style="FONT-SIZE: 12pt">36</SPAN>号</SPAN></FONT></FONT></P>
+<P>&nbsp;</P>
+<P><SPAN>当事人：甘肃荣华实业（集团）股份有限公司（以下简称荣华实业），住所：甘肃省武威市东关街荣华路<SPAN>1</SPAN>号，法定代表人张严德。</SPAN></P>
+<P><SPAN>张严德，男，<SPAN>1962</SPAN>年<SPAN>11</SPAN>月出生，住址：甘肃省武威市城关镇东关街沿河东路<SPAN>1</SPAN>号，是荣华实业的自然人实际控制人，时任荣华实业董事长。</SPAN></P>
+<P><SPAN>刘永，男，<SPAN>1967</SPAN>年<SPAN>5</SPAN>月出生，住址：甘肃省武威市东关街兴胜路花园巷<SPAN>1-2-1</SPAN>号，时任荣华实业总经理、副董事长。</SPAN></P>
+<P><SPAN>程浩，男，<SPAN>1974</SPAN>年<SPAN>8</SPAN>月出生，住址：上海市黄浦区南京东路<SPAN>61</SPAN>号<SPAN>12</SPAN>楼，时任荣华实业董事兼董事会秘书。</SPAN></P>
+<P><SPAN>严新林，男，<SPAN>1958</SPAN>年<SPAN>5</SPAN>月出生，住址：甘肃省武威市城关镇和平街县府巷<SPAN>8</SPAN>号，时任荣华实业副董事长。</SPAN></P>
+<P><SPAN>孙效东，男，<SPAN>1956</SPAN>年<SPAN>10</SPAN>月出生，住址：甘肃省武威市凉州区南关东路南苑园区<SPAN>2</SPAN>栋<SPAN>3</SPAN>单元<SPAN>401</SPAN>室，时任荣华实业董事。</SPAN></P>
+<P><SPAN>卢万发，男，<SPAN>1945</SPAN>年<SPAN>6</SPAN>月出生，住址：甘肃省武威市城关镇东关街荣华路<SPAN>0-7</SPAN>号，时任荣华实业董事。</SPAN></P>
+<P><SPAN>严其林，男，<SPAN>1950</SPAN>年<SPAN>7</SPAN>月出生，住址：甘肃省武威市西关街公园路<SPAN>12</SPAN>号，时任荣华实业董事。</SPAN></P>
+<P><SPAN>张百生，男，<SPAN>1952</SPAN>年<SPAN>1</SPAN>月出生，住址：甘肃省武威市高坝乡新关村七组，时任荣华实业董事。</SPAN></P>
+<P><SPAN>杜建萍，女，<SPAN>1967</SPAN>年<SPAN>9</SPAN>月出生，住址：甘肃省武威市东关街沿河东路<SPAN>1-26</SPAN>号，时任荣华实业董事。</SPAN></P>
+<P><SPAN>王森，男，<SPAN>1963</SPAN>年<SPAN>11</SPAN>月出生，住址：甘肃省兰州市城关区新华巷<SPAN>19</SPAN>号，时任荣华实业独立董事。</SPAN></P>
+<P><SPAN>何鹏举，男，<SPAN>1966</SPAN>年<SPAN>5</SPAN>月出生，住址：甘肃省兰州市七里河区西津西路<SPAN>188</SPAN>号<SPAN>222</SPAN>，时任荣华实业独立董事。</SPAN></P>
+<P><SPAN>李生玉，男，<SPAN>1964</SPAN>年<SPAN>2</SPAN>月出生，住址：甘肃省武威市西大街胜利新村<SPAN>19-321</SPAN>号，时任荣华实业独立董事。</SPAN></P>
+<P><SPAN>杨天保，男，<SPAN>1950</SPAN>年<SPAN>6</SPAN>月出生，住址：甘肃省武威市城关镇东关街沿河东路<SPAN>1-25</SPAN>号，时任荣华实业监事会主席。</SPAN></P>
+<P><SPAN>杨智，男，<SPAN>1953</SPAN>年<SPAN>2</SPAN>月出生，住址：甘肃省武威市城关镇东关街荣华路<SPAN>0-63</SPAN>号，时任荣华实业监事。</SPAN></P>
+<P><SPAN>查金堂，男，<SPAN>1959</SPAN>年<SPAN>3</SPAN>月出生，住址：甘肃省武威市凉州区高坝镇同心村二组<SPAN>2</SPAN>号，时任荣华实业监事。</SPAN></P>
+<P><SPAN>杜彦山，男，<SPAN>1960</SPAN>年<SPAN>3</SPAN>月出生，住址：甘肃省武威市城关镇建国街东大街<SPAN>62</SPAN>号，时任荣华实业副总经理、监事。</SPAN></P>
+<P><SPAN>李清华，男，<SPAN>1971</SPAN>年<SPAN>1</SPAN>月出生，住址：甘肃省武威市荣华街荣华东路南园<SPAN>18</SPAN>号<SPAN>4</SPAN>号楼<SPAN>2-2-2</SPAN>，时任荣华实业副总经理兼财务总监。</SPAN></P>
+<P><SPAN>卢俊，男，<SPAN>1969</SPAN>年<SPAN>6</SPAN>月出生，住址：甘肃省武威市西大街解放巷<SPAN>21</SPAN>号，时任荣华实业副总经理。</SPAN></P>
+<P><SPAN>李明，男，<SPAN>1965</SPAN>年<SPAN>4</SPAN>月出生，住址：甘肃省武威市城关镇东关街荣华<SPAN>1</SPAN>号，时任荣华实业副总经理。</SPAN></P>
+<P><SPAN>贺明山，男，<SPAN>1957</SPAN>年<SPAN>3</SPAN>月出生，住址：甘肃省武威市荣华西路<SPAN>27-4-151</SPAN>号，时任荣华实业副总经理。</SPAN></P>
+<P><SPAN>依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对荣华实业违反证券法律法规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人提出了陈述和申辩意见，但未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P><SPAN>经查明，荣华实业存在以下违法事实：</SPAN></P>
+<P><SPAN>一、擅自改变募集资金用途，未按规定予以披露</SPAN></P>
+<P><SPAN>《甘肃荣华实业（集团）股份有限公司招股说明书》（以下简称《招股说明书》）披露，荣华实业<SPAN>2001</SPAN>年<SPAN>5</SPAN>月首次公开发行股票所募集资金的用途包括：“……扩建<SPAN>10</SPAN>万吨玉米淀粉生产线；年产<SPAN>3</SPAN>万吨谷氨酸生产线项目；年产<SPAN>1</SPAN>万吨赖氨酸生产线项目；年产<SPAN>1</SPAN>万吨<SPAN>L-</SPAN>乳酸生产线项目……”<SPAN>2003</SPAN>年<SPAN>9</SPAN>月，经临时股东大会审议通过，荣华实业将原拟用于“年产<SPAN>1</SPAN>万吨<SPAN>L-</SPAN>乳酸生产线项目”的募集资金调整用于“年产<SPAN>4</SPAN>万吨赖氨酸生产线项目”。</SPAN></P>
+<P><SPAN>（一）擅自将<SPAN>5</SPAN>万吨赖氨酸项目改扩建年产<SPAN>12</SPAN>万吨谷氨酸项目，未按规定对变更情况予以披露</SPAN></P>
+<P><SPAN>2006</SPAN><SPAN>年<SPAN>8</SPAN>月，荣华实业编制了《五万吨赖氨酸项目改扩建年产十二万吨谷氨酸项目工程概算》，计划将原筹建的年产<SPAN>5</SPAN>万吨赖氨酸项目（包括《招股说明书》中的年产<SPAN>1</SPAN>万吨赖氨酸生产线项目和由<SPAN>1</SPAN>万吨<SPAN>L-</SPAN>乳酸生产线项目变更而成的<SPAN>4</SPAN>万吨赖氨酸生产线项目）改扩建为年产<SPAN>12</SPAN>万吨谷氨酸项目，建设期<SPAN>1</SPAN>年，即自<SPAN>2006</SPAN>年<SPAN>8</SPAN>月至<SPAN>2007</SPAN>年<SPAN>8</SPAN>月。之后，在未经股东大会审议通过的情况下，荣华实业于<SPAN>2006</SPAN>年<SPAN>10</SPAN>月开始拆除赖氨酸项目设备，并于<SPAN>2007</SPAN>年<SPAN>3</SPAN>月正式开始改建。直至<SPAN>2007</SPAN>年<SPAN>5</SPAN>月<SPAN>12</SPAN>日，荣华实业临时股东大会方才审议通过了《关于调整募集资金投向改建年产<SPAN>12</SPAN>万吨谷氨酸生产线项目的议案》。荣华实业的上述行为属于擅自改变募集资金用途的行为。</SPAN></P>
+<P><SPAN>同时，对于上述<SPAN>5</SPAN>万吨赖氨酸项目改扩建年产<SPAN>12</SPAN>万吨谷氨酸项目的事实，荣华实业既未按规定及时披露募集资金投向变更，也未在<SPAN>2006</SPAN>年年度报告中如实披露已变更的情况。直至<SPAN>2007</SPAN>年<SPAN>4</SPAN>月<SPAN>8</SPAN>日，荣华实业才发布了《变更募集资金用途公告》。</SPAN></P>
+<P><SPAN>（二）擅自处置年产<SPAN>10</SPAN>万吨玉米淀粉生产线项目，未按规定予以披露</SPAN></P>
+<P><SPAN>2006</SPAN><SPAN>年<SPAN>7</SPAN>月，在未经股东大会审议通过的情况下，荣华实业擅自处置公开发行股票所募集资金项目——年产<SPAN>10</SPAN>万吨玉米淀粉生产线项目，改变募集资金用途。<SPAN>2006</SPAN>年<SPAN>7</SPAN>月<SPAN>6</SPAN>日，荣华实业与温州市兰新不锈钢材料有限公司（以下简称兰新公司）签订《协议书》，以年产<SPAN>10</SPAN>万吨玉米淀粉生产线项目的部分淀粉设备计价<SPAN>825.704</SPAN>万元，置换兰新公司不锈钢管材<SPAN>266.35</SPAN>吨。荣华实业法定代表人张严德在协议上签字。<SPAN>2006</SPAN>年<SPAN>7</SPAN>月<SPAN>27</SPAN>日，荣华实业与中粮粮油进出口公司（以下简称中粮油公司）签订《执行和解协议书》，以被法院查封的玉米淀粉生产线部分设备作价<SPAN>2,200</SPAN>万元抵偿对中粮油公司的部分债务。荣华实业总经理刘永在和解协议上签字。直至<SPAN>2006</SPAN>年<SPAN>12</SPAN>月<SPAN>28</SPAN>日，荣华实业股东大会方才审议通过了《关于处置募集资金在建项目“年产<SPAN>10</SPAN>万吨淀粉生产线”的议案》，并予以公告。</SPAN></P>
+<P><SPAN>同时，对于上述处置年产<SPAN>10</SPAN>万吨玉米淀粉生产线项目的事实，荣华实业没有按照规定及时予以披露。</SPAN></P>
+<P><SPAN>二、未如实披露股东关联关系</SPAN></P>
+<P><SPAN>荣华实业在<SPAN>2005</SPAN>年中期报告、<SPAN>2005</SPAN>年年度报告、<SPAN>2006</SPAN>年中期报告、<SPAN>2006</SPAN>年年度报告中称：公司未知前十大股东之间、前十大流通股股东之间、以及前十大流通股股东和前十大股东之间是否存在关联关系或是否属于《上市公司股东持股变动信息披露管理办法》规定的一致行动人。同时，荣华实业在<SPAN>2006</SPAN>年<SPAN>9</SPAN>月<SPAN>29</SPAN>日、<SPAN>2007</SPAN>年<SPAN>3</SPAN>月<SPAN>2</SPAN>日发布的澄清公告中称：“在荣华工贸（注：指荣华实业第一大股东武威荣华工贸有限公司）收购甘肃省武威淀粉厂的过程中，荣华工贸与武威市融达饲料有限责任公司和武威市华信食品供销有限责任公司分别出具了承诺，承诺彼此之间不存在关联关系，也不属于一致行动人。各股东相互独立，彼此之间不存在股权控制关系。”</SPAN></P>
+<P><SPAN>经查，荣华实业第一大股东荣华工贸与并列第三大股东的武威市华信食品供销有限责任公司（以下简称华信食品）和武威市融达饲料有限责任公司（以下简称融达饲料）存在关联关系。实际情况为：华信食品和融达饲料是以荣华集团下属企业职工的名义设立的两家公司，<SPAN>2003</SPAN>年<SPAN>4</SPAN>月<SPAN>15</SPAN>日，为避免荣华工贸以要约方式收购上市公司荣华实业，华信食品、融达饲料分别受让了荣华工贸持有的荣华实业股权<SPAN>1,100</SPAN>万股，均未付款。两公司每年年检均由荣华集团副总裁、荣华实业副董事长严新林指定专人负责。程钟书将持有融达饲料的股权转让给王三宗，张文景将持有华信食品的股权转让给杨秉超，受让方均未向出让方支付股权转让款，而是由实际控制人张严德决定股权转让事宜。荣华工贸的实际控制人张严德系融达饲料、华信食品的实际控制人，荣华工贸与融达饲料和华信食品之间存在关联关系。</SPAN></P>
+<P><SPAN>以上事实，有相关工商登记资料、招股说明书、定期报告、合同、董事会决议、股东会决议、公告及当事人询问笔录等证据证明，足以认定。</SPAN></P>
+<P><SPAN>荣华实业擅自改变募集资金用途的行为，违反了《证券法》第十五条有关“公司对公开发行股票所募集资金，必须按照招股说明书所列资金用途使用。改变招股说明书所列资金用途，必须经股东大会作出决议”的规定，构成了《证券法》第一百九十四条所述“发行人、上市公司擅自改变公开发行证券所募集资金的用途”的行为。对此直接负责的主管人员为荣华实业时任董事长张严德、总经理刘永。</SPAN></P>
+<P><SPAN>荣华实业未及时披露募集资金用途改变的行为，违反了《证券法》第六十七条有关临时报告的规定，构成了《证券法》第一百九十三条所述“未按照规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者重大遗漏”的行为。对此直接负责的主管人员为荣华实业时任董事长张严德、总经理刘永和董事会秘书程浩。</SPAN></P>
+<P><SPAN>荣华实业在相关定期报告中未如实披露股东关联关系和募集资金用途改变的行为，违反了原《证券法》第五十九条和《证券法》第六十三条有关上市公司信息披露的规定，构成了原《证券法》第一百七十七条和《证券法》第一百九十三条所述“未按照规定披露信息，或者所披露的信息有虚假记载、误导性陈述或者重大遗漏”的行为。对此直接负责的主管人员是时任董事长张严德，其他直接责任人员包括在相应定期报告期内负有信息披露义务的荣华实业时任董事严新林、刘永（兼总经理）、孙效东、卢万发、严其林、张百生、杜建萍、程浩（兼董事会秘书）、王森、何鹏举、李生玉，监事杨天保、杨智、查金堂、杜彦山（<SPAN>2006</SPAN>年<SPAN>12</SPAN>月<SPAN>28</SPAN>日以前任副总经理），副总经理李清华（兼财务总监）、卢俊、李明、贺明山。</SPAN></P>
+<P><SPAN>荣华实业及其董事、监事和高级管理人员在申辩材料中提出：其一，将<SPAN>5</SPAN>万吨赖氨酸项目改扩建年产<SPAN>12</SPAN>万吨谷氨酸项目，并非擅自改变募集资金用途，而是公司根据市场变化所作的调整，已经履行了必要的审议和公告程序。公司在<SPAN>2006</SPAN>年下半年进行了改建项目的可行性研究，于同年<SPAN>8</SPAN>月编制了改扩建项目工程概算，并在<SPAN>2006</SPAN>年底拆除了部分赖氨酸设备，但上述工作并未改变项目的性质，只是在进行变更前的研究和筹备工作。直至<SPAN>2007</SPAN>年<SPAN>3</SPAN>月，公司才决定对项目进行彻底的改扩建，决定后公司即开始进行召开董事会的工作，并在尽可能短的时间内通知召开了股东大会进行审议。其二，从工商登记资料上看，荣华工贸、华信食品和融达饲料都是依据《公司法》成立的公司，股东相互独立，各按持股比例享有相应的权利，承担相应的义务，不存在由荣华工贸实际控制人一人控制的问题。华信食品、融达饲料股东之间股权转让未付款，只是股东间的账务问题。华信食品、融达饲料两家公司的年检问题和法定代表人的任职经历，并不影响其独立性。荣华工贸向华信食品、融达饲料转让股权得到了相关部门审核批准，符合法律的要求。</SPAN></P>
+<P><SPAN>此外，荣华实业的董事还提出，由于公司治理方面的原因，在召开董事会之前，大部分董事并不知道相关募集资金项目的变更状况，希望酌情考虑公司的发展状况，给予其纠正的机会。荣华实业的监事和高级管理人员提出，他们没有参与具体的决策，不了解相关情况，没有从事过任何损害公司和股东利益的行为，请求免予对其个人的行政处罚。</SPAN></P>
+<P><SPAN>我会认为，荣华实业及其董事、监事和高级管理人员的申辩理由不能成立，理由如下：</SPAN></P>
+<P><SPAN>其一，根据《证券法》第十五条有关“公司对公开发行股票所募集资金，必须按照招股说明书所列资金用途使用。改变招股说明书所列资金用途，必须经股东大会作出决议”的规定，荣华实业将<SPAN>5</SPAN>万吨赖氨酸项目改扩建年产<SPAN>12</SPAN>万吨谷氨酸项目，必须先经股东大会作出决议。但实际情况是，在<SPAN>2007</SPAN>年<SPAN>5</SPAN>月<SPAN>12</SPAN>日股东大会审议之前，荣华实业于<SPAN>2006</SPAN>年下半年便开始拆除赖氨酸项目设备，并于<SPAN>2007</SPAN>年<SPAN>3</SPAN>月正式开始改建。这些行为已经构成对募集资金用途的改变，并非募集资金用途改变之前的研究和筹备。</SPAN></P>
+<P><SPAN>其二，判断上市公司股东之间是否具有关联关系，不应单纯以工商登记资料为依据，而应当以实质重于形式的原则进行认定。就融达饲料而言，单从工商登记资料看，融达饲料由程钟书等<SPAN>8</SPAN>人出资设立，其中程钟书出资<SPAN>60</SPAN>万元，<SPAN>2002</SPAN>年<SPAN>5</SPAN>月，程钟书将持有的股权转让给王三宗。但实际情况是，程钟书等人均为荣华集团下属企业职工，在设立融达饲料时并没有出资，程钟书将持有的股权转让给王三宗也没有收取转让款，此次股权划转实际上是由荣华工贸实际控制人张严德个人决定的。另外，为了避免荣华工贸要约收购，融达饲料<SPAN>2003</SPAN>年<SPAN>4</SPAN>月<SPAN>15</SPAN>日受让了荣华工贸持有的荣华实业股权<SPAN>1,100</SPAN>万股，没有付款。此外，融达饲料年检情况、涉案人员的询问笔录等，也都清楚地说明融达饲料是受张严德控制的公司。华信食品的情况同融达饲料类似。荣华工贸、华信食品和融达饲料存在关联关系。</SPAN></P>
+<P><SPAN>对于荣华实业董事、监事和高级管理人员责任的认定，我会已经根据当事人的不同情况进行了区分，在量罚时已经综合考虑了当事人的违法事实、性质、情节及社会危害程度。擅自改变募集资金用途的责任人是董事长张严德和总经理刘永。未及时披露临时报告的责任人是董事长张严德、总经理刘永、董事会秘书程浩（兼董事）。对于定期报告的信息披露责任，根据《证券法》第六十八条有关“上市公司董事、监事、高级管理人员应当保证上市公司所披露的信息真实、准确、完整”的规定，对于上市公司披露的信息，上市公司的董事、监事和高级管理人员都负有保证其真实、准确、完整的义务。没有证据证明相关当事人履行了勤勉尽责的义务，仅以未参与具体决策或者不知情为由，并不能免除其在信息披露上应当承担的法律责任。</SPAN></P>
+<P><SPAN>根据当事人的违法事实、性质、情节与社会危害程度，依据原《证券法》第一百七十七条、《证券法》第一百九十三条和第一百九十四条的规定，我会决定：</SPAN></P>
+<P><SPAN>一、责令荣华实业改正违法行为，给予警告，并处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>二、对张严德给予警告，并处以<SPAN>20</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>三、对刘永、程浩给予警告，并处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P><SPAN>四、对严新林、孙效东、卢万发、严其林、张百生、杜建萍、王森、何鹏举、李生玉、杨天保、杨智、查金堂、杜彦山、李清华、卢俊、李明、贺明山给予警告，并处以<SPAN>3</SPAN>万元罚款。</SPAN></P>
+<P><SPAN>上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P>&nbsp;</P>
+<P align=right><SPAN>　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; 　　 中国证券监督管理委员会</SPAN></P>
+<P align=center><SPAN><SPAN>　　&nbsp; </SPAN>&nbsp;<SPAN>　　&nbsp;</SPAN><SPAN>　　&nbsp;</SPAN>&nbsp;<SPAN>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</SPAN></SPAN><SPAN>二○○九年九月十日</SPAN></P></DIV>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20091111_167886_ext.json

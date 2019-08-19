@@ -1,0 +1,264 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（宁波富邦、郑锦浩、华声康等7名责任人）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2012-06160</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2012年06月27日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（宁波富邦、郑锦浩、华声康等7名责任人）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2012〕27号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（宁波富邦、郑锦浩、华声康等7名责任人）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2012〕27号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1349682461218'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1349682461218 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1349682461218 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1349682461218 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1349682461218 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1349682461218 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":""}}
+--**/</style>
+<P style="LINE-HEIGHT: 59pt" align=center><SPAN style="LINE-HEIGHT: 150%">〔<SPAN>2012</SPAN>〕<SPAN>27</SPAN>号</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人：宁波富邦精业集团股份有限公司（以下简称宁波富邦），住所：浙江省宁波市镇海骆驼机电工业园区，时任法定代表人郑锦浩。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">郑锦浩，男，<SPAN>1971</SPAN>年<SPAN>12</SPAN>月出生，时任宁波富邦董事长，住址：浙江省宁波市海曙区五块巷。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">华声康，男，<SPAN>1971</SPAN>年<SPAN>12</SPAN>月出生，时任宁波富邦董事，住址：浙江省宁波市江东区贺丞路<SPAN>188</SPAN>弄。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">宋汉心，男，<SPAN>1971</SPAN>年<SPAN>12</SPAN>月出生，时任宁波富邦董事、总经理，住址：浙江省宁波市海曙区新芝路<SPAN>158</SPAN>弄。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">岳培青，男，<SPAN>1971</SPAN>年<SPAN>12</SPAN>月出生，时任宁波富邦财务经理，住址：浙江省宁波市海曙区太阳巷<SPAN>23</SPAN>号。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">徐跃进，男，<SPAN>1971</SPAN>年<SPAN>12</SPAN>月出生，时任宁波富邦副总经理、董事会秘书，住址：浙江省宁波市江东区晶华名园<SPAN>1</SPAN>幢。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">陈炜，男，<SPAN>1972</SPAN>年<SPAN>7</SPAN>月出生，时任宁波富邦董事，住址：浙江省宁波市海曙区府桥街<SPAN>128</SPAN>弄。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN style="LINE-HEIGHT: 150%">宁波富邦</SPAN><SPAN style="LINE-HEIGHT: 150%">涉嫌违反证券法律法规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人宁波富邦等要求，我会依法举行了听证会，听取了当事人及其代理人的陈述和申辩。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">经查明，</SPAN><SPAN style="LINE-HEIGHT: 150%">宁波富邦存在以下违法事实<SPAN style="COLOR: black">：</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、未及时披露重大诉讼事项</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">北京市第一中级人民法院（以下简称北京市一中院）于<SPAN>2010</SPAN>年<SPAN>12</SPAN>月<SPAN>31</SPAN>日受理上海文盛投资管理有限公司（以下简称上海文盛）诉信联讯网络投资有限公司（以下简称信联讯）、宁波富邦、北京宏基兴业技术发展公司、北京中拍投资管理有限公司借款合同纠纷一案。上海文盛的诉讼请求为要求信联讯归还上海文盛借款本金、利息、违约金合计<SPAN>5,654.51</SPAN>万元及至实际偿还借款之日止的利息、违约金；以宁波富邦作为信联讯清算义务人滥用公司法人独立地位、怠于履行清算义务等为理由要求宁波富邦等其他<SPAN>3</SPAN>被告承担连带清偿责任，要求诉讼费由信联讯、宁波富邦等<SPAN>4</SPAN>被告承担。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">北京市一中院<SPAN>2011</SPAN>年<SPAN>1</SPAN>月<SPAN>18</SPAN>日向宁波富邦发出民事传票（内附应诉通知书、上海文盛起诉状等材料）。<SPAN>2011</SPAN>年<SPAN>2</SPAN>月<SPAN>3</SPAN>日前，上述民事传票寄至宁波富邦。北京市一中院于<SPAN>2011</SPAN>年<SPAN>9</SPAN>月<SPAN>20</SPAN>日作出（<SPAN>2011</SPAN>）一中民初字第<SPAN>1607</SPAN>号民事判决书，判决信联讯向上海文盛偿还<SPAN>5,645.51</SPAN>万元债务（含借款本金、利息、逾期利息、违约金），宁波富邦等其他<SPAN>3</SPAN>被告对上述债务承担连带清偿责任。宁波富邦诉讼代理人律师陈某于<SPAN>2011</SPAN>年<SPAN>9</SPAN>月<SPAN>30</SPAN>日收到上述判决书、宣判笔录及送达回证。<SPAN>2011</SPAN>年<SPAN>10</SPAN>月<SPAN>10</SPAN>日，宁波富邦就此召开了讨论会。<SPAN>2011</SPAN>年<SPAN>10</SPAN>月<SPAN>17</SPAN>日，宁波富邦发布公告披露上述诉讼事项。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">宁波富邦所涉与上海文盛诉讼有关资金占公司最近一期经审计净资产绝对值不低于<SPAN>39.2%</SPAN>，属于《上海证券交易所股票上市规则（<SPAN>2008</SPAN>年修订）》第<SPAN>11.1.1</SPAN>条所规定的重大诉讼事项。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">宁波富邦在收到北京市一中院的应诉通知书和收到北京市一中院的判决书后未及时进行披露的行为违反了《证券法》第六十七条的规定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、<SPAN>2010</SPAN>年年度报告、<SPAN>2011</SPAN>年半年度报告信息披露违法</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月<SPAN>29</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">宁波富邦披露的<SPAN>2010</SPAN>年年度报告之资产负债表日后事项中未披露上海文盛起诉宁波富邦事项。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>8</SPAN>月<SPAN>23</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">宁波富邦披露的<SPAN>2011</SPAN>年半年度报告称，宁波富邦本报告期内无重大诉讼、仲裁事项。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">宁波富邦未在<SPAN>2010</SPAN>年年度报告、<SPAN>2011</SPAN>年半年度报告中披露上海文盛起诉要求宁波富邦承担连带清偿责任之诉讼事项的行为违反了《证券法》第六十三条、第<STRONG><SPAN style="FONT-WEIGHT: normal">六十五条、第六十六条</SPAN></STRONG>的规定。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">对宁波富邦收到北京市一中院的应诉通知书未及时进行披露的违法行为直接负责的主管人员为时任董事长郑锦浩，其他直接责任人员为时任总经理宋汉心、时任董事华声康、时任高级管理人员岳培青。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">对宁波富邦收到北京市一中院的判决书后未及时进行披露的行为直接负责的主管人员为时任董事长郑锦浩，其他直接责任人员为时任总经理宋汉心、时任董事华声康、时任高级管理人员岳培青、时任董事陈炜。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">对宁波富邦<SPAN>2010</SPAN>年年度报告、<SPAN>2011</SPAN>年半年度报告信息披露违法行为直接负责的主管人员为时任董事长郑锦浩，其他直接责任人员为时任总经理宋汉心、时任董事华声康、时任高级管理人员岳培青、时任董事陈炜。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">宁波富邦时任副总经理兼董事会秘书徐跃进知晓公司有诉讼事项，但未勤勉尽责履行董事会秘书、高管人员的义务，为上述违法行为的其他直接责任人员。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">以上违法事实有<SPAN>2010</SPAN>年年度报告，<SPAN>2011</SPAN>年半年度报告，相关临时公告，相关传票、相关判决书，相关董事会决议，相关人员谈话笔录等证据证明，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当事人宁波富邦、郑锦浩、宋汉心、华声康、岳培青提出，公司未及时披露重大诉讼事项系事出有因，主观上无过错；未及时披露没有造成后果，并已得到及时纠正；相关处罚可能产生负面影响；请求减免处罚。我会认为，上市公司应按照《证券法》的规定真实、准确、及时、完整地履行信息披露义务，宁波富邦在众多时点未履行对重大诉讼事项的及时信息披露义务及在多次定期报告中未按规定履行对重大诉讼事项的信息披露义务情节较为严重，当事人提出的减免理由没有充分的法律依据；考虑到其事出有因，我会已酌情从轻处罚。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当事人岳培青提出，其作为高管不是信息披露当事人和直接责任人，对信息披露的及时性无法把握，请求免予处罚。我会认为，岳培青作为公司高管知悉公司重大诉讼事项并参加讨论，未提请董事长及董事会披露相关信息，没有勤勉尽责，应当追究其相应责任。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当事人徐跃进提出，其在收到判决书后当天即咨询监管部门，随后向交易所披露信息已勤勉尽责，请求免予处罚。我会认为，董事会秘书是上市公司信息披露的直接责任人，徐跃进知悉公司存在重大诉讼事项，但未履行董事会秘书职责，未主动提请董事会履行信息披露义务，直到判决书下来后才去征求监管部门意见披露相关信息，应当追究其相应责任。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%">当事人陈炜提出，其对违法事实不知情，请求免予处罚。我会认为，陈炜作为上市公司控股股东的派出董事，尽管没有参加</SPAN><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>10</SPAN>月<SPAN>10</SPAN>日</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">讨论会，但已于</SPAN><SPAN style="LINE-HEIGHT: 150%">2011</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN style="COLOR: black">9</SPAN><SPAN style="COLOR: black">月<SPAN>30</SPAN>日</SPAN></SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">通过短信知悉公司相关诉讼事项。陈炜没有要求公司及时履行信息披露义务，未勤勉尽责，应当追究其相应责任。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条的规定，<SPAN style="COLOR: black">我会决定</SPAN>：</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、对宁波富邦给予警告，并处以<SPAN>30</SPAN>万元罚款；</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、对郑锦浩给予警告，并处以<SPAN>10</SPAN>万元罚款；</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">三、对华声康、宋汉心给予警告，并分别处以<SPAN>5</SPAN>万元罚款；</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">四、对岳培青、徐跃进给予警告，并分别处以<SPAN>3</SPAN>万元罚款；</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">五、对陈炜给予警告。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 152.75pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">　　　　　　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会</SPAN></P>
+<P style="TEXT-INDENT: 152.75pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">　　　　　　　　　　　　　　　　　　</SPAN><SPAN style="COLOR: black; LINE-HEIGHT: 150%">二○一二年六月二十七日</SPAN><SPAN style="FONT-SIZE: 15pt; COLOR: black; LINE-HEIGHT: 150%"><FONT size=+0><SPAN>　　&nbsp; </SPAN></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 16pt">&nbsp;</P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20121008_215520_ext.json

@@ -1,0 +1,281 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（深圳零七股份有限公司、练卫飞、刘彩荣等9名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2015年12月18日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（深圳零七股份有限公司、练卫飞、刘彩荣等9名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2015〕91号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（深圳零七股份有限公司、练卫飞、刘彩荣等9名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2015〕91号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔2015〕91号</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：深圳零七股份有限公司（以下简称零七股份或者公司），住所：广东省深圳市福田区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">练卫飞，男，1966年2月出生，时任零七股份董事长，住址：广东省广州市越秀区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">刘彩荣，女，1976年8月出生，时任深圳市广众投资有限公司（以下简称广众投资）法定代表人、董事长，住址：广东省深圳市福田区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">戴光，男，1960年7月出生，时任广众投资总经理，住址：广东省广州市东山区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">柴宝亭，男，1965年1月出生，时任零七股份董事，住址：河南省郑州市二七区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">叶健勇，男，1974年3月出生，时任零七股份董事，住址：广东省广州市荔湾区。</SPAN><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">黄晓峰，男，1957年11月出生，时任零七股份副总经理，住址：广东省广州市海珠区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">陈亮，男，1971年11月出生，时任零七股份独立董事，住址：广东省深圳市福田区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">冯军武，男，1977年10月出生，时任零七股份董事会秘书，住址：广东省深圳市福田区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对零七股份信息披露违法行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人均未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，零七股份存在以下违法事实：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、零七股份未按规定披露向外借款事项</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">练卫飞直接持有零七股份公司10.82%的股份，通过广州博融投资有限公司（以下简称广州博融）间接持有13.42%的股份，合计24.24%，为公司实际控制人。2008年2月2日至2014年6月16日，练卫飞任零七股份董事长。在此期间，练卫飞利用职务之便，未经公司董事会或股东大会审批程序，私自携带并使用公司公章，多次以公司名义与自然人佟健亮、王梅春、王坚签订借款合同，合计金额7300万元。练卫飞未履行相关程序签订借款合同后，未通知零七股份按规定披露借款事项。具体情况如下：</SPAN><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）零七股份向王梅春、佟建亮、王坚借款</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年5月5日，零七股份与王梅春、佟建亮、王坚签订《借款合同》（编号：J20140505），合同约定，零七股份向王梅春、佟建亮、王坚借款人民币2800万元，借款期限30天，约定借款费用126万元。练卫飞对上述借款本金、利息、逾期利息、担保服务费、违约金、诉讼费、律师费等债权人实现债权的一切费用承担连带责任保证担保。签订借款合同的同时，零七股份和练卫飞还出具了《承诺书》和《借据》。《借款合同》指定零七股份光大银行账户和练卫飞实际控制的深圳市大中非投资有限公司（以下简称大中非投资）的中信银行账户为收款账户。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年5月5日，深圳市津浩鑫贸易有限公司（以下简称津浩鑫贸易）向零七股份转入2500万元，王坚在划款当天电话告知练卫飞该款项为其本人划入的借款，佟建亮向大中非投资转入300万元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">公司财务人员在取得银行相关收款单据后，咨询公司董事、资金部负责人叶健勇来款的相关单据和原由，5月底叶健勇仍没有给财务人员相关单据，财务人员就根据银行相关单据，将收到津浩鑫贸易的2500万元记为“其他应付款”。2014年6月财务人员依据津浩鑫贸易出具的代付证明，冲销应付津浩鑫贸易2500万元。至此，零七股份应付津浩鑫贸易的账款轧平。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">王坚、佟建亮根据合同约定，将2800万元划入指定账户，练卫飞在签署借款合同后未告知公司财务人员，致使公司漏记300万元债务。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）零七股份向王梅春、佟建亮借款</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;2014年5月6日，零七股份与王梅春、佟建亮签订《借款合同》（编号：J20140506），合同约定，零七股份向王梅春、佟建亮、王坚借款人民币3000万元，借款期限45天，约定借款费用225&nbsp;万元。练卫飞对上述借款本金、利息、逾期利息、担保服务费、违约金、诉讼费、律师费等债权人实现债权的一切费用承担连带责任保证担保。签订借款合同的同时，零七股份和练卫飞还出具了《承诺书》和《借据》。《借款合同》指定零七股份光大银行账户和大中非投资中信银行账户为收款账户。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年5月6日，深圳市南福祥贸易有限公司（以下简称南福祥贸易）向零七股份转入2700万元，向大中非投资转入300万元。佟建亮在划款当天电话告知练卫飞上述合计3000万元为其本人划入的借款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">零七股份财务人员在取得银行相关收款单据后，就咨询叶健勇来款的相关单据和原由，5月底叶健勇仍没有给财务人员相关单据，财务人员根据银行相关单据将南福祥贸易转入的2700&nbsp;万元记为“其他应付款”。零七股份于2014年5月9日和5月14日退回部分款项给南福祥贸易，共计&nbsp;1732.50&nbsp;万元，财务人员根据南福祥贸易2014年6月和2014年12月出具的代付证明，冲销应付南福祥贸易967.5万元。至此，零七股份应付南福祥贸易的账款轧平。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">佟建亮根据合同约定，将3000万元划入指定账户，练卫飞在签署借款合同后未告知零七股份财务人员，致使公司漏记300万元债务。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年5月9日，零七股份与王梅春、佟建亮签订《借款合同》（编号：J20140509），合同约定，零七股份向王梅春、佟建亮、王坚借款人民币1500万元，借款期限25天，约定借款费用82.5万元。练卫飞对上述借款本金、利息、逾期利息、担保服务费、违约金、诉讼费、律师费等债权人实现债权的一切费用承担连带责任保证担保。签订借款合同的同时，零七股份和练卫飞还出具了《承诺书》和《借据》。《借款合同》指定大中非投资中信银行账户为收款账户。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年5月9日，南福祥贸易向大中非投资转入1500万元。佟建亮在划款当天电话告知练卫飞上述1500万元为其本人划入的借款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">零七股份在相关说明中称“此笔借款的收付均没有通过零七公司账户，故没有相关的账务处理情况。”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">佟建亮根据合同约定，将1500万元划入指定账户，练卫飞在签署借款合同后未告知零七股份财务人员，致使公司漏记1500万元债务。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）信息披露情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">练卫飞未经合同流程审批，以零七股份名义签订借款合同，涉及借款及财务费用合计7733.5万元，亦未安排公司对相关借款事项通过临时公告予以披露，致使零七股份未按照《证券法》、《上市公司信息披露管理办法》的要求履行临时公告的义务。出借人在履行合同义务后，练卫飞未通知零七股份财务人员，致使公司漏记出借人直接转入练卫飞实际控制的大中非投资银行账户的2100万元负债，该状态持续至调查日。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">练卫飞接受调查询问时表示，“公司为了解决转贷问题，向王梅春、佟建亮、王坚借款，我当时担任公司法定代表人，为了公司的资金周转，没有经过董事会等相关会议审议，就代表公司亲自签署了三个借款合同，同时我个人作为借款担保人。”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">零七股份在《关于与佟建亮、王梅春、王坚和深圳美威贸易公司各类交易及往来情况说明》中表示，前述3笔以公司名义签订的借款合同文书均由练卫飞签署，未经过合同流程审批，应当履行临时信息披露义务而未能及时履行相应信息披露义务。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述事实，有零七股份提交的《关于配合深圳证监局对我公司立案调查后我公司提交的相关材料说明》、《佟建亮起诉深圳市零七股份有限公司、练卫飞案件情况说明》、《关于零七股份与佟建亮、王梅春、王坚借贷情况的补充说明》及王梅春提交的信访投诉材料、零七股份光大银行账户资料、大中非投资中信银行账户资料、相关人员询问笔录等证据证明。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、零七股份未按规定披露诉讼事项</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">零七股份直接和间接持有广众投资100%股权。因广众投资长期未履行合同和未偿还借款，天津鑫宇隆矿产品有限公司（以下简称天津鑫宇隆）于2014年11月向天津市高级人民法院和天津市第二中级人民法院提起诉讼，并申请采取诉前保全的措施。相关法院立案后，向广众投资寄出送达了法律文书，广众投资董事长刘彩荣、总经理戴光在签收相关材料后，按照练卫飞（当时已辞去董事长职务）要求，直接交给练卫飞。练卫飞、刘彩荣、戴光在知悉两个诉讼后，均未通知零七股份对诉讼事项予以披露。具体情况如下：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）广众投资与天津鑫宇隆诉讼事项</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;2012年1月15日和2月16日，广众投资与天津市宏远钛铁有限公司（以下简称宏远钛铁）签订《工矿产品购销合同》（合同编号：GZTZ-2012-Ti-0115、GZTZ-2012-Ti-0216），依据合同约定，宏远钛铁于2012年1月4日至2月27日支付广众投资合计3000万元定金，但广众投资未能按照合同约定向宏远钛铁供货。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月15日和1月16日，天津鑫宇隆与广众投资签订《工矿产品购销合同》（合同编号：GZXYL-2013-Ti-0115、GZXYL-2013-Ti-0116）。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月22日，宏远钛铁向广众投资出具委托书，明确宏远钛铁对外采购钛铁业务由天津鑫宇隆负责，并将其支付给广众投资的定金合计2262.74万元转给天津鑫宇隆，当日，宏远钛铁、天津鑫宇隆、广众投资三方签订《合同定金转让确认书》，确认广众投资与宏远钛铁签订GZTZ-2012-Ti-0115号《工矿产品购销合同》的结余定金1000万元转为GZXYL-2013-Ti-0115《工矿产品购销合同》的定金，GZTZ-2012-Ti-0216号《工矿产品购销合同》的结余定金1262.74万元转为GZXYL-2013-Ti-0116号《工矿产品购销合同》的定金，广众投资与宏远钛铁签订的GZTZ-2012-Ti-0115、GZTZ-2012-Ti-0216号《工矿产品购销合同》终止执行。</SPAN><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月16日，天津鑫宇隆与广众投资签订一份《补充协议》约定，若2014年3月底广众投资仍未发货，则双方解除合同，广众投资除双倍退还天津鑫宇隆定金外，还需按退还金额同期银行贷款利率上浮20%计算2年（730天）利息给天津鑫宇隆作为资金占用补偿。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年1月17日，练卫飞与天津鑫宇隆签订《保证合同》，承诺为广众投资在上述两个《工矿产品购销合同》和《补充协议》中的义务承担连带保证责任，保证范围为广众投资违约后应承担的2262.74万元定金的双倍返还义务、逾期赔偿金以及诉讼费、律师费等原告实现债权的一切费用。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年11月17日，天津鑫宇隆因广众投资未履行供货义务，练卫飞未履行担保责任，向天津市高级人民法院提起诉讼并采取诉前保全的措施，请求判令广众投资双倍返还定金4525.48万元，并自2012年4月1日起至实际给付之日止按中国人民银行同期贷款利率上浮20%支付资金占用赔偿金951.98万元，练卫飞对上述债务承担连带清偿责任。天津市高级人民法院受理此案，并向广众投资送达了起诉状、应诉通知书等法律文书，广众投资于2014年12月3日签收上述法律文书，在送达回证上由戴光签名，刘彩荣加盖广众投资公章。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;天津鑫宇隆称于2014年4月9日支付广众投资货款1425.99万元，2014年7月18日广众投资返还天津鑫宇隆425.99万元，剩余1000万元欠款转为借款，同时天津鑫宇隆与广众投资、练卫飞签订还款协议书，约定由广众投资在2014年8月20日前归还该笔款项，并由练卫飞承担保证责任。天津鑫宇隆因广众投资一直未归还该笔款项，练卫飞亦未承担保证责任，于2014年11月17日向天津市第二中级人民法院提起诉讼并采取诉前保全的措施，要求广众投资返还1000万元借款本金，并按中国人民银行同期贷款利率的四倍支付利息147.33万元。天津市第二中级人民法院受理此案。广众投资于2014年12月23日向天津市第二中级人民法院提出管辖异议，并于当日以EMS寄出，据此可以推测广众投资不晚于2014年12月23日知悉该诉讼事项。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）诉讼事项经手人的说明</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">戴光在询问中称，“我签收了天津高院寄来的司法文书，知悉了诉讼事项，我立即电话通知练卫飞，按练卫飞的要求，将上述材料转交给练卫飞，这个事情我没有告知丁玮（零七股份时任董事长）。按照零七股份内部规定，是重大事项应向总部报告，当时练卫飞告知我他会尽快和天津对方公司达成和解，让我不用向母公司报告。2014年12月，广众投资向法院出具管辖异议申请书，这次盖章没有经过我的审批程序，广众投资法人刘彩荣一直控制着广众投资的公章”。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">刘彩荣在询问中称，“2014年12月，广众投资陆续收到天津高院、二中院发来的司法材料，我按照练卫飞的要求，将法院发来的材料直接交给练卫飞，没有打开看过。2014年12月中旬，练卫飞安排律师应诉，我才知道相关诉讼事项。我认为公司财务这边应该也知道被冻结的情况，因为子公司被冻结的一个账户是用于支付总部的电话费，这个账户是总部直接管理的，如果被冻结，总部应该能够及时发现，所以没有向总公司报告”。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">练卫飞在询问中称，“相关法律文书由广众投资的戴光签收，刘彩荣盖章，具体时间以文书为准，他签收完文件后给我打电话说了被诉的事情，我就说我会及时处理的，过后戴光把相关法律文书拿给我看，我请了律师研究应诉，因为当时零七股份在重组过程中，我想和天津鑫宇隆和解，就没让公司公告，戴光、刘彩荣没有反对”。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）信息披露情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">对上述诉讼事项，零七股份未按照《证券法》、《上市公司信息披露管理办法》的要求履行临时公告义务，直至2015年2月16日，因广众投资相关银行账户和资金被查封冻结，发布《关于公司子公司银行账户被查封的核查情况公告》（公告编号：2015-015），才披露上述诉讼事项。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">零七股份在《天津鑫宇隆矿产品有限公司案件情况说明》中表示，广众投资在收到天津高院和天津二中院的法律文书后，练卫飞作为第二被告急于与对方和解，随即将法律文书取走，未能及时处理和向零七股份上报具体情况。练卫飞没有及时将掌握的情况告知零七股份，直至2015年2月10日，零七股份得知情况后发布了上述两个诉讼的核查报告。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实，有天津市高级人民法院提供的案卷材料、天津市第二中级人民法院提供的案卷材料、宏远钛铁与天津鑫宇隆提供的说明资料、零七股份《关于公司子公司银行账户被查封的核查情况公告》以及相关人员询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">三、零七股份及相关人员多次受到行政处罚、被实施行政监管措施和纪律处分</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">因零七股份涉嫌信息披露违法违规，深圳证监局于2013年8月6日对其立案调查。经查：零七股份2012年定期报告对下属子公司广众投资钛矿包销的进展情况披露存在误导性陈述。练卫飞直接管理广众投资与香港广新资源投资有限公司的钛矿包销业务，在2012年8月份已明确知道包销合同无法执行，但作为时任董事长，练卫飞审核并签署2012年定期报告时，未将真实情况告知其他董事、监事、高管及董秘，并指示香港广新出具有误导性陈述的回函，作为零七股份信息披露的依据，导致零七股份2012年定期报告涉嫌误导性陈述，练卫飞是直接责任人员。戴光负责广众投资钛矿包销具体业务，2012年三季度时已知悉钛矿包销进展缓慢的真实原因，但未按照公司内部制度要求，通过书面方式向时任董秘智德宇提出意见。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">零七股份未披露广众投资收回香港广新资源投资有限公司5000万预付款及与亿巨有限公司资金托管协议事项。练卫飞是广众投资收回香港广新的5000万元钛矿包销预付款并交亿巨有限公司托管事项的实际策划者与组织者，作为零七股份董事长，练卫飞未将真实情况告知其他董事、监事、高管及董秘智德宇，导致零七股份未对上述事项及协议及时披露。刘彩荣2012年1月至3月担任广众投资总经理、董事长，按照练卫飞的指示履行签字流程，是该事项的知情人，未能按照零七股份信息报送制度，以书面形式通知时任董秘智德宇。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年6月，深圳证监局对零七股份信息披露违法行为作出行政处罚，决定对零七股份给予警告，并处以40万元罚款，对练卫飞给予警告，并处以30万元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年8月，深圳证券交易所对零七股份信息披露违法行为作出处分，决定对公司给予公开谴责的处分，对公司控股股东广州博融、实际控制人时任董事长练卫飞给予公开谴责的处分。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）因零七股份时任董事长练卫飞接受媒体采访不规范、提供信息披露内容不准确，公告审核把关不严，未及时将股权质押情况告知公司等问题，深圳证监局于2011年7月15日决定对练卫飞予以批评，并记入证券期货市场诚信档案。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）因零七股份多次出现发布重大事项信息后，相关合同未履行或实际履行进度远低于合同约定水平的情况，有关信息对投资者影响重大，易对投资者的决策产生误导，深圳证监局于2014年9月24日对零七股份采取了责令公开说明的监管措施。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（四）因零七股份资金管理内部控制存在重大缺陷、公司印鉴管理控制存在重大缺陷、重大诉讼事项未及时披露、大股东存在侵占上市公司利益情况等问题，深圳证监局于2015年5月15日对零七股份采取了责令改正的监管措施。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">基于上述事实与证据，我会认为：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年5月，零七股份分别与佟建亮、王梅春、王坚等人签订的3份借款合同，借款本金7300万元，借款费用433.5万元，合计7733.5万元，零七股份2013年年度报告经审计净资产为35324.55万元，借款本金和费用合计占零七股份2013年年报经审计净资产的21.89%。根据《证券法》第六十七条第一款和第二款第（四）项“公司发生重大债务和未能清偿到期重大债务的违约情况”的规定，以及《深圳证券交易所股票上市规则（2012年修订）》9.2条“交易的成交金额（含承担债务和费用）占上市公司最近一期经审计净资产的10%以上，且绝对金额超过1000万元”的上市公司应当及时披露、9.12条“上市公司在十二个月内发生的交易标的相关的同类交易，应当按照累计计算的原则适用9.2条或9.3条规定”的规定，零七股份依法应及时对外披露上述借款事项。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2014年12月，天津鑫宇隆与广众投资的两项诉讼涉及金额合计6624.8万元，零七股份2013年年度报告经审计净资产为35324.55万元，上述诉讼事项涉及累计金额占2013年年度经审计净资产的18.75%。根据《证券法》第六十七条第一款和第二款第（十）项“涉及公司的重大诉讼，股东大会、董事会决议被依法撤销或者宣告无效”的规定，《上市公司信息披露管理办法》第三十条第二款第（十）项“涉及公司的重大诉讼、仲裁，股东大会、董事会决议被依法撤销或者宣告无效”及第三十三条第一款“上市公司控股子公司发生本办法第三十条规定的重大事件，可能对上市公司证券及其衍生品种交易价格产生较大影响的，上市公司应当履行信息披露义务”的规定，《深圳证券交易所股票上市规则（2014年修订）》11.1.1条“上市公司发生的重大诉讼、仲裁事项涉及金额占公司最近一期经审计净资产绝对值10%以上，且绝对金额超过1000万元的，应当及时披露”，11.1.2条“上市公司发生的重大诉讼、仲裁事项应当采取连续十二个月累计计算的原则，经累计计算达到11.1.1条标准的，适用11.1.1条规定”的规定，零七股份依法应及时对外披露上述重大诉讼事项。零七股份对应披露诉讼事项从知悉直至披露共延迟了49个交易日。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">综上，零七股份未按规定及时对外披露借款、重大诉讼事项，致使零七股份的信息披露存在重大遗漏，其行为违反了《证券法》第六十七条第一款的规定，构成《证券法》第一百九十三条第一款所述“发行人、上市公司或者其他信息披露义务人未按规定披露信息”的违法行为，依法应予以处罚。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">练卫飞作为公司时任董事长、实际控制人，对公司信息披露事务承担管理上的主要责任，其直接安排了涉案重大借款事项，知悉涉案重大诉讼事项，未按规定及时通知或者督促公司履行披露义务。练卫飞证券守法与合规意识淡薄，长期利用实际控制人地位、优势和职务便利，导致零七股份治理严重缺陷、内部控制混乱，引发公司多次信息披露违法违规。在零七股份及其个人被监管机构处罚后，不仅不积极悔过纠正，反而多次参与并指使有关人员蓄意隐瞒，属一犯再犯、屡教不改，依法应予严惩。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">刘彩荣作为广众投资董事长、戴光作为广众投资总经理，在知悉重大诉讼事项后，理应根据法律法规及零七股份内部规定，及时向零七股份报告，但两人按照练卫飞的指使，未通知零七股份及时披露，对练卫飞蓄意隐瞒的行为未提出反对意见，依法应予处罚。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">柴宝亭、叶健勇、黄晓峰、陈亮作为零七股份时任董事或高级管理人员，冯军武作为信息披露事务主要责任人之一，在零七股份多次受到监管部门处罚后，未能引以为戒，勤勉尽责，积极采取有效措施监督、督促公司提高规范运作意识，完善决策执行程序，加强信息披露管理，致使公司再次违法，依法应予处罚。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认定，零七股份未及时披露涉案重大借款事项直接负责的主管人员为练卫飞，其他直接责任人员为柴宝亭、叶健勇、黄晓峰、陈亮、冯军武；零七股份未及时披露涉案重大诉讼事项的直接负责的主管人员为练卫飞，其他直接责任人员为戴光、刘彩荣、柴宝亭、叶健勇、黄晓峰、陈亮、冯军武。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节和社会危害程度，依据《证券法》第一百九十三条第一款的规定，我会决定：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、责令零七股份改正，给予警告，并处以60万元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、对练卫飞给予警告，并处以30万元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">三、对戴光、刘彩荣给予警告，并分别处以5万元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">四、对柴宝亭、叶健勇、黄晓峰、陈亮、冯军武给予警告，并分别处以3万元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起15日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起6个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2015年12月18日　&nbsp;</SPAN><SPAN style="FONT-SIZE: 15pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 15pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P><!--{PS..0}--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20160517_297385_ext.json

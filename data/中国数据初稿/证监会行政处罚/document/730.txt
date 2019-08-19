@@ -1,0 +1,268 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（张野）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2009-03271</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2009年06月18日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（张野）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>[2009]21号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>账户 证券投资基金 基金份额 基金</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（张野）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">[2009]21号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1247124878000'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1247124878000 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247124878000 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247124878000 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247124878000 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1247124878000 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+--**/</style>
+<P class=Custom_UnionStyle align=center><SPAN><FONT face=黑体><FONT style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt">[2009]</SPAN><SPAN style="FONT-SIZE: 12pt">21</SPAN>号</FONT></FONT></SPAN></P>
+<P class=Custom_UnionStyle><SPAN>当事人：张野，男，<SPAN>1962</SPAN>年<SPAN>11</SPAN>月出生，融通基金管理有限公司（以下简称融通公司）原基金经理，住址：广东省深圳市南山区锦绣花园。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>依据《中华人民共和国证券投资基金法》（以下简称《证券投资基金法》）、《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对</SPAN><SPAN>张野</SPAN><SPAN>违法违规</SPAN><SPAN>一案</SPAN><SPAN>进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人陈述了有关意见，未提出申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>经查明，张野存在以下违法违规行为：</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>一、利用职务便利获取非公开基金投资与推荐信息，从事股票交易</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2007</SPAN><SPAN>年至<SPAN>2009</SPAN>年<SPAN>2</SPAN>月，张野利用任职融通公司基金经理职务上的便利，在参加融通公司投资决策委员会会议、基金晨会、投研例会、研究月度会、外部券商推介会及与融通公司基金经理、研究员交流的过程中，获取了融通公司旗下基金投资及推荐相关个股的非公开信息，通过网络下单的方式，为朱小民操作朱小民实际控制的红塔证券北京板井路营业部“周蔷”账户从事股票交易，先于张野管理的融通巨潮<SPAN>100</SPAN>指数基金等融通公司基金买入并卖出或先于融通公司有关基金卖出相关个股，为“周蔷”账户实现盈利<SPAN>9,398,362</SPAN>元，收取朱小民感谢费<SPAN>200</SPAN>万元。其中：</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>1. </SPAN><SPAN>东方电气</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2008</SPAN><SPAN>年<SPAN>4</SPAN>月<SPAN>28</SPAN>日</SPAN><SPAN>至<SPAN>5</SPAN>月<SPAN>22</SPAN>日，“周蔷”账户交易该股，买入、卖出合计<SPAN>98,000</SPAN>股。<SPAN>2008</SPAN>年<SPAN>4</SPAN>月<SPAN>30</SPAN>日，融通领先成长基金买入该股；<SPAN>6</SPAN>月<SPAN>10</SPAN>日至<SPAN>11</SPAN>日，融通动力先锋基金买入该股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2</SPAN><SPAN>．重庆啤酒</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2007</SPAN><SPAN>年<SPAN>2</SPAN>月<SPAN>9</SPAN>日</SPAN><SPAN>，融通巨潮<SPAN>100</SPAN>基金买入该股；<SPAN>2</SPAN>月<SPAN>12</SPAN>日，“周蔷”账户买入该股，<SPAN>3</SPAN>月<SPAN>12</SPAN>日卖出；<SPAN>3</SPAN>月<SPAN>27</SPAN>日，“周蔷”账户再次买入该股，<SPAN>4</SPAN>月<SPAN>5</SPAN>日卖出；<SPAN>4</SPAN>月<SPAN>3</SPAN>日至<SPAN>6</SPAN>日，融通新蓝筹基金买入该股；<SPAN>5</SPAN>月<SPAN>17</SPAN>日、<SPAN>25</SPAN>日，融通巨潮<SPAN>100</SPAN>基金全部卖出该股；<SPAN>6</SPAN>月<SPAN>28</SPAN>日、<SPAN>29</SPAN>日，融通新蓝筹基金全部卖出该股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述期间，“周蔷”账户交易该股，买入、卖出合计<SPAN>787,724</SPAN>股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>3</SPAN><SPAN>．华仪电气</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2007</SPAN><SPAN>年<SPAN>3</SPAN>月<SPAN>7</SPAN>日</SPAN><SPAN>，融通通乾基金买入该股；<SPAN>4</SPAN>月<SPAN>5</SPAN>日、<SPAN>6</SPAN>日，“周蔷”账户买入该股，<SPAN>4</SPAN>月<SPAN>11</SPAN>日再次买入；<SPAN>4</SPAN>月<SPAN>12</SPAN>日，融通巨潮<SPAN>100</SPAN>基金买入该股；<SPAN>4</SPAN>月<SPAN>13</SPAN>日、<SPAN>24</SPAN>日，融通巨潮<SPAN>100</SPAN>基金继续买入该股；<SPAN>5</SPAN>月<SPAN>11</SPAN>日至<SPAN>28</SPAN>日，“周蔷”账户卖出该股；<SPAN>5</SPAN>月<SPAN>25</SPAN>日、<SPAN>29</SPAN>日，融通巨潮<SPAN>100</SPAN>基金全部卖出该股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述期间，“周蔷”账户交易该股，买入、卖出合计<SPAN>903,760</SPAN>股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>4</SPAN><SPAN>．江淮动力</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2009</SPAN><SPAN>年<SPAN>1</SPAN>月<SPAN>20</SPAN>日</SPAN><SPAN>，融通通乾基金买入该股，<SPAN>1</SPAN>月<SPAN>21</SPAN>日和<SPAN>2</SPAN>月<SPAN>2</SPAN>日继续买入；<SPAN>1</SPAN>月<SPAN>21</SPAN>日、<SPAN>22</SPAN>日，“周蔷”账户买入该股；<SPAN> 2<SPAN><SPAN>月11</SPAN></SPAN><SPAN><SPAN>日</SPAN></SPAN><SPAN>，“周蔷”账户卖出该股。</SPAN></SPAN></SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述期间，“周蔷”账户交易该股，买入、卖出合计<SPAN>1,150,000</SPAN>股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>5</SPAN><SPAN>．中信证券</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2007</SPAN><SPAN>年<SPAN>3</SPAN>月，融通巨潮<SPAN>100</SPAN>基金累计买入该股达<SPAN>376</SPAN>万股，累计卖出<SPAN>3,484,804</SPAN>股。<SPAN>2007</SPAN>年<SPAN>3</SPAN>月<SPAN>13</SPAN>日至<SPAN>6</SPAN>月<SPAN>21</SPAN>日，“周蔷”账户买卖该股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述期间，“周蔷”账户交易该股，买入、卖出合计<SPAN>562,919</SPAN>股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>6</SPAN><SPAN>．海南海药</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2008</SPAN><SPAN>年<SPAN>2</SPAN>月<SPAN>19</SPAN>日</SPAN><SPAN>，融通通乾基金买入该股；<SPAN>2</SPAN>月<SPAN>20</SPAN>日，融通新蓝筹基金买入该股；<SPAN>2</SPAN>月<SPAN>20</SPAN>日、<SPAN>26</SPAN>日，“周蔷”账户买卖该股；其后，融通通乾基金和融通新蓝筹基金多次交易该股；<SPAN>3</SPAN>月<SPAN>21</SPAN>日、<SPAN>4</SPAN>月<SPAN>1</SPAN>日，“周蔷”账户买卖该股；<SPAN>9</SPAN>月<SPAN>17</SPAN>日至<SPAN>12</SPAN>月<SPAN>9</SPAN>日，“周蔷”账户多次交易该股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述期间，“周蔷”账户交易该股，买入、卖出合计<SPAN>2,365,169</SPAN>股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>7</SPAN><SPAN>．招商银行</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2007</SPAN><SPAN>年<SPAN>7</SPAN>月<SPAN>4</SPAN>日</SPAN><SPAN>，融通巨潮<SPAN>100</SPAN>基金买入该股；<SPAN>7</SPAN>月<SPAN>20</SPAN>日，“周蔷”账户买入该股；<SPAN>7</SPAN>月<SPAN>26</SPAN>日，融通巨潮<SPAN>100</SPAN>基金继续买入；<SPAN>7</SPAN>月<SPAN>30</SPAN>日，“周蔷”账户卖出该股；<SPAN>8</SPAN>月<SPAN>2</SPAN>日，融通巨潮<SPAN>100</SPAN>基金继续买入该股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述期间，“周蔷”账户交易该股，买入、卖出合计<SPAN>429,896</SPAN>股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>8</SPAN><SPAN>．江西水泥</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2009</SPAN><SPAN>年<SPAN>2</SPAN>月<SPAN>2</SPAN>日</SPAN><SPAN>，融通领先成长基金、融通行业景气基金买入该股；<SPAN>2</SPAN>月<SPAN>5</SPAN>日，融通行业景气基金再次买入；<SPAN>2</SPAN>月<SPAN>6</SPAN>日，“周蔷”账户买入该股；<SPAN>2</SPAN>月<SPAN>10</SPAN>日，融通行业景气基金继续买入；<SPAN>2</SPAN>月<SPAN>11</SPAN>日，“周蔷”账户卖出该股；<SPAN>2</SPAN>月<SPAN>12</SPAN>日，融通行业景气基金全部卖出该股；<SPAN>3</SPAN>月<SPAN>9</SPAN>日，融通领先成长基金全部卖出该股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述期间，“周蔷”账户交易该股，买入、卖出合计<SPAN>950,000</SPAN>股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>9</SPAN><SPAN>．川化股份</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2008</SPAN><SPAN>年<SPAN>12</SPAN>月<SPAN>17</SPAN>日</SPAN><SPAN>，融通通乾基金、融通新蓝筹基金买入该股；<SPAN>12</SPAN>月<SPAN>19</SPAN>日、<SPAN>23</SPAN>日，“周蔷”账户买入该股；<SPAN>12</SPAN>月<SPAN>23</SPAN>日、<SPAN>25</SPAN>日，融通新蓝筹基金继续买入该股；<SPAN>12</SPAN>月<SPAN>23</SPAN>日、<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>8</SPAN>日，“周蔷”账户卖出该股；<SPAN>2009</SPAN>年<SPAN>2</SPAN>月<SPAN>6</SPAN>日，融通新蓝筹基金全部卖出该股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>上述期间，“周蔷”账户交易该股，买入、卖出合计<SPAN>1,445,000</SPAN>股。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>以上违法事实，有融通公司及其员工提供的相关情况说明，当事人谈话笔录以及“周蔷”账户交易记录、下单<SPAN>IP</SPAN>地址等证据在案证明，足以认定。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>张野的上述行为违反了《证券投资基金法》第十八条“基金管理人的董事、监事、经理和其他从业人员，不得担任基金托管人或者其他基金管理人的任何职务，不得从事损害基金财产和基金份额持有人利益的证券交易及其他活动”的规定，构成了《证券投资基金法》第九十七条所述违法行为。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>二、违规买卖股票</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>2006</SPAN><SPAN>年<SPAN>12</SPAN>月至<SPAN>2007</SPAN>年<SPAN>7</SPAN>月，张野通过网络下单方式，操作其妻孙致娟的同名账户进行交易，涉及广宇发展、湖南投资、华东医药、莱钢股份、南玻Ａ、武钢股份、新中基、新湖创业、渝三峡Ａ、中创信测、中粮地产、中青旅和重庆啤酒等股票，为该账户盈利<SPAN>2,294,791.90</SPAN>元。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>以上违法事实，有当事人谈话笔录以及“孙致娟”账户交易记录、下单<SPAN>IP</SPAN>地址等证据在案证明，足以认定。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>张野操作其妻账户从事股票交易的行为是一种以他人名义持有、买卖股票的行为，违反了《证券法》第四十三条有关禁止相关人员违规买卖股票的规定，构成了《证券法》第一百九十九条所述违法行为。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>张野在个人陈述材料中提出，朱小民给他的<SPAN>200</SPAN>万元是其妻孙致娟向朱小民的借款，并非感谢费。<SPAN>2009</SPAN>年<SPAN>5</SPAN>月<SPAN>29</SPAN>日，上述借款已归还朱小民。经复核，张野、朱小民在谈话笔录中均称朱小民划到“孙致娟”账户的<SPAN>200</SPAN>万元是对张野操作“周蔷”账户表示的感谢费，同时并无借据等证据证明该<SPAN>200</SPAN>万元属借款性质，因此，张野所称借款一事缺乏依据，不予采信。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>我会认为，基金从业人员背信从事“老鼠仓”交易是一种严重的违法违规行为。基金从业人员的“老鼠仓”行为是将自身利益置于基金财产和基金份额持有人的利益之上，在执行职务或办理业务过程中利用所处地位或优势谋取私利。这种行为违背了防止利益冲突的原则，违背了基金从业人员所负有的受托义务，是损害基金财产和基金份额持有人利益的行为，而且也会危害到投资者对于基金行业的信赖基础。张野于<SPAN>2001</SPAN>年开始从事基金业务，<SPAN>2003</SPAN>年成为基金经理，<SPAN>2007</SPAN>年开始至<SPAN>2009</SPAN>年<SPAN>2</SPAN>月持续从事“老鼠仓”交易。张野的从业经历长达<SPAN>7</SPAN>年多，本应坚守基金从业人员应有的法律底线和执业操守，恪守职业道德。但是，张野却背弃了自己作为基金从业人员而对基金财产和基金份额持有人所应负的忠实和诚实信用义务，从事损害基金财产和基金份额持有人利益的背信行为，情形十分恶劣，性质严重，必须依法予以严惩。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>根据上述违法违规行为及当事人的违法事实、性质、情节与社会危害程度，依据《证券投资基金法》第九十七条，《证券法》第一百九十九条，我会决定：</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>一、取消张野的基金从业资格；</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>二、没收张野违法所得<SPAN>2,294,791.90</SPAN>元并处以<SPAN>400</SPAN>万元罚款。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN>当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚、没款汇交中国证券监督管理委员会<SPAN>(</SPAN>开户银行<SPAN>:</SPAN>中信银行总行营业部、账号<SPAN>7111010189800000162,</SPAN>由该行直接上缴国库<SPAN>)</SPAN>，并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P class=Custom_UnionStyle align=right><SPAN>　　　　　　　　　　　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会</SPAN></P>
+<P class=Custom_UnionStyle align=right><SPAN></SPAN><SPAN><SPAN>&nbsp;</SPAN></SPAN><SPAN>二○○九年六月十八日</SPAN></P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20090622_108003_ext.json

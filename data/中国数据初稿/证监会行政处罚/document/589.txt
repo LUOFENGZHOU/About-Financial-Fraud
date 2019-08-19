@@ -1,0 +1,254 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（九龙山国旅、RESORT公司、OCEAN公司）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2011-08547</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2011年12月13日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（九龙山国旅、RESORT公司、OCEAN公司）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2011〕54号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span>行政处罚决定书</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（九龙山国旅、RESORT公司、OCEAN公司）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2011〕54号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><DIV id='TRS_AUTOADD_1326963222453'><style id=_Custom_V6_Style_>
+
+#TRS_AUTOADD_1326963222453 P {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1326963222453 TD {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1326963222453 DIV {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1326963222453 LI {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+#TRS_AUTOADD_1326963222453 {
+	MARGIN-TOP: 6px; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 6px; TEXT-INDENT: 28px; LINE-HEIGHT: 1.5; FONT-FAMILY: 宋体
+}
+/**---JSON--
+
+
+
+
+{"p":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"td":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"div":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"li":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"},"":{"font-family":"宋体","font-weight":"","font-size":"10.5pt","line-height":"1.5","direction":"","margin-top":"6px","margin-bottom":"6px","text-indent":"28px"}}
+
+
+
+
+--**/</style>
+<P style="TEXT-INDENT: 135.55pt; LINE-HEIGHT: 26pt"><B><SPAN style="FONT-SIZE: 15pt; COLOR: black">　　　　&nbsp; 　&nbsp; </SPAN></B><SPAN style="COLOR: black; LINE-HEIGHT: 150%">〔<SPAN>2011</SPAN>〕<SPAN>54</SPAN>号</SPAN></P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人：</SPAN><SPAN style="LINE-HEIGHT: 150%">浙江九龙山国际旅游开发有限公司（以下简称九龙山国旅）</SPAN><SPAN style="LINE-HEIGHT: 150%">，住所：浙江省平湖市乍浦镇外山东沙湾<SPAN>7</SPAN>号办公楼</SPAN><SPAN style="LINE-HEIGHT: 150%">，法定代表人李勤夫</SPAN><SPAN style="LINE-HEIGHT: 150%">。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%" align=left><SPAN style="LINE-HEIGHT: 150%">维尔京群岛<SPAN>Ocean Garden Holdings Ltd. </SPAN>（以下简称<SPAN>OCEAN</SPAN>公司），成立于<SPAN>2007</SPAN>年<SPAN>5</SPAN>月<SPAN>8</SPAN>日，公司所有人李勤夫，注册地为英属维尔京群岛。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">维尔京群岛<SPAN>Resort Property International Ltd. </SPAN>（以下简称<SPAN>RESORT</SPAN>公司），成立于<SPAN>2007</SPAN>年<SPAN>6</SPAN>月<SPAN>5</SPAN>日，公司所有人李勤夫，注册地为英属维尔京群岛。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">依据《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会对</SPAN><SPAN style="LINE-HEIGHT: 150%">九龙山国旅等机构</SPAN><SPAN style="LINE-HEIGHT: 150%">涉嫌违反证券法律法规行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</SPAN></P>
+<P style="TEXT-INDENT: 24.55pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">经查明，</SPAN><SPAN style="LINE-HEIGHT: 150%">九龙山国旅等机构</SPAN><SPAN style="LINE-HEIGHT: 150%">存在以下违法事实：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">九龙山国旅、<SPAN>OCEAN</SPAN>公司及<SPAN>RESORT</SPAN>公司在完成受让日本松冈株式会社（以下简称日本松冈）所持上海九龙山股份有限公司（以下简称九龙山）股票后，<SPAN>6</SPAN>个月内共减持九龙山<SPAN>A</SPAN>股<SPAN>31,892,500</SPAN>股，减持九龙山<SPAN>B</SPAN>股<SPAN>41,716,867</SPAN>股，占九龙山股本总额的<SPAN>8.47%</SPAN>，盈利人民币<SPAN style="LETTER-SPACING: -1pt">84,436,801.34</SPAN><SPAN style="LETTER-SPACING: -1pt">元、美元<SPAN>21,875,496.15</SPAN>元。</SPAN>具体事实如下：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">九龙山于<SPAN>2006</SPAN>年<SPAN>2</SPAN>月实施股权分置改革。根据股改承诺，原控股股东日本松冈同意将其持有的九龙山<SPAN>66,254,198</SPAN>股境外法人股（占股本总额的<SPAN>15.25%</SPAN>）和<SPAN>88,380,000</SPAN>股<SPAN>B</SPAN>股（占股本总额的<SPAN>20.34%</SPAN>）全部转让给平湖茉织华实业发展有限公司（现已更名为平湖九龙山海湾度假城休闲服务有限公司，以下简称平湖休闲）或李勤夫指定的境内外公司。<SPAN>2007</SPAN>年<SPAN>9</SPAN>月<SPAN>21</SPAN>日，日本松冈、日本野村证券有限公司与<SPAN>RESORT</SPAN>公司、<SPAN>OCEAN</SPAN>公司分别签订股权转让协议，日本松冈将九龙山<SPAN>48,380,000</SPAN>股<SPAN>B</SPAN>股转让给<SPAN>RESORT</SPAN>公司，将<SPAN>40,000,000</SPAN>股<SPAN>B</SPAN>股转让给<SPAN>OCEAN</SPAN>公司，转让价格为每股<SPAN>0.29</SPAN>美元。<SPAN>2007</SPAN>年<SPAN>11</SPAN>月<SPAN>16</SPAN>日，日本松冈与九龙山国旅签订《转让上海九龙山股份有限公司<SPAN>66,254,198</SPAN>股<SPAN>A</SPAN>股之股份转让协议》，日本松冈将九龙山<SPAN>66,254,198</SPAN>股境外法人股转让给九龙山国旅，转让价格为每股<SPAN>3.29</SPAN>元。<SPAN>2008</SPAN>年<SPAN>2</SPAN>月<SPAN>28</SPAN>日，商务部批准上述九龙山<SPAN>A</SPAN>股股权转让；<SPAN>2008</SPAN>年<SPAN>9</SPAN>月<SPAN>2</SPAN>日，证监会核准豁免<SPAN>RESORT</SPAN>公司、<SPAN>OCEAN</SPAN>公司、九龙山国旅及平湖休闲的要约收购义务。<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>13</SPAN>日，完成过户手续。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">2009</SPAN><SPAN style="LINE-HEIGHT: 150%">年<SPAN>3</SPAN>月<SPAN>2</SPAN>日</SPAN><SPAN style="LINE-HEIGHT: 150%">，九龙山国旅持有的<SPAN>132,508,396</SPAN>股九龙山<SPAN>A</SPAN>股上市流通，同日九龙山国旅开始通过集中竞价交易和大宗交易减持该股。<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>13</SPAN>日至<SPAN>6</SPAN>月<SPAN>5</SPAN>日，<SPAN>6</SPAN>个月内九龙山国旅合计减持九龙山<SPAN>A</SPAN>股<SPAN>31,892,500</SPAN>股，成交金额<SPAN>165,390,539.49</SPAN>元，扣除印花税、手续费、过户费及受让股权成本，盈利<SPAN>112,582,401.78</SPAN>元，扣除<SPAN>25%</SPAN>所得税后，净盈利<SPAN>84,436,801.34</SPAN>元。九龙山国旅减持前持股比例为<SPAN>15.25%</SPAN>，减持后持股比例为<SPAN>11.58%</SPAN>。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">自<SPAN>2009</SPAN>年<SPAN>2</SPAN>月起，<SPAN>RESORT</SPAN>公司和<SPAN>OCEAN</SPAN>公司开始减持所持九龙山<SPAN>B</SPAN>股股票。<SPAN>RESORT</SPAN>公司于<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>13</SPAN>日至<SPAN>7</SPAN>月<SPAN>10</SPAN>日，<SPAN>6</SPAN>个月内合计减持九龙山<SPAN>B</SPAN>股<SPAN>34,523,217</SPAN>股，成交金额<SPAN>24,253,658.40</SPAN>美元，扣除交易费用及受让股权成本，盈利<SPAN>19,157,936.40</SPAN>美元。<SPAN>RESORT</SPAN>公司减持前持股比例为<SPAN>11.13%</SPAN>，减持后持股比例为<SPAN>7.16%</SPAN>。<SPAN>OCEAN</SPAN>公司于<SPAN>2009</SPAN>年<SPAN>1</SPAN>月<SPAN>13</SPAN>日至<SPAN>6</SPAN>月<SPAN>22</SPAN>日，<SPAN>6</SPAN>个月内合计减持九龙山<SPAN>B</SPAN>股<SPAN>7,193,650</SPAN>股，成交金额<SPAN>3,778,439.37</SPAN>美元，扣除交易费用及受让股权成本，盈利<SPAN>2,717,559.75</SPAN>美元。<SPAN>OCEAN</SPAN>公司减持前持股比例为<SPAN>9.21%</SPAN>，减持后持股比例为<SPAN>8.38%</SPAN>。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">上述违法事实有九龙山国旅等机构交易流水、账簿资料、相关协议及当事人询问笔录等证据证明，足以认定。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">九龙山国旅、<SPAN>RESORT</SPAN>公司和<SPAN>OCEAN</SPAN>公司的上述行为违反了《证券法》第四十七条的规定，构成《证券法》第一百九十五条所述的行为。</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十五条的规定，我会决定：</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">一、责成九龙山董事会向九龙山国旅追讨短线交易所获收益<SPAN>84,436,801.34</SPAN>元，向<SPAN>RESORT</SPAN>公司追讨短线交易所获收益<SPAN>19,157,936.40</SPAN>美元，向<SPAN>OCEAN</SPAN>公司追讨短线交易所获收益<SPAN>2,717,559.75</SPAN>美元；</SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">二、对九龙山国旅、<SPAN>RESORT</SPAN>公司和<SPAN>OCEAN</SPAN>公司给予警告，并分别处以<SPAN>10</SPAN>万元罚款。</SPAN></P>
+<P style="VERTICAL-ALIGN: baseline; LAYOUT-GRID-MODE: char; TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">当事人应自收到本处罚决定书之日起<SPAN>15</SPAN>日内，将罚款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：<SPAN>7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN>60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN>3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN></P>
+<P style="LINE-HEIGHT: 37pt">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+<P style="TEXT-INDENT: 312.4pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%">　　　　　　　　　　　　　　　　 　 中国证券监督管理委员会</SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=right><SPAN style="COLOR: black; LINE-HEIGHT: 150%">二○一一年十二月十三日<SPAN><SPAN>　　&nbsp; </SPAN></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%">&nbsp;</P>
+</DIV></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20120119_205028_ext.json

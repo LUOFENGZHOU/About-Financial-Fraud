@@ -1,0 +1,292 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（陈明贤）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2016年01月19日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（陈明贤）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>〔2016〕10号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（陈明贤）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">〔2016〕10号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">〔2016〕10号</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=p18 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">当事人：陈明贤，男，1968年1月出生，时任深圳市明华信德投资管理有限公司（以下简称明华信德）执行董事、总经理、法定代表人，住址：广东省深圳市福田区。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">依据《中华人民共和国证券法》（以下简称《证券法》）的有关规定，我会对陈明贤操纵“上工申贝”等股票行为进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人陈明贤要求申辩和听证。2015年8月14日，我会依法举行听证，听取了陈明贤代理人的陈述、申辩。本案现已调查、审理终结。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">经查明，2013年3月20日至4月8日期间，陈明贤利用其控制的“汪某某”、“余某某”、“陈某（甲）”、“吕某某”、“杜某某”等5个账户（以下简称账户组）操纵“上工申贝”、“长江传媒”和“旗滨集团”等3只股票的交易价格和交易量：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">一、2013年3月20日至28日操纵“上工申贝”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）以买入为主的交易阶段</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月20日至22日，陈明贤通过集中资金优势连续买卖、以明显高于最新市场成交价的价格进行买卖申报、在自己控制的账户之间进行股票交易（以下简称自买自卖）等多种手段，影响“上工申贝”交易价格和交易量。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;2013年3月20日集中资金申报买入“上工申贝”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月20日，账户组申报买入“上工申贝”213笔共1,112,000股，占市场申报买入量的27.35%，排名第一，申报买入价格由6.52元逐渐抬高至6.70元。买入申报成交1,025,919股，占市场成交量的47.72%，排名第一。“上工申贝”当日成交量较前一交易日增加181.75%，股价上涨3.71%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;2013年3月21日集中资金申报买入“上工申贝”并自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月21日，账户组申报买入“上工申贝”182笔共1,768,100股，占市场申报买入量的40.03%，排名第一，申报买入价格由6.66元逐渐抬高至6.95元。买入申报成交1,634,826股，占市场成交量的54.25%，排名第一。当日账户组自买自卖情况为：14:58:58，账户组以6.95元的价格（高于当时最新市场成交价）申报卖出1笔共200,000股；14:59:48，账户组以6.95元的价格申报买入1笔共450,000股。上述2笔买卖申报之间成交200,000股，占账户组当日买入成交量的12.23%、卖出成交量的100%，占该股当日市场成交量的6.64%。当日“上工申贝”股价上涨3.13%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;2013年3月22日集中资金申报买入“上工申贝”，并以明显高于最新市场成交价的价格进行买卖申报及自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月22日，账户组申报买入“上工申贝”4笔共1,928,100股，占市场申报买入量的31.49%，排名第一，申报买入价格由6.90元逐渐抬高至7.55元。买入申报全部成交，成交量占市场成交量的57.87%，排名第一。当日账户组以明显高于最新市场成交价的价格进行买卖申报和自买自卖情况为：14:47:45、14:49:35、14:53:42、14:54:56、14:59:00，账户组分5笔以7.45元、7.43元、7.40元、7.39元、7.55元的价格申报卖出“上工申贝”29,000股、43,000股、25,000股、35,499股、954,317股，申报前最新市场成交价为6.89元、6.89元、6.89元、6.85元、7.50元。第一笔卖出申报于14:52:22全部撤单。14:58:54、14:59:02，在最新市场成交价为6.85元情况下，账户组分2笔以7.55元的价格申报买入“上工申贝”1,927,900股。上述2笔买入申报全部成交，其中与账户组14:49:35至14:59:00的卖出申报之间成交945,070股。上述2笔买入申报成交导致“上工申贝”成交价由6.85元瞬间上涨至7.55元，股价振幅达10.22%。账户组买入申报与卖出申报之间成交945,070股，占账户组当日买入成交量的49.02%、卖出成交量的100%，占该股当日市场成交量的28.36%。当日“上工申贝”股价上涨8.82%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）以卖出为主的交易阶段</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月25日至28日，为能以较高价格将“上工申贝”卖出牟利，陈明贤在卖出“上工申贝”的同时也买入该股，以稳定和维持“上工申贝”股价。期间，利用申报买入并撤单、</SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: rgb(0,0,0); FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">高价申报买入低价申报卖出</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（以下简称高买低卖）、自买自卖等操作手法，影响股票交易价格和交易量。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;2013年3月25日卖出“上工申贝”期间申报买入并撤单、高买低卖和自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月25日，账户组将前一交易日持有的3,443,775股“上工申贝”全部卖出。同时，账户组申报买入“上工申贝”6笔共1,092,100股（申报买入量在市场中排名第二），成交880,100股（成交量在市场中排名第一）。账户组当日申报买入并撤单、高买低卖、自买自卖情况为：（1）申报买入并撤单。11:26:52、11:27:43，账户组申报买入“上工申贝”2笔共202,000股，该2笔买入申报在31秒后、2秒后被全部撤单。（2）高买低卖。13:55:09、13:55:38、14:21:54，账户组以7.37元、7.37元、7.38元的价格（高于当时最新市场成交价）申报买入“上工申贝”3笔共880,100股，全部成交。同时，账户组当日开盘至14:16:22的143笔卖出申报，申报价格均不高于7.37元；账户组自当日开盘至14:22:55的152笔卖出申报的申报价格均不高于7.38元。（3）自买自卖。账户组买入申报与卖出申报之间成交844,044股，占当日账户组买入成交量的95.90%、卖出成交量的24.51%，占该股当日市场成交量的12.14%。截至收盘，账户组持有“上工申贝”880,100股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;2013年3月26日卖出“上工申贝”期间申报买入并撤单、高买低卖和自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月26日，账户组将前一交易日持有的880,100股“上工申贝”全部卖出。同时，账户组申报买入“上工申贝”13笔共2,191,100股（申报买入量在市场中排名第一），成交220,100股（成交量在市场中排名第二）。账户组当日申报买入并撤单、高买低卖、自买自卖的情况为：（1）申报买入并撤单。账户组13笔买入申报中11笔撤单，撤单量1,971,000股。撤单量占当日账户组申报买入量的89.95%、该股当日市场申报买入量的45.00%。（2）高买低卖。13:52:54、13:53:01，账户组在最新市场成交价为7.07元情况下，以7.17元价格申报买入“上工申贝”2笔共220,100股，全部成交。同时，账户组当日全部190笔卖出申报的申报价格均不高于7.17元。（3）自买自卖。当日账户组买入申报与卖出申报之间成交800股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;2013年3月27日卖出“上工申贝”期间申报买入并高买低卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月27日，账户组将前一交易日持有的220,100股“上工申贝”全部卖出，同时买入“上工申贝”80,480股。账户组当日高买低卖情况为：9:41:55至9:42:31，账户组在最新市场成交价为7.12元情况下，以7.25元、7.26元的价格申报买入“上工申贝”4笔共100,300股，成交80,480股，撤单19,820股（撤单时间距申报时间间隔5秒）。同时，账户组当日全部54笔卖出申报的申报价格均低于7.25元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">4.&nbsp;2013年3月28日卖出“上工申贝”期间申报买入并撤单</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月28日，账户组将前一交易日持有的80,480股“上工申贝”全部卖出，未再买入。账户组当日申报买入并撤单情况为：9:34:31，账户组申报买入“上工申贝”1笔共301,000股，41秒后全部撤单。9:34:59至9:51:12，账户组分7笔将持有的80,480股“上工申贝”全部卖出。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）交易“上工申贝”获利情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月20日至28日，账户组通过交易“上工申贝”股票获利1,387,288.11元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">二、2013年3月25日至4月2日操纵“长江传媒”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）以买入为主的交易阶段</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月25日至26日，陈明贤通过集中资金优势连续买卖、以明显高于最新市场成交价的价格进行买卖申报、自买自卖等多种手段，影响“长江传媒”交易价格和交易量。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;2013年3月25日集中资金申报买入“长江传媒”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月25日，账户组14:12:13至14:57:00申报买入“长江传媒”127笔共1,148,600股，占当日市场申报买入量的17.20%，排名第一，申报买入价格由6.39元逐渐抬高至6.50元。买入申报成交1,088,927股，成交量占当日市场成交量的22.92%，排名第一。“长江传媒”当日成交量较前一交易日增加41.96%，股价上涨2.05%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;2013年3月26日集中资金申报买入“长江传媒”，并以明显高于最新市场成交价的价格进行买卖申报及自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月26日，账户组申报买入“长江传媒”64笔共3,259,300股，占市场申报买入量的31.34%，排名第一，申报买入价格由6.45元逐渐抬高至6.60元，后回落至6.41元，在收盘前又被抬高至7.08元。买入申报成交3,121,058股，占市场成交量的47.58%，排名第一。账户组以明显高于最新市场成交价的价格进行买卖申报和自买自卖的情况为：14:27:57、14:28:20、14:58:58，账户组分3笔以6.98元、6.93元、7.08元的价格申报卖出“长江传媒”56,000股、99,300股、670,000股，申报前最新市场成交价为6.45元、6.45元、6.73元。14:58:55、14:59:00、14:59:02，分3笔以7.08元的价格申报买入“长江传媒”2,608,000股，申报前最新市场成交价为6.47元、6.73元、6.94元。上述3笔买入申报中前两笔全部成交，第三笔成交550,582股、撤单119,418股（撤单时间距申报时间间隔11秒）。该3笔买入申报成交导致“长江传媒”成交价从6.47元瞬间上涨至7.08元，股价振幅达9.43%。账户组买入申报与卖出申报之间成交825,300股，占账户组当日买入成交量的26.44%、卖出成交量的100%，占该股当日市场成交量的12.58%。当日“长江传媒”股价上涨7.41%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）以卖出为主的交易阶段</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月27日至4月2日，为能以较高价格将“长江传媒”卖出牟利，陈明贤在卖出“长江传媒”的同时也买入该股，以稳定和维持“长江传媒”股价。期间，利用申报买入并撤单、高买低卖、自买自卖等操作手法，影响股票交易价格和交易量。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;2013年3月27日卖出“长江传媒”期间申报买入并撤单、高买低卖和自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月27日，账户组卖出“长江传媒”3,278,589股。同时，账户组申报买入“长江传媒”31笔共4,290,500股（申报买入量在市场中排名第一），成交2,193,154股（成交量在市场中排名第一）。账户组当日申报买入并撤单、高买低卖、自买自卖情况为：（1）申报买入并撤单。账户组31笔买入申报中3笔撤单，撤单量1,697,364股。撤单量占当日账户组申报买入量的39.56%、该股当日市场申报买入量的6.90%。（2）高买低卖。13:38:01至13:42:33，账户以6.91元或7.00元的价格（高于当时最新市场成交价）申报买入“长江传媒”12笔共1,051,600股，全部成交。同时，账户组当日开盘至14:57:47的74笔卖出申报的申报价格均不高于6.91元；账户组当日全部75笔卖出申报的申报价格均低于7.00元。（3）自买自卖。账户组买入申报与卖出申报之间成交1,608,325股，占当日账户组买入成交量的73.33%、卖出成交量的49.06%，占该股当日市场成交量的13.64%。截至收盘，账户组持有“长江传媒”2,299,250股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;2013年3月28日卖出“长江传媒”期间申报买入并撤单、高买低卖和自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月28日，账户组将前一交易日持有的2,299,250股“长江传媒”全部卖出。同时，账户组申报买入“长江传媒”41笔共8,372,300股（申报买入量在市场中排名第一），成交3,135,799股（成交量在市场中排名第一）。账户组当日申报买入并撤单、高买低卖、自买自卖情况为：（1）申报买入并撤单。账户组41笔买入申报中有11笔全部或部分撤单，撤单量5,236,501股。撤单量占当日账户组申报买入量的62.55%、该股当日市场申报买入量的23.58%。（2）高买低卖。11:05:53至11:06:55，账户组以6.87元至6.89元的价格（高于申报前最新市场成交价）申报买入“长江传媒”9笔共623,300股，全部成交；14:06:30，账户组以6.90元的价格（高于申报前最新市场成交价）申报买入“长江传媒”1笔共100股，全部成交。同时，账户组当日全部138笔卖出申报的申报价格均不高于6.87元。（3）自买自卖。账户组买入申报与卖出申报之间成交1,050,910股，占当日账户组买入成交量的33.51%、卖出成交量的45.71%，占该股当日市场成交量的12.69%。截至收盘，账户组持有“长江传媒”3,135,799股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;2013年3月29日卖出“长江传媒”期间申报买入并撤单、高买低卖和自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月29日，账户组卖出“长江传媒”3,035,799股。同时，账户组申报买入“长江传媒”150笔共2,198,000股（申报买入量在市场中排名第二），成交386,896股（成交量在市场中排名第二）。账户组当日申报买入并撤单、高买低卖、自买自卖情况为：（1）申报买入并撤单。账户组150笔买入申报中有12笔全部或部分撤单，撤单量1,751,104股。撤单量占当日账户组申报买入量的79.67%、该股当日市场申报买入量的8.50%。（2）高买低卖。10:46:54至14:18:12，账户组以7.19元、7.40元、7.00元的价格申报买入“长江传媒”134笔共366,500股，全部成交。同时，账户组当日全部252笔卖出申报的申报价格均不高于6.98元。（3）自买自卖。当日账户组买入申报与卖出申报之间成交27次共5,773股。截至收盘，账户组持有“长江传媒”486,896股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">4.&nbsp;2013年4月1日卖出“长江传媒”期间申报买入并撤单、高买低卖和自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年4月1日，账户组将前一交易日持有的486,896股“长江传媒”全部卖出。同时，账户组申报买入“长江传媒”21笔共1,160,900股（申报买入量在市场中排名第二），成交213,966股（成交量在市场中排名第三）。账户组当日申报买入并撤单、高买低卖、自买自卖情况为：（1）申报买入并撤单。账户组21笔买入申报中10笔全部或部分撤单，撤单量946,934股。撤单量占当日账户组申报买入量的81.57%、该股当日市场申报买入量的5.41%。（2）高买低卖。9:40:49至9:53:54，账户组以6.86元的价格申报买入“长江传媒”8笔共193,900股，全部成交。同时，账户组当日全部65笔卖出申报的申报价格均不高于6.84元。（3）自买自卖。当日账户组买入申报与卖出申报之间成交19,100股。截至收盘，账户组持有“长江传媒”213,966股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">5.&nbsp;2013年4月2日卖出“长江传媒”期间申报买入并撤单</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年4月2日，账户组将前一交易日持有的213,966股“长江传媒”全部卖出，未再买入。账户组当日申报买入并撤单情况为：9:40:39、10:03:03，账户组分别申报买入“长江传媒”999,900股、1,000,000股，之后分别于10:02:45、10:09:27全部撤单。9:45:48至10:07:48，账户组分34笔（其中撤单4笔）将持有的213,966股“长江传媒”全部卖出。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）交易“长江传媒”获利情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月25日至4月2日，账户组通过交易“长江传媒”股票获利736,163.24元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">三、2013年3月26日至4月8日操纵“旗滨集团”的情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（一）以买入为主的交易阶段</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月26日至29日，陈明贤通过集中资金优势连续买卖、以明显高于最新市场成交价的价格进行买卖申报、高买低卖、自买自卖等多种手段，影响“旗滨集团”交易价格和交易量。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;2013年3月26日申报买入“旗滨集团”</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月26日，账户组14:16:49至14:32:39申报买入“旗滨集团”45笔共331,500股，全部成交。截至收盘，账户组持有“旗滨集团”331,500股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;2013年3月27日集中资金申报买入“旗滨集团”并高买低卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月27日，账户组以6.43元至6.60元的价格申报买入“旗滨集团”6笔合计728,000股，占市场申报买入量的6.57%，排名第一。买入申报成交558,570股，成交量占市场成交量的7.90%，排名第二。当日，账户组以6.40元的价格申报卖出“旗滨集团”1笔合计208,700股，全部成交。账户组当日申报买入价格均高于申报卖出价格。当日“旗滨集团”股价上涨2.66%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;2013年3月28日集中资金申报买入“旗滨集团”并高买低卖、自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月28日，账户组申报买入“旗滨集团”42笔共1,866,900股，占市场申报买入量的13.90%，排名第一。买入申报成交1,737,441股，成交量占市场成交量的21.08%，排名第一。同时，账户组申报卖出“旗滨集团”47笔共505,570股，全部成交。账户组当日高买低卖、自买自卖情况为：（1）高买低卖。14:37:41至14:59:57，账户组以6.48元至6.54元的价格申报买入“旗滨集团”11笔共412,500股，成交361,141股。同时，账户组当日全部47笔卖出申报（累计申报卖出505,570股）的申报价格均不高于6.48元。（2）自买自卖。账户组买入申报与卖出申报之间成交38,100股。当日“旗滨集团”股价下跌1.22%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">4.&nbsp;2013年3月29日集中资金申报买入“旗滨集团”，并以明显高于最新市场成交价的价格进行买卖申报及自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月29日，账户组申报买入“旗滨集团”21笔共3,460,900股，占市场申报买入量的32.54%，排名第一。申报买入成交3,425,400股，占市场成交量的42.72%，排名第一。账户组以明显高于最新市场成交价的价格进行买卖申报和自买自卖的情况为：14:46:01、14:49:48、14:49:57，账户组分3笔以7.08元、7.02元、7.00元的价格申报卖出“旗滨集团”56,000股、90,000股、26,800股，申报前最新市场成交价为6.33元、6.32元、6.32元。14:53:21、14:54:24、14:55:51、14:56:40、14:57:25、14:58:47、14:58:54、14:58:55，账户组分8笔以7.08元的价格申报买入“旗滨集团”100股、100股、100股、100股、100股、300,000股、1,000,000股、999,900股，申报前最新市场成交价分别为6.31元、6.31元、6.29元、6.29元、6.28元、6.28元、6.49元、6.78元。前述8笔买入申报全部成交。14:58:56，账户组以7.08元的价格再次申报卖出“旗滨集团”900,000股；14:59:02，账户组以7.08元的价格再次申报买入“旗滨集团”900,000股。账户组14:58:47至14:59:02的4笔大额买入申报成交，导致“旗滨集团”成交价从6.28元瞬间上涨至7.08元，股价振幅达12.74%。同时，账户组14:46:01至14:58:56的4笔卖出申报均与账户组后续买入申报成交，成交量占账户组当日买入成交量的31.32%、卖出成交量的100%，占该股当日市场成交量的13.38%。当日“旗滨集团”股价上涨8.18%。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（二）以卖出为主的交易阶段</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年4月1日至8日，为能以较高价格将“旗滨集团”卖出牟利，陈明贤在卖出“旗滨集团”的同时也买入该股，以稳定和维持“旗滨集团”股价。期间，利用申报买入并撤单、高买低卖、自买自卖等操作手法，影响股票交易价格和交易量。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">1.&nbsp;2013年4月1日卖出“旗滨集团”期间申报买入并撤单、高买低卖和自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年4月1日，账户组卖出“旗滨集团”4,216,677股。同时，账户组申报买入“旗滨集团”110笔共5,724,200股（申报买入量在市场中排名第一），成交2,718,100股（成交量在市场中排名第一）。账户组当日申报买入并撤单、高买低卖和自买自卖情况为：（1）申报买入并撤单。账户组110笔买入申报中7笔撤单，撤单量3,006,100股。撤单量占当日账户组申报买入量的52.52%、该股当日市场申报买入量的10.55%。（2）高买低卖。13:40:41至14:43:52，账户组以7.00元的价格（高于当时最新市场成交价）申报买入“旗滨集团”84笔共9,000股，全部成交。同时，账户组当日全部152笔卖出申报的申报价格均低于7.00元。（3）自买自卖。账户组买入申报与卖出申报之间成交752,977股，占当日账户组买入成交量的27.70%、卖出成交量的17.86%，占该股当日市场成交量的4.92%。截至收盘，账户组持有“旗滨集团”2,767,264股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2.&nbsp;2013年4月2日卖出“旗滨集团”期间申报买入并撤单、自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年4月2日，账户组卖出“旗滨集团”2,687,335股。同时，账户组申报买入“旗滨集团”27笔共8,427,100股（申报买入量在市场中排名第一），成交462,200股（成交量在市场中排名第二）。账户组当日申报买入并撤单、自买自卖情况为：（1）申报买入并撤单。账户组27笔买入申报中24笔全部或部分撤单，撤单量7,394,900股。撤单量占当日账户组申报买入量的87.75%、该股当日市场申报买入量的36.54%。（2）自买自卖。账户组买入申报与卖出申报之间成交275,271股，占账户组当日买入成交量的59.56%、卖出成交量的10.24%，占该股当日市场成交量的3.01%。截至收盘，账户组持有“旗滨集团”542,129股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">3.&nbsp;2013年4月3日卖出“旗滨集团”期间申报买入并撤单、高买低卖和自买自卖</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年4月3日，账户组将前一交易日持有的542,129股“旗滨集团”全部卖出。同时，账户组申报买入“旗滨集团”46笔共2,465,000股（申报买入量在市场中排名第一），成交10,600股。账户组当日申报买入并撤单、自买自卖情况为：（1）申报买入并撤单。账户组46笔买入申报中有10笔全部或部分撤单，撤单量2,454,400股。撤单量占当日账户组申报买入量的99.57%、该股当日市场申报买入量的17.43%。（2）高买低卖。9:54:42至10:45:06，账户组以7.00元的价格（高于申报前最新市场成交价）申报买入“旗滨集团”36笔共3,600股，全部成交。同时，账户组当日全部51笔卖出申报的申报价格均低于7.00元。（3）自买自卖。账户组当日买入申报与卖出申报之间成交400股。截至收盘，账户组持有“旗滨集团”10,600股。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">4.&nbsp;2013年4月8日卖出“旗滨集团”期间申报买入并撤单</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年4月8日，账户组将前一交易日持有的10,600股“旗滨集团”全部卖出，未再买入。账户组当日申报买入并撤单情况为：9:37:59，账户组申报买入“旗滨集团”501,000股，90秒后全部撤单。9:49:25、13:00:02，账户组分2笔将持有的10,600股“旗滨集团”全部卖出。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">（三）交易“旗滨集团”获利情况</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2013年3月26日至4月8日，账户组通过交易“旗滨集团”股票获利457,352.53元。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">以上事实，有相关会议记录材料、电脑信息资料、其他涉案人员提供的情况说明、借款协议、资金账户资料、证券账户交易流水、银行账户资料、证券交易所提供数据及当事人询问笔录等证据证明，足以认定。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">陈明贤的上述行为，违反了《证券法》第七十七条第一款第（一）项、第（三）项和第（四）项的规定，构成《证券法》第二百零三条所述“操纵证券市场”的行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">听证中，陈明贤提出他本人并非违法主体，理由包括：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其一，他本人并未实施涉案行为。涉案的5个账户中，“陈某（甲）”账户由陈某（甲）本人操作，其他4个账户由他侄子明华信德交易员陈某（乙）操作，相关交易盈利由陈某（乙）进行结算和分配。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其二，现有证据不足以认定他本人实施了涉案操纵行为：（1）他本人从未承认，其他涉案人员也从未指认他指令操纵涉案股票。明华信德副总经理卢某、陈某（乙）、交易员孙某的笔录，仅称明华信德控制账户的交易指令由他下达，而未指认涉案账户交易指令由他下达。（2）涉案电脑虽在明华信德查获，但实际上系陈某（乙）借用明华信德电脑在其他地方下单交易后归还。（3）他本人并未参与涉及讨论股票操作方法的操盘会议。卢某的“操盘会议记录”只是个人笔记，内容也主要是一些短线交易技巧，卢某笔记并未记录参会人员中有陈明贤本人。同时，卢某仅称明华信德做过短线交易，而非他本人有操纵行为。孙某表示其在接受证监会调查时，并未说过诸如“陈明贤要求拉抬股价，通过自买自卖方式活跃市场”的话。（4）证监会以陈某（乙）的年龄、交易经验、资金能力等为由，认为陈某（乙）操纵涉案股票不合情理，该推断不能成立。陈某（乙）2010年入职明华信德，事发时已25岁，有2年多操盘经验，完全有能力操作这些股票交易。（5）陈某（甲）银行账户与他本人银行账户的资金往来，系因他本人作为银行贷款客户，为帮银行拉存款，在征得陈某（甲）同意的情况下，于每日收盘后将“陈某（甲）”账户剩余保证金汇集到他个人银行账户，用来支持银行存款，第二天再转回“陈某（甲）”账户。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">对上述辩解理由，陈明贤提供了包括陈某（乙）、卢某和孙某陈述意见在内的7份证据。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">我会认为，根据现有证据，足以认定陈明贤为本案操纵行为的违法主体，陈明贤的辩解理由不能成立：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其一，关于涉案账户的控制关系。（1）“汪某某”、“陈某（甲）”、“余某某”、“杜某某”等4个账户交易涉案股票的电脑在明华信德查获，明华信德系陈明贤个人控制的公司。根据孙某指认，“陈某（甲）”账户交易涉案股票电脑的使用人为陈明贤。（2）涉案的5个账户，或者与陈明贤本人存在资金往来，或者与陈明贤亲友存在资金往来。（3）陈明贤在接受我会调查时，已明确承认其本人2013年以来控制“余某某”、“汪某某”、“杜某某”、“吕某某”等4个账户，其中“余某某”、“汪某某”账户的名义所有人分别是他嫂子和他妻子兄长的儿子，“吕某某”账户是他要求卢某拉过来使用的，陈某（甲）是他朋友。他本人对明华信德控制账户和他本人控制账户行使交易决策权，由他指令陈某（乙）、孙某二人下单，有时他自己也下单。（4）卢某证实，吕某某系其妻子的妹妹，“吕某某”账户是陈明贤要求他开立的。（5）证人洪某某在接受我会调查时称，他出资1,000万元给陈明贤炒股，并向陈明贤提供“杜某某”账户。洪某某向我会提供了其向陈明贤出借“杜某某”账户和资金的《借款协议》。（6）孙某在接受我会调查时证实，陈明贤在2013年春节后将孙某操作过的“余某某”、“陈某（甲）”账户收回；孙某听过说“汪某某”账户，但未操作过；孙某为陈明贤起草了向洪某某借入1,000万元资金和“杜某某”账户的《借款合同》。（7）卢某、陈某（乙）、孙某等三人证实，陈某（乙）、孙某二人根据陈明贤的交易指令下单，下单地点在明华信德。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其二，涉案账户操作手法与证人证言相互印证。（1）卢某在接受我会调查时称，陈明贤交易股票的思路是，选好股票后，在价位合适时集中资金不停买入，造成该只股票有大资金进入的现象，将散户吸引过来，把股票拉升到一个更高的价格，再顺势而为地卖出股票。在股票下跌的情况下，陈明贤要求2个交易员在公司控制的账户之间自买自卖同一只股票，造成该只股票交易活跃的现象。陈明贤强调最后股票卖出的时候要听从他的指挥，陈明贤会通过现场指挥或者打电话的方式告知2个交易员卖出股票。（2）孙某在接受我会调查时称，在2013年3月份开例会的时候，陈明贤提出选一些热点股票，通过几个账户大单买入以抬升股价，然后在后一天卖出获利。陈明贤还说过，在市场不活跃的时候，通过控制的账户相互交易即自买自卖的方式来活跃市场。卢某、孙某二人在接受我会调查时关于陈明贤交易股票手法的证言，与本案操纵手法完全一致。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其三，我会调查此案过程中，陈明贤先是拒绝出面接受调查，之后又安排其朋友张某某冒认违法行为，妄图掩盖事实真相，即：陈明贤在首次接受我会调查时宣称，他将个人控制的“汪某某”、“余某某”、“吕某某”、“杜某某”等账户委托给朋友张某某操作。陈明贤并向我会提供了相关证据材料，即其与张某某签订的出借资金和账户的《借款协议》。张某某在接受我会调查时，先是在当面书写的文字材料中称使用“汪某某”、“余某某”、“杜某某”等账户交易涉案股票，但经我会调查人员向其释明法律，张某某最终承认其并未操作过“汪某某”等账户，是陈明贤指使他向我会作虚假说明，相关《借款协议》是他和陈明贤在接受调查前一晚临时制作的。从上述事实可以看到，陈明贤具有逃避调查、虚构事实并指使他人作虚假证言的欺诈行为。听证阶段，陈明贤推翻之前说法，改称系陈某（乙）操作涉案的4个账户，并请卢某、陈某（乙）、孙某等三人出具相关书面说明。卢某、陈某（乙）、孙某等三人在重新出具的书面说明中，完全推翻此前对陈明贤不利的证言。听证结束后，为核实相关情况，我会调查人员再次电话联系陈明贤、陈某（乙）二人，二人均声称在外地不能接受调查。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">其四，陈明贤具有16年的证券公司从业经历，并在2009年创立以证券投资为主业的明华信德，系资深证券从业人员。陈某（乙）在案发时不足25岁。陈某（乙）在首次接受调查时称，其父亲无业，母亲在家照顾家庭，他本人2011年从广东金融学院毕业后到明华信德工作，月薪3,500元，他只负责听从陈明贤指令进行操作，2013年以来只在明华信德进行股票交易。陈某（乙）作为陈明贤的侄子和下属，在听证阶段为陈明贤出具的书面说明，与其在接受我会调查时的证言不符，且无合理解释，没有客观证据支持，我会不予采信。卢某、孙某在听证阶段推翻此前对陈明贤不利证言的相关书面说明，也是类似情况，我会不予采信。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">综上，我会认为，陈明贤在听证阶段提出的辩解理由缺乏客观证据支持，也与我会已查明的事实不符，我会目前的证据已足以证明陈明贤为本案违法主体。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零三条的规定，我会决定：没收陈明贤违法所得2,580,803.88元，并处以2,580,803.88元罚款。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p17 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">上述当事人应自收到本处罚决定书之日起15日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部，账号：7111010189800000162，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起60日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起6个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">中国证监会　　　　　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; WORD-BREAK: break-all; LINE-HEIGHT: 150%; TEXT-ALIGN: right"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'">2016年1月19日　　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: '宋体'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+<P class=p0 style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'"><o:p>&nbsp;</o:p></SPAN></P><!--EndFragment--></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20160413_295869_ext.json

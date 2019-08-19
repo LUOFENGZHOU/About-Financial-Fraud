@@ -1,0 +1,240 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（银河集团、苏州银河、盛银投资、潘琦等5名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-06249</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年10月09日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（银河集团、苏州银河、盛银投资、潘琦等5名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>（2010）36号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（银河集团、苏州银河、盛银投资、潘琦等5名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">（2010）36号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 29pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">（</SPAN><SPAN style="FONT-SIZE: 10.5pt">2010</SPAN><SPAN style="FONT-SIZE: 10.5pt">）</SPAN><SPAN style="FONT-SIZE: 10.5pt">36</SPAN><SPAN style="FONT-SIZE: 10.5pt">号</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：广西银河集团有限公司（以下简称银河集团），住所：广西壮族自治区南宁市火炬路<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>号创业大厦八楼，法定代表人潘琦。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>苏州银河经济发展有限公司（以下简称苏州银河，现已更名为江苏国安天业科技有限公司），住所：江苏省苏州市吴中区胥口镇浦金路<SPAN style="FONT-SIZE: 10.5pt">999</SPAN>号，法定代表人潘勇。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>苏州工业园区盛银投资有限公司（以下简称盛银投资），住所：江苏省苏州工业园区苏华路<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>号，法定代表人蔡惠。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>潘琦，男，<SPAN style="FONT-SIZE: 10.5pt">1963</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月出生，住址：四川省成都市武侯区新希望路<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>栋<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>楼<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>号，时任银河集团董事长、法定代表人。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>潘勇，男，<SPAN style="FONT-SIZE: 10.5pt">1966</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月出生，住址：江苏省盐城市亭湖区浠仓巷<SPAN style="FONT-SIZE: 10.5pt">58-4</SPAN>号，时任苏州银河董事长、法定代表人。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>蔡惠，女，<SPAN style="FONT-SIZE: 10.5pt">1942</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月出生，住址：江苏省南京市鼓楼区天福园<SPAN style="FONT-SIZE: 10.5pt">19</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">301</SPAN>室，时任盛银投资董事长、法定代表人。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>高超，男，<SPAN style="FONT-SIZE: 10.5pt">1973</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>月出生，住址：江苏省盐城市经济开发区通榆南路<SPAN style="FONT-SIZE: 10.5pt">327</SPAN>号，时任银河集团投资管理部副经理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>孙南锦，男，<SPAN style="FONT-SIZE: 10.5pt">1969</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月出生，住址：江苏省苏州市沧浪区玉兰新村<SPAN style="FONT-SIZE: 10.5pt">37</SPAN>幢<SPAN style="FONT-SIZE: 10.5pt">503</SPAN>室，时任苏州银河董事、盛银投资副总经理。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>依据<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称《证券法》）有关规定，我会对银河集团等<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>公司违反证券法律法规一案进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利，当事人孙南锦提出了陈述和申辩意见，其他当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、审理终结。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，银河集团等<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>公司存在以下违法事实：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、非法利用他人账户交易“长征电器”股票</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（一）银河集团利用他人账户交易“长征电器”股票的情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2003</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月期间，银河集团利用在国泰君安证券南宁汇春路营业部和广发证券南宁星湖路营业部开立的<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>个资金账户下挂的<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>个自然人证券账户交易“长征电器”股票，最终获利<SPAN style="FONT-SIZE: 10.5pt">305,313.78</SPAN>元。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（二）苏州银河利用他人账户交易“长征电器”股票的情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2003</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>月期间，苏州银河利用在东吴证券苏州胥江路营业部、信泰证券苏州干将西路营业部、中信证券如皋环城南路营业部、中信证券苏州中新路营业部、东海证券深圳香梅路营业部等<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>个证券营业部开立的<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>个资金账户下挂的<SPAN style="FONT-SIZE: 10.5pt">26</SPAN>个自然人证券账户交易“长征电器”股票，最终获利<SPAN style="FONT-SIZE: 10.5pt">1,028,332.99</SPAN>元。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>（三）盛银投资利用他人账户交易“长征电器”股票的情况</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">2003</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月期间，盛银投资利用在东吴证券苏州石路营业部、东吴证券苏州竹辉路营业部、金元证券苏州养育巷营业部、新时代证券苏州营业部、银泰证券苏州葑门西街营业部、招商证券苏州干将西路营业部、中信证券苏州中新路营业部、信泰证券苏州干将西路营业部、海通证券重庆中山三路营业部、广发证券杭州天目山路营业部、光大证券南京中山路营业部、东海证券深圳香梅路营业部等<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>个证券营业部开立的<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>个资金账户下挂的<SPAN style="FONT-SIZE: 10.5pt">221</SPAN>个自然人证券账户交易“长征电器”股票，最终亏损<SPAN style="FONT-SIZE: 10.5pt">9,470,781.21</SPAN>元。</SPAN></FONT></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、未依法履行上市公司要约收购相关义务</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>银河集团系上市公司贵州长征电器股份有限公司（现已更名为贵州长征电气股份有限公司，以下简称长征电器）的控股股东，在<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月长征电器股权分置改革前，银河集团直接持有长征电器非流通股<SPAN style="FONT-SIZE: 10.5pt">4,644</SPAN>万股，占已发行股份的<SPAN style="FONT-SIZE: 10.5pt">27%</SPAN>，通过其关联方北海银河科技电气有限责任公司间接持有长征电器非流通股<SPAN style="FONT-SIZE: 10.5pt">3,816.296</SPAN>万股，占已发行股份的<SPAN style="FONT-SIZE: 10.5pt">22.19%</SPAN>，银河集团及其关联方共同持有长征电器已发行股份的<SPAN style="FONT-SIZE: 10.5pt">49.19%</SPAN>，股权分置改革后，银河集团及其关联方共同持有长征电器已发行股份的<SPAN style="FONT-SIZE: 10.5pt">42.58%</SPAN>。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>在银河集团及其关联方共同持有长征电器股份已超过<SPAN style="FONT-SIZE: 10.5pt">30%</SPAN>的情况下，银河集团、苏州银河、盛银投资作为一致行动人，仍擅自利用各自控制的机构证券账户和前文所述的自然人证券账户购买“长征电器”股票，没有按照法律的规定向长征电器的所有股东发出收购要约并履行相关的报告、公告义务。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>以上事实，有相关工商登记资料、账户开户资料、交易流水、资金往来凭证、授权委托书、证券营业部情况说明、交易所数据、登记公司数据及当事人询问笔录等证据证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>银河集团、苏州银河和盛银投资利用他人账户交易“长征电器”股票的行为，违反了<SPAN style="FONT-SIZE: 10.5pt">1999</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">7</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日起施行的《中华人民共和国证券法》（以下简称原《证券法》）第七十四条和《证券法》第八十条的规定，构成了原《证券法》第一百九十条所述“法人以个人名义设立账户买卖证券”和《证券法》第二百零八条所述“法人以他人名义设立账户或者利用他人账户买卖证券”的行为。对于银河集团、苏州银河和盛银投资的上述违法行为，时任<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>家公司董事长、法定代表人的潘琦、潘勇、蔡惠是直接负责的主管人员，涉案账户代理人高超、孙南锦是其他直接责任人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>银河集团、苏州银河和盛银投资未依法履行上市公司要约收购相关义务的行为，违反了《证券法》第八十八条的规定，构成了《证券法》第二百一十三条所述“收购人未按照本法规定履行上市公司收购的公告、发出收购要约、报送上市公司收购报告书等义务”的行为。对于银河集团、苏州银河和盛银投资的上述违法行为，时任<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>家公司董事长、法定代表人的潘琦、潘勇、蔡惠是直接负责的主管人员。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人孙南锦在申辩材料中提出，我会认定的事实清楚，证据确凿、充分，但基于以下理由，请求我会对其减轻或免予处罚：其一，其本人作为违规账户代理人，只是依据公司领导的意见开立和撤销账户，不具有决定权；其二，其本人曾建议公司实际控制人清理违规账户，并在获得批准后清理了部分违规账户；其三，其本人对违规行为的认识态度好，能够积极配合我会的调查工作。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，当事人孙南锦的申辩理由不能成立：其一，孙南锦作为违规账户代理人直接参与本案违法行为的事实清楚，证据确凿；其二，孙南锦代为开立违规账户并履行相关手续等行为，是涉案违法行为发生的必要环节之一，故其应当承担相应的法律责任；其三，对于孙南锦提出的积极配合调查、认错态度良好等情节，我会在审理时已依据《中华人民共和国行政处罚法》第二十七条的规定予以考虑。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人违法行为的事实、性质、情节与社会危害程度，依据原《证券法》第一百九十条和《证券法》第二百零八条、第二百一十三条的规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、责令银河集团改正违法行为，给予警告，没收违法所得<SPAN style="FONT-SIZE: 10.5pt">305,313.78</SPAN>元，并处以<SPAN style="FONT-SIZE: 10.5pt">505,313.78</SPAN>元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、责令苏州银河改正违法行为，给予警告，没收违法所得<SPAN style="FONT-SIZE: 10.5pt">1,028,332.99</SPAN>元，并处以<SPAN style="FONT-SIZE: 10.5pt">1,228,332.99</SPAN>元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、责令盛银投资改正违法行为，给予警告，并处以<SPAN style="FONT-SIZE: 10.5pt">40</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、对潘琦、潘勇、蔡惠给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">20</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五、对高超、孙南锦给予警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚没款汇交中国证券监督管理委员会（开户银行：中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162</SPAN>，由该行直接上缴国库），并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。当事人如果对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议，也可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起行政诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">中国证券监督管理委员会</SPAN></FONT></FONT></FONT></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN>&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　&nbsp;</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　 　　&nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">二○一○年十月九日</SPAN></FONT></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20101115_187148_ext.json

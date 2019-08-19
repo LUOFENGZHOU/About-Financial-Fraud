@@ -1,0 +1,248 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中国证监会行政处罚决定书（上海天力、深圳前沿、熊碧波等13名责任人员）</title>
+<style>
+.topLine{
+	height:6px;
+	overflow:hidden;
+	border-top:4px solid #F32F30;
+	border-bottom:1px solid #F32F30;
+}
+.docTitle{
+	font-weight:bold;
+	font-size:18px;
+	color:#F32F30;
+	white-space:nowrap;
+	text-align:center;
+	margin:20px 0px 30px;
+}
+</style>
+<style id="MyStyle">
+.content P,.content Table , .content TD,.content SPAN{
+	TEXT-DECORATION: none;
+	word-break:break-all !important;
+	word-wrap:break-word !important;
+	font-family:楷体
+}
+.content Table{
+	table-layout:auto;
+}
+.separator{
+	color:#F32F30;
+	BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-STYLE: dotted;
+	font-weight:none;
+	display:none;
+}
+.appendix{
+	display:none;
+}
+.contentss{
+	overflow-x:auto;width:920px;padding-bottom:30px
+}
+</style>
+<link href="../../css/detail.css" rel="stylesheet" media="screen" type="text/css">
+<link href="../../css/print.css" rel="stylesheet" media="print" type="text/css">
+<style media="print">
+.contentss{
+	overflow-x:auto;width:650px;padding-bottom:30px
+}
+</style>
+</head>
+
+<body>
+<div class="container" id="gkml" style="margin:0px auto;">
+    <div class="header"><IMG SRC="../../images/logo.jpg" width="984"></div>
+    <div class="main">
+        <!--div class="rowOfCurrentPosition">
+            当前位置：文体综合类 &gt; 通知公告公示123
+        </div-->
+		<div class="headInfo" style="position:relative;">
+		<table border=0 cellspacing=0 cellpadding=0 style="width:90%;" id="headContainer">
+		<tbody>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%"><B>索 引 号:</B>40000895X/2010-07120</td>
+							<td>
+								<B>分类:</B>
+								<span id="lSubcat">行政处罚&nbsp;;&nbsp;行政处罚决定</span>
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>发布机构:</B> 
+								<span>证监会</span>							
+							</td>
+							<td>
+								<B>发文日期:</B>
+								<span>2010年07月12日</span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<B>名　　称:</B> 
+					<span id="lTitle">中国证监会行政处罚决定书（上海天力、深圳前沿、熊碧波等13名责任人员）</span>
+		            
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width="50%">
+								<B>文　　号:</B> 
+								<span>(2010)25号</span>					           
+							</td>
+							<td>
+								<B>主 题 词:</B> 
+								<span></span>								
+							</td>
+						</tr>
+					</table>				
+				</td>
+			</tr>
+			<!--<tr>
+				<td colspan="2">
+				<b>内容提要:</b>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span></span>					
+				</td>
+			</tr>-->
+		</tbody>
+		</table>
+		</div>        
+	<OBJECT   id="WebBrowser"   classid="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"   height="0"   width="0"></OBJECT> 	
+        <div class="mainContainer" >
+			<div STYLE=" width:800px">
+				<p align="center"><br><font size="1" style="FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: 黑体"><strong>
+				<script>
+				var strssre="中国证监会行政处罚决定书（上海天力、深圳前沿、熊碧波等13名责任人员）";
+				if(strssre.length>32)
+				{
+					if(strssre.length<50)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,strssre.length));
+					}
+					else if(strssre.length<67)
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,strssre.length));
+					}
+					else
+					{
+						document.writeln(strssre.substring(0,25)+"<br/>");
+						document.writeln(strssre.substring(25,49)+"<br/>");
+						document.writeln(strssre.substring(49,70)+"<br/>");
+						document.writeln(strssre.substring(70,strssre.length));
+					}
+				}
+				else
+				{
+					document.writeln(strssre);
+				}
+				</script>
+				</strong></font><br/><br/>
+				<!--
+				<font face="楷体_GB2312">(2010)25号</font><br>
+				--></p>
+			</div>
+
+			
+			<div class="contentss"  id="ContentRegion">				
+				<div class="content"><P style="LINE-HEIGHT: 26pt" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">(2010)25</SPAN><SPAN style="FONT-SIZE: 10.5pt">号</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%; text-shadow: auto"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人：上海天力投资顾问公司，住所：上海市松江区石湖荡延寿路<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>号<SPAN style="FONT-SIZE: 10.5pt">106</SPAN>室，法定代表人陈厚忠。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>深圳前沿投资顾问有限公司，现更名为福州前沿投资顾问有限公司，住所：福建省福州市鼓楼区福州软件园三期鼓山园A楼二楼，法定代表人林钦。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上海主升浪文化传播有限公司，住所：上海市松江区石湖荡镇唐明路<SPAN style="FONT-SIZE: 10.5pt">796</SPAN>号，法定代表人符应鹏。<SPAN style="FONT-SIZE: 10.5pt">2007</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日注销。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">熊碧波</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，男，1968年1月出生，住址：上海市浦东新区浦明路99弄30号2203室。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">林礼明</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，男，1962年8月出生，住址：福建省福州市鼓楼区左海名苑A4-2。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">王圣雄</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，男，1976年4月出生，住址：福建省福州市鼓楼区西江滨大道66号融侨锦江D区4座1302。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">汪勇军</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，男，1968年10月出生，住址：福建省福州市鼓楼区工业路50号。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>汪梦飞,男，1973年2月出生，住址不详。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>江伟，男，1971年12月出生，住址：广东省广州市越秀区梅东路27号402房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>徐晖，男，1974年2月出生，住址：广东省广州市越秀区东风西路195号内25栋803房。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>梁祖芝，女，1974年10月出生，住址：重庆市渝中区嘉陵桥西村88号附5号6-1.</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>熊旭春，男，1970年8月出生，住址：四川省成都市青羊区光华村街66号13栋6单元12号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>陈建平，男，1968年12月出生，住址：福建省福州市鼓楼区金泉路31号A座3C。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>罗嗣红，男，1965年11月出生，住址：湖北省武汉市洪山区桂子山西村12-14号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>石践宇，男，1965年10月出生，住址：北京市朝阳区惠忠庵1号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>严为民，男，1971年2月出生，住址：四川省成都市高新区芳草西一街17号3栋19号。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">依据</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">《</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">中华人民共和国证券法</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">》（以下简称《证券法》）</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">的有关规定，我会对</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%; text-shadow: auto">上海天力投资顾问公司（以下简称</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">上海天力）及其关联公司及相关人员违反证券法律法规</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">一案</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">进行了立案调查、审理，并依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。应当事人上海天力、熊碧波、林礼明、汪勇军、</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">王圣雄、</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">徐晖、梁祖芝、熊旭春、罗嗣红、石践宇</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">的要求，我会举行了听证会，听取了当事人及其代理人的陈述和申辩；当事人汪梦飞、陈建平、江伟、严为民未提出陈述、申辩意见，也未要求举行听证会。本案现已调查、审理终结。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经查明，上海天力等当事人存在如下违法违规行为：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">一、<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>日至<SPAN style="FONT-SIZE: 10.5pt">12</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">31</SPAN>日，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">证券投资咨询人员汪梦飞、梁祖芝、陈建平、石践宇、罗嗣红、熊旭春等在上海天力制作的电视媒体股评节目中</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">发表了如“想涨就涨”、“大盘完全在我的把握中”、“风险少赚钱快”、“买在最低点，卖在最高点”、“包揽市场所有涨停”、“随便买，随便赚”等虚假、夸大、误导性的言论；<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>－<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>月，证券</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">投资咨询人员</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">徐晖、梁祖芝</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">在上海天力制作的电视媒体股评节目中</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">发表了上述这类虚假、夸大、误导性的言论。上述节目在四川卫视、山东卫视、东南卫视、广东卫视播出。同时，上海天力</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">在开展证券投资咨询业务中还存在向投资者承诺收益的行为。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">二、</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">深圳前沿投资顾问有限公司（以下简称</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">深圳前沿）<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>月至<SPAN style="FONT-SIZE: 10.5pt">11</SPAN>月雇用江伟、熊旭春、梁祖芝、陈建平、罗嗣红等<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>名证券</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">投资咨询人员制作股评节目</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">，并在四川卫视、广西卫视、山东卫视和辽宁卫视中播出。该<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>人在上述深圳前沿的股评节目中发表了上述这类虚假、夸大、误导性的言论。同时深圳前沿</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">在开展证券投资咨询业务中还存在向投资者承诺收益的行为。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">三、2006年1月1日后，</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">上海主升浪文化传播有限公司（以下简称上海主升浪）</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">制作了媒体股评节目，在四川卫视、山东卫视、宁夏卫视播放，实际</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">经营并销售含有证券投资分析、预测和建议的《点金周刊》和</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">“</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">声讯卡”，并</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">获得相关销售收入，在不具备证券投资咨询业务资格的情况下从事了证券投资咨询业务。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>以上事实，有上海天力提供的情况说明、电视股评节目录像、协议书、劳动合同、当事人询问笔录等证据在案证明，足以认定。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">上海天力及其证券投资咨询人员</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">汪梦飞、梁祖芝、陈建平、石践宇、罗嗣红、熊旭春、</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">徐晖的上述行为违反了《证券、期货投资咨询管理暂行办法》（以下简称《暂行办法》）第十九条、第二十条、</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">第二十四条第（二）项的规定。上海天力及其证券投资咨询人员徐晖、梁祖芝的上述行为还违反了</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">《证券法》第一百七十一条第（四）项、第（五）项的规定。上述当事人的行为构成了《证券法》第二百二十六条第三款以及《暂行办法》第三十四条、第三十六条所述违法行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">熊碧波、林礼明为主要责任人员，汪勇军为责任人员。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">深圳前沿及其证券投资咨询人员</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">江伟、熊旭春、梁祖芝、陈建平、罗嗣红</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">的上述行为违反了《暂行办法》第十九条、第二十条、第二十四条第（二）项的规定，构成了</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">《暂行办法》第三十四条、第三十六条所述违法行为。</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">熊碧波、林礼明为主要责任人员，王圣雄为责任人员。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">上海主升浪的上述行为</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">违反了《证券法》第一百二十二条的规定，构成了《证券法》第一百九十七条所述违法行为。熊碧波、林礼明、汪勇军、王圣雄为直接负责的主管人员，汪梦飞、陈建平、严为民为其他直接责任人员。</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人上海天力、深圳前沿、熊碧波（上海天力、深圳前沿的实际控制人，时任上海天力总经理）、林礼明（上海天力、深圳前沿的实际控制人，时任深圳前沿总经理）、汪勇军（时任上海天力副总经理，为主要管理人员）、王圣雄（时任深圳前沿总裁运营助理，为主要管理人员）在陈述申辩中并未否认相关事实，但认为这是会员制业务发展初期行业普遍存在的现象，他们主观上也没有想脱逃监管。作为实际控制人和主要管理人员，他们自认在业务经营管理中存在经验不足，管理不到位的问题，对上海天力、深圳前沿出现的问题负有不可推卸的责任，但积极配合有关证监局进行了业务自查与整改。经复核，本案所列相关事实的违法性质清楚，与是否具有普遍性无关。上海天力被暂停通过年检后，熊碧波等人便利用上海主升浪经营销售《点金周刊》和“声讯卡”，回避监管部门对上海天力的关注，继续从事证券投资咨询业务，具有明显的脱逃监管的主观故意。复核同时注意到，当事人对于自身的责任有一定程度的认识，其后按照监管要求清理完毕所有客户。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>上述当事人在陈述申辩中还提出，上海天力在暂缓年检通过期间开展的《点金周刊》业务经营是合法的，业务开展符合国家法律法规，无超范围经营。经复核，本案认定非法从事证券投资咨询业务的主体是上海主升浪，而非上海天力。鉴于当事人没有提出针对性的意见，其申辩意见不予采纳。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人徐晖、梁祖芝、熊旭春、罗嗣红等辩称自己没有说过上述夸大、误导性言论，承诺收益是业务人员说的，其本人没有说过。经复核，当事人在多个电视台或卫星电视台的股评节目中均有大量夸大、误导性及承诺收益的言论，其中有代表性的内容如下：如徐晖<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">6</SPAN>日在东南卫视的股评节目中称“提前市场一周布局，买得到、赚得到”，<SPAN style="FONT-SIZE: 10.5pt"> 2006<SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">年2</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">月22</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">日</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">在东南卫视的股评节目中称“（点金周刊）说到哪儿，市场就打到哪儿；牛股都是由这里跑出来的”；如梁祖芝2005<SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">年12</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">月19</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">日</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">在广东卫视的股评节目中称“今天你点金就相当于今天你点钱”，2006<SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">年1</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">月8</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">日</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">在广东卫视的股评节目中称“拿出慢慢看，涨幅在两三成以上的股票多了去了，随便买，随便赚”，2006<SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">年3</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">月9</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">日</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">在广东卫视的股评节目中称“玩大涨，玩大跌，都是你赚”；如熊旭春2005<SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">年10</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">月25</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">日</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">在山东卫视的股评节目中称“每天只要你想要短线<SPAN style="FONT-SIZE: 10.5pt">飙股，我就能送给你。你打电话得到的股票，应该都是赚得到的”，2005<SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">年12</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">月1</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt">日</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt">在山东卫视的股评节目中称“隆重发布领涨无忧。只只成功，100%</SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN>成功率”，<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">1</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">4</SPAN>日在山东卫视的股评节目中称“想涨就涨，封面题材我做主”；如罗嗣红<SPAN style="FONT-SIZE: 10.5pt">2005</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">9</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">14</SPAN>日在四川卫视的股评节目中称“飙股层出不穷，涨停从未停止，没有犹豫，飚升更坚决”，<SPAN style="FONT-SIZE: 10.5pt">2006</SPAN>年<SPAN style="FONT-SIZE: 10.5pt">2</SPAN>月<SPAN style="FONT-SIZE: 10.5pt">16</SPAN>日在山东卫视的股评节目中称“垄断矿产资源<SPAN style="FONT-SIZE: 10.5pt">+</SPAN>产品持续涨价<SPAN style="FONT-SIZE: 10.5pt">=</SPAN>来年翻番牛股”，等等。上述言论具有明显的夸大、误导性，且明示或暗示保证投资收益。该申辩意见不予采纳。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人石践宇认为其个人只在影响力很小的电视台做过节目，次数也很少，请求减轻处罚。经复核，石践宇在宁夏卫视作过股评节目，由于卫星电视信号覆盖全国，节目内容的接收者并不局限于某一区域，因此会产生一定的影响力。但与其他当事人比较而言，石践宇节目次数较少，其申辩意见部分予以采纳。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>经复核，上海天力、深圳前沿及其证券投资咨询人员，违背《证券法》、《暂行办法》有关提供证券投资咨询分析、预测或建议应遵循客观、谨慎、准确、完整的规定，在电视股评节目中对相关个股情况进行评价、预测、推荐时，大量使用含有夸大性字眼的表述，如“想涨就涨”、“买得到、赚得到”、“随便买，随便赚”，影响了普通的公众投资者对证券投资风险的正常判断，误导普通的公众投资者相信，只要听信他们的意见，购买其所推荐的投资理财杂志或服务就能够获得丰厚收益。上海天力、深圳前沿及其证券投资咨询人员的上述行为违反了《暂行办法》有关证券投资咨询人员应当以诚实守信和勤勉尽责的态度提供证券投资咨询服务，证券投资咨询机构及其从业人员不得向投资人承诺收益以及《证券法》有关证券投资咨询机构及其从业人员不得利用传播媒介提供、传播误导投资者的信息的规定，违法事实清楚，证据确实、充分。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>我会认为，证券投资咨询机构从事证券投资咨询服务，依法必须首先取得我会的行政许可。取得这样的行政许可，不仅意味着该等机构及其从业人员具备一定资质，能够为投资者提供相关业务，更意味着该等机构及其从业人员必须自觉遵守法律规定，尽心为投资者提供服务，维护自身及本行业的声誉。同时，在证券投资咨询业务的法律关系之中，证券投资咨询机构及其从业人员由于有能力掌握更多的资讯、具有一定的专业知识和技能，因而处于优势地位，而投资者则处于弱势地位。基于此，证券投资咨询机构及其从业人员应当恪守独立诚信、谨慎客观、勤勉尽责、公正公平的原则，在从事证券投资咨询的分析、预测或建议时要有充分的理由和依据，并可依据投资者的财务状况、投资经验和投资目的等提出适合不同客户需要的特定建议。我会同时认为，从《暂行办法》第十九条、第二十条的规定看，客观、谨慎、诚实和勤勉尽责是证券投资咨询人员必须遵守的执业准则。这个执业准则应当贯穿于其执业的全过程，覆盖其执业的全部内容。由于证券投资咨询人员是以其执业身份在公众媒体进行营销，其营销行为已构成了其执业内容的一部分，因此，也必须符合应有的执业准则。综上，作为经批准从事证券投资咨询业务的投资咨询机构及其从业人员，务必谨守执业准则和规定，谨慎、勤勉、客观、公平地为投资者提供咨询服务，共同维护市场秩序和行业声誉。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>根据当事人的违法事实、性质、情节与社会危害程度，依据《证券法》第一百九十七条、第二百二十六条和《暂行办法》第三十四条、第三十六条的规定，我会决定：</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>一、撤销上海天力的证券投资咨询业务许可，并处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>二、撤销深圳前沿的证券投资咨询业务许可，并处以<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>三、给予熊碧波警告，并处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元的罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>四、给予林礼明警告，并处以<SPAN style="FONT-SIZE: 10.5pt">30</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>五、给予汪勇军、王圣雄警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">10</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>六、给予严为民警告，并处以<SPAN style="FONT-SIZE: 10.5pt">5</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>七、给予江伟、石践宇警告，并分别处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元罚款；</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">八、撤销</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">汪梦飞、陈建平的</SPAN><SPAN style="FONT-SIZE: 10.5pt; LINE-HEIGHT: 150%">证券投资咨询业务资格，并分别处以<SPAN style="FONT-SIZE: 10.5pt">8</SPAN>万元罚款；</SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>九、撤销徐晖、梁祖芝、熊旭春、罗嗣红的证券投资咨询业务资格，并分别处以<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>万元罚款。</FONT></SPAN></P>
+<P style="TEXT-INDENT: 21.8pt; LINE-HEIGHT: 150%"><SPAN style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>当事人应自收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">15</SPAN>日内，将罚款汇交中国证券监督管理委员会<SPAN style="FONT-SIZE: 10.5pt">(</SPAN>开户银行<SPAN style="FONT-SIZE: 10.5pt">:</SPAN>中信银行总行营业部、账号<SPAN style="FONT-SIZE: 10.5pt">7111010189800000162,</SPAN>由该行直接上缴国库<SPAN style="FONT-SIZE: 10.5pt">)</SPAN>，并将注有当事人名称的付款凭证复印件送中国证券监督管理委员会稽查局备案。如对本处罚决定不服，可在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">60</SPAN>日内向中国证券监督管理委员会申请行政复议；也可以在收到本处罚决定书之日起<SPAN style="FONT-SIZE: 10.5pt">3</SPAN>个月内直接向有管辖权的人民法院提起诉讼。复议和诉讼期间，上述决定不停止执行。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>&nbsp;</FONT></P>
+<P style="TEXT-INDENT: 243.45pt; LINE-HEIGHT: 150%"><SPAN style="COLOR: black; LINE-HEIGHT: 150%"><FONT style="FONT-SIZE: 10.5pt" face=宋体>　　　　　　　　　　　　　　　　　　　&nbsp; 中国证券监督管理委员会</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%" align=center><FONT face=宋体><FONT style="FONT-SIZE: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%"><SPAN style="FONT-SIZE: 10.5pt">　　&nbsp; </SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　</SPAN>　&nbsp;<SPAN style="FONT-SIZE: 10.5pt">　　</SPAN><SPAN style="FONT-SIZE: 10.5pt">　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp; &nbsp;</SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; COLOR: black; LINE-HEIGHT: 150%">二○一○年七月十二日</SPAN></FONT></FONT></P></div></br>	
+			</div>
+
+			<div class="content">					
+						
+			</div>
+			
+			<div class="noprint" style="width:100%;overflow:hidden;border-bottom:1px solid gray;margin:8px 40px"></div>
+
+			<div class="noprint" style="text-align:center;margin:8px 0px">
+				<table style="font-size:12px">
+				 <!--<td>
+				  【字体：<a href="#" onclick="setSize('24px');" class="navy">大</a> <a href="#" onclick="setSize('16px');" class="navy">中</a> <a href="#" onclick="setSize('12px');" class="navy">小</a>】</td>
+				<td align="right" width="10"></td>-->
+				<td width="60">&nbsp;</td>
+				<td width="80"><a href="#" onclick="document.all.WebBrowser.ExecWB(4,1)"><img src="/pub/images/save.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="javascript:window.print()"><img src="/pub/images/openpage.gif" border=0></a></td>
+				<td width="80"><a href="#" onclick="window.close()"><img src="/pub/images/close.gif" border=0></a></td>
+				</tr>
+				</table>
+			</div>
+		</div>
+        <div class="bottomLine"></div>
+    </div>
+    <div class="footer">
+        <div class="footerLine"></div>
+        <div><a href="/pub/newsite/fzlm/gywm/" target=_blank>关于我们</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/flsm/" target=_blank>法律声明</a>&nbsp;-&nbsp;<a href="/pub/newsite/fzlm/lxwm/" target=_blank>联系我们</a></div>
+<div>版权所有：中国证券监督管理委员会     京ICP备 05035542号</div>
+          <div>地址：北京市西城区金融大街19号富凯大厦A座  邮编：100033</div>
+        <div>建议使用IE5.5以上浏览器，分辨率1024*768</div>
+    </div>
+</div>
+</body>
+</html>
+./t20101203_188293_ext.json
